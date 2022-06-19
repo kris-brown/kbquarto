@@ -1,0 +1,39 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Kris Brown personal website"
+  author: "Kris Brown"
+  cover-image: images/cover.png
+  site-url: https://www.krisb.org
+  repo-url: https://github.com/kris-brown/kbquarto
+  repo-branch: master
+  repo-actions: [edit]
+  sharing: [twitter, facebook, linkedin]
+  chapters:
+    - index.qmd
+    - part: about.qmd
+    - part: math.qmd
+      chapters:
+        - sevensketches.qmd
+    - part: phil.qmd
+      section: "problems.qmd"
+      contents:
+        - agrippan.qmd
+        - bradleys.qmd
+        - disjunctivitis.qmd
+  appendices:
+    - a1-starting.qmd
+
+format:
+  html:
+    theme: cosmo
+    cover-image: images/cover.png
+    code-link: true
+
+
+website:
+  comments:
+    utterances:
+      repo: kris-brown/kbquarto

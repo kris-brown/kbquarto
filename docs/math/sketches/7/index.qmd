@@ -1,0 +1,26 @@
+---
+title: Logic of behavior
+---
+
+# [How can we prove our machine is safe?](1.qmd)
+{{< include 1.qmd >}}
+
+
+# [The category **Set** as an exemplar topos](2.qmd)
+{{< include 2.qmd >}}
+
+
+# [Sheaves](3.qmd)
+{{< include 3.qmd >}}
+
+
+# [Toposes](4.qmd)
+{{< include 4.qmd >}}
+
+
+# [A topos of behavior types](5.qmd)
+{{< include 5.qmd >}}
+
+---
+title: Logic of behavior
+---

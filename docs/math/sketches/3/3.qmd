@@ -1,0 +1,3 @@
+---
+title: Functors, natural transformations, and databases
+---

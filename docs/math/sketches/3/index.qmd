@@ -1,0 +1,26 @@
+---
+title: Databases
+---
+
+
+# [What is a database?](1.qmd)
+{{< include 1.qmd >}}
+
+# [Categories](2.qmd)
+{{< include 2.qmd >}}
+
+
+# [Functors, natural transformations, and databases](3.qmd)
+{{< include 3.qmd >}}
+
+
+# [Adjunctions and data migration](4.qmd)
+{{< include 4.qmd >}}
+
+
+# [Introduction to limits and colimits](5.qmd)
+{{< include 5.qmd >}}
+
+---
+title: Databases
+---

@@ -1,0 +1,63 @@
+---
+title: Philosophical situations
+---
+
+Philosophical 'situations' is a very ambiguous category of anecdotes. They're descriptions of the world (hypothetical or realistic) that can be seen as problems in their own right, or counter-examples to some commonplace theories, or evidence in favor of a particular theory, etc.
+
+# [Auction](auction.qmd)
+
+{{< include auction.qmd >}}
+
+# [Bee waggle](beewaggle.qmd)
+
+{{< include beewaggle.qmd >}}
+
+# [Behaviorism](behaviorism.qmd)
+
+{{< include behaviorism.qmd >}}
+
+# [Children's game](childrensgame.qmd)
+
+{{< include childrensgame.qmd >}}
+
+# [Lost keys](lostkeys.qmd)
+
+{{< include lostkeys.qmd >}}
+
+# [Montaigne's dog](montaignedog.qmd)
+
+{{< include montaignedog.qmd >}}
+
+# [Novel sentences](novelsentence.qmd)
+
+{{< include novelsentence.qmd >}}
+
+# [Pia's Maple tree](piatree.qmd)
+
+{{< include piatree.qmd >}}
+
+# [Pointing at a plate](platepoint.qmd)
+
+{{< include platepoint.qmd >}}
+
+# [Pluto](pluto.qmd)
+
+{{< include pluto.qmd >}}
+
+# [The shopping list](shoppinglist.qmd)
+
+{{< include shoppinglist.qmd >}}
+
+# [Tooth pain](toothpain.qmd)
+
+{{< include toothpain.qmd >}}
+
+# [The War Hero](warhero.qmd)
+
+{{< include warhero.qmd >}}
+
+---
+title: Philosophical situations
+---
+
+

@@ -1,0 +1,177 @@
+---
+title: Sellars
+---
+
+Born 1912 in Michigan, died in 1989.
+
+
+![](/images/sellars-w.jpeg)
+
+# Quotes
+
+## Against phenomenalism
+To claim that the relationship between the framework of sense contents and
+that of physical objects can be construed on the phenomalist model (NB: to
+think of physical objects as constellations of sense contents) is to commit
+oneself to the idea that there are inductively confirmable generalizations (NB:
+ subjunctive conditionals) about sense contents which are in principle capable
+ of being formulated without the language of physical things. This idea is a
+ mistake. [-@sellars1963phenomenalism]
+
+## Community
+To say that a person desired to do A, thought it his duty to do B, but was forced to do C, is not to describe him as one might describe a scientific specimin. One does indeed describe him, but one does something more. And it's this 'something more' which is the irreducible core of the framework of persons. In what does this 'something more' consist? To think of a featherless bird as a person is to think of it as a being with which  one is bound up in a network of duties. From this point of view, the irreducibility of the personal is the irreducibility of the *ought* or the *is*. But even more basic than this to think of a featherless biped as a person is to construe its behavior in terms of actual or potential membership in an embracing group, each member of which thinks of itself as a member of the group. Let's call such a group a *community*.
+
+- Deep connection between the normative, the social, and the self-conscious.
+
+## Describing and explaining
+
+Although describing and explaining are distinguishable, they are also in an
+important sense inseparable. The descripitive and explanatory resources of
+language advance hand-in-hand.
+
+- These two kinds of discursive activity, one can be describing in a
+           particular act and not explaining (and vice-versa).
+- Globally, they're only intelligible in terms of their relation to
+          each other.
+- The claim that matters: you couldn't have an  (autonomous discursive)
+          language in use that had one and not the other.
+- The reason is at least that in order to describe something you have
+          to place it in a space of implications (i.e. the above quote)
+
+
+## Describing the world without modality
+
+The idea that the world can in principle be so described that the description
+contains no modal expressions is of a piece with the idea that world can in
+principle be so described such that the description contains no prescriptive
+expressions. [-@sellars1958counterfactuals]
+
+- He doesn't explicitly say whether it's a bad idea or not.
+- He wants to say modal expressions and normative expression belong in a box.
+
+## Exemplification
+Exemplification is a quasi-semantical relation, and it (and universals [^1]) is in the world only in that broad sense in which the
+world includes linguistic norms and roles viewed from the standpoint of a
+fellow participant.
+
+- This plays off Carnap's notion of 'quasi-syntactical'.
+- There's the narrow view of 'the world', that's the world that science is the measure of all things. And the broader view of the world.
+
+[^1]: e.g. redness, lionhood
+
+## Is semantics psychological?
+
+The means of semantical statements is no more a psychological word than is
+the ought of ethical statements or the must of modal statements.
+
+
+- I think of this in the following way: the $\square$ operator can be applied to
+statements to make them 'modal' (which could be alethic, deontic, or many other
+things like ''Jones thinks that ..."). One such $\square$ is ''Semantically,
+...'' (or, ''Literally, ...''). Ordinary statements made in practical life
+ could be interpreted as having an implicit ''Pragmatically, ...'' (in fact,
+ could we define *pragmatics* to be that which plays this role?)
+
+## Judgment in the order of explanation
+
+Kant was on the right track when he insisted that, just as concepts are
+essentially (not accidentally) items which can occur in judgments, so judgments
+(and therefore indirectly concepts) are items that occur essentially (not
+accidentally) that occur in reasonings or arguments.
+
+- Turns a tradition (order of explanation: concepts -> judgments -> inferences)
+on its head.
+
+## Labeling vs Describing
+
+It's only because the expressions in terms of which we describe objects locate
+them in a space of implications that they *describe* at all, rather than
+merely *label*.
+- Describing is what science is the measure of all things about.
+- You can't do everything with just classification. It's not a rich enough concept to get you to descriptions.
+
+##  Man as rational animal
+To say that man is a rational animal is to say that man is a creature not of
+habits but of rules. When God created Adam, He whispered in his ear, 'In all
+contexts of action you will recognize rules, if only the rule to grope for rules
+to recognize. When you cease to recognize rules, you will walk on four feet.'
+
+## Modal expressions as explanations
+To make firsthand use of modal expressions / subjunctive conditionals, is to
+be about the business of explaining a state of affairs or justifying an
+assertion. [-@sellars1958counterfactuals]
+
+- Note: we *explain* an (actual) state of affairs. We *justify* an assertion
+(non-actual, in the space of reasons).
+
+## Modalities and norms
+The language of modalities is a transposed language of norms.
+
+- (Related to [this quote](#describing-the-world-without-modality)).
+- What is the connection between the (alethic) modal sense of *must* and the
+ normative sense of *must*.
+- Carnap uses `transposed' to talk about an unquoted word used in a sentence as a
+transposed mode of speech (about use of a quoted-word).
+  - E.g. "Red is a quality." vs  "'Red' is a one-place predicate.''
+
+## Nondescriptive concepts
+Once the tautology 'the world is described by descriptive concepts' is freed
+from the idea that the business of all non-logical concepts is to describe, the
+ way is clear to an ungrudging recognition that many expressions which
+ empiricists have relegated to second-class citizenship in discourse are not
+ inferior, they're just different.
+
+- *Descriptive* concepts are not the only kinds of concepts. There
+         is a temptation of empiricists in assimilating all expressions to
+         descriptive expressions (such that anything not intelligible as
+         descriptive is defective).
+- The negation of this is called *decriptivism*.
+- The Tractatus was supremely descriptivist, yet made a key advance by
+        noting that logical expressions play a different kind of role (prior to
+        Tractatus, Russell would be looking into the world to try to see what
+        distinguishes positive from negative facts, when he should not have
+        been looking to the world).
+- Sellars extends this even further. The later Wittgenstein saw
+        language as playing an unsurveyable variety of roles.
+- Most interesting philosophical concepts come with a "-ing"/ "-ed"
+        distinction that's crucial. Is a justification an act of justifying vs
+        what's justified (related to [Agrippan trilemma](/docs/phil/problems/agrippan.qmd)). Is an experience an act
+        of experiencing vs what's experienced.
+
+## Rules are lived
+A rule, properly speaking, isn't a rule unless it lives in behavior,
+rule-regulated behavior. Even rule-violating behavior. Linguistically we always
+operate within a framework of living rules. To talk *about* rules is to
+move outside the talked about rules into another framework of living rules. The
+snake which sheds its skin lives within another. In attempting to grasp rules as
+rules from without, we are trying to have our cake and eat it. To describe rules
+is to describe the skeletons of rules. The rule is lived, not described. [-@sellars1950language]
+
+- You can't be inside the rules and outside talking about them at the same time.
+
+## Scientium mensura
+In the dimension of describing and explaining the world, science is the measure
+of all of things. Of what is that it is, and of what is not that it is not. [-@sellars1956empiricism]
+
+- Unfortunately, the opening qualification is important but usually left out.
+
+## Space of reasons
+In characterizing an episode or a state as *knowing*, we are not giving an empirical description of it. We are placing it in the logical space of reasons, of justifying and being able to justify what one says. [-@sellars1956empiricism]
+
+- Note, there's nothing too special about *knowing*. He could also have said *believing*.
+-  We're *doing* something, an act that's not *describing* something.
+- Relates to the scientium mensura quote - we have an example of something (describing knowledge) as something that science is not the measure of all things about.
+- Rorty characterized Sellars readership as "right wing" (ones who felt the greatest philosophical illumination from "scientium mensura") vs "left wing" (who rally behind the "space of reasons").
+- The Vienna circle, too, had two wings (the naturalist wing (Neurath) and the empiricist wing (Schlict)) in tension (e.g. empiricists making sense of modal statements). Carnap struggled to hold them together.
+- Joke: Rorty says "I hope the left and right wing Sellarsians can sort their differences out in the end more peacefully than the left and right wing Hegelians did, who settled it once and for all at a 6 month seminar called The Battle of Stalingrad.''
+
+
+## Subjunctive conditionals as essential
+We've established not only that subjunctive conditionals are the expressions of material rules of inference, but that the authority of those rules is not derivative from formal rules. In other words, we've shown that material rules of inference are essential to the language we speak, for we make constant use of subjunctive conditions. It's very tempting to conclude that material rules of inference are essential to languages containing descriptive terms.
+
+## Transition to conceptual thinking
+Anything which can properly be called 'conceptual thinking' can occur only within a framework of conceptual thinking in terms of which it can be critized, supported, refuted (in short, evaluated). To be able to think is to be able to measure one's thoughts by standards of correctness, of relevance, of evidence [^2]. In this sense the diversified conceptual framework is a whole which (however sketchy) is prior to its parts, and cannot be construed as a coming to gether of parts which are conceptual in character. The conclusion is difficult to avoid that the transition from preconceptual patterns of behavior to conceptual thinking is a holistic one, a jump to a level of awareness that is irreducibly new. A jump which was the coming of the being of man.
+
+- Constrast with Wittegnsteinian image of "light dawning slowly on the whole". Sellars is worried about the mechanism of how this happens.
+
+[^2]: NB: in the space of justification

@@ -1,0 +1,50 @@
+---
+title: Collective action
+subtitle: Ben Laurence
+date: April 6, 2011
+---
+
+
+- Can a group of people do an action?
+  - We regularly conjoin plural subjects with action verbs.
+  - We have a desire to analyze the collective action purely into terms of the individual actions. This is a mistake - removes what is interesting about collective action.
+- Example: five people building a wall
+  - Someone could say there is no more to this action than just the individuals laying bricks / cement.
+    - This account gives no relations between the people doing the various actions
+- Example: swedish diplomat
+  - Case 1: collective action
+    - Want to talk to the diplomat, who is talking to someone else. Your teammate engages the other person, opening up the diplomat for you to sweep in.
+    - Together you pull off the plan together
+  - Case 2: no collective action
+    - Same as above, except no coordination was planned with the teammate
+    - It just happens that this other person started talking to the person talking to the diplomat, and you seize the opportunity.
+    - It's just one agent exploiting the actions of another agent.
+  - The reduction of group actions to individual actions cannot distinguish the two cases.
+- One source of pressure that makes people (illegitimately) doubt the reality of collective action:
+  - Cause by an intuitive (but bad) picture of how solitary action happens
+    - A process that is caused by a psychological state
+  - When we generalize this to groups, it requires us to postulate a group mind.
+  - Laurence: this picture is bad because it presupposes the causality between action and mental states is like the causality between rocks bumping each other.
+    - Different kinds of explanation ought be appropriate for talking about human action.
+    - It lacks any reference to people's purposes for acting.
+  - Alternative
+    - Slogan: acting together is acting with a common purpose.
+    - E.g. bank robber is listening to a stethescope
+      - We can ask why and get the answer "to crack the safe"
+      - We can ask why is he cracking the safe and get the answer "because the robbers are robbing the bank"
+        - Isn't this circular?
+          - All that was presupposed was that an intentional action with a plural subject is intelligible.
+            - Proof: Laurence can articulate the difference between actions with plural subjects and plural agents
+    - Why is the gunman holding the gun on the security guard? To immobilize him? Why? Because the robbers are robbing the bank.
+    - What it means for the two actors to be acting together is that the "purposive explanations" of their actions unify at some point.
+- Ethical/political consequences
+  - Individualistic picture of acting together can cause problems
+    - E.g. understanding democratic reasoning in terms of a lone agent tries to satisfy his preferences will cause distortions
+      - What goes missing is the notion of a shared purpose/mission
+      - Will be difficult to reconstruct the group from the individual citizen's purposes.
+  - Situations where impermissible coercion is involved
+    - "Jump through this hoop or else I'll set your pants on fire"
+    - Force used against free riders (e.g. taxation)
+    - Without collective reasons, we end up with strong libertarian arguments that taxation is theft.
+- My response:
+  - Why is the reduction to individuals 'a mistake'? Agree that it's not the only way to make sense of a collective action, e.g. I can think of a person as a person or as a collection of atoms. The existence of one (even one that is strictly 'more fundamental') doesn't render other interpretations incorrect?

@@ -1,0 +1,7 @@
+---
+title: Price
+---
+
+Huw Price is an Australian philosopher, born 1953.
+
+![](/images/price.jpeg)

@@ -1,0 +1,3 @@
+---
+title: Simplified signal flow graphs
+---

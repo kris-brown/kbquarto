@@ -1,0 +1,35 @@
+---
+title: Experimental philosophy
+subtitle: Jesse Prinz
+date: December 1, 2009
+---
+# What is it?
+It's an alternative source of evidence towards philosophical theses. It's not always meant to undermine traditional (armchair / mathematical) philosophy.
+
+## Free will example
+- Philosphers use "our intuitions" as evidence for a compatibilist view
+- Among all our externally determined actions, they need to identify a subset of them as "free" - meaning things for which people can be credited/praised/blamed for.
+- Our concept of "freedom" is compatible with our concept of "externally caused"
+- To demonstrate this, they use a thought experiment, but empirically we find that the result of that experiment by varying trivial details - calls into doubt whether the thought experiment was only convincing to a biased group of people.
+- We tend to believe people can be held accountable when the stakes are higher (the thought experiment example action is trivial => people conclude determinism, the action is something heinous => people conclude compatibilism)
+
+# Why care?
+Why do we care what laypeople think over professional philosophers? Are philosophers biased away from the truth? Aren't we learning about what people say rather than what really is?
+  1. We're supplementing traditional philosophy - we want to show philosophical conclusions are not at odds with reality (we at least need an account in light of the evidence, e.g., above)
+  2. Laypeople lack prior theoretical commitments to bias them.
+  3. A general psychological investigation into how we draw conclusions from evidence (what biases are at play when we go data -> theory) is precisely what philosophy has always done.
+    - We can learn how to do philosophy better by understanding, e.g., that we are likely to draw certain conclusions given our human desire to punish.
+    - Some of our theories are an expression of current cultural identity rather than universal truth
+
+# Moral consequences
+- This is in line with Nietzsche's geneology of morality, which leads to severe relativism. Is this a natural consequence?
+  - Experimental philosophy is neutral - people disagreeing about morality is evidence for our knowledge of morality rather than evidence for it being relative
+  - Arguments about morality that are based on people sharing intuitions however could be invalidated/validated based on the evidence.
+  - Utilitarians may have conclusions that can be demonstrably against layperson ethical intuitions, but they can have independent arguments for why they are still right and our intuitions are wrong.
+
+# Empiricism vs rationalism
+  - Do we have faculties that trancend experience?
+  - Empiricists see a continuity between what we observe and how we reason
+    - Hume argues that we "think in pictures" and arrives at this conclusion by personal reflection.
+    - Rationalists like Descartes says we can conceive of distinct figures of 1000 vs 999 sides, even if they are visually indistinguishable.
+  - This point could be resolved by traditional psychology.

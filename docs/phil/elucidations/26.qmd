@@ -1,0 +1,58 @@
+---
+title: Evolutionary ethics
+subtitle: Robert Richards
+date: September 8, 2011
+---
+
+
+- What is altruism
+  - "pure altruism" Help to someone else at some cost to self
+  - (distinct from reciprocal altruism: done with expectation of return)
+- Is the tendency to behave altrusitically was evolved?
+  - Other animals act in benefit for kin
+    - E.g. bird lures predator away from nest to protect her offspring
+    - We have genetic disposition to protect our genes (even if not done on conscious level)
+  - Human altruism is also an effect that is amplified for kin
+    - We have urge to protect an unknown child
+      - Perhaps we are just pattern matching (consciously or unconsciously) off of our altruism for offspring.
+    - You see a burning building and a person inside it
+      - It's your daughter - you rush in without thinking (and societally judged as moral behavior)
+      - It's your neighbor - you call the fire department (societally judged as moral behavior)
+      - This is very distinct from \ref{kant|Kantian|} moral behavior which would judge the scenarios as roughly equal.
+        - (this is not a good model of how we actually behave)
+    - Evidence that this behavior can be explained via evolution
+      - Humans are evolved animals and thus behavior can often be successfully explained via evolutionary biology (human moral behavior no different in this regard)
+  - However, altruistic behavior seems to be taught. Would this mean it's not evolutionary?
+    - There's a learning component (like language, but we would never use the fact that it's learned to argue that the capacity / faculty for it isn't innate)
+    - After all, different cultures have different moral systems
+      - But there is extraordinary similarity among all cultures, indictative as a common starting point
+        - E.g. Act to help your own kin
+        - Similar to facial expressions corresponding to certain motions being similar across different cultures
+    - The moral "grammar" is there from evolution but we have to learn the semantics of that grammar and how to apply the rules.
+      - Example of what concretely do we have to learn to be altruistic?
+        - We have to learn who are our kin?
+        - We have to learn what is helpful vs harmful (e.g. that the doctor sticking needles in is not harming your child)
+        - We have to learn to share as children (but children learn this remarkably easily)
+  - Can human ethical behavior be justified by the fact it was evolved?
+    - No. Actual human norms for moral discourse/justification are needed to justify actions morally
+      - To say "I shot the intruder because I evolved to act that way" would not be a socially acceptable justification
+    - Evolutionary theory is used to explain what those norms are. (E.g. "why is it that 'I was doing it to be altruistic' is successful in justifying behavior to other humans?)
+  - Are morals all contingent based on the influence of evolution (rather than coming from pure reason)
+    - "It's just the type of people we are"
+      - Used to justify thinking of the world in causal terms (Kant says we simply are not capable of doing otherwise)
+        - Evolutionary biology gives explanation (ancestors who didn't think tigers were causally connected would get eaten)
+      - Likewise for altruism as a first principle, it can be justified by this line
+        - Evolutionary theory provides further explanation of why that's the case, arguments for how it increased fitness + heritability.
+    - It's not contingent if it is who we are / we have a certain nature
+  - How to respond of general criticism of evolutionary psychology as not rigorous/testible?
+    - In any scientific domain there will be theories that are adequately justified or not
+    - Justified empirical support for things in the domain of evolutionary psychology
+      - Instinctive behavior can be inherited
+        - Ducks have instictive mating dances, breed ducks and get hybrid dances (no one teaching)
+      - Developmental studies
+        - Sequence of things learned are constant (e.g. in language we learn simple nouns first, then add X, Y, forming complex sentences, etc.
+  - As a species we do well at altruism in small groups and get worse and worse as our groups which are large
+    - That's who we are. Should we go 'beyond' how we evolved to be better?
+    - Treating kin well and more distant things worse is a constant from who we are.
+    - We severely mistreat others when we treat the other tribal group as "the other"/"not us"/inhuman.
+    - We become better behaved when we use our cultural knowledge / rational faculties to see that the other tribe isn't so different from us after all.

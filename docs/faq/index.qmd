@@ -1,0 +1,10 @@
+---
+title: "Frequently Asked Questions"
+comments: false
+---
+
+Until too many questions are asked, this will be a "Any Question Ever Asked" rather than a FAQ.
+
+### Why?
+
+Because.

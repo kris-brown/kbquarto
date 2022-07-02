@@ -1,15 +1,22 @@
 ---
 description-meta: |
   Kris Brown personal website.
+comments: false
+format:
+  html:
+    fig-width: 2
+    fig-height: 2
+
 ---
+<p align="center">
+<img src="images/cover.jpeg" alt="Hey." style="width:200px;"/>
+</p>
 
 
 ## About the site
-In addition to info about me, I also use the sight to organize thoughts and notes around [math](math.qmd) and [philosophy](phil.qmd).
+:::{.callout-warning}
+This is very much under construction.
+:::
 
-A reader (with no particular technical background) ought be able to drop into a random page and start reading. Although there may be jargon / required context, by following appropriate internal links it should become clear what the jargon means / what context is required. Then, the reader ought backtrack precisely as far as needed to make sense of the original page. If any page doesn't meet this standard, then it's something for me to fix.
 
-- About 1% of the notes here meet this standard right now. It's hard work to upgrade what's initially jotted down here to that standard.
-- Weeks/months later I'll re-read stuff that has been jotted down and do edits until I've made sense of them.
-
-I once came across the story of \ref{tortoise|Achilles and the Tortoise|meta example} in the course of a lecture series, and the story seemed very profound. However, I couldn't explain the significance of the story later on to peers. What was needed to see was what ideas it was connected to (and then again for those, since the immediate connections are still quite abstract).
+In addition to info about me, I also use the site to organize thoughts and notes around [math](docs/math) and [philosophy](docs/phil).

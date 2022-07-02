@@ -1,0 +1,13 @@
+---
+title: Rortian pragmatism
+---
+
+From [~@rorty2020pragmatism]:
+
+"So, a second characterization of pragmatism might go like this: there is no epistemological difference between truth about what ought to be and truth about what is, nor any metaphysical difference between facts and values, nor any methodological difference between morality and science."
+
+These are all just statements in vocabularies. Without privileging a *nature*'s own vocbularty'
+
+In neither case do you need to worry about what makes such-and-such statement in the vocabulary true. What you should worry about is the reason relations within each vocaublary
+  - There will be sociological differences between physics and literary theory in how reason relations come about.
+  - But the representationalist mistake one can make is thinking that these sociological differences are metaphysical differences in the underlying content.

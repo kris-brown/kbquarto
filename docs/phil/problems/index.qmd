@@ -1,0 +1,39 @@
+
+
+This chapter is a collection of situations that are brought up as problems to be solved by various philosophers.
+
+# [Agrippan Trilemma](agrippan.qmd)
+
+{{< include agrippan.qmd >}}
+
+# [Bradley's Problem](bradleys.qmd)
+
+{{< include bradleys.qmd >}}
+
+# [Disjunctivitis](disjunctivitis.qmd)
+
+{{< include disjunctivitis.qmd >}}
+
+# [The Frege-Geach problem](fregegeach.qmd)
+
+{{< include fregegeach.qmd >}}
+
+# [Regress of rules](ruleregress.qmd)
+
+{{< include ruleregress.qmd >}}
+
+# [Skepticism](skepticism.qmd)
+
+{{< include skepticism.qmd >}}
+
+# [What the Tortoise said to Achilles](tortoise.qmd)
+
+{{< include tortoise.qmd >}}
+
+# [Universals](universals.qmd)
+
+{{< include universals.qmd >}}
+
+---
+title: Philosophical Problems
+---

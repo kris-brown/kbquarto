@@ -1,0 +1,15 @@
+---
+title: Derrida
+---
+
+A French philosopher, 1930-2005.
+
+Philosophers have had this idea that reason is central to talk and thought. But we hardly ever actually reason with each other or argue or infer; look at all the playful things we can do with language.
+
+So Derrida will write an essay where his interpretation of Hegel *crucially* turns on the fact that his name in French rhymes with 'eagle' \cite{derrida1986proverb}. For another essay, what's really important in interpreting it is how wide the margins were in the first edition of it.
+
+One of the things he's trying to do is de-center us from thinking
+ - "what does this signify"
+ - "what is the rational meaning of this?"
+ - "what is the inferential role of this?"
+ - "What does it stand for?"

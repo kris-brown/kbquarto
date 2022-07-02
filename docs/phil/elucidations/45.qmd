@@ -1,0 +1,45 @@
+---
+title: Probability
+subtitle: Anubav Vasudevan
+date: March 28, 2013.
+---
+
+
+# Conflict between epistemic and objective notions of probability
+  - In the former, to express a claim about a coin toss having a 50% chance of being heads is to make a claim about a rational being's own knowledge, among other things.
+  - Intuitively, we'd prefer to just say probability is a fact in the world, about a given chance mechanism.
+  - However, we often harbor metaphysical notions of determinism: i.e. with full information before the toss (placement of coin in the hand, facts about the coin-tossers brain, etc.), we could deduce the outcome of the toss.
+    - This makes us believe that, objectively, the coin toss result being heads is either 0 or 1. In general, there would be no non-extreme probabilities, which is at odds with what makes probability theory useful.
+  - Therefore, the desire to not step on determinism's toes historically has led to a dominance of epistemic notions of probability.
+
+# Why not just submit to epistemic notion?
+  - it would be remarkable if the ordinary claim that a coin toss is fair were covertly a commentary on one's own ignorance.
+  - analogy: whether or not we are justified in believing something depends on our epistemic relation to the world. However, this doesn't mean that the content of all our beliefs makes reference to our epistemic state.
+  - But still, we then have to explain how to reconcile objective probability with determinism.
+
+# Conflict between determinism and objective probability is an illusion due to a misconception about the content of judgments of probability. The misconception:
+  - Judgments of deduction viewed as just an extreme judgment of probability (where deduced judgments have probability 1).
+  - All beliefs have an associated credence and full belief is merely a special case when that value is 1.
+    - Example: "all balls in the urn are black, draw a ball, that ball will be black" is just a special case with p=1 in "fraction p of the balls in the urn are black, draw a ball, it has probability p of being black"
+    - The 10-coin toss example below will show why the former is not special case of the latter, as the latter has a certain ambiguity.
+
+# Unambiguous statement "10 coins are drawn, 5 of which are heads"
+  - If asked to compute the probability of it, we can do a calculation, but we're implicitly assuming some extra structure because the question is ambiguous.
+  - You get a different answer if we are informed the 10 coin tosses arose in the context of a different experiment: "toss the coin repeatedly until you get 5 heads in a row".
+  - Before we assumed the experiment was that the coin would be tossed 10 times and then experiment would stop. This is just a different modal assumption, but both interpretations are consistent with the factual statement in the problem.
+  - We can't asses probability of a proposition until we embed it in a modal structure.
+  - The content of probability judgments are not propositional contents, but rather propositions embedded in some procedural context.
+  - They are not the types of things we can arrive at by deduction.
+
+# Thus, probabilitic reasoning and deduction are distinct modes of inference.
+  - Observing the coin is heads after the fact is no argument against the purportedly probabilistic nature of the coin toss.
+  - The reason why it's not a good idea to bet against Laplace's Demon is not because the world has only objectively only extremal probability, but because the demon is not using probabilistic reasoning at all (he might as well be looking at the coin after the fact - he doesn't have to asses s probabilities at all).
+    - Like playing poker against an opponent with x-ray vision should not make us believe objective probability does not exist.
+
+# Upshots
+  - Theoretical study of objective probabilities is back on the table.
+  - relationship between inductive and deductive logic
+    - E.g. carnap's inductive logics have a language with play a role of setting up a procedural context in which it makes sense to ask for probabilities.
+    - Language does not take such a role in deductive contexts.
+      - E.g. a first order logic / deductive languages. If we make elementary statements more specific, the deductive relations will not change, but in an inductive language the probabilities may change dramatically.
+      - What sentences to pick as elementary or basic is more important in an inductive language

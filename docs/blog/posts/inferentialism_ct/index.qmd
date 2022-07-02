@@ -1,0 +1,29 @@
+---
+title: Inferentialism and category theory
+description: |
+    Connections between the two.
+categories:
+  - philosophy
+author: Kristopher Brown
+date: 3/20/2022
+draft: true
+---
+
+The argument for inferentialism begins [here](kant_norm_turn)
+
+- 1:00 to 1:15 of Antirep 12 is helpful
+
+- consider Wittgenstein's private language argument
+
+- 17 minute lecture 1 switcheroo
+    - Explain problematic vocabulary in terms of nonproblematic vocabulary analytic philosophy, that's the main project philosophy is to construct punctures Functionalism to Formalism of formal logic gives 20th-century philosophy its distinctive twist on earlier themes, but this is too powerful of a language given that what we care about is structure-preserving relationships, so category theory could be the next stage of a formal language/glue to a sample so soft girl ideas.
+
+- My radical tolerance does have a hard time explaining cases of how people could be wrong, if ever. This is because calling something a *thought* or a *thinking* is placing it in the space of reasons (not giving a matter-of-fact description of it), which means that it has justification. In order to say something is a contradiction/wrong, one cannot say that the utterance was a thought. It's possible for people, for example, to realize they have uttered things things without having truly thought them. Sometimes this happens, so it's good to have an account for it.
+
+Thinking in terms of "categories" (in an informal sense of the word) is ironically very against the spirit of category-theory inspired thinking. It turns external interactions into internal properties. My reading of Cheng's X+Y is that she does this with the categories of gender. In the same spirit, a random tweet I once saw ("Debating whether today's AI tools are truly intelligent is about as useful as debating whether a drone is a bird.") urged a refocusing of the discussion on specific capabilities of AI rather than the labelling it as 'intelligent' or not.
+
+(Of course some labelling is necessary to get a grip on things with words: I called it "AI", which put it in a box. And the capabilities themselves are labels. The buck must stop somewhere, and where regress stops is something that is socially negotiated)
+
+Antirepresentationalism lecture 6 (1:08). Davidsonian interpretism: for Bob to believe X is not something we discover by interpreting his behavior, but rather what it means for Bob to believe X is that our best interpretation of his behavior is such-and-such. Wholism about meanings of words (e.g. Two Dogmas) implies a wholism about the referents of words (the are no "fact-shape-bits" of the world we can dissect, likewise for objects then.)
+
+Antirep 8 (1:44): Subject X vs Object X a matter of objects vs morphisms?

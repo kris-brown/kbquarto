@@ -1,0 +1,54 @@
+---
+title: Behaviorism
+---
+
+
+This is related to the problem of: suppose you follow a rule. You use a
+representation of that rule to train the next generation to follow the rule.
+How do we know that the same rule is being passed on? Isn't it like a game of
+telephone, given the ambiguity of following rules (gerrymandering problem - you
+have a rule in your head and punish me for lifting the glass of water, but I
+interpret this as punishment for lifting my arm or one of a million other
+possible explanations). Brandom's response:
+
+Well, maybe so and maybe it a given rule isn't as stable as we think. I mean,
+it's only if it had enough coherence and enough stability, that we're here.
+(Anthropomorphic principle). And when Wittgenstein harps on this, you know, unless
+as a matter of fact, we tended to go on the same way when trained the same way,
+to a remarkable extent, we wouldn't get a language game off the ground.
+
+I should mention that this gerrymandering issue is what was wrong with classical behaviorism from an empirical point of
+view. \footnote{What was wrong with
+classical behaviorism, from a \emph{conceptual} point of view, is we can see it with
+the wisdom of hindsight is just a larval stage on the way to functionalism. As
+all of the considerations that lead people to think have direct stimulus
+response connections, are satisfied still, if you allow intervening states. It's still an empirical undertaking, and so on. But there's a
+lot more formal power, you can get Turing machines, if you can get functional
+states, so you can get a lot farther. That's why
+nobody should be a classical behaviorist anymore: be a functionalist, you get
+all the advantages, and a lot more expressive power.} Remember, the stimulus and response were supposed to be
+objective features of the critters you were looking at. So that the behavioral
+scientist modeled on the natural scientist, her own conceptual scheme was not
+supposed to be involved in characterizing the behavior of these critters. But
+if you ask sort of classical studies, so I take the rat, and set him down four
+steps away from the bar, and train him, then if he walks four steps forward and
+presses down on the bar, he'll get a rat yummy. And that stimulus, let's say,
+the light goes on, walks, four steps, pushes down on the bar gets a rat yummy.
+We indoctrinate him with that, conditioned learning, he can do that. And now
+we ask the behavioral scientist. And now if I put in eight steps away from
+the bar, what do you predict he's going to do? Is he going to go four steps
+forward and move his paw up and down? Is that the behavior that has been
+associated with the stimulus? Or would you predict that he'll go eight steps
+forward and press down on the bar. That is, the right description is that he'll
+go from where he is to the bar and press on the bar? Well, the minute you think
+about this, you realize that we can gerrymander, what he was taught,
+there are many descriptions, that that are available to us for what he was
+taught. And in fact, no one who works with the animals would expect him to
+move four steps forward, and not be pressing on the bar. But why
+is that? Is that something that you without importing any understanding of
+this are objectively reading off of the situation? Or have you, in fact, all
+along been importing, your characterization of what the regularity
+is that you are, that you're characterizing? This is actually empirical as well a methodological
+problem. What is the prediction that you're supposed to make at this point?
+And how do you justify the one rather than rather than the other by your
+methodological lights?

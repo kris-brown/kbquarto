@@ -1,0 +1,41 @@
+---
+title: Evolutionary psychology
+subtitle: Chris Haufe
+date: February 12, 2010
+---
+
+# What do they study
+- Study of traits shaped by natural selection
+- No formal distinction from evolutionary biology
+- Example psychological traits/behaviors: jealousy, homicide, male promiscuity
+- What was its evolutionary function of jealousy? (studied by Bus)
+    - Mate-guarding behavior. If you spend lots of resources/time on offspring, you want to make sure they're yours.
+    - Observed in primates standing in front of their mates and chasing off all other suitors
+- How to validate this hypothesis?
+    - There are two claims to be tested empircally :
+    - 1. The existance of jealous mental states caused people to leave more offspring
+    - 2. Those offspring inherited the tendency to have jealous mental states
+
+# Criticism
+Couldn't you just make up a narrative for any trait?
+- It is fair to accuse EP of making 'just so' plausible stories.
+- Though unfair to say there is anything wrong with that, even if it can be used to justify any conclusion.
+- Hypotheses (in general) have this feature as well.
+    - We could've come up with a hypothesis for why the sky is black.
+- EP has been unfairly criticized for 'just so' stories when they are widespread in science.
+- However need to be careful to resist seduction of hearing a 'just so' story and think that the hypothesis is confirmed.
+- Admits that EP are more likely to succumb to this seduction over other fields
+- The narrative ought just the beginning of a research programme to verify it.
+
+# Difficulties of research
+- Can't do tests on humans (ethical reasons, lifespan too long to measure reproductive success)
+- Mental states do not leave fossils
+- Need to make claims about proto-humans.
+
+# Relevance to philosophy
+- There is tendancy of (moral/political/mind) philosphers to bring in evolution as a skyhook for their theories
+- It's not usually a core argument, but it's used as support
+- They usually not good support because EP is almost never empirical
+- Furthermore, lots of evidence of evolutionary selected features that are selected for 'arbitrary' reasons, unrelated to flourishing
+    - E.g. female preferring mate to have a particular spot pattern/chirp just due to 'how they're wired' / randomness
+    - So evolutionary fitness of a moral trait is not a good supporting argument by itself

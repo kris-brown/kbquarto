@@ -1,0 +1,36 @@
+---
+title: Cavell
+---
+
+# The start of notes on Must We Mean What We Say?
+- Main question: does what we ordinarily say/mean have a direct+deep control over what we can philosophically say/mean?
+- Goal: respond to objections to the methodology of 'ordinary language philosophy' (by Mates)
+- Distinguish 3 kinds of statements about ordinary language
+  - 1. Statements which produce instances of what is said in a language
+    - "We do say ... but we don't say ..."
+    - "We ask whether ... but we don't ask whether ..."
+  - 2. Like above, but with explications
+    - "When we say ..., we imply/suggest/say ..."
+    - "We don't say ... unless we mean ..."
+  - 3. Generalizations, tested by reference to the first two types
+- Working example: disagreement between Austin and Ryle
+  - 1. Austin: "We say 'The gift was made voluntarily' " (type 1)
+  - 2. Ryle: "It makes sense... to ask whether a boy was responsible for breaking a window, but not whether he was responsible for finishing his homework in  good time" (type 1)
+  - 3. Ryle: "'voluntary'/'involuntary' are applied as adjectives to actions which ought not be done" (type 3)
+    - Praise of Ryle's generalization:
+      - Philosophical use of "voluntary" is distinct/disconnected from "volition"
+      - People think confusedly as if everything is either appropriately described as voluntary or involuntary
+    - Criticism of Ryle's generalization:
+      - Saying there must be something morally fishy about the action that is described as voluntary is not general enough.
+    - However, the fact Ryle's attempt to generalize has errors does not invalidate his methodology (that he can make type 1 and type 2 statements about ordinary language).
+- Philosophical problem that arises from type 2 statements
+  - "We say A where B is the case ... we misuse A when B is not the case" - is there a logical relation between A and B?
+  - Logical statements hold between statements, not between a statement and the world.
+    - Kris: perhaps the logical relation is between "speaker says A" IMPLIES ("World is B" IFF "Speaker is competent at the language")
+  - So call the meaning of A its semantics and the pratical conditions of its utterance its pragmatics
+    - "Voluntary" does not mean "fishy"
+    - Mates' formula for computing pragmatic value of an expression: "He wouldn't say that unless he ..."
+  - But surely there must be something logical, since something about B must follow from the utterance of A!
+  - The speaker "MUST MEAN" something is fishy if they call it voluntarily (the must is more critical here than the 'mean')
+  - Mates' formula does not seem to give insight into the necessity here.
+-

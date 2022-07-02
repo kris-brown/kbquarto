@@ -1,0 +1,57 @@
+
+
+
+
+--------
+EXERCISE
+--------
+
+
+::: {.callout-important icon=false collapse=false}
+## Exercise 2-
+<div id="2-"/></div>
+
+
+::: {.callout-note collapse=true appearance="minimal"}
+## Solution
+
+:::
+:::
+
+---------
+DEFINITION
+----------
+
+
+::: {.callout-tip icon=false collapse=false}
+## ?
+<div id="?"/></div>
+
+:::
+
+
+-------
+EXAMPLE
+--------
+
+
+::: {.callout-caution icon=false collapse=false}
+## ?
+<div id="?"/></div>
+
+:::
+
+----------
+PROPOSITION
+-----------
+
+
+::: {.callout-note icon=false collapse=false}
+## Proposition
+
+<div id=""/></div>
+
+::: {.callout-note collapse=true appearance="minimal"}
+## Proof
+:::
+:::

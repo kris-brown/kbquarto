@@ -1,0 +1,26 @@
+---
+title: Co-design
+---
+
+# [Can we build it?](1.qmd)
+{{< include 1.qmd >}}
+
+
+# [Enriched profunctors](2.qmd)
+{{< include 2.qmd >}}
+
+
+# [Categories of profunctors](3.qmd)
+{{< include 3.qmd >}}
+
+
+# [Categorification](4.qmd)
+{{< include 4.qmd >}}
+
+
+# [Profunctors form compact closed categories](5.qmd)
+{{< include 5.qmd >}}
+
+---
+title: Co-design
+---

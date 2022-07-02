@@ -1,0 +1,3 @@
+---
+title: Colimits and connection
+---

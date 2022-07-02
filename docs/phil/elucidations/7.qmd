@@ -1,0 +1,35 @@
+---
+title: Nature and ethics
+subtitle: Daniel Groll
+date: January 4, 2010
+---
+
+# Naive way of incorporating the two
+Something is not acceptable because it is 'not natural'.
+
+- This has counterexamples in both dimensions (good things - e.g. medicine - that are unnatural)
+- More sophisticated version: something that comes out of evolution is good
+- Good for survival is not the same as good in the ethical sense, even if the origins of our ethical norms came out of some competitive advantage it gave early humans.
+
+# Alternative way
+What is good is indexed to the kind of thing one naturally is
+  - We should always ask the question "is X good for Y" (rather than simply "Is X good?")
+  - "What is good for a plant is not good for what is good for a human"
+
+## Problems
+- It is still desirable to appeal to "Good simpliciter". which is not of the form "Good for X".
+  - "What's good for the Russian mafia is not good (simpliciter)"
+    - Could argue the latter good is talking about "good for general community"
+- It is intelligible to ask "can we improve our natures?"
+  - Difficult to appeal to our natures to explain how change our nature
+    - We might actually be imagining some portion of our nature being fixed while varying a small part.
+- Evolutionary theory says natures change over time. So what is one appealing to?
+  - You can take a 'snapshot' of a couple generations
+
+
+# My response at the time
+
+- We have an easy route to relieve 'tension' on the word "good" by adding an extra degree of freedom to it (what would otherwise a contradiction is no longer once I create multiple "kinds of goods".
+- This gives you too many degrees of freedom - everything is good for some purpose for some kind of being, and we now need to prevent this from being abused by finding a principled reason for limiting whaat kinds of good are important in ethical normative judgments ("sure, you're 'good' in some sense, but I will judge you").
+- Seems like some form of "good (simpliciter)" can build in enough flexibility to account for all of the specific kinds of good (and any 'global' things too). When someone talks about "good for X" they are restricting our focus to a subset of the overall logic that is relevant for X, which could be useful since it's a much simpler concept to worry about.
+- To claim there is no "good simpliciter" is to say that you can partition the logic of "good simpliciter" into the relevant subclasses (then by occams razor, the global good is not conceptually necessary).

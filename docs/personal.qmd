@@ -1,0 +1,20 @@
+---
+title: Personal
+comments: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+A non-exhaustive list of personal details (more to come):
+
+- I write ([some](https://www.youtube.com/embed/EjZH9OW6eA0)) music.
+- I write ([some](https://2021.huntinality.com/puzzle/wahshington_post.html)) puzzles.
+- I do ([some](https://dartmouthfashioncouncildotcom.wordpress.com/2014/05/06/street-style-ft-kris-brown-14/)) fashion.
+- I like (<abbr title="E.g. Borges, Nabokov, DFW, Calvino, John Williams, Kafka, Mann, Svevo, Bernhard, Camus, Wittgenstein, Kripke, Rorty, Brandom">some</abbr>) books.
+- I like ([some](https://boardgamegeek.com/collection/user/ksb2021)) board games.
+- I like ([some](https://en.wikipedia.org/wiki/Gamer#Categories)) video games.
+- I like ([some](/images/kris1.jpeg)) cats.
+
+

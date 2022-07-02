@@ -1,0 +1,15 @@
+---
+title: Getting from A to B
+---
+
+- Want to be able to answer questions about *resources* like:
+    - Given what I have, is it *possible* to get what I want?
+    - Given what I have, what is the *minimum cost* to get what I want?
+    - Given what I have, what is the *set of ways* to get what I want?
+- Monoidal preorders will allow us to build new recipes from old ones.
+- Resources are not always consumed when used.
+-  A $\mathcal{V}$ category is a set of objects, which one may think of as points on a map.
+    -  $\mathcal{V}$ somehow 'structures the question' of getting from point $a$ to $b$.
+    -  $\mathcal{V} = Bool$ answers the question of whether we can get to $b$.
+    -  $\mathcal{V} = Cost$ can help answer how to get to $b$ with minimum cost.
+    -  $\mathcal{V} = \mathbf{Set}$ can yield a set of methods to get to $b$.

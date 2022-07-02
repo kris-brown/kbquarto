@@ -1,0 +1,16 @@
+---
+title: The shopping list
+---
+
+
+From [-@anscombe2000intention]
+
+A man has arrived at the grocery store to go shopping, but realizes he's forgotten his shopping list. Unbenknownst to him, a spy is following him tasked with writing a list of everything that is put into the grocery cart. There are now two lists of groceries that have dual relationships to what is put into the cart:
+
+- The original shopping list:
+    - If we want to know whether an item that is put into the cart is 'correct', we must look to the shopping list
+    - This list has *authority* over what is put into the cart: the list sets the standards of correctness.
+- The spy's list:
+    - This, conversely, says nothing about what should be put into the cart.
+    - If we want to know whether something written on the list is 'correct', we must look to the shopping cart.
+    - The cart has *authority* over the spy's list.

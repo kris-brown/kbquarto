@@ -1,0 +1,24 @@
+
+---
+title: Switcharoos
+---
+
+Often there are ideas that are closely related, and it becomes ambiguous which idea is 'first', if any.
+
+# [Concepts and judgment](concept_judgment.qmd)
+
+{{< include concept_judgment.qmd >}}
+
+# [Meaning and truth](meaning_truth.qmd)
+
+{{< include meaning_truth.qmd >}}
+
+# [Sense data and concepts](sensedata_concepts.qmd)
+
+{{< include sensedata_concepts.qmd >}}
+
+---
+title: Switcharoos
+---
+
+

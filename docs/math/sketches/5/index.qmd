@@ -1,0 +1,22 @@
+---
+title: Signal flow graphs
+---
+
+# [Comparing systems as interacting signal processors](1.qmd)
+{{< include 1.qmd >}}
+
+
+# [Props and presentations](2.qmd)
+{{< include 2.qmd >}}
+
+
+# [Simplified signal flow graphs](3.qmd)
+{{< include 3.qmd >}}
+
+
+# [Graphical linear algebra](4.qmd)
+{{< include 4.qmd >}}
+
+---
+title: Signal flow graphs
+---

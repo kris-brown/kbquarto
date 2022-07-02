@@ -1,3 +1,0 @@
-# Math notes {#sec-math}
-
-This chapter provides notes on math.

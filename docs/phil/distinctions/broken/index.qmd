@@ -1,0 +1,15 @@
+---
+title: Distinctions broken
+---
+
+We naturally discretize things in the world into different categories of things, but many times philosophy will find that two things (possibly seemingly opposites) are shown convincingly to being the same in some fundamental sense.
+
+{{< include analytic_synthetic.qmd >}}
+
+{{< include rortian_pragmatism.qmd >}}
+
+{{< include antibifurcationism.qmd >}}
+
+---
+title: Distinctions broken
+---

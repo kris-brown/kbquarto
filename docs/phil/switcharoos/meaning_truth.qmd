@@ -2,6 +2,9 @@
 ---
 title: Meaning and truth
 ---
+:::{.callout-warning}
+These notes were hastily made for personal use. In the future they'll be made more presentable.
+:::
 
 
 Tarski's theory of truth says: if you take meanings for granted, I can give you a truth predicate.

@@ -1,6 +1,9 @@
 ---
 title: Bradley's Problem
 ---
+:::{.callout-warning}
+These notes were hastily made for personal use. In the future they'll be made more presentable.
+:::
 
 Original argument appearring in Chapters II and III of [-@bradley2016appearance}] (originally 1893), and S.E.P. commentary [here](https://plato.stanford.edu/entries/bradley-regress):
 

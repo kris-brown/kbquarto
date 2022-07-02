@@ -1,6 +1,9 @@
 ---
 title: Universals
 ---
+:::{.callout-warning}
+These notes were hastily made for personal use. In the future they'll be made more presentable.
+:::
 
 
 It seems there is no problem thinking about what triangles and white things are, but what of triangularity and whiteness?

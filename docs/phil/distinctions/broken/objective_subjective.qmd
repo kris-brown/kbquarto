@@ -1,0 +1,48 @@
+---
+title: Objective vs subjective facts
+---
+:::{.callout-warning}
+These notes were hastily made for personal use. In the future they'll be made more presentable.
+:::
+
+> So, a second characterization of pragmatism might go like this: there is no epistemological difference between truth about what ought to be and truth about what is, nor any metaphysical difference between facts and values, nor any methodological difference between morality and science. [-@rorty2020pragmatism]
+
+These are all just statements in vocabularies. Without privileging a "*nature*'s own vocabulary."
+
+In neither case do you need to worry about what makes such-and-such statement in the vocabulary true. What you should worry about is the reason relations within each vocaublary
+
+  - There will be sociological differences between physics and literary theory in how reason relations come about.
+  - But the representationalist mistake one can make is thinking that these sociological differences are metaphysical differences in the underlying content.
+
+# Antibifurcationism
+Anti-bifurcationism was coined by [Huw Price](/docs/phil/people/price) to reject the following view.
+
+Richard Kraut writes:
+
+> The bifurcationist often undertakes the task of determining which of our wellformed declarative sentences have truth conditions and which ones, though
+meaningful, are simply the manifestations of attitudes or the expressions of
+'stances'. He wants to know which of our predicates get at real properties in the
+world, and which, in contrast, merely manifest aspects of our representational
+apparatus - 'projections borrowed from our internal sentiments'. On different
+occasions he articulates his task in different ways; but they all point to some variant
+of the bifurcation thesis ..., the thesis that some declarative sentences (call them the
+D sentences)
+
+>    - describe the world
+    - ascribe real properties
+    - are genuinely representational
+    - are about 'what's really out there'
+    - have determinate truth conditions
+    - express matters of fact
+    - limn the true structure of reality
+
+> whereas other declarative sentences (call them the E sentences)
+
+>    - express commitments or attitudes
+    - manifest a 'stance' (praise, condemnation, endorsement, etc.)
+    - are expressive rather than descriptive
+    - do not 'picture' the world
+    - lack truth conditions, but possess 'acceptance conditions' or 'assertibility conditions'
+    - merely enable us to 'cope' with reality
+    - are true (or false) by convention
+    - do not express 'facts of the matter'. [-@kraut1990varieties]

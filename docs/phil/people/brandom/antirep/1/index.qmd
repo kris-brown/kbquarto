@@ -1,3 +1,100 @@
 ---
 title: The Concept of Representation
 ---
+:::{.callout-warning}
+These notes were hastily made for personal use. In the future they'll be made more presentable.
+:::
+
+# History of representation
+
+- Does 'representation' have a *nature* or a *history*?
+    - Does it belong with "electrons" and "sulfur" or with "freedom" and "love"?
+- Brandom, being a Hegelian, thinks philosophy belongs in the latter category and proceeds to give a historical overview of 'representation'.
+
+## Premodern
+- Representation a *modern* concept.
+- Premodern theories understood relation between appearance and reality in terms of **resemblance** (sharing properties)
+- The rise of science made this untenable:
+    - Copernicus: reality behind stationary Earth and revolving Sun is a revolving Earth and stationary Sun.
+    - Galileo: effective strategies of understanding time as line lengths and acceleration as triangles ... not easily understood in terms of shared properties.
+
+## The invention
+
+Descartes invents representation with relationships between algebra (representation) and geometry (represented/reality).
+
+- Spinoza talks better about how Descartes used representation than Descartes himself. Spinoza saw Descartes' philosophy as being understood in terms of his innovations of relating algebra to geometry.
+    - "The order and connection of things is the same as the order and connection of ideas"
+    - The properties of what is representing or represented are irrelevant, only that there is a mapping between the relations in each world.
+- If any things are known representationally, then some things must be known nonrepresentationally (to avoid infinite regress)
+    - Representationalism gives rise to choice between epistemological skepticism vs foundationalism.
+    - A Kantian insight: the *real* problem is *semantic* skepticism (can we really know something by representing it correctly?)
+
+## Rationalists vs empiricists
+
+- Kant says Descartes was right to think in terms of representation but that he didn't distinguish two different kinds: picture like images/sensations vs sentence-like thoughts.
+    - He saw both as different ends of a spectrum, while empiricists tried to reduce thoughts to pictures and rationalists vice-versa.
+- Spinoza's interpretation of Descartes gives another view: within a representational picture, empiricists are atomists whereas rationalists are holists
+- Brandom's interpretation using orders of explanation: empiricists treat representation as a primitive and infer reason-relations in terms of it. Rationalists treat reason relations as primitive, explain representational content in terms of inferential relations.
+    - Rationalist Leibniz would have us understand the content of the map as the inferences that someone who treats it as a map could make about terrain facts (e.g. a river) from map-facts (wavy-blue line).
+- Sellars identifies both camps as descriptivists (to be conceptually contentful is just to describe / represent how things are).
+    - Empiricists start with narrow postulate about what representing is and exclude a lot of genuinely contentful thought due to not meeting this standard (e.g. ethics, modality)
+    - Rationalists take all our cognitively contentful expressions as therefore being part of the actual world, resulting in ontological extravagance (postulating objective values/universals/propositions/laws)
+    - Sellars saw the Tractatus as teaching us how to get beyond this ideology with the case of logical vocabulary
+    - Representation is a wider concept than description - Brandom thinks that Sellars' anti-descriptivism is a form of anti-representationalism.
+        - E.g. proper names represent without being descriptions, in Naming and Necessity.
+## Lessons
+
+  - Representation is a holistic conception, so rationalists were right about that (think: categories, relationships over properties)
+  - Representation/description involve subjunctively robust relations between representings and representeds.
+    - Considering the inferences of map facts to terrain facts, we also must accept that if the terrain were different, the map fact would be different.
+    - Related to Fodor's account of representation in terms of "one-way counterfactual dependencies of 'horses' on horses".
+  - Representation has a normative dimension
+    - To treat representation as concerning what inferences we can make is a normative order.
+    - Hegel appreciated this: to count as representing something is to be responsible to the represented thing (what is represented provides the normative standard for correctness of representing). What is represented has an authority over what is representing.
+
+
+# Representationalism
+
+- Declarativism: a relatively defensible representationalist position
+- Dual to "descriptivism" which too narrowly construes representation as description (which is too constricted a notion of representation).
+- This too broadly understands what all declarative sentences do in terms of fact-stating / truth-aptness ('representation' becomes too expansive). Expressivism is one way of negating this (by declaring "X is good", one is commending rather than fact stating).
+  - Intuition: the question of truth can be raised for whatever is expressed by declarative sentences.
+  - Geach's 1960 embedding argument: "If X is good, then ..." a hallmark of fact-stating (if we had close the door or praise god, it wouldn't make grammatical sense)
+    - We can embed moral statements that 1st wave expressivists said were not fact-stating.
+    - QUESTION: are there any grammatically declarative sentences which cannot be embedded? Would a counterexample have to be a non-truth-apt, declarative sentence?
+  - Declarative sentences that may not fit into the fact-stating mold of "the frog is on the log":
+    - Logical (e.g. negative/conditional facts), modal (e.g. necessity), probabilistic, semantic (what expressions mean or represent), intentional (possibly about non-existent objects like golden mountains / round squares), normative, abstract / mathematical.
+    - Are these all types of facts? Do they represent features of the world?
+
+
+# Antirepresentationalism
+## Pragmatism
+- Rorty characterizes pragmatism as fundamentally anti-representationalist  (Cheryl Misak strongly disagrees and considers Rorty to be a false heir of the tradition)
+  - Representationalism is an ideology - that the meaning of thoughts/talk should be principally understood in terms of representational relations the thinkings/sayings stand in to what they (purport to) represent.
+    - It's a crippling ideology that must be rejected wholesale, no hope of redemption.
+    - It's synonymous with modern philosophy, so that must be jettisoned too.
+  - Two sides of Wittgenstein:
+    - Tractatus = representationalism (but providing the model for moving beyond it w/r/t logical vocabulary)
+      - Logical tradition from Frege/Russell, operative paradigm of formal calculi for artificial symbolic languages.
+      - Possible world semantics best distillation of its representational approach to meaning
+    - Investigations = anti-representationalism.
+      - Anthropological tradition focuses on natural languages, in tradition of Dewey. Rorty claims Heidegger also in this tradition, which both sides (pragmatists and Heidegger allies)  don't like. Focus is not on meaning but on use.
+  - Arguments:
+    1. (Philosophy and the Mirror of Nature) - representational in semantics leads to an unproductive oscillation in epistemology between skepticism and foundationalism
+    2. Pragmatism about norms
+    3. antiauthoritarianism argument (completing the emancipatory project of the Enlightenment)
+## Expressivism
+
+- Simon Blackburn applies local expressivism in order to get a distinctive flavor of antirepresentationalism.
+  - "Fact stating discourse" can be regarded as crucially important without dismissing all other kinds of discourse as defective/reducible.
+  - Expressivism is a broad family of views claiming some areas of discourse are 'in the business' of giving expression to sentiments/commitments/non-cognitive or non-representational mental states or attitudes.
+
+## Modern anti-representationalism
+- [Huw Price](/docs/phil/people/price/index.qmd) synthesizes these two strands of anti-representationalism.
+  - Agrees with Rorty that representation should never be used to do substantial explanatory work. They are global antirepresentationalists, which is a radical position currently.
+  - He unites original German global expressivism (beginning with Herder) with second wave local expressivism of Blackburn and Gibbard.
+    - rejects local expressivism, which requires us to distinguish vocabularies which should be given representational analyses or not - however he argues this cannot be done without embracing declarativism which the local expressivists wanted to avoid.
+  - He reads into later Wittgenstein to unite global expressivism with Rorty
+    - involves distinction between traditional object naturalism (how can we reduce facts in terms of natural science truth-makers) and the pragmatist's subject naturalism (only seeks that reduction for the discursive practices consisting of use of language).
+- Brandom argues this global antirepresentationalism goes too far - prioritizing use over meaning (i.e. semantics answers to pragmatics) does not rule out representational/descriptivist accounts of vocabularies in general.
+  - Disagrees with Price's argument that local expressivism is not possible.

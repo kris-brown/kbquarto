@@ -1,6 +1,10 @@
 ---
 title: Disjunctivitis
 ---
+:::{.callout-warning}
+These notes were hastily made for personal use. In the future they'll be made more presentable.
+:::
+
 An easy way to tell if someone saying $P$ means $\phi$ rather than $\psi$ by some observable concept is to show them $\phi$'s (witness them say $P$) and $\psi$'s (and witness them not say $P$). Call this witnessing the distinction via *dispositions* of the $P$-speaker. *Disjunctivitis* is a thought experiment that says this is not a sufficient tool for us to distinguish $\phi$'s and $\psi$'s generally. This is a Kripkensteinian problem.
 
 We're worried about whether the word 'porcupine' really means *porcupine*, or whether it means *porcupine or echidna*. Because most of us porcupine users can't tell porcupines from Australian echidnas. And, although everything I've ever seen in called a 'porcupine' was a *porcupine*, everything I've ever seen called a 'porcupine' was also a *porcupine or echidna*. And the question is, well, what what fact is it in virtue of which 'porcupine' means *porcupine*, and not *porcupine or echidna*?

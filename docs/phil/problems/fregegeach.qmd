@@ -1,6 +1,9 @@
 ---
 title: The Frege-Geach problem
 ---
+:::{.callout-warning}
+These notes were hastily made for personal use. In the future they'll be made more presentable.
+:::
 
 
 A problem metaethical theories belonging that are emotivist/ expressivist. Also sometimes called the *embedding problem*.

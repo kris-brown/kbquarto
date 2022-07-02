@@ -1,6 +1,9 @@
 ---
 title: Regress of rules
 ---
+:::{.callout-warning}
+These notes were hastily made for personal use. In the future they'll be made more presentable.
+:::
 
 - To follow a rule (e.g. 'under circumstances $C$, do $A$', or 'Whenever you see a cat, raise your hand'), we have to understand the concepts that are involved within (i.e. $C$ or *cat*, or *raising one's hand*).
 - However, to grasp a concept (such that the original rule can be followed) requires a further rule.

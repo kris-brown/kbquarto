@@ -1,3 +1,7 @@
+:::{.callout-warning}
+These notes were hastily made for personal use. In the future they'll be made more presentable.
+:::
+
 # Note on Sellars' style
 - He preferered the 'Mystery story' style:
     - There's a problem, and many competing potential explanations

@@ -2,6 +2,9 @@
 ---
 title: Concepts and judgment
 ---
+:::{.callout-warning}
+These notes were hastily made for personal use. In the future they'll be made more presentable.
+:::
 
 
 We normally think that the content of judgments are dictated by the content of the concepts used inside of them. This feels especially right for artificial languages:

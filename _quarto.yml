@@ -131,15 +131,17 @@ website:
             - docs/phil/switcharoos/sensedata_concepts.qmd
         - section: "Distinctions"
           contents:
-            - href: docs/phil/distinctions/made/index.qmd
-                - docs/phil/distinctions/broken/ought_to_be.qmd
-                - docs/phil/distinctions/broken/sense_dependence_reference.qmd
+            - section: "Distinctions made"
+              href: docs/phil/distinctions/made/index.qmd
+              contents:
+                - docs/phil/distinctions/made/ought_to_be.qmd
+                - docs/phil/distinctions/made/sense_dependence_reference.qmd
+                - docs/phil/distinctions/made/subjunctive_counterfactual.qmd
             - section: "Distinctions broken"
               href: docs/phil/distinctions/broken/index.qmd
               contents:
                 - docs/phil/distinctions/broken/analytic_synthetic.qmd
-                - docs/phil/distinctions/broken/rortian_pragmatism.qmd
-                - docs/phil/distinctions/broken/antibifurcationism.qmd
+                - docs/phil/distinctions/broken/objective_subjective.qmd
                 - docs/phil/distinctions/broken/theoretical_observable.qmd
         - section: "People"
           href: docs/phil/people/index.qmd

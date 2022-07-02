@@ -12,14 +12,14 @@ An American philosopher, born in 1950. [Academic website](www.pitt.edu/~rbrandom
 
 ## Slogans
 ### Concepts
-It's not about our grip on concepts[^1]; it's about the concept's grip on us.
+> It's not about our grip on concepts[^1]; it's about the concept's grip on us.
 
 - this could also go in [Switcharoos](/docs/phil/switcharoos/index.qmd)
 
 [^1]: this characterizes the pre-Kantian tradition
 
 ### On Kant and Hegel
-One cannot open the door enough for Kant to get through while being able to slam it shut before Hegel gets through. (Hegel was too interesting of a reader of Kant)
+> One cannot open the door enough for Kant to get through while being able to slam it shut before Hegel gets through. (Hegel was too interesting of a reader of Kant)
 
 ### Sapience
-It's not what's between your ears, it's what's between you and your peers.
+> It's not what's between your ears, it's what's between you and your peers.

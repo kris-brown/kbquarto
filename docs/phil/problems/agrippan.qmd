@@ -1,6 +1,10 @@
 ---
 title: Agrippan Trilemma
 ---
+:::{.callout-warning}
+These notes were hastily made for personal use. In the future they'll be made more presentable.
+:::
+
 There are only three ways of completing a proof:
 
 - The *circular* argument, in which the proof of some proposition presupposes the truth of that very proposition

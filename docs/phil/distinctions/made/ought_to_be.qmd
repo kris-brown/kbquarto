@@ -1,6 +1,9 @@
 ---
 title: Ought to be vs ought to do
 ---
+:::{.callout-warning}
+These notes were hastily made for personal use. In the future they'll be made more presentable.
+:::
 
 |  Ought to do's       |  Ought to be's |
 |----------------------|---------------|

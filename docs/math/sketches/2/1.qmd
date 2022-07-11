@@ -10,6 +10,6 @@ title: Getting from A to B
 - Resources are not always consumed when used.
 -  A $\mathcal{V}$ category is a set of objects, which one may think of as points on a map.
     -  $\mathcal{V}$ somehow 'structures the question' of getting from point $a$ to $b$.
-    -  $\mathcal{V} = Bool$ answers the question of whether we can get to $b$.
-    -  $\mathcal{V} = Cost$ can help answer how to get to $b$ with minimum cost.
-    -  $\mathcal{V} = \mathbf{Set}$ can yield a set of methods to get to $b$.
+    -  $\mathcal{V}$ = **Bool** answers the question of whether we can get to $b$.
+    -  $\mathcal{V}$ = **Cost** can help answer how to get to $b$ with minimum cost.
+    -  $\mathcal{V}$ = **Set** can yield a set of methods to get to $b$.

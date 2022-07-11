@@ -15,6 +15,8 @@ The problem of exploring spaces of scientific models and our compositional solut
 ## Model inference
 We generalized term rewriting to a general setting in our ICGT 2022 paper [-@brown2021rewrite]. We demonstrate some of this functionality in this [notebook](https://nbviewer.org/github/kris-brown/Computational-Category-Theoretic-Rewriting/blob/main/Computational_Category_Theoretic_Rewriting.ipynb). This is being applied to epidemiology with [Sean Wu](https://slwu89.github.io/): [individual-based stochastic models for epidemiology](https://github.com/slwu89/IndividualRewrite)
 
+We can compute and prove theorems with string diagrams: [[code](https://github.com/AlgebraicJulia/GraphicalLinearAlgebra)]
+
 ## C-set automorphisms
 As described in this [blog post](https://www.algebraicjulia.org/blog/post/2022/01/cset-automorphisms/), this project concerns extending McKay's graph algorithm (implemented as [nauty](https://pallini.di.uniroma1.it/)) to C-sets, so that isomorphic instances can be immediately seen to be equal. [[code](https://github.com/AlgebraicJulia/CSetAutomorphisms.jl)]
 
@@ -22,24 +24,28 @@ As described in this [blog post](https://www.algebraicjulia.org/blog/post/2022/0
  As described at the end of this [blog post](https://62b383e20eb7802fe1b2d124--algebraicjuliablog.netlify.app/post/2022/06/chase/#model_enumeration), model enumeration exhaustively explores a logically constrained search space. This can be used pedagogically to explain mathematical concepts (e.g. give intuition for [natural transformations](https://www.math3ma.com/blog/what-is-a-natural-transformation) by showing the 10 smallest natural transformations) or in an engineering context as a [model checker](https://en.wikipedia.org/wiki/Model_checking). The logical language we can use to specify constraints is that of finite (co)limit [sketches](https://ncatlab.org/nlab/show/sketch). [[code](https://github.com/kris-brown/ModelEnumeration.jl)]
 
 
-We can compute and prove theorems with string diagrams: [[code](https://github.com/AlgebraicJulia/GraphicalLinearAlgebra)]
-
 # Past
 ## Knowledge representation and data integration
 
 ### Declarative specification of databases
-Scientists modeling complicated phenomena don't use explicit (formally-specified) models. This is pragmatic, given current available open-source tools, but informal reasoning ulimately leads to serious challenges in communicating scientific results clearly and sharing data. A relational database backend is important for a scalable modeling tool, but a SQL-less interface is also crucial: the complexity of managing database implementation details quickly becomes unmanagable and unextensible as the model complexity increases. I developed a Python EDSL to help scientists generate relational databases from a natural declaration of scientific facts and to naturally query and publicly communicate their knowledge base. It is commercialized [here](https://www.modelyst.com/).
+Scientists modeling complicated phenomena don't use explicit (formally-specified) models. This is pragmatic, given current available open-source tools, but informal reasoning ulimately leads to serious challenges in communicating scientific results clearly and sharing data. A relational database backend is important for a scalable modeling tool, but a SQL-less interface is also crucial: the complexity of managing database implementation details quickly becomes unmanagable and unextensible as the model complexity increases. I developed a Python EDSL to help scientists generate relational databases from a natural declaration of scientific facts and to naturally query and publicly communicate their knowledge base. Our strategy is published [here](https://chemrxiv.org/engage/chemrxiv/article-details/61035b88171fc78221b9a9cd) [-@statt2021dbgen] and [here](https://chemrxiv.org/engage/chemrxiv/article-details/60c73cbf842e650956db1678) [-@statt2021esamp], and it is being commercialized by the startup [Modelyst](https://www.modelyst.com/).
 
 ### Heterogenous data integration, using Category Theory
 
 There is little standardization in how data is to be represented and stored in many scientific fields. However, the varying schemas of different researchers contain significant overlap in information, and for data-driven fields it is especially beneficial to be able to freely switch from one frame of reference to another.
  Furthermore, when we update our view of the world, it's important to be able to migrate our old data, algorithms, and analysis tools into the new framework. When these tools are expressed in the language of C-sets, this migration can be automated in a verifiable way, described in [Categorical data integration for computational science
-](https://www.sciencedirect.com/science/article/pii/S0927025619302046) [-@brown2019categorical] with computational chemistry as a case study. As stressed in the paper, these migration tools are of importance to scientists who wish to communicate and share data with lower risk of data misinterpretation. This was implemented using [Categorical Query Language](https://conexus.com/data-warehousing-with-cql/), a tool developed by Conexus AI.
+](https://www.sciencedirect.com/science/article/pii/S0927025619302046) [-@brown2019categorical] with computational chemistry as a case study. As stressed in the paper, these migration tools are of importance to scientists who wish to communicate and share data with lower risk of data misinterpretation. This was implemented using [Categorical Query Language](https://conexus.com/data-warehousing-with-cql/), a tool developed by the startup [Conexus](https://conexus.com).
 
 
 ## Development of functionals for Density Functional Theory
 
-As described [here](http://www.slac.stanford.edu/~vossj/project/xc-functionals/), the simulation of chemical reactions using first-principles techniques requires a theoretical framework that is able to describe a wide range of electronic interactions. Under the direction of Johannes Voss, I develop new meta exchange-correlation functionals with a semi-empirical approach, fitting the functional form against higher level of theory and experimental benchmark data. By using Bayesian statistics, we enable uncertainty estimation of the computed reaction energies.
+The simulation of chemical reactions using first-principles techniques requires a theoretical framework that is able to describe a wide range of electronic interactions. Under the direction of [Johannes Voss](http://www.slac.stanford.edu/~vossj/project/xc-functionals/) and with Yasheng Maimaiti and Kai Trepke, I developed [MCML](https://onlinelibrary.wiley.com/doi/10.1002/jcc.26732) [-@brown2021mcml], a new meta exchange-correlation functional, with a semi-empirical approach, fitting the functional form against higher level of theory and experimental benchmark data. By using Bayesian statistics, we enabled uncertainty estimation of the computed reaction energies. This complements the earlier research I did which applied DFT to discover catalysts for sustainable energy applications ([-@ludwig2020atomistic], [-@liu2019ph], [-@ludwig2019solvent], and [-@brown2018simulation]) as well as my earlier experimental chemistry research ([-@heroguel2017catalyst] and [-@chen2017liquid]).
+
+## Formal methods
+
+I briefly rotated with the [Barrett](https://theory.stanford.edu/~barrett) group at Stanford to learn about formal methods and made small contributions. [-@mann2021pono] and [-@mann2021smt]
+
+I also interned at Google where we applied the [Lean theorem prover](https://leanprover-community.github.io/index.html). My final presentation was recorded [here](https://youtu.be/gj3XD8gK0Ho).
 
 # CV
 

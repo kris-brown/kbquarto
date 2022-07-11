@@ -2,9 +2,7 @@
 ---
 title: Sense data and concepts
 ---
-:::{.callout-warning}
-These notes were hastily made for personal use. In the future they'll be made more presentable.
-:::
+
 
 
 It feels natural to try to reduce concepts to combinations of sense impressions (this is what Locke/Hume do). This is a mistake that comes from the fact that sense impressions are *causally prior* to our concepts. This does not mean they are *conceptually prior*.

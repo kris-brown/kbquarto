@@ -247,7 +247,7 @@ Given a Galois connection, we can compose the left and right maps to get a *clos
 
 
 ::: {.callout-tip icon=false collapse=false}
-## A \emph{closure operator} $P \xrightarrow{j} P$ on a preorder $P$
+## A *closure operator* $P \xrightarrow{j} P$ on a preorder $P$
 
 <div id="closure-operator"/></div>
 A [monotone map](4.qmd#monotone-map) such that, for all $p \in P$, we have:

@@ -2,6 +2,7 @@
 title: Resource theories
 ---
 
+
 # [Getting from A to B](1.qmd)
 {{< include 1.qmd >}}
 

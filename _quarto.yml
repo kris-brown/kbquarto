@@ -30,24 +30,20 @@ website:
 
   navbar:
     background: light
-    logo: images/note.png
+    logo: images/home.png
     title: false
     collapse-below: lg
     left:
       - docs/research.qmd
       - docs/contact.qmd
       - docs/personal.qmd
-      - docs/math/index.qmd
-      - docs/phil/index.qmd
+      - docs/notes.qmd
       - docs/blog/index.qmd
       - text: "Help"
         menu:
           - text: "Report an Issue"
             icon: "bug"
             href: "https://github.com/kris-brown/kbquarto/issues"
-          - text: "Quarto Discussions"
-            icon: "chat-right-text"
-            href: "https://github.com/kris-brown/kbquarto/discussions"
           - text: "FAQ"
             icon: "question-circle"
             href: docs/faq/index.qmd
@@ -63,32 +59,6 @@ website:
         aria-label: KSB CV
 
   sidebar:
-    - id: research
-      title: "Research"
-      style: "floating"
-      collapse-level: 2
-      align: left
-      contents:
-        - docs/research.qmd
-        - section: "Current"
-          href: docs/research#current
-          contents:
-            - section: "Model Exploration"
-              href: docs/research.html#model-exploration
-            - section: "Model Inference"
-              href: docs/research.html#model-inference
-            - section: "C-set automorphisms"
-              href: docs/research.html#c-set-automorphisms
-            - section: "Model Enumeration"
-              href: docs/research.html#model-enumeration
-        - section: "Past"
-          href: docs/research#past
-          contents:
-            - section: "Knowledge representation"
-              href: docs/research.html#knowledge-representation-and-data-integration
-            - section: "Density Functional Theory"
-              href: docs/research.html#development-of-functionals-for-density-functional-theory
-
     - id: phil
       title: "Philosophy notes"
       style: "floating"
@@ -317,3 +287,10 @@ editor: visual
 comments:
   utterances:
     repo: kris-brown/kbquarto
+
+html-math-method:
+  method: mathjax
+  url: "/es5/tex-mml-chtml.js"
+
+resources:
+  - es5

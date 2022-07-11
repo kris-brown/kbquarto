@@ -1,3 +1,9 @@
 ---
 title: The category Set as an exemplar topos
 ---
+
+## **Set**-like properties enjoyed by any topos
+
+## The subobject classifier
+
+## Logic in the topos **Set**

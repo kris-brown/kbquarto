@@ -1,9 +1,7 @@
 ---
 title: Sellars
 ---
-:::{.callout-warning}
-These notes were hastily made for personal use. In the future they'll be made more presentable.
-:::
+
 
 Born 1912 in Michigan, died in 1989.
 

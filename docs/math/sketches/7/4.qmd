@@ -1,3 +1,15 @@
 ---
 title: Toposes
 ---
+
+## The subobject classifier in a sheaf topos
+
+## Logic in a sheaf topos
+
+## Predicates
+
+## Quantification
+
+## Modalities
+
+## Type theories and semantics

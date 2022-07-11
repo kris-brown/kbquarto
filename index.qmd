@@ -14,9 +14,5 @@ format:
 
 
 ## About the site
-:::{.callout-warning}
-This is very much under construction.
-:::
 
-
-In addition to info about me, I also use the site to organize thoughts and notes around [math](docs/math) and [philosophy](docs/phil).
+In addition to info about me and my research, I also use the site to organize thoughts and notes.

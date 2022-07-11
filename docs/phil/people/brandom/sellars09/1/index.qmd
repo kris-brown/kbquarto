@@ -3,9 +3,7 @@ title: Historical context and quotes
 date: September 2, 2009
 description: This lecture mainly talks about some ideas of Kant that influenced Sellars and introduces Sellars through a long series of quotes.
 ---
-:::{.callout-warning}
-These notes were hastily made for personal use. In the future they'll be made more presentable.
-:::
+
 
 # Historical Kant Context
 

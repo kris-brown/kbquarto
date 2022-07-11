@@ -1,9 +1,7 @@
 ---
 title: Disjunctivitis
 ---
-:::{.callout-warning}
-These notes were hastily made for personal use. In the future they'll be made more presentable.
-:::
+
 
 An easy way to tell if someone saying $P$ means $\phi$ rather than $\psi$ by some observable concept is to show them $\phi$'s (witness them say $P$) and $\psi$'s (and witness them not say $P$). Call this witnessing the distinction via *dispositions* of the $P$-speaker. *Disjunctivitis* is a thought experiment that says this is not a sufficient tool for us to distinguish $\phi$'s and $\psi$'s generally. This is a Kripkensteinian problem.
 

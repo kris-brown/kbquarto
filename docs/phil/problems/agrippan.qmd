@@ -1,9 +1,7 @@
 ---
 title: Agrippan Trilemma
 ---
-:::{.callout-warning}
-These notes were hastily made for personal use. In the future they'll be made more presentable.
-:::
+
 
 There are only three ways of completing a proof:
 
@@ -11,4 +9,4 @@ There are only three ways of completing a proof:
 - The *regressive* argument, in which each proof requires a further proof, ad infinitum
 - The *dogmatic* argument, which rests on accepted precepts which are merely asserted rather than defended
 
-This is a dilemma for classical logic in particular; it could be addressed by introducing nonmonotonic logic (default and challenge). Some claims (e.g. first person observations) come with a default justification (which is not based on the justification of other claims). Yet it must be defended when challenged.
+This is a problem for classical logic in particular; it could be addressed by introducing nonmonotonic logic (default and challenge). Some claims (e.g. first person observations) come with a default justification (which is not based on the justification of other claims). Yet it must be defended when challenged.

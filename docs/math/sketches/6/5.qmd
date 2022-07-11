@@ -1,3 +1,9 @@
 ---
 title: Operads and their algebras
 ---
+
+## Operads design wiring diagrams
+
+## Operads from SMCs
+
+## The operad for hypergraph props

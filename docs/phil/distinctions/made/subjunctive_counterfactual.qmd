@@ -1,9 +1,7 @@
 ---
 title: Subjunctive vs counterfactual conditionals
 ---
-:::{.callout-warning}
-These notes were hastily made for personal use. In the future they'll be made more presentable.
-:::
+
 
 - Subjunctive conditional: if $X$ were $\psi$'d, it would $\phi$.
     - (example?)

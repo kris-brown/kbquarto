@@ -1,9 +1,7 @@
 ---
 title: What the Tortoise said to Achilles
 ---
-:::{.callout-warning}
-These notes were hastily made for personal use. In the future they'll be made more presentable.
-:::
+
 
 
 By Lewis Caroll in 1895. [-@carroll2021tortoise]

@@ -1,3 +1,13 @@
 ---
 title: Simplified signal flow graphs
 ---
+
+## Rigs
+
+## The iconography of signal flow graphs
+
+## The prop of matrices over a rig
+
+## Turning signal flow graphs into matrices
+
+## The idea of functorial semantics

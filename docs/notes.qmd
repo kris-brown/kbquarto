@@ -1,0 +1,6 @@
+---
+title: Notes
+comments: false
+---
+
+I currently have uploaded some notes on [math](math) and [philosophy](phil).

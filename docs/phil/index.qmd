@@ -3,11 +3,9 @@ title: Philosophy notes
 comments: false
 ---
 
-Various notes on philosophy - this is very much in construction. Slowly copying over from the [old site](https://www.krisb.org/root/doc-2notes/phil).
+Various notes on philosophy.
 
-A reader (with no particular technical background) ought be able to drop into a random page and start reading. Although there may be jargon / required context, by following appropriate internal links it should become clear what the jargon means / what context is required. Then, the reader ought backtrack precisely as far as needed to make sense of the original page. If any page doesn't meet this standard, then it's something for me to fix.
-
-- About 1% of the notes here meet this standard right now. It's hard work to upgrade what's initially jotted down here to that standard.
-- Weeks/months later I'll re-read stuff that has been jotted down and do edits until I've made sense of them.
-
-I once came across the story of [Achilles and the Tortoise](/docs/phil/problems/tortoise.qmd) in the course of a lecture series, and the story seemed very profound. However, I couldn't explain the significance of the story later on to peers. What was needed to see was what ideas it was connected to (and then again for those, since the immediate connections are still quite abstract).
+:::{.callout-warning}
+This is very much under construction. A lot of notes are not yet polished for
+other people to read / make sense of them, but this is something I plan to do!
+:::

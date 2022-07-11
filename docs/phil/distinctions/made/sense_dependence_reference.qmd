@@ -1,9 +1,7 @@
 ---
 title: Sense dependence vs reference
 ---
-:::{.callout-warning}
-These notes were hastily made for personal use. In the future they'll be made more presentable.
-:::
+
 
 Two meanings of "$X$ depends on $Y$" that are easily conflated.
 

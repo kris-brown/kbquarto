@@ -8,8 +8,8 @@ EXERCISE
 
 
 ::: {.callout-important icon=false collapse=false}
-## Exercise 2-
-<div id="2-"/></div>
+## Exercise 5-
+<div id="5-"/></div>
 
 
 ::: {.callout-note collapse=true appearance="minimal"}
@@ -17,6 +17,7 @@ EXERCISE
 
 :::
 :::
+
 
 ---------
 DEFINITION
@@ -48,10 +49,11 @@ PROPOSITION
 
 ::: {.callout-note icon=false collapse=false}
 ## Proposition
-
 <div id=""/></div>
+
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Proof
+
 :::
 :::

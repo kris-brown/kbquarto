@@ -1,3 +1,9 @@
 ---
 title: A topos of behavior types
 ---
+
+## The interval domain
+
+## Sheaves on $\mathbb{R}$
+
+## Safety proofs in temporal logic

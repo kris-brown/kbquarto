@@ -1,3 +1,18 @@
 ---
 title: Colimits and connection
 ---
+
+## Initial objects
+
+## Coproducts
+
+## Pushouts
+## Finite colimits
+
+
+##Cospans
+
+
+
+
+

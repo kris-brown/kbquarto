@@ -1,3 +1,241 @@
 ---
 title: Adjunctions and data migration
 ---
+
+## Pulling back data along a functor
+
+
+::: {.callout-tip icon=false collapse=false}
+## The *pullback* of [functor](3.qmd#functor) $\mathcal{D}\xrightarrow{I}\mathbf{Set}$ *along* functor $\mathcal{C}\xrightarrow{F}\mathcal{D}$
+
+<div id="pullalong"/></div>
+-  The composite [functor](3.qmd#functor) $\mathcal{C}\xrightarrow{F;I}\mathbf{Set}$
+- Given a natural transformation $I \overset{\alpha}\Rightarrow J$, there is a natural transformation $\alpha_F$ whose components (morphisms in **Set** from $(F;I)(c)$ to $(F;J)(c)$, for any $c \in \mathcal{C}$ are given by: $(\alpha_F)_c := \alpha_{F(c)}$
+          \begin{tikzcd}                                                                             &                                                                           & \! \arrow[dd,Rightarrow,"\alpha"] &     \\\mathcal{C} \arrow[r, "F"]& \mathcal{D}\arrow[rr, "I", bend left=60] \arrow[rr, "J"', bend right=60] && Set \\& \! \arrow[dd,Rightarrow,"\alpha_F"]& \!&     \\\mathcal{C} \arrow[rr, "F;I", bend left=60] \arrow[rr, "F;J"', bend right=60]&&Set&     \\&\!&&    \end{tikzcd}
+
+:::
+
+
+::: {.callout-caution icon=false collapse=false}
+## Pullback in DDS
+<div id="ddspull"/></div>
+
+
+-  Pulling back data along a [functor](3.qmd#functor)
+- We'll migrate data between the graph-indexing schema **Gr** and the loop schema, called **DDS** (for discrete-dynamical system).
+- We'll write down an example instance $\mathbf{DDS}\xrightarrow{I}\mathbf{Set}$
+
+
+| State | Next |
+|----|----|
+| 1     | 4    |
+| 2     | 4    |
+| 3     | 5    |
+| 4     | 5    |
+| 5     | 5    |
+| 6     | 7    |
+| 7     | 6    |
+
+
+-  We want to convert this state information into a graph that will let us visualize our machine.
+- Use the following [functor](3.qmd#functor) $F$: \begin{tikzcd}\overset{Arr}\bullet \arrow[red,d, "tar", bend left] \arrow[blue,d, "src"', bend right] &\overset{State}\bullet \arrow[red, loop below, "next"] \\\overset{Vert}\bullet&\end{tikzcd}
+
+    - *src* is sent to identity
+    - Can now generate a graph using the composite [functor](3.qmd#functor) $\mathbf{Gr}\xrightarrow{F}\mathbf{DDS}\xrightarrow{I}\mathbf{Set}$
+
+
+| Arr | src | tar|
+|---|---|---|
+| 1   | 1   | 4  |
+| 2   | 2   | 4  |
+| 3   | 3   | 5  |
+| 4   | 4   | 5  |
+| 5   | 5   | 5  |
+| 6   | 6   | 7  |
+| 7   | 7   | 6  |
+
+  $Vert = \bar{7}$
+
+
+-  We can now draw the graph: \begin{tikzcd}& 1 \arrow[rd] && 2 \arrow[ld]&\\3 \arrow[rd] && 4 \arrow[ld] &&\\& 5&& 6 \arrow[r, bend left] & 7 \arrow[l, bend left]\end{tikzcd}
+- This procecure can be called "pulling back data along a [functor](3.qmd#functor)". We pulled back data $I$ along functor $F$ (via functor composition).
+
+
+:::
+
+
+::: {.callout-important icon=false collapse=false}
+## Exercise 3-67
+<div id="3-67"/></div>
+
+Consider the functor $\mathbf{Gr}\xrightarrow{G}\mathbf{DDS}$ given by sending *src* to *next* and *tar* to *id* on *State*. Migrate the same data as in [this example](#ddspull) and draw the corresponding graph.
+
+::: {.callout-note collapse=true appearance="minimal"}
+## Solution
+
+|Arr |src | tar|
+|---|---|---|
+|1   |4   | 1  |
+|2   |4   | 2  |
+|3   |5   | 3  |
+|4   |5   | 4  |
+|5   |5   | 5  |
+|6   |7   | 6  |
+|7   |6   | 7  |
+
+\begin{tikzcd}  & 1                       &                         & 2                     &                        \\3 &                         & 4 \arrow[lu] \arrow[ru] &                       &                        \\  & 5 \arrow[lu] \arrow[ru] &                         & 6 \arrow[r, bend left] & 7 \arrow[l,bend left]\end{tikzcd}
+
+:::
+:::
+
+
+## Adjunctions
+
+::: {.callout-tip icon=false collapse=false}
+## A functor $\mathcal{C}\xrightarrow{L}\mathcal{D}$ is *left adjoint} to a functor  $\mathcal{D}\xrightarrow{R}\mathcal{C}$
+
+<div id="adjoint"/></div>
+-  For any $c \in C$ and $d \in D$, there is an [isomorphism](3.qmd#iso) of hom-sets: $\alpha_{c,d}: \mathcal{C}(c,R(d)) \xrightarrow{\cong} \mathcal{D}(L(c),d)$ that is natural in *c} and *d}.
+- Given a morphism $c \rightarrow{f} R(d)$ in $\mathcal{C}$, its image $g:=\alpha_{c,d}(f)$ is called its *mate} (and vice-versa)
+- To denote the adjunction we write $L \dashv R$ or \begin{tikzcd}\mathcal{C} \arrow[rr, "L", bend left] & \Rightarrow & \mathcal{D} \arrow[ll, "R", bend left]\end{tikzcd}
+
+:::
+::: {.callout-caution icon=false collapse=false}
+## Currying
+<div id="currying"/></div>
+
+The [adjunction](#adjunction) called currying says $\mathbf{Set}(A \times B,C)\cong \mathbf{Set}(A,C^B)$
+
+\begin{tikzcd}Set \arrow[rr, "-\times B", bend left] & \Rightarrow & Set \arrow[ll, "(-)^B",bend left]\end{tikzcd}
+:::
+::: {.callout-caution icon=false collapse=false}
+## Galois connections are adjoint
+<div id="galoisadjoint"/></div>
+
+[Galois connections](../1/6.qmd#galois-connection) between preorders are the same as [adjunctions](#adjunction) between the corresponding categories.
+
+:::
+
+
+::: {.callout-caution icon=false collapse=false}
+## Examples of adjunctions
+
+<div id="?"/></div>
+
+- Free constructions: given a set you get a free group/monoid/ring/vector space/etc. - each of these is a left adjoint. The corresponding right adjoint throws away the algebraic structure.
+- Given a graph you get a free [preorder](../1/3.qmd#preorder) or a free category, the corresponding right adjoint is the underlying graph of a preorder/category.
+- Discrete things: given any set you get a discrete preorder*graph}metric space*category}topological space/etc.; each of these is a left adjoint and the corresponding right adjoint again recovers the set.
+- Codiscrete things: given any set you get a codiscrete preorder, complete graph, codiscrete category, category, etc.; each of these is a right adjoint and the left adjoint gives the underlying set.
+- Given a group, you can quotient by its commutator subgroup to get an abelian group; this is a left adjoint. The right adjoint is the inclusion of abelian groups into **Grp**
+:::
+
+
+::: {.callout-important icon=false collapse=false}
+## Exercise 3-73
+<div id="3-73"/></div>
+
+
+[Currying](#currying) was an adjunction between functors in **Set**, but the example only discussed what the functors did to objects.
+
+1. Given a morphism $X \xrightarrow{f}Y$, what morphism should $X \times B \xrightarrow{-\times B}Y\times B$ return?
+2. Given a morphism $X \xrightarrow{f}Y$, what morphism should $X^ B \xrightarrow{(-)^B}Y^B$ return?
+3. Consider $\mathbb{N}\times \mathbb{N}\xrightarrow{+}\mathbb{N}$. Currying $+$, we get a certain function $\mathbb{N}\xrightarrow{p}\mathbb{N}^\mathbb{N}$. What is $p(3)$?
+
+::: {.callout-note collapse=true appearance="minimal"}
+## Solution
+1. This morphism maps $(x,b)\mapsto (f(x),b)$
+2. This morphism takes in a function $B \xrightarrow{bx} X$ and composes with *f} to give $B \xrightarrow{bx;f} Y$
+3. It takes a number and returns a function which adds three to that number.
+:::
+:::
+
+
+## Left and right pushforward functors
+Given $\mathcal{C}\xrightarrow{F}\mathcal{D}$, the data migration functor $\Delta_F$ turns $\mathcal{D}$ instances to $\mathcal{C}$ instances. This functor has both a left and right adjoint: \begin{tikzcd}\mathcal{C}Inst \arrow[rr, "\Sigma_F", bend left] &  & \mathcal{D}Inst \arrow[ll, "\Delta_F"description] \arrow[ll, "\Pi_F", bend left]\end{tikzcd}
+
+| Migration Functor | Pronounced | Reminiscent of       | Database |idea                          |
+|---|--|---|--|--|
+| $\Delta$          | Delta      | Duplicate or destroy | Duplicate or |destroy tables or columns |
+| $\Sigma$          | Sigma      | Sum                  | Union (sum up) |data                    |
+| $\Pi$             | Pi         | Product              | Pair and query |data                    |
+
+::: {.callout-caution icon=false collapse=false}
+## Plane example
+<div id="plane"/></div>
+
+
+- Consider a functor which discards the distinction between Economy and First Class seats in an airplane.
+- \begin{tikzcd} & Money & \\ Econ \arrow[ru, "Price"] \arrow[rd, "Position"'] & & 1st \arrow[lu, "Price"'] \arrow[ld, "Position"] \\ & string & \end{tikzcd}
+- \begin{tikzcd} Money \\ Seat \arrow[u, "Price"] \arrow[d, "Position"'] \\ string \end{tikzcd}
+- The $\Delta$ functor is uninteresting - it will copy the rows for Seat into both Economy and First class.
+- The functor $\Pi$ puts into each airline seat only seats which are in both the Economy and First Class tables with the same price and position.
+- The functor $\Sigma$ puts all Economy and First Class seats into the Seat table and discards the information of from which table they came from.
+
+
+:::
+## Single set summaries of databases
+
+
+::: {.callout-caution icon=false collapse=false}
+## Emails
+<div id="emails"/></div>
+
+
+-  Consider the schema $\mathfrak{g} := \boxed{\overset{Email}\bullet \overset{sentBy}{\underset{receivedBy}{\rightrightarrows}} \overset{Address}\bullet}$
+- And an example instance: $\mathfrak{g}\xrightarrow{I}\mathbf{Set}$
+
+
+|Email | SentBy | ReceivedBy|
+|--|---|--|
+|1     | Bob    | Grace     |
+|2     | Grace  | Pat       |
+|3     | Bob    | Emmy      |
+|4     | Sue    | Doug      |
+|5     | Doug   | Sue       |
+|6     | Bob    | Bob       |
+
+- Data migration functors $\Sigma_!,\Pi_!$ go from $\mathcal{C}$ **Inst** to **1**-Inst, but we showed that **1**-Inst is equivalent to **Set** in [this example](#terminal_nattrans).
+- $\Sigma_!$ tells us the mailing groups, the "connected components" in $I$:
+
+
+| 1                 |
+|----------------|
+| Bob-Grace-Pat-Emmy|
+| Sue-Doug          |
+
+
+- $\Pi_!$ tells us the emails that were sent from a person to themselves
+
+| 1            |
+|----------|
+| $Em_6$ (Bob) |
+
+
+:::
+
+
+::: {.callout-important icon=false collapse=false}
+## Exercise 3-76
+<div id="3-76"/></div>
+
+For any category $\mathcal{C}$ there is exactly one functor to the category **1**, let's call it $!$ Where does it send each object and each morphism?
+
+::: {.callout-note collapse=true appearance="minimal"}
+## Solution
+There is only one object to send each object to and only one morphism to send each morphism to. Because everything in the target is equal to everything else, all functor constraints are trivially satisfied.
+
+:::
+:::
+
+
+::: {.callout-important icon=false collapse=false}
+## Exercise 3-78
+<div id="3-78"/></div>
+
+Draw the instance $I$ in [this example](#emails) as a graph.
+
+::: {.callout-note collapse=true appearance="minimal"}
+## Solution
+\begin{tikzcd} && \overset{Sue}\bullet\arrow[r, "4", bend left] & \overset{Doug}\bullet \arrow[l, "5", bend left] \\ & \overset{Bob}\bullet \arrow[r, "1"] \arrow[d, "3"] \arrow[l, "6",loop left] &\overset{Grace}\bullet \arrow[r, "2"]& \overset{Pat}\bullet\\ &\overset{Emmy}\bullet&&\end{tikzcd}
+:::
+:::

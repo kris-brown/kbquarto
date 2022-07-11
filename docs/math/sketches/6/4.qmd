@@ -1,3 +1,9 @@
 ---
 title: Decorated cospans
 ---
+
+## Symmetric monoidal functors
+
+## About decorated cospans
+
+## Electric circuits

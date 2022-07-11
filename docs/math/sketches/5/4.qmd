@@ -1,3 +1,9 @@
 ---
 title: Graphical linear algebra
 ---
+
+## A presentation of Mat R
+
+## Aside - monoid objects in a monoidal category
+
+## Singal flow graphs - feedback and more

@@ -27,7 +27,7 @@ We call $\mathcal{V}$ the *base of enrichment* for $\mathcal{X}$ or say that $\m
 ::: {.callout-caution icon=false collapse=false}
 ## $\mathcal{B}$-categories
 <div id="bool-cat"/></div>
-Consider the following [preorder](../1/3.qmd#preorder): \begin{tikzcd} & t & \\ & s \arrow[u] & \\q \arrow[ru] & & r \arrow[lu] \\ & p \arrow[ru] \arrow[lu] & \end{tikzcd}
+Consider the following [preorder](../1/3.qmd#preorder): \begin{tikzcd} \pagecolor{white} & t & \\ & s \arrow[u] & \\q \arrow[ru] & & r \arrow[lu] \\ & p \arrow[ru] \arrow[lu] & \end{tikzcd}
 
 As a **Bool**-category, the objects are $Ob(\mathcal{X})=\{p,q,r,s,t\}$.
 
@@ -190,7 +190,7 @@ Someone says "for any set $M$, imagine it as the set of modes of transportation 
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-1. \begin{tikzcd}[ampersand replacement=\&]A \arrow[dd, "cf"] \arrow[rr, "cbf"] \arrow[rrdd, "f"]  \&   \& B \arrow[dd, "c"] \\ \&   \&\\C \arrow[rr, "bf"] \&   \& D               \end{tikzcd} (implicitly, no path means edge of $\varnothing$ and self paths are $cfb$)
+1. \begin{tikzcd}[ampersand replacement=\&] \pagecolor{white} A \arrow[dd, "cf"] \arrow[rr, "cbf"] \arrow[rrdd, "f"]  \&   \& B \arrow[dd, "c"] \\ \&   \&\\C \arrow[rr, "bf"] \&   \& D               \end{tikzcd} (implicitly, no path means edge of $\varnothing$ and self paths are $cfb$)
 2. Hom objects:
 
 |   | A             | B             | C             | D   |
@@ -222,7 +222,7 @@ Consider the [symmetric monoidal preorder](2.qmd#smp) $\mathcal{W}:=(\mathbb{N}\
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-1.  \begin{tikzcd}[ampersand replacement=\&]A \arrow[d, "\infty"'] \arrow[r, "2"] \arrow[rd, "1", bend right] \& B \arrow[d, "1"', bend right]      \\C \arrow[r, "3"'] \arrow[ru, "3", bend left]\& D \arrow[u, "\infty"', bend right]\end{tikzcd} (implicitly, no path means path of weight 0, and self paths have weight $\infty$)
+1.  \begin{tikzcd}[ampersand replacement=\&] \pagecolor{white} A \arrow[d, "\infty"'] \arrow[r, "2"] \arrow[rd, "1", bend right] \& B \arrow[d, "1"', bend right]      \\C \arrow[r, "3"'] \arrow[ru, "3", bend left]\& D \arrow[u, "\infty"', bend right]\end{tikzcd} (implicitly, no path means path of weight 0, and self paths have weight $\infty$)
 2. Maxmin matrix:
 
 |      | A        | B        | C        | D       |

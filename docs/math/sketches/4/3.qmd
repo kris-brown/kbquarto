@@ -20,7 +20,7 @@ $(\phi;\psi)(x,z) = \bigvee_Y(\phi(x,y)\otimes\psi(y,z))$
 
 - Need a formula for composing two [feasibility relations](2.qmd#feas) in series.
 - Suppose $P,Q,R$ are cities (preorders) and there are bridges (hence, [feasibility matrices](2.qmd#4-12)).
-- \begin{tikzcd}
+- \begin{tikzcd} \pagecolor{white}
             & N \arrow[rrrrdd, blue, dotted, bend left]                      &                                             &                                             & e                                                       &   &   \\
             W \arrow[ru] \arrow[rrrd, blue,dotted] &                                                          & E \arrow[lu] \arrow[rru, blue, dotted, bend left] & d \arrow[ru] \arrow[rrr, red,dotted, bend left] &                                                         &   & x \arrow[d] \\
             & S \arrow[lu] \arrow[ru] \arrow[rrrd, blue, dotted, bend right] &                                             & b \arrow[u]                                 &                                                         & c & y \\
@@ -67,7 +67,7 @@ $(\phi;\psi)(x,z) = \bigvee_Y(\phi(x,y)\otimes\psi(y,z))$
 <div id="4-22"/></div>
 
 Consider the following **Cost** [profunctors](2.qmd#vprof) $\textcolor{blue}{\phi},\textcolor{red}{\psi}$ \[
-      \begin{tikzcd}[ampersand replacement=\&]
+      \begin{tikzcd}[ampersand replacement=\&] \pagecolor{white}
         A \arrow[d, "3"', bend right] \& B \arrow[l, "2"', bend right] \arrow[d, "5", bend left] \arrow[r, "11", blue, dotted, bend left] \& x \arrow[rr, "3", bend left] \arrow[rd, "4", bend left] \&                                                                      \& z \arrow[ld, "4", bend left] \arrow[r, "4", red,dotted, bend left] \arrow[rd, red, "4", dotted, bend right] \& p \arrow[r, "2", bend left] \& q \arrow[d, "2", bend left] \\
         C \arrow[ru, "3"]             \& D \arrow[l, "4", bend left] \arrow[rr, blue, "9", dotted, bend right]                            \&                                                         \& y \arrow[lu, "3", bend left] \arrow[rrr, red, "0", dotted, bend right=49] \&                                                                                                    \& d \arrow[u, "1", bend left] \& r \arrow[l, "1", bend left]
       \end{tikzcd}
@@ -163,7 +163,7 @@ Choose a nontrivial **Cost**-[category](../2/3.qmd#v-cat) $\mathcal{X}$ and draw
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
 
-\begin{tikzcd}
+\begin{tikzcd} \pagecolor{white}
   & A \arrow[ld, "3"', bend right] \arrow[rd, "2", bend left] \arrow[rrr, blue,"0", dotted] &                                       &                                     & A \arrow[ld, bend right] \arrow[rd, bend left] &   \\
   B \arrow[rd, "4", bend right] \arrow[rr, "1"] \arrow[rrr, "0"', blue, dotted, bend right] &                                                                                    & D \arrow[rrr, "0", dotted, blue,bend left] & B \arrow[rd, bend right] \arrow[rr] &                                                & D \\
   & C \arrow[ru, "1"', bend right] \arrow[rrr, "0", blue, dotted]                            &                                       &                                     & C \arrow[ru, bend right]                       &

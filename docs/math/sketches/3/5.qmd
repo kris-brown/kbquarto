@@ -25,7 +25,7 @@ title: Introduction to limits and colimits
 
 - This is another object in $\mathcal{C}$ with morphisms $X \xleftarrow{p_x}X\times Y\xrightarrow{p_y}Y$
 - This should satisfy the property that there exists a unique morphism making the following diagram commute for any other object $C$ and morphisms $X \xleftarrow{f}C\xrightarrow{g}Y$
-- \begin{tikzcd}  & C \arrow[dd, "f \times g", dashed] \arrow[ld, "f"'] \arrow[rd, "g"] &   \\X &                                                                     & Y \\  & X \times Y \arrow[lu, "p_x"] \arrow[ru, "p_y"']                     &  \end{tikzcd}
+- \begin{tikzcd} \pagecolor{white} & C \arrow[dd, "f \times g", dashed] \arrow[ld, "f"'] \arrow[rd, "g"] &   \\X &                                                                     & Y \\  & X \times Y \arrow[lu, "p_x"] \arrow[ru, "p_y"']                     &  \end{tikzcd}
 :::
 
 
@@ -168,7 +168,7 @@ Let $x,y \in P$ be elements of a [preorder](../1/3.qmd#preorder) and $\mathcal{P
 - How is the product (and its unique map) related to terminal objects?
 - Call $\mathbf{Cone}(X,Y)$ the /category of cones over X and Y in/ $\mathcal{C}$, given two objects in $\mathcal{C}$.
     - An object is pair of maps $X \xleftarrow{f}C\xrightarrow{g}Y$ for some $c \in \mathcal{C}$
-    - A morphism $a$ from  $X \xleftarrow{f}C\xrightarrow{g}Y$ to  $X \xleftarrow{f'}C\xrightarrow{g'}Y$ is a morphism $C \rightarrow C'$ in $\mathcal{C}$ such that the following diagram commutes: \begin{tikzcd}  & C \arrow[dd, "a"] \arrow[ld, "f"'] \arrow[rd, "g"] &   \\X &                                                    & Y \\  & C; \arrow[lu, "f'"] \arrow[ru, "g'"']              &  \end{tikzcd}
+    - A morphism $a$ from  $X \xleftarrow{f}C\xrightarrow{g}Y$ to  $X \xleftarrow{f'}C\xrightarrow{g'}Y$ is a morphism $C \rightarrow C'$ in $\mathcal{C}$ such that the following diagram commutes: \begin{tikzcd} \pagecolor{white}  & C \arrow[dd, "a"] \arrow[ld, "f"'] \arrow[rd, "g"] &   \\X &                                                    & Y \\  & C; \arrow[lu, "f'"] \arrow[ru, "g'"']              &  \end{tikzcd}
 
 
 
@@ -181,7 +181,7 @@ Let $x,y \in P$ be elements of a [preorder](../1/3.qmd#preorder) and $\mathcal{P
 - We may draw a diagram $\mathcal{J}\xrightarrow{D}\mathcal{C}$ inside $\mathcal{C}$ as below:
 - $\boxed{D_1 \rightarrow D_2 \leftarrow D_3 \rightrightarrows D_4 \rightarrow D_5}$
 - We can represent this diagram as a cone over the diagram by picking a $C \in \mathcal{C}$ for which every pair of parallel paths that start from $C$ are the same.
-- \begin{tikzcd}              & C \arrow[d, "c_3"'] \arrow[ld, "c_1"'] \arrow[ldd, "c_2"']\arrow[rdd, "c_4"] \arrow[rrdd, "c_5"] &               &     \\D_1 \arrow[d] & D_3 \arrow[ld] \arrow[rd] \arrow[rd, bend right]                                                  &               &     \\D_2         &                                                                                                  & D_4 \arrow[r] & D_5\end{tikzcd}
+- \begin{tikzcd} \pagecolor{white}              & C \arrow[d, "c_3"'] \arrow[ld, "c_1"'] \arrow[ldd, "c_2"']\arrow[rdd, "c_4"] \arrow[rrdd, "c_5"] &               &     \\D_1 \arrow[d] & D_3 \arrow[ld] \arrow[rd] \arrow[rd, bend right]                                                  &               &     \\D_2         &                                                                                                  & D_4 \arrow[r] & D_5\end{tikzcd}
 
 
 :::
@@ -291,11 +291,11 @@ TODO not yet proven
 - If $\mathcal{J}$ is presented by the *cospan* graph $\boxed{\overset{x}\bullet \xrightarrow{f} \overset{a}\bullet \xleftarrow{g}\overset{y}\bullet}$ then its limit is known as a *pullback*.
 - Given the diagram $X \xrightarrow{f}A\xleftarrow{g}Y$, the pullback is the cone shown below:
 
-- \begin{tikzcd}C \arrow[d, "c_x"'] \arrow[rd, "c_a"] \arrow[r, "c_y"] & Y \arrow[d, "g"] \\X \arrow[r, "f"']                                      & A               \end{tikzcd}
+- \begin{tikzcd} \pagecolor{white} C \arrow[d, "c_x"'] \arrow[rd, "c_a"] \arrow[r, "c_y"] & Y \arrow[d, "g"] \\X \arrow[r, "f"']                                      & A               \end{tikzcd}
 
 - Because the diagram commutes, the diagonal arrow is superfluous. One can denote pullbacks instead like so:
 
-\begin{tikzcd}X \times_A Y_\lrcorner \arrow[d, "c_x"'] \arrow[r, "c_y"] & Y \arrow[d, "g"] \\X \arrow[r, "f"']                                         & A               \end{tikzcd}
+\begin{tikzcd} \pagecolor{white} X \times_A Y_\lrcorner \arrow[d, "c_x"'] \arrow[r, "c_y"] & Y \arrow[d, "g"] \\X \arrow[r, "f"']                                         & A               \end{tikzcd}
 
 - The pullback picks out the $(X,Y)$ pairs which map to the same output.
 

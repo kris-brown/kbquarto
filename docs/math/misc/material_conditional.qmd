@@ -4,7 +4,7 @@ title: Material conditional
 
 In logic, we see expressions like $P \implies Q$ a lot.
 
-- The symbol $\implies$ is read as `implies' and is also called the \href{https://en.wikipedia.org/wiki/Material_conditional}{material conditional}.
+- The symbol $\implies$ is read as `implies' and is also called the [material conditional](https://en.wikipedia.org/wiki/Material_conditional).
 - Logically/mathematically, it is a truth-function.
     - I.e. it merely takes in two yes-or-no bits of information and deterministically spits out a bit of information.
     - A simple characterization is to say that the only way to show that $P\implies Q$ is false is to show that $P$ is false and $Q$ is true.

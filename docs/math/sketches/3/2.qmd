@@ -101,7 +101,7 @@ We can add constraints to a [free category](#freecat) which states that two path
 Write down all the morphisms in the [free category](#freecat) presented by the following diagram:
 
 
-\begin{tikzcd}[ampersand replacement=\&]
+\begin{tikzcd}[ampersand replacement=\&] \pagecolor{white}
   A \arrow[d, "g"'] \arrow[rr, "f"] \arrow[rrd, "j"] \& {} \& B \arrow[d, "h"] \\C \arrow[rr, "i"']\& {} \& D \&f;h=j=g;i \& {}
 \end{tikzcd}
 
@@ -143,7 +143,7 @@ z,s,ss,sss
 
 What equations are needed to add to the following graphs in order to present the associated preorders?
 
-\begin{tikzcd}[ampersand replacement=\&]1 \& \bullet \arrow[r, "f", bend left] \arrow[r, "g"',bend right] \& \bullet                \\2 \& \bullet \circlearrowleft f\&\\3 \& \bullet \arrow[r, "f"] \arrow[d, "g"']\& \bullet \arrow[d, "h"] \\  \& \bullet \arrow[r, "i"]\& \bullet\\4 \& \bullet \arrow[d, "g"] \arrow[r, "f"]\& \bullet \arrow[d, "h"] \\  \& \bullet\& \bullet\end{tikzcd}
+\begin{tikzcd}[ampersand replacement=\&] \pagecolor{white} 1 \& \bullet \arrow[r, "f", bend left] \arrow[r, "g"',bend right] \& \bullet                \\2 \& \bullet \circlearrowleft f\&\\3 \& \bullet \arrow[r, "f"] \arrow[d, "g"']\& \bullet \arrow[d, "h"] \\  \& \bullet \arrow[r, "i"]\& \bullet\\4 \& \bullet \arrow[d, "g"] \arrow[r, "f"]\& \bullet \arrow[d, "h"] \\  \& \bullet\& \bullet\end{tikzcd}
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
@@ -222,7 +222,7 @@ The set $\{a,b,c\}$ and $\bar{3}$ are [isomorphic](#iso) (we have $3!$ bijection
 <div id="?"/></div>
 
 - It is possible for $f;g=id$ but $g;f \ne id$
-- \begin{tikzcd}1 \arrow[r, "f"] & A \arrow[r, "g"] & 1 \\& B \arrow[ru]     &   \\2 \arrow[r]      & C \arrow[r]      & 2\end{tikzcd}
+- \begin{tikzcd} \pagecolor{white} 1 \arrow[r, "f"] & A \arrow[r, "g"] & 1 \\& B \arrow[ru]     &   \\2 \arrow[r]      & C \arrow[r]      & 2\end{tikzcd}
 - This is called a *retraction* rather than an *isomorphism*.
 :::
 

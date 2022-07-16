@@ -116,7 +116,7 @@ Check if $(M,e,\star)$ is a commutative monoid then $(\mathbf{Disc}_M, =, e, \st
 ## Exercise 2-20
 <div id="2-20"/></div>
 
- Given the assertions the interior of this wiring diagram:  \begin{tikzcd}[ampersand replacement=\&]
+ Given the assertions the interior of this wiring diagram:  \begin{tikzcd}[ampersand replacement=\&] \pagecolor{white}
               \cdot \arrow[r, "t"]  \& \boxed{\leq} \arrow[rr, "v"] \arrow[rd, "w"]\& \& \boxed{\leq} \arrow[r, "y"] \& \cdot \\
               \cdot \arrow[rr, "u"] \& \& \boxed{\leq} \arrow[ru, "x"] \arrow[rr,"z"] \&                             \& \cdot
             \end{tikzcd}
@@ -344,7 +344,7 @@ If the $\leq$ are replaced with $\cong$, the map is *strong*, and if replaced wi
 ## Monoidal monotones between $\mathbb{N}$ and $\mathbb{R}$
 <div id="natural-real-monoidal-monotones"/></div>
 
-- *Strict* monoidal monotone injection $(\mathbb{N},\leq, 0, +) \xhookrightarrow{i} (\mathbb{R},\leq,0,+)$
+- *Strict* monoidal monotone injection $i: (\mathbb{N},\leq, 0, +) \hookrightarrow (\mathbb{R},\leq,0,+)$
 - There is also a monoidal monotone $(\mathbb{R}^+,\leq, 0, +) \xrightarrow{\lfloor x \rfloor} (\mathbb{N},\leq,0,+)$
     - Monotonic: $x \leq_\mathbb{R} y \implies \lfloor x \rfloor \leq \lfloor y \rfloor$
     - But it is neither strict nor strong: $\lfloor 0.5 \rfloor + \lfloor 0.5 \rfloor \not \cong \lfloor 0.5+0.5 \rfloor$

@@ -43,7 +43,7 @@ Suppose we have the preorders $X:=\boxed{monoid\rightarrow category \leftarrow p
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-1.  \begin{tikzcd}
+1.  \begin{tikzcd} \pagecolor{white}
               {(M,B)}                     & {(C,B)} \arrow[r] \arrow[l]                     & {(P,B)}                     \\
               {(M,\varnothing)} \arrow[u] & {(C,\varnothing)} \arrow[l] \arrow[r] \arrow[u] & {(P,\varnothing)} \arrow[u]
             \end{tikzcd}
@@ -92,7 +92,7 @@ A $\mathcal{V}$ [functor](../2/4.qmd#v-functor) $\mathcal{X}^{op}\times Y \xrigh
 - Let's consider **Bool**-[profunctor](#v-prof). Recall a preorder (**Bool**-[category](../2/3.qmd#v-cat)) can be drawn as a Hasse diagram.
 - A **Bool**-[profunctor](#v-prof) $X \overset{\phi}{\nrightarrow} Y$ can look like this:
 
-\begin{tikzcd}
+\begin{tikzcd} \pagecolor{white}
   & N \arrow[rrr, blue,dotted, bend left] \arrow[rrrrdd, blue, dotted, bend left] &                                             &              & e                       &   \\
   W \arrow[ru] &                                                                    & E \arrow[lu] \arrow[rd, blue, dotted, bend right] & d \arrow[ru] &                         &   \\
   & S \arrow[lu] \arrow[ru] \arrow[rrrd, blue, dotted, bend right]           &                                             & b \arrow[u]  &                         & c \\
@@ -116,7 +116,7 @@ A $\mathcal{V}$ [functor](../2/4.qmd#v-functor) $\mathcal{X}^{op}\times Y \xrigh
 - **Cost** categories are Lawvere metric spaces and can be represented by weighted graphs
 - This is a depiction of a **Cost**-[profunctor](#v-prof)
 
-\begin{tikzcd}
+\begin{tikzcd} \pagecolor{white}
   A \arrow[d, "3"', bend right] & B \arrow[l, "2"', bend right] \arrow[d, "5", bend left] \arrow[r, "11", blue, dotted, bend left] & x \arrow[rr, "3", bend left] \arrow[rd, "4", bend left] &                              & z \arrow[ld, "4", bend left] \\
   C \arrow[ru, "3"]                  & D \arrow[l, "4", bend left] \arrow[rr, "9", blue, dotted, bend right]                            &                                                         & y \arrow[lu, "3", bend left] &
 \end{tikzcd}
@@ -253,7 +253,7 @@ The box represents a [feasibility relation](#feas): $Load \times Velocity \nrigh
 
 
 - Consider the [feasibility relation](#feas)
-\begin{tikzcd}
+\begin{tikzcd} \pagecolor{white}
   T \arrow[rd] &                        &             \\
   & \boxed{\phi} \arrow[r] & Money \\
   E \arrow[ru] &                        &
@@ -263,7 +263,7 @@ The box represents a [feasibility relation](#feas): $Load \times Velocity \nrigh
     - $Money:=\boxed{100 K\rightarrow 500 K \rightarrow 1M}$
 
 - A possible [feasibility relation](#feas) is here:
-\begin{tikzcd}
+\begin{tikzcd} \pagecolor{white}
   & {(nice,funny)}                                             &                                                &  & 1M             \\
   {(mean, funny)} \arrow[ru] \arrow[rrrru, blue, dotted] &                                                            & {(nice, boring)} \arrow[lu] \arrow[rr, blue, dotted] &  & 500K \arrow[u] \\
   & {(mean, boring)} \arrow[ru] \arrow[lu] \arrow[rrr, blue,dotted] &                                                &  & 100K \arrow[u]

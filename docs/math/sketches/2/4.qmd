@@ -51,7 +51,7 @@ Recall the [regions of the world](#2-52) Hausdorff metric space we learned that 
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-The edges in the preorder represent the $\subseteq$ relation. For Boston, US, and Spain, it would look like this (with implicit self-edges): \begin{tikzcd}US& Spain \\Boston \arrow[u] &\end{tikzcd}
+The edges in the preorder represent the $\subseteq$ relation. For Boston, US, and Spain, it would look like this (with implicit self-edges): \begin{tikzcd} \pagecolor{white} US& Spain \\Boston \arrow[u] &\end{tikzcd}
 :::
 :::
 
@@ -67,7 +67,7 @@ Find a different [monoidal monotone map](2.qmd#monoidal-monotone) $\mathbf{Cost}
 ## Solution
 - Take the two monoidal monotone maps from [Exercise 2.44](2.qmd#2-44)
 - $f$ yields a discrete preorder whereas $g$ does not.
-- \begin{tikzcd}A \arrow[r, "1"] & B \\A \arrow[r, "\not\leq_f", dotted] & B \\A \arrow[r, "\leq_g"]             & B\end{tikzcd}
+- \begin{tikzcd} \pagecolor{white} A \arrow[r, "1"] & B \\A \arrow[r, "\not\leq_f", dotted] & B \\A \arrow[r, "\leq_g"]             & B\end{tikzcd}
 
 :::
 :::
@@ -148,8 +148,8 @@ This is also a $\mathcal{V}$ category with:
 ## **Cost** category product
 <div id="cost-product"/></div>
 - Let $\mathcal{X}$ and $\mathcal{Y}$ be the [Lawvere metric spaces](3.qmd#lawvere-space) (i.e. **Cost** categories) defined by the following weighted graphs.
-- \begin{tikzcd}\mathcal{X}:= & A \arrow[r, "2"]            & B \arrow[r, "3"]            & C \\\mathcal{Y}:= & P \arrow[r, "5", bend left] & Q \arrow[l, "8", bend left] &  \end{tikzcd}
-- The product can be represented by the following graph: \begin{tikzcd}{(A,P)} \arrow[r, "2"] \arrow[d, "5"', bend right]  & {(B,P)} \arrow[r, "3"] \arrow[d, "5"', bend right]  & {(C,p)} \arrow[d, "5"', bend right] \\{(A,Q)} \arrow[r, "2"'] \arrow[u, "8"', bend right] & {(B,Q)} \arrow[r, "3"'] \arrow[u, "8"', bend right] & {(C,Q)} \arrow[u, "8"', bend right]\end{tikzcd}
+- \begin{tikzcd} \pagecolor{white} \mathcal{X}:= & A \arrow[r, "2"]            & B \arrow[r, "3"]            & C \\\mathcal{Y}:= & P \arrow[r, "5", bend left] & Q \arrow[l, "8", bend left] &  \end{tikzcd}
+- The product can be represented by the following graph: \begin{tikzcd} \pagecolor{white} {(A,P)} \arrow[r, "2"] \arrow[d, "5"', bend right]  & {(B,P)} \arrow[r, "3"] \arrow[d, "5"', bend right]  & {(C,p)} \arrow[d, "5"', bend right] \\{(A,Q)} \arrow[r, "2"'] \arrow[u, "8"', bend right] & {(B,Q)} \arrow[r, "3"'] \arrow[u, "8"', bend right] & {(C,Q)} \arrow[u, "8"', bend right]\end{tikzcd}
 - The distance between any two points $(x,y),(x',y')$ is given by the sum $d_X(x,x)+d_Y(y,y)$.
 
 - We can also consider the **Cost**-categories as matrices

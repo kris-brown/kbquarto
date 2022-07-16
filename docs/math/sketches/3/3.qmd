@@ -151,7 +151,7 @@ Define $F_S$ to send the object of **1} to $S$ and preserve identity morphisms. 
 <div id="nattrans"/></div>
     \item For each object $c \in \mathcal{C}$, one specifies a morphism $F(c)\xrightarrow{\alpha_c}G(c)$ in $\mathcal{D}$ called the *c-component of} $\alpha$
     \item These components must satisfy the *naturality condition}: for each morphism $c \xrightarrow{f} d$ in $\mathcal{C}$ we need $F(f);\alpha_d=\alpha_c;G(f)$
-    \item AKA this diagram should commute: \begin{tikzcd}F(c) \arrow[r, "\alpha_c"] \arrow[d, "F(f)"'] & G(c)\arrow[d, "G(f)"] \\F(d) \arrow[r, "\alpha_d"']& G(d)\end{tikzcd}
+    \item AKA this diagram should commute: \begin{tikzcd} \pagecolor{white} F(c) \arrow[r, "\alpha_c"] \arrow[d, "F(f)"'] & G(c)\arrow[d, "G(f)"] \\F(d) \arrow[r, "\alpha_d"']& G(d)\end{tikzcd}
 :::
 
 
@@ -178,7 +178,7 @@ $\mathcal{D}^\mathcal{C}$ has all [functors](#functor) $\mathcal{C} \rightarrow 
 <div id="nattransex"/></div>
 
 
-- \begin{tikzcd}                                                                            &                                                                                &                                    & v\arrow[blue,r, "d"'] \arrow[green,dd, "c"] & w \arrow[rd, "h"] \arrow[green,dd,"g"'] &   \\1 \arrow[r, "f"] \arrow[blue,rrru, dashed, bend left] \arrow[red,rrrd,dashed, bend right] & 2 \arrow[blue,rrru, "F"', dashed, bend left=49]\arrow[red,rrrd, "G", dashed, bend right=49] & u \arrow[ru, "a"]\arrow[rd, "b"'] &                                  &                                    & z \\                                                                                &                                                                                    &                                    & x\arrow[red,r, "e"]                  & y \arrow[ru,"k"']                 &  \end{tikzcd}
+- \begin{tikzcd} \pagecolor{white}                                                                            &                                                                                &                                    & v\arrow[blue,r, "d"'] \arrow[green,dd, "c"] & w \arrow[rd, "h"] \arrow[green,dd,"g"'] &   \\1 \arrow[r, "f"] \arrow[blue,rrru, dashed, bend left] \arrow[red,rrrd,dashed, bend right] & 2 \arrow[blue,rrru, "F"', dashed, bend left=49]\arrow[red,rrrd, "G", dashed, bend right=49] & u \arrow[ru, "a"]\arrow[rd, "b"'] &                                  &                                    & z \\                                                                                &                                                                                    &                                    & x\arrow[red,r, "e"]                  & y \arrow[ru,"k"']                 &  \end{tikzcd}
 - The [natural transformation](#nattrans) requires us to choose morphisms in the righthand category for each object in the lefthand category
 - The only choices to satisfy the naturality condition are $c$ and $g$.
 
@@ -191,7 +191,7 @@ $\mathcal{D}^\mathcal{C}$ has all [functors](#functor) $\mathcal{C} \rightarrow 
 <div id="terminal_nattrans"/></div>
 
 
--  Just like sets are in bijection with [functors](#functor) $\mathbf{1}\rightarrow\mathbf{Set}$, we can also associate [natural transformations](#nattrans) \begin{tikzcd}1 \arrow[r, bend left] \arrow[r, "\Downarrow", bend right] & Set\end{tikzcd} with functions.
+-  Just like sets are in bijection with [functors](#functor) $\mathbf{1}\rightarrow\mathbf{Set}$, we can also associate [natural transformations](#nattrans) \begin{tikzcd} \pagecolor{white} 1 \arrow[r, bend left] \arrow[r, "\Downarrow", bend right] & Set\end{tikzcd} with functions.
 - In the language of [functor categories](#funcat), this claim is to say $\mathbf{Set}^1$ is equivalent to **Set**.
 
 
@@ -232,7 +232,7 @@ Let's investigate why the [functor category](#funcat) is actually a [category](2
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-1.  The individual [natural transformations](#nattrans) satsifying the naturality condition makes the left and right squares commute, meaning the whole diagram commutes: \begin{tikzcd}F(c) \arrow[r, "\alpha_c"] \arrow[d, "F(f)"'] & G(c) \arrow[d,"G(f)"] \arrow[r, "\beta_{G(c)}"] & H(c) \arrow[d, "H(G(f))"] \\F(d) \arrow[r, "\alpha_d"']                   & G(d) \arrow[r,"\beta_{G(d)}"]                   & H(d)                     \end{tikzcd}
+1.  The individual [natural transformations](#nattrans) satsifying the naturality condition makes the left and right squares commute, meaning the whole diagram commutes: \begin{tikzcd} \pagecolor{white} F(c) \arrow[r, "\alpha_c"] \arrow[d, "F(f)"'] & G(c) \arrow[d,"G(f)"] \arrow[r, "\beta_{G(c)}"] & H(c) \arrow[d, "H(G(f))"] \\F(d) \arrow[r, "\alpha_d"']                   & G(d) \arrow[r,"\beta_{G(d)}"]                   & H(d)                     \end{tikzcd}
   - Thus the mapping from objects in $F$'s domain to morphisms in $H$'s codomain is given by $G;\beta$.
 
 2. Mapping each object to its own identity morphism will satisfy the naturality condition (all four edges of the square become identity functions). This will enforce unitality.
@@ -253,12 +253,12 @@ Let $\mathcal{C}$ be an arbitrary [category](2.qmd#cat) and $\mathcal{P}$ be a p
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
 1. This is true: there are no choices to be made for a [natural transformation](#nattrans), given that for each morphism $c\rightarrow d$ in $\mathcal{C}$ we have to pick $\alpha_c$ to be **the} morphism $F(c)\rightarrow G(c)$ and $\alpha_{d}$ to be **the} morphism $F(d)\rightarrow G(d)$.
-2. Counterexample: \begin{tikzcd}\underline{\mathcal{C}}&\underline{\mathcal{P}}\\2&b\\1 \arrow[u, "x", bend left] \arrow[u, "y"', bend right] &a \arrow[u, "f"]\end{tikzcd}
+2. Counterexample: \begin{tikzcd} \pagecolor{white} \underline{\mathcal{C}}&\underline{\mathcal{P}}\\2&b\\1 \arrow[u, "x", bend left] \arrow[u, "y"', bend right] &a \arrow[u, "f"]\end{tikzcd}
 
     - let $F$ send $f\mapsto x,a\mapsto1,b\mapsto 2$ and $G$ maps everything to $2$
     - The naturality condition for $f$ leaves us with two choices for $\alpha_a$
 a
-\begin{tikzcd}F(a)=1 \arrow[d, "F(f)=x"'] \arrow[r, "{\alpha_a \in \{x,y\}}"] & G(a)=2 \arrow[d, "G(f)=id_2"] \\F(y)=2 \arrow[r, "{\alpha_b=id_2}"'] & G(b)=2 \end{tikzcd}
+\begin{tikzcd} \pagecolor{white} F(a)=1 \arrow[d, "F(f)=x"'] \arrow[r, "{\alpha_a \in \{x,y\}}"] & G(a)=2 \arrow[d, "G(f)=id_2"] \\F(y)=2 \arrow[r, "{\alpha_b=id_2}"'] & G(b)=2 \end{tikzcd}
 :::
 :::
 
@@ -289,8 +289,8 @@ a
         1. $G(Vert) \xrightarrow{\alpha_{vert}} H(vert)$
         2.  $G(Arr) \xrightarrow{\alpha_{arr}} H(Arr)$
     - Naturality conditions
-        1. \begin{tikzcd}G(Arr) \arrow[r, "\alpha_{Arr}"] \arrow[d, "G(src)"'] & H(Arr) \arrow[d, "H(src)"] \\G(Vert) \arrow[r, "\alpha_{Vert}"']                   & H(Vert)                   \end{tikzcd}
-        2. \begin{tikzcd}G(Arr) \arrow[r, "\alpha_{Arr}"] \arrow[d, "G(tar)"'] & H(Arr) \arrow[d, "H(tar)"] \\G(Vert) \arrow[r, "\alpha_{Vert}"']                   & H(Vert)                   \end{tikzcd}
+        1. \begin{tikzcd} \pagecolor{white} G(Arr) \arrow[r, "\alpha_{Arr}"] \arrow[d, "G(src)"'] & H(Arr) \arrow[d, "H(src)"] \\G(Vert) \arrow[r, "\alpha_{Vert}"']                   & H(Vert)                   \end{tikzcd}
+        2. \begin{tikzcd} \pagecolor{white} G(Arr) \arrow[r, "\alpha_{Arr}"] \arrow[d, "G(tar)"'] & H(Arr) \arrow[d, "H(tar)"] \\G(Vert) \arrow[r, "\alpha_{Vert}"']                   & H(Vert)                   \end{tikzcd}
 
 
 

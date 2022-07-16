@@ -29,10 +29,10 @@ A pair of [monotone maps](4.qmd#monotone-map) $P \xrightarrow{f} Q$ and $Q \xrig
 ## Total order galois connections
 <div id="total-order-galois"/></div>
 - Consider the total orders $P = Q = \underline{3}$ with the following [monotone maps](4.qmd#monotone-map):
-  - \begin{tikzcd} P \arrow[d, "f"', dotted] & \overset{1}{\bullet} \arrow[r] \arrow[d, dotted, bend right]  & \overset{2}{\bullet} \arrow[r] \arrow[ld, dotted, bend right] & \overset{3}{\bullet} \arrow[d, dotted, bend right] & P \\ Q & \overset{1}{\bullet} \arrow[r] \arrow[ru, dashed, bend right] & \overset{2}{\bullet} \arrow[r] \arrow[u, dashed, bend right]  & \overset{3}{\bullet} \arrow[u, dashed, bend right] & Q \arrow[u, "g"', dashed] \end{tikzcd}
+  - \begin{tikzcd} \pagecolor{white} P \arrow[d, "f"', dotted] & \overset{1}{\bullet} \arrow[r] \arrow[d, dotted, bend right]  & \overset{2}{\bullet} \arrow[r] \arrow[ld, dotted, bend right] & \overset{3}{\bullet} \arrow[d, dotted, bend right] & P \\ Q & \overset{1}{\bullet} \arrow[r] \arrow[ru, dashed, bend right] & \overset{2}{\bullet} \arrow[r] \arrow[u, dashed, bend right]  & \overset{3}{\bullet} \arrow[u, dashed, bend right] & Q \arrow[u, "g"', dashed] \end{tikzcd}
   - These do form a Galois connection
 - These maps do not form a Galois connection:
-    - \begin{tikzcd}P \arrow[d, "f"', dotted] & \overset{1}{\bullet} \arrow[r] \arrow[d, dotted, bend right]     & \overset{2}{\bullet} \arrow[r] \arrow[d, dotted, bend right=49] & \overset{3}{\bullet} \arrow[d, dotted, bend right] & P \\ Q & \overset{1}{\bullet} \arrow[r] \arrow[ru, dashed, bend right=49] & \overset{2}{\bullet} \arrow[r] \arrow[u, dashed, bend right]    & \overset{3}{\bullet} \arrow[u, dashed, bend right] & Q \arrow[u, "g"', dashed] \end{tikzcd}
+    - \begin{tikzcd} \pagecolor{white} P \arrow[d, "f"', dotted] & \overset{1}{\bullet} \arrow[r] \arrow[d, dotted, bend right]     & \overset{2}{\bullet} \arrow[r] \arrow[d, dotted, bend right=49] & \overset{3}{\bullet} \arrow[d, dotted, bend right] & P \\ Q & \overset{1}{\bullet} \arrow[r] \arrow[ru, dashed, bend right=49] & \overset{2}{\bullet} \arrow[r] \arrow[u, dashed, bend right]    & \overset{3}{\bullet} \arrow[u, dashed, bend right] & Q \arrow[u, "g"', dashed] \end{tikzcd}
     - These do not because of $p=2, q = 1$
     - $f(p)=2 \not \leq q=1$ which is not the same as $p = 1 \leq g(q)=2$
 - In some sense that can be formalized, for total orders the notion of Galois connection corresponds to the maps not 'crossing over.'
@@ -46,7 +46,7 @@ Does $\mathbb{R}\xrightarrow{\lceil x/3 \rceil}\mathbb{Z}$ have a left adjoint $
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
--  \begin{tikzcd}
+-  \begin{tikzcd} \pagecolor{white}
     \mathbb{R} \arrow[d, "R"', dashed, bend right]  & 0.0 \arrow[d, dashed] \arrow[r, "\leq"] & x \arrow[rd, dashed] \arrow[r, "\leq"] & 1.0 \arrow[d, dotted] \arrow[rr, "\leq"] &  & \dots \\
     \mathbb{Z} \arrow[u, "L?"', dotted, bend right] & 0 \arrow[rr, "\leq"]                    &                                        & 1 \arrow[rr, "\leq"]                     &  & \dots
     \end{tikzcd}
@@ -273,7 +273,7 @@ A [monotone map](4.qmd#monotone-map) such that, for all $p \in P$, we have:
 - Let $P \xrightarrow{j} P$ be a closure operator.
 - Get a new preorder by looking at a subset of $P$ fixed by $j$.
     - $fix_j$ defined as $\{p \in P\ |\ j(p)\cong p\}$
-- Define a \left adjoint $P \xrightarrow{j} fix_j$ and \right adjoint $fix_j \xhookrightarrow{g} P$ as simply the inclusion function.
+- Define a \left adjoint $P \xrightarrow{j} fix_j$ and \right adjoint $g:fix_j \hookrightarrow P$ as simply the inclusion function.
 - To see that $j \dashv g$, we need to verify $j(p) \leq q \iff p \leq q$
     - Show $\rightarrow$:
         - Because $j$ is a closure operator, $p \leq j(p)$
@@ -337,7 +337,7 @@ Given $f \dashv g$, prove that the composition of left and right adjoint monoton
 
 Let $S=\{1,2,3\}$
 
-1. Come up with any preorder relation on $S$, and define $U(\leq):=\{(s_1,s_2)\ |\ s_1 \leq s_2\}$ (the relation `underlying' the preorder. Note $\mathbf{Pos}(S) \xhookrightarrow{U} \mathbf{Rel}(S)$)
+1. Come up with any preorder relation on $S$, and define $U(\leq):=\{(s_1,s_2)\ |\ s_1 \leq s_2\}$ (the relation `underlying' the preorder. Note $U: \mathbf{Pos}(S) \hookrightarrow \mathbf{Rel}(S)$)
 2. Pick binary relations such that $Q \subseteq U(\leq)$ and $Q' \not \subseteq U(\leq)$
 
 We want to check that the reflexive/transitive closure operation $Cl$ is really left adjoint to the underlying relation $U$.
@@ -348,9 +348,9 @@ We want to check that the reflexive/transitive closure operation $Cl$ is really 
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-1. Let the preorder be given by this diagram (with implicit reflexive arrows): \begin{tikzcd}2 \arrow[rr] && 3 \\& 1 \arrow[lu] \arrow[ru] &  \end{tikzcd}
+1. Let the preorder be given by this diagram (with implicit reflexive arrows): \begin{tikzcd} \pagecolor{white} 2 \arrow[rr] && 3 \\& 1 \arrow[lu] \arrow[ru] &  \end{tikzcd}
 2. Let $Q$ be given by the following diagram
-    - \begin{tikzcd}2 && \looparrowright 3 \\& \looparrowright 1 \arrow[lu] &\end{tikzcd}
+    - \begin{tikzcd} \pagecolor{white} 2 && \looparrowright 3 \\& \looparrowright 1 \arrow[lu] &\end{tikzcd}
     - and let $Q'=S\times S$
 3. \,$Cl(Q) = \{11,12,22,33\}$\, $\sqsubset$ \,$\leq = \{11,22,33,12,23,13\}$\,
 4. \,$Cl(Q') = Q' = S \times S$\, $\not \sqsubset$ \,$\leq$\,  (reason: \,$(3,1) \in S \times S$ but $(3,1) \not \in \leq$\,)

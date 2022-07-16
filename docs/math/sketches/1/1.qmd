@@ -34,7 +34,7 @@ Give an example and non-example for
 
 - The above operation of joining systems can be derived from a more basic structure: order.
 - Let $A \leq B$ be defined as a relationship that holds when $\forall x,y:\ (x,y) \in A \implies (x,y) \in B$
--  \begin{tikzcd}& \boxed{a b c}&\\\boxed{a b} \boxed{c} \arrow[ru] & \boxed{ac}\boxed{b} \arrow[u] & \boxed{a}\boxed{bc} \arrow[lu] \\& \boxed{a}\boxed{b}\boxed{c} \arrow[lu] \arrow[u] \arrow[ru] & \end{tikzcd}
+-  \begin{tikzcd} \pagecolor{white}& \boxed{a b c}&\\\boxed{a b} \boxed{c} \arrow[ru] & \boxed{ac}\boxed{b} \arrow[u] & \boxed{a}\boxed{bc} \arrow[lu] \\& \boxed{a}\boxed{b}\boxed{c} \arrow[lu] \arrow[u] \arrow[ru] & \end{tikzcd}
 -  The joined system $A \lor B$ is the smallest system that is bigger than both $A$ and $B$.
 - The possibility of a generative effect is captured in the inequality $\phi(A) \lor \phi(B) \leq \phi(A \lor B)$, where $\phi$ was defined above.
 - There was a generative effect because there exist systems violate this (both are individually false for $\phi$ but not when put together).

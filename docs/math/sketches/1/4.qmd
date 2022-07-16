@@ -28,7 +28,7 @@ A \monotone map for which there exists an inverse monotone map such that $f;g=id
 <div id="pullback-along-monotone"/></div>
 
 - We take the preimage of $f$, but not for a single element of $Q$ but rather an [upper set](3.qmd#upper-set) of $Q$.
-- \begin{tikzcd} {(P, \leq_P)} \arrow[d, "f^*(u) \in U(P)"', dashed] \arrow[r, "f"] & {(Q, \leq_Q)} \arrow[ld, "u \in U(Q)"] \\ \mathbb{B}ool& \end{tikzcd}
+- \begin{tikzcd} \pagecolor{white} {(P, \leq_P)} \arrow[d, "f^*(u) \in U(P)"', dashed] \arrow[r, "f"] & {(Q, \leq_Q)} \arrow[ld, "u \in U(Q)"] \\ \mathbb{B}ool& \end{tikzcd}
 - Noting that [upper sets are monotone maps to $\mathbb{B}$](#monotones_to_bool), it follows that the result of a pullback is an upper set in $P$ follows from the fact that composition preserves monotonicity.
 - Therefore the type of the pullback is $U(Q) \xrightarrow{f^*} U(P)$
 :::
@@ -54,7 +54,7 @@ This is the *Yoneda lemma for preorders* (i.e. up to equivalence, to know an ele
           - This is shown by noting that $p' \in \uparrow(p)$ and anything `above' $p'$ (i.e. $\uparrow(p')$) will therefore be in $\uparrow(p)$.
 3. Forward direction has been shown above
     - The other direction is shown just by noting that $p\prime$ must be an element of $\uparrow(p\prime)$ and by the subset relation also in $\uparrow(p')$, therefore $p \leq p'$.
-4.  \begin{tikzcd}
+4.  \begin{tikzcd} \pagecolor{white}
       B & & C &  & \{B\} & & \{C\} \\
       & A \arrow[lu] \arrow[ru] & {} \arrow[rr, "\uparrow", dotted, bend left] &  & {}    & \{A, B, C\} \arrow[ru] \arrow[lu] &
     \end{tikzcd}

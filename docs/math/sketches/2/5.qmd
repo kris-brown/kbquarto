@@ -383,7 +383,7 @@ Let $\mathcal{V}=(V,\leq,I,\otimes,\multimap)$ be a quantale. Prove:
 
 Consider the distance matrix represented by this graph:
 
-\begin{tikzcd}[ampersand replacement=\&]
+\begin{tikzcd}[ampersand replacement=\&] \pagecolor{white}
   A  \arrow[d, "3", bend right] \& B \arrow[l, "2"', bend right] \arrow[d, "5"', bend left] \\
   D  \arrow[ru, "3"] \& C \arrow[l, "6", bend left]
 \end{tikzcd}

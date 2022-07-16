@@ -26,7 +26,7 @@ title: Categorification
 
 
 ## A reflection on wiring diagrams
-To do...
+[To do]{style="color: red; background-color: yellow;"}
 
 ## Monoidal categories
 
@@ -79,7 +79,7 @@ Check that monoidal categories generalize monoidal preorders: a monoidal preorde
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-TODO
+[TODO]{style="color: red; background-color: yellow;"}
 :::
 :::
 ::: {.callout-important icon=false collapse=false}

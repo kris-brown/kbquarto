@@ -97,7 +97,7 @@ A functor for which
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-TODO
+[TODO]{style="color: red; background-color: yellow;"}
 :::
 :::
 
@@ -132,7 +132,7 @@ For the prop \ref{Rel as prop|\textbf{Rel|referenced}}, provide the five aspects
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-TODO
+[TODO]{style="color: red; background-color: yellow;"}
 :::
 :::
 
@@ -165,8 +165,8 @@ TODO
     \item There are three internal boxes, meaning the vertex set is $\{a, b, c\}$.
     \item $in(a)=1$ and $out(a)=3$ which tells us to draw one port on the LHS and three on the RHS.
     \item The bijection $i$ tells us how the ports are connected by wires.
-    \item [TODO Draw this]
-    \item The acyclic internal flow graph is shown below [TODO Draw this]
+    \item [[TODO]{style="color: red; background-color: yellow;"} Draw this]
+    \item The acyclic internal flow graph is shown below [[TODO]{style="color: red; background-color: yellow;"} Draw this]
   \end{itemize}
 
 :::
@@ -183,7 +183,7 @@ TODO
     \item  The bijection $\bar m \sqcup O \sqcup O' \xrightarrow{i''} I \sqcup I' \sqcup \bar p$ is defined as \, $i''(x)=\begin{cases}i(x) & i(x) \in I \\ i'(i(x))& i(x) \in \bar n \\ i'(x) & x \in O' \end{cases}$ \,
     \item The identity port graph on $n$ is \, $(\varnothing, !, !, id_{\bar n})$ \, where $\varnothing \xrightarrow{!} \mathbb{N}$ is a unique function.
     \item This category is a prop.
-    \item The monoidal product of two portgraphs... TODO
+    \item The monoidal product of two portgraphs... [TODO]{style="color: red; background-color: yellow;"}
   \end{itemize}
 :::
 
@@ -196,7 +196,7 @@ Describe how [port graph composition](#pg-cat) looks, with respect to the visual
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-TODO
+[TODO]{style="color: red; background-color: yellow;"}
 :::
 :::
 

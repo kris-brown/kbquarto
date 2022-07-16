@@ -12,7 +12,7 @@ title: Ought to be vs ought to do
 |  First personal  |  Third personal judgment of some behavior |
 |  What's appropriate for me to do?  | Given what you did, was it appropriate? |
 |  The person subject to the rule is the one following the rule  |  There may be no particular agent at all |
-|  Examples? TODO  |   "One ought to feel sympathy for the bereaved''<br>"All clocks should strike midnight at the same time.''<br>"Plants ought to get enough water to flower.'' |
+|  Examples? [TODO]{style="color: red; background-color: yellow;"}  |   "One ought to feel sympathy for the bereaved''<br>"All clocks should strike midnight at the same time.''<br>"Plants ought to get enough water to flower.'' |
 
 - A distinction fundamental for both 'must' in the alethic and doxastic modal senses.
 

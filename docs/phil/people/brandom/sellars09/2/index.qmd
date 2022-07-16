@@ -126,7 +126,7 @@ Related quesiton addressed here: [classical Behaviorism](/docs/phil/situations/b
 
 How is it that I can apply a concept according to norms, to invoke a pre-linguistic awareness of universals, that's going to be a given. And the key thing is, because that pre-linguistic awareness is conceived of as providing *reasons* for me to do this. It's not just that I've been *trained* to respond to some physiological thing by doing it (that would be okay. That could be part of the the real explanation, the pattern governed explanation). It's that that pre-linguistic awareness provides reasons. And the claim is reasons are always making a move in a game that's making the inferential move. And the question is: what determines the norms that govern that? Then we're off on the on the regress, again, so we've got to have some story that doesn't have that form. The form of the argument against the myth of the given. It's the idea that the awareness that givenness provides something that can serve as a reason, but is itself not dependent on our having learned a language, having a conceptual scheme, and so on.
 
-To do: understand language entry transitions and language exit transitions.
+[To do]{style="color: red; background-color: yellow;"}: understand language entry transitions and language exit transitions.
 
 There is debate (but it should be more of a bigger deal, in Brandom's opinion) about what are the minimal features needed for one to have a discursive language practice. Brandom views logical language as optional (though the expressive power would be incredibly stunted, you could still give and ask for reasons). MacDowell and Sellars think otherwise, that there can't be discourse without a meta-language.
 

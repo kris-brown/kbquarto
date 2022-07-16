@@ -166,7 +166,7 @@ The natural isomorphism $\mathcal{C}(b \otimes c, d)\cong \mathcal{C}(b,c \multi
 
 1. $\boxed{\varnothing}\rightarrow \underset{\bar 3}{\boxed{\bullet\ \bullet\ \bullet}}\  \underset{\bar 3}{\boxed{\bullet\ \bullet\ \bullet}}$
 2. $\boxed{\varnothing}\leftarrow \underset{\bar 3}{\boxed{\bullet\ \bullet\ \bullet}}\  \underset{\bar 3}{\boxed{\bullet\ \bullet\ \bullet}}$
-3. TODO
+3. [TODO]{style="color: red; background-color: yellow;"}
 :::
 :::
 
@@ -204,24 +204,24 @@ Let $\mathcal{V}$ be a skeltal quantale. The category $\mathbf{Prof}_\mathcal{V}
 ::: {.callout-important icon=false collapse=false}
 ## Exercise 4-64
 <div id="4-64"/></div>
-TODO
+[TODO]{style="color: red; background-color: yellow;"}
 
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-TODO
+[TODO]{style="color: red; background-color: yellow;"}
 
 :::
 :::
 ::: {.callout-important icon=false collapse=false}
 ## Exercise 4-65
 <div id="4-65"/></div>
-TODO
+[TODO]{style="color: red; background-color: yellow;"}
 
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-TODO
+[TODO]{style="color: red; background-color: yellow;"}
 
 :::
 :::
@@ -235,6 +235,6 @@ Check that the proposed unit and counits do obey the [snake equations](#dual).
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-TODO
+[TODO]{style="color: red; background-color: yellow;"}
 :::
 :::

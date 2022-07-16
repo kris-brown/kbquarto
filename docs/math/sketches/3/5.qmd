@@ -265,7 +265,7 @@ The existence and uniqueness of the morphism to the product object in the produc
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Proof
-TODO not yet proven
+[TODO]{style="color: red; background-color: yellow;"} not yet proven
 :::
 :::
 

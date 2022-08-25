@@ -1,3 +1,6 @@
-# People
+---
+title: People
+comments: false
+---
 
 Notes related to people of interest.

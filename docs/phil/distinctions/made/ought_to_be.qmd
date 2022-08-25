@@ -3,6 +3,8 @@ title: Ought to be vs ought to do
 ---
 
 
+[//]: # (Use this: https://quarto.org/docs/authoring/tables.html#grid-tables)
+
 |  Ought to do's       |  Ought to be's |
 |----------------------|---------------|
 |  Rule of action     | Rule of reflection |

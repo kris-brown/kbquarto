@@ -6,8 +6,7 @@ comments: false
 # Current
 I work with a [team](https://www.algebraicjulia.org/) developing applied category theory software in Julia. The primary application here is building tools that make scientific computing and scientific knowledge representation easier, more transparent, and more robust to updating one's model of the world. For an overview, see my talk [Combinatorial Representations of Scientific Knowledge](https://www.youtube.com/watch?v=vJRAw8USmYs).
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vJRAw8USmYs"></iframe>
+{{< video https://www.youtube.com/embed/vJRAw8USmYs width="560" height="315" >}}
 
 ## Model Exploration
 Many search / optimization problems can be thought of as "exploring a space of models." E.g.:
@@ -19,13 +18,13 @@ Many search / optimization problems can be thought of as "exploring a space of m
 We aim to say something about this process generically by formulating a *language* for model exploration. This language accomodates arbitrary kinds of "primitive" model spaces and instead is focused on how we can compose smaller spaces into larger ones, as described in our ACT 2022 paper [-@brown2022modexp]. [[code](https://github.com/kris-brown/ModelExploration.jl)]
 
 ## Generalized setting for term rewriting
-Rewriting (i.e. execution of rules of the form: match a pattern, then perform a replacement) is an elegant way to express some computations, as we express our algorithm diagrammatically, rather than in code. We implemented term rewriting to a general setting in our ICGT 2022 paper [-@brown2021rewrite]. We demonstrate some of this functionality in this [notebook](https://nbviewer.org/github/kris-brown/Computational-Category-Theoretic-Rewriting/blob/main/Computational_Category_Theoretic_Rewriting.ipynb). This is being applied to epidemiology with [Sean Wu](https://slwu89.github.io/): [individual-based stochastic models for epidemiology](https://github.com/slwu89/IndividualRewrite)
+Rewriting (i.e. execution of rules of the form: match a pattern, then perform a replacement) is an elegant way to express some computations, as we express our algorithm diagrammatically, rather than in code. We implemented term rewriting to a general setting in our ICGT 2022 paper [-@brown2021rewrite] [[code](https://github.com/AlgebraicJulia/AlgebraicRewriting.jl)]. This is being applied to epidemiology with [Sean Wu](https://slwu89.github.io/).
 
 ## C-set automorphisms
 With a high degree of generality, we consider data that can have many types of symmetries and answer the questions: when are two objects basically the same? How do you compute a canonical form? As described in this [blog post](https://www.algebraicjulia.org/blog/post/2022/01/cset-automorphisms/), this project concerns extending McKay's graph algorithm (implemented as [nauty](https://pallini.di.uniroma1.it/)) to C-sets, so that isomorphic instances can be immediately seen to be equal. [[code](https://github.com/AlgebraicJulia/CSetAutomorphisms.jl)]
 
 ## Model enumeration
-As described at the end of this [blog post](https://62b383e20eb7802fe1b2d124--algebraicjuliablog.netlify.app/post/2022/06/chase/#model_enumeration), model enumeration *exhaustively* explores a logically constrained search space. This can be used pedagogically to explain mathematical concepts (e.g. give intuition for [natural transformations](https://www.math3ma.com/blog/what-is-a-natural-transformation) by showing the 10 smallest natural transformations) or in an engineering context as a [model checker](https://en.wikipedia.org/wiki/Model_checking). The logical language we can use to specify constraints is that of finite (co)limit [sketches](https://ncatlab.org/nlab/show/sketch). [[code](https://github.com/kris-brown/ModelEnumeration.jl)]
+As described at the end of this [blog post](https://www.algebraicjulia.org/blog/post/2022/06/chase/#model_enumeration), model enumeration *exhaustively* explores a logically constrained search space. This can be used pedagogically to explain mathematical concepts (e.g. give intuition for [natural transformations](https://www.math3ma.com/blog/what-is-a-natural-transformation) by showing the 10 smallest natural transformations) or in an engineering context as a [model checker](https://en.wikipedia.org/wiki/Model_checking). The logical language we can use to specify constraints is that of finite (co)limit [sketches](https://ncatlab.org/nlab/show/sketch). [[code](https://github.com/kris-brown/ModelEnumeration.jl)]
 
 
 # Past
@@ -58,3 +57,16 @@ I also interned at Google where we applied the [Lean theorem prover](https://lea
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/cv.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+# Talks
+
+| Title | Event | Links | Year
+|---|---|---|
+| Compositional Exploration of Scientific Models |Glasgow, ACT 2022 | [video](https://youtu.be/KsxKNzUnE6E?t=24894) [slides](/images/ACT2022.pdf) [notes](https://statebox.tv/act2022/exploration/notes) |
+| Rewriting individual-based models for epidemiology | Glasgow, ACT 2022 | [video](https://www.youtube.com/watch?v=iNdH_U-C1Nc&t=31393s) [notes](https://statebox.tv/act2022/individual/notes) |
+| Computational Category Theoretic Graph Rewriting |Nantes, ICGT 2022| [slides](/images/ICGT.pdf)|
+| AlgebraicRewriting.jl - Declarative Data Transformation |JuliaCon 2022| [video](https://www.youtube.com/watch?v=7Ao9_ffLSFg) [slides](/images/JuliaCon.pdf)|
+| Extending McKay's Canonical Isomorph Algorithm to C-Sets |SIAM DM 2022| [slides](/images/SIAM.pdf)|
+| Combinatorial Representations of Scientific Knowledge |Topos 2022| [video](https://www.youtube.com/watch?v=vJRAw8USmYs) [slides](https://topos.site/berkeley-seminar/slides/2022-04-28.pdf)
+| Leveraging Data to Improve the Accuracy of Chemistry Simulations |Thesis 2021| [video](https://www.youtube.com/watch?v=Dcg6f4SfscU)|
+| Formal Verification of Android Build Code |Google 2020| [video](https://www.youtube.com/watch?v=gj3XD8gK0Ho&t=3s)|

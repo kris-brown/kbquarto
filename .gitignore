@@ -10,3 +10,7 @@ _freeze/
 es5/
 
 index.html
+
+site_libs/
+
+_extensions/

@@ -40,6 +40,7 @@ Descartes invents representation with relationships between algebra (representat
     - Sellars saw the Tractatus as teaching us how to get beyond this ideology with the case of logical vocabulary
     - Representation is a wider concept than description - Brandom thinks that Sellars' anti-descriptivism is a form of anti-representationalism.
         - E.g. proper names represent without being descriptions, in Naming and Necessity.
+
 ## Lessons
 
   - Representation is a holistic conception, so rationalists were right about that (think: categories, relationships over properties)
@@ -81,6 +82,7 @@ Descartes invents representation with relationships between algebra (representat
     1. (Philosophy and the Mirror of Nature) - representational in semantics leads to an unproductive oscillation in epistemology between skepticism and foundationalism
     2. Pragmatism about norms
     3. antiauthoritarianism argument (completing the emancipatory project of the Enlightenment)
+
 ## Expressivism
 
 - Simon Blackburn applies local expressivism in order to get a distinctive flavor of antirepresentationalism.

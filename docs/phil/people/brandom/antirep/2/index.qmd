@@ -25,12 +25,12 @@ title: Rorty’s Critique of Enlightenment Representationalism, and (so) of Anal
 
 - Rorty sees common genus to analytic meaning-articulating claims and the sensory given: privileged representations
 - common origin: role as infinite regress stoppers for the two types of representations, sensuous intuitions and inference-licensing concepts, that Kant distinguished (which each have these relations of privilege/authority).
-  - Agrippan trilema of alternatives to skepticism
-    - justification always in reference to other claims which require justification (this can be circular or infinite regress) OR there are unjustified justifiers / foundations.
+  - [Agrippan trilema](/docs/phil/problems/agrippan.qmd) of alternatives to skepticism
+    - justification always in reference to other claims which require justification (this can be circular or [infinite regress](/docs/phil/problems/ruleregress.qmd)) OR there are unjustified justifiers / foundations.
     - If we have foundations, we need two kinds of regress stoppers:
       - premises that have authority
       - inferential transitions that have authority
-        - These are not the same as premises, c.f. Tortoise and the Hare
+        - These are not the same as premises, c.f. [Tortoise and the Hare](/docs/phil/problems/tortoise.qmd)
 - That the "privileged representations" are authoritative and immediate, a kind of atomism follows from their privilege.
   - In order to play their epistemically-privileged roles, the regress stoppers must be semantically-privileged insofar as not depending on any collateral epistemic commitments.
   - Quine and Sellars' critiques render such semantic privilege as practically unintelligible. A requirement that cannot be fulfilled.
@@ -38,15 +38,15 @@ title: Rorty’s Critique of Enlightenment Representationalism, and (so) of Anal
 ## Holism of Sellars and Quine
 Holist/pragmatic arguments of Sellars (against sense-givenness) and Quine (against meaning-givenness) that connect epistemology and semantics:
 
-- Sellars in EPM
+- Sellars in EPM [-@sellars1956empiricism]
   - Locke got confused by conflating the causation of a belief from its justification.
   - Sense data may be causally prerequisite to knowledge, but it cannot justify belief (it's not conceptually contentful, in the sense of standing in reason relations of implication/justification).
     - To stand in reason relations requires lots of other infrastructure, such that atomic sense data cannot do this on its own (this is a semantic holist argument)
     - How do we acquire knowledge in the semantic holist POV?
       - How to get into the game of giving and asking for reasons? "The light dawns slowly over the whole" We need to get good enough at making the 'right' moves (as judged by 'competent speakers' before counting as a 'competent speaker'.
-- Quine in TDE
+- Quine in TDE [-@orman1976two]
   - Target: analytic truths, e.g. "cats are mammals" supposedly not depending on any other commitments but rather immediately from the meanings of the words.
-  - What is the practical difference between these truths and very general facts, such as "there have been black dogs".
+  - What is the practical difference between these truths and very general facts, such as "there have been black dogs."
   - Duhem-Quine thesis: "it is impossible to test a scientific hypothesis in isolation, because an empirical test of the hypothesis requires one or more background assumptions".
     - What inferences we are allowed to make depends on the whole of collateral beliefs we have.
 - The unit of meaning must be the web-of-belief rather than the concept or the sentence.

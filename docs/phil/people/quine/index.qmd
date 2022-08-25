@@ -1,0 +1,7 @@
+---
+title: Quine
+---
+
+W.O. Quine was an American philosopher, born ???.
+
+![](/images/quine.jpeg)

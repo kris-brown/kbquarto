@@ -36,7 +36,7 @@ website:
     left:
       - docs/research.qmd
       - docs/contact.qmd
-      - docs/personal.qmd
+      - docs/personal/index.qmd
       - docs/notes.qmd
       - docs/blog/index.qmd
       - text: "Help"
@@ -281,7 +281,7 @@ filters:
 
   - quarto
 
-freeze: true
+freeze: auto
 
 editor: visual
 

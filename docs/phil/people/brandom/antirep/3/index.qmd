@@ -2,16 +2,13 @@
 title: Rorty Finds His Pragmatist Voice
 ---
 
-
-
-
 # Major lessons
 1. (From the discussion of truth as “what is best in the way of belief” as opposed to correspondence with reality):
    - How the combination of:
        - declarativism
            - blurring out all distinctions of kind of claimable
        - expressivism
-           - a local expressivism about what one is doing in attributing truth—namely not describing the claimable, but endorsing it—
+           - a local expressivism about what one is doing in attributing truth—namely not describing the claimable, but endorsing it
            - underwriting a global antirepresentationalism because of special properties of the vocabulary of truth
    - *together* underwrite a Jamesean understanding of truth-talk.
    - This role for an expressivist move in a pragmatist argument forges an important link between the first and the second halves of this course.
@@ -46,7 +43,7 @@ Kant is the avatar of this form of representationalism: representations and rule
 ## Vocabulary vocabulary
 This is Rorty's way of talking about language games. Or paradigms (in the Kuhnian sense - Kuhn was writing just down the hall from Rorty). Vocabularies are what we deploy in discursive practice.
 
-He thinks is needed as a successor notion to the idea of languages and theories, which was rightfully \ref{tde|taken apart|} by Quine's Two Dogmas of Empiricism.
+He thinks is needed as a successor notion to the idea of languages and theories, which was rightfully taken apart by Quine's Two Dogmas of Empiricism [-@orman1976two].
 
 Examples, how big are they?
 - on the one hand, the vocabulary of 16th century theology
@@ -82,26 +79,29 @@ The philosopher will not want to beg the question between these various descript
 - But one can do other things with vocabularies than use them to describe. So “redescription,” though evocative, might be replaced by “recharacterization,” or “reconceptualization.”
 
 ## Conversation
-"Pragmatists follow Plato in striving for an escape from conversation to something atemporal
- which lies in the background of all possible conversations"
+> Pragmatists follow Plato in striving for an escape from conversation to something atemporal
+ which lies in the background of all possible conversations
 
 Conversation is about redescribing our vocabulary as much as using it. It is the process that produces redescriptions.
 
 Quantifying over all possible vocabularies is a temptation and something you would only attempt to do if you are trying to end all conversation. This is a fundamental mistake.
-   - This is something the early Wittgenstein did in the Tractatus
-   - He then learned not to do this. It's related to his later view that language is a motley.
-- Dummett interpretation of Wittgenstein:
-   - Wittgenstein would think that if there were any use for a philosophical notion of meaning, the point of having a notion of meaning would be to codify proprieties of use.
-   - But there is no limit of things one can use language for, so we cannot systematically find all meanings of all expressions.
-   - Wittgentstein tool analogy:
-      - you would think that you could describe the different ways of using things in terms of what you do with them in the way you could tools, so that you could think of hammer and nails, screw and screwdriver, glue and glue brush, all his ways of attaching things to one another. And that would be a sort of common function that they could perform
-      - Early W. thought 'Yes, representation is like that. That's what language is for'
-      - What about a wrench What about the pencil that the carpenter uses, or the level that the carpenter uses, or the tool belt or tool chest? Or the set of plans that they're using?
-         - All these are functioning differently, and there isn't going to be a systematic way of saying all the different kinds of tools that you could have
-    - Classic Wittgensteinian anecdotes turn on the malleability of language. (tooth example)
-        - The metaphyiscal puzzle comes from having a STATIC, totalizing pictures of language rather than accepting it as a motley that evolves whenever you use it.
-        - We carefully design mature natural science and math to not have this happen, but this should not be a model for how our language works.
-    - This is why Wittgenstein is a semantic nihilist, he doesn't think there are actually meanings. The plasticisty of language makes this impossible.
+
+- This is something the early Wittgenstein did in the Tractatus
+- He then learned not to do this. It's related to his later view that language is a motley.
+
+Dummett's interpretation of Wittgenstein:
+
+- Wittgenstein would think that if there were any use for a philosophical notion of meaning, the point of having a notion of meaning would be to codify proprieties of use.
+- But there is no limit of things one can use language for, so we cannot systematically find all meanings of all expressions.
+- Wittgentstein tool analogy:
+   - you would think that you could describe the different ways of using things in terms of what you do with them in the way you could tools, so that you could think of hammer and nails, screw and screwdriver, glue and glue brush, all his ways of attaching things to one another. And that would be a sort of common function that they could perform
+   - Early W. thought 'Yes, representation is like that. That's what language is for'
+   - What about a wrench What about the pencil that the carpenter uses, or the level that the carpenter uses, or the tool belt or tool chest? Or the set of plans that they're using?
+      - All these are functioning differently, and there isn't going to be a systematic way of saying all the different kinds of tools that you could have
+   - Classic Wittgensteinian anecdotes turn on the [malleability of language](/docs/phil/situations/toothpain.qmd).
+      - The metaphyiscal puzzle comes from having a STATIC, totalizing pictures of language rather than accepting it as a motley that evolves whenever you use it.
+      - We carefully design mature natural science and math to not have this happen, but this should not be a model for how our language works.
+   - This is why Wittgenstein is a semantic nihilist, he doesn't think there are actually meanings. The plasticisty of language makes this impossible.
 
 ## Coping
 Rorty has another term that is part of the constellation that starts with “vocabulary” and includes “redescription” and “conversation.” It is “coping.” It is his generic term for what we do with vocabularies, generally. It is in terms of success at coping that we are able sometimes to assess and compare vocabularies as better and worse. In that regard, it plays a role analogous to the notion of accuracy of representation, that Rorty wants to persuade us to discard as specifying the dimension along which arbitrary vocabularies can be assessed as better or worse.

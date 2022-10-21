@@ -1,5 +1,12 @@
 ---
 title: Adjunctions and data migration
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_3_4.yml
 ---
 
 ## Pulling back data along a functor

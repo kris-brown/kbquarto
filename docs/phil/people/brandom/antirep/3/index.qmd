@@ -99,7 +99,7 @@ Dummett's interpretation of Wittgenstein:
    - What about a wrench What about the pencil that the carpenter uses, or the level that the carpenter uses, or the tool belt or tool chest? Or the set of plans that they're using?
       - All these are functioning differently, and there isn't going to be a systematic way of saying all the different kinds of tools that you could have
    - Classic Wittgensteinian anecdotes turn on the [malleability of language](/docs/phil/situations/toothpain.qmd).
-      - The metaphyiscal puzzle comes from having a STATIC, totalizing pictures of language rather than accepting it as a motley that evolves whenever you use it.
+      - The metaphysical puzzle comes from having a *static*, totalizing picture of language rather than accepting it as a motley that evolves whenever you use it.
       - We carefully design mature natural science and math to not have this happen, but this should not be a model for how our language works.
    - This is why Wittgenstein is a semantic nihilist, he doesn't think there are actually meanings. The plasticisty of language makes this impossible.
 

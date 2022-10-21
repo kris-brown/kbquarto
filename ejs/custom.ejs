@@ -1,0 +1,13 @@
+```{=html}
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+
+
+<ul class="list">
+<% for (const item of items) { %>
+  <li <%= metadataAttrs(item) %>>
+    <a href="<%- item.href %>" class="listing-name"><%= item.name %></a><br/>
+    <span class="listing-custom-field"><%= item['custom-field'] %><span>
+  </li>
+<% } %>
+</ul>
+```

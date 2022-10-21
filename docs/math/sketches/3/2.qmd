@@ -1,5 +1,12 @@
 ---
 title: Categories
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_3_2.yml
 ---
 
 ## Free Categories

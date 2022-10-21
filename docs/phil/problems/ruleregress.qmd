@@ -1,5 +1,12 @@
 ---
 title: Regress of rules
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs_phil_problems_ruleregress.yml
 ---
 
 

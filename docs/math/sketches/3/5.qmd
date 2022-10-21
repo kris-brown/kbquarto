@@ -1,5 +1,12 @@
 ---
 title: Introduction to limits and colimits
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_3_5.yml
 ---
 
 ## Terminal objects and proucts

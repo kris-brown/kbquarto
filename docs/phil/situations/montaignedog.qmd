@@ -1,5 +1,12 @@
 ---
 title: Montaigne's dog
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs_phil_situations_montaignedog.yml
 ---
 
 Montaigne is impressed that his dog, when chasing

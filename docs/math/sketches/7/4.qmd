@@ -1,5 +1,12 @@
 ---
 title: Toposes
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_7_4.yml
 ---
 
 ## The subobject classifier in a sheaf topos

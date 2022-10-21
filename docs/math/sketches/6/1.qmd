@@ -1,5 +1,12 @@
 ---
 title: The ubiquity of network languages
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_6_1.yml
 ---
 
 # TO DO

@@ -1,5 +1,12 @@
 ---
 title: Instrumentalism
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs_phil_people_brandom_sellars09_3_instrumentalism.yml
 ---
 
 All of our evidence in science comes from empirical observation, so all of our concepts (and claims) must be translatable without remainder into observational vocabulary.

@@ -1,6 +1,4 @@
----
-title: Signal flow graphs
----
+
 
 # [Comparing systems as interacting signal processors](1.qmd)
 {{< include 1.qmd >}}
@@ -19,4 +17,11 @@ title: Signal flow graphs
 
 ---
 title: Signal flow graphs
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_5_index.yml
 ---

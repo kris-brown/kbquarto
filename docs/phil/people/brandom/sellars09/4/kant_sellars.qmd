@@ -1,5 +1,12 @@
 ---
 title: The Kant-Sellars thesis
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs_phil_people_brandom_sellars09_4_kant_sellars.yml
 ---
 
 From three premises:
@@ -18,7 +25,7 @@ It's explicit in Sellars, all but explicit in Kant. Some consequences:
 
     \item just in being able to use ordinary empirical descriptive vocabulary, non modal vocabulary anyone already knows how to do everything they need to know how to do in order to use modal vocabulary. They merely make explicit what is implicit in non-modal concepts.
 
-    \item One cannot be in the \ref{hume|predicamant|Sellars against Hume} that Hume took himself to be in. We can teach you how to use modal vocabulary. You may not have a word for it yet. That's what we'll give you. But you already know how to \emph{do} everything you need to know how to do to use that word to talk with `necessity', `possibility' and the subjunctive.
+    \item One cannot be in the \ref{hume|predicamant|Sellars against Hume} that Hume took himself to be in. We can teach you how to use modal vocabulary. You may not have a word for it yet. That's what we'll give you. But you already know how to \emph{do} everything you need to know how to do to use that word to talk with 'necessity', 'possibility' and the subjunctive.
 
     \item Description and explanation are two sides of one coin.
 \end{itemize}

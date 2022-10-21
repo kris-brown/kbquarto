@@ -31,11 +31,11 @@ Sellars first big idea: what was needed was a functional theory of concepts (esp
 
 Jerry Fodor's theory of semantic content in terms of nomological locking: can't directly say anything about modality directly. Not alone: Dretske and other teleosemantic literature. Sellars wants to argue this program will never work.
 
-An axial idea of [Kant](/docs/phil/people/Kant/index.qmd): the framework that makes description possible has features which we can express with words (words whose job is not to describe [^5] anything, but rather to make explicit features of the framework within which we can describe things).
+An axial idea of [Kant](/docs/phil/people/kant/index.qmd): the framework that makes description possible has features which we can express with words (words whose job is not to describe [^5] anything, but rather to make explicit features of the framework within which we can describe things).
 
 The framework is often characterized with laws. With alethic modal vocabulary on the object side, normative vocabulary on the subject side.
 
-[Kant](/docs/phil/people/Kant/index.qmd) is concerned with features that are necessary conditions of the possibility of applying descriptive contents. How are statements like that sensibly thought of as true or false? (where the home language game is ordinary descriptive language) Kant says yes, in a sense, but have to be careful. If these kinds of claims are knowledge, what kind of justification is involved in it? Can we think of them as expressing even a kind of empirical knowledge? (after all, we learned laws of nature empirically, it seems). We have to think about the relationship between the framework and what you can say, in the framework, and what you can say about the framework. Kant was the first one worried about all that stuff. Sellars wants to find a meta framework for talking about the relations between talk within that framework of description, and talk about that framework of description.
+[Kant](/docs/phil/people/kant/index.qmd) is concerned with features that are necessary conditions of the possibility of applying descriptive contents. How are statements like that sensibly thought of as true or false? (where the home language game is ordinary descriptive language) Kant says yes, in a sense, but have to be careful. If these kinds of claims are knowledge, what kind of justification is involved in it? Can we think of them as expressing even a kind of empirical knowledge? (after all, we learned laws of nature empirically, it seems). We have to think about the relationship between the framework and what you can say, in the framework, and what you can say about the framework. Kant was the first one worried about all that stuff. Sellars wants to find a meta framework for talking about the relations between talk within that framework of description, and talk about that framework of description.
 
 [^5]: in the narrow sense
 
@@ -86,7 +86,7 @@ A: The conceptual content itself is a norm that settles which inferences are cor
 Q: Is this a counter-example? You are asked to bring a thing to your lab (it just landed from an alien planet - you can't make any inferences about it).
 A: It's complicated. Firstly, 'thing' or 'object' is not a sortal - you can't count them (they're pro-sortals, placeholders for sortals). If we supply one (e.g. place-occupying piece of mass - which would suffice give us some counterfactually robust inferences). If you don't supply one, you haven't thought about it. Related to Wittgenstein's [plate example](/docs/phil/situations/platepoint.qmd).
 
-[Kant](/docs/phil/people/Kant/index.qmd) says concepts are rules for judgment we [bind ourselves by](/docs/phil/people/brandom/#concepts). That doesn't settle the question of how much of the law we need to know in order to bind ourselves by it. I don't have to know much about molybdenum to refer to molybdenum.
+[Kant](/docs/phil/people/kant/index.qmd) says concepts are rules for judgment we [bind ourselves by](/docs/phil/people/brandom/#concepts). That doesn't settle the question of how much of the law we need to know in order to bind ourselves by it. I don't have to know much about molybdenum to refer to molybdenum.
 
 
 
@@ -214,4 +214,11 @@ What is lost by merging description in the narrow sense and description in the w
 title: Counterfactuals and the Kant-Sellars Thesis
 date: September 23, 2009
 description: This lecture concerns [-@sellars1958counterfactuals] and has two parts. 1.) Counterfactuals and dispositions, and 2.) Causal modalities (the focus of this lecture).
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - /../../../../../../backlinks/docs_phil_people_brandom_sellars09_4_index.yml
 ---

@@ -1,6 +1,13 @@
 
 ---
 title: Meaning and truth
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "/../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs_phil_switcharoos_meaning_truth.yml
 ---
 
 

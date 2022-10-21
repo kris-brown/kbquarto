@@ -1,5 +1,12 @@
 ---
 title: Enrichment
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_2_3.yml
 ---
 
 ## $\mathcal{V}$-categories

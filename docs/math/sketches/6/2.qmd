@@ -1,5 +1,12 @@
 ---
 title: Colimits and connection
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_6_2.yml
 ---
 
 ## Initial objects

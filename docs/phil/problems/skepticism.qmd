@@ -1,5 +1,12 @@
 ---
 title: Skepticism
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs_phil_problems_skepticism.yml
 ---
 
 There are many flavors, but consider the *brain in a vat* [thought experiment](https://iep.utm.edu/brainvat/):

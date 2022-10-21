@@ -1,5 +1,12 @@
 ---
 title: How can we prove our machine is safe?
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_7_1.yml
 ---
 
 # TO DO

@@ -1,5 +1,12 @@
 ---
 title: The shopping list
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs_phil_situations_shoppinglist.yml
 ---
 
 

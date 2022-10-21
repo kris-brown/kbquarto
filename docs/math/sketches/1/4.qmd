@@ -1,5 +1,12 @@
 ---
 title: Monotone maps
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_1_4.yml
 ---
 
 ::: {.callout-tip icon=false collapse=false}
@@ -51,7 +58,7 @@ This is the *Yoneda lemma for preorders* (i.e. up to equivalence, to know an ele
 
 1. This is basically the definition an upper set starting at some element.
 2. Interpreting the meaning of the preorder in the domain and codomain of $\uparrow$, this boils down to showing $p \leq p'$ implies $\uparrow(p') \subseteq \uparrow(p)$
-          - This is shown by noting that $p' \in \uparrow(p)$ and anything `above' $p'$ (i.e. $\uparrow(p')$) will therefore be in $\uparrow(p)$.
+          - This is shown by noting that $p' \in \uparrow(p)$ and anything 'above' $p'$ (i.e. $\uparrow(p')$) will therefore be in $\uparrow(p)$.
 3. Forward direction has been shown above
     - The other direction is shown just by noting that $p\prime$ must be an element of $\uparrow(p\prime)$ and by the subset relation also in $\uparrow(p')$, therefore $p \leq p'$.
 4.  \begin{tikzcd} \pagecolor{white}

@@ -1,5 +1,12 @@
 ---
 title: Bee Waggle
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs_phil_situations_beewaggle.yml
 ---
 
 
@@ -25,7 +32,7 @@ A simpler example: imagine that beavers slap their tail when there's danger, and
     - This solves some puzzle cases: it allows us to say the proper function of sperm is to fertilize eggs even if a vanishingly small fraction of them actually do (because if they hadn't fertilized eggs in the past, there wouldn't be sperm now).
 
 - Well, this is the form of explanation for semantics in general. Because the same thing can happen when the reproductive families are uses of words.
-    - You can explain why we use the word `Aristotle', as we do, if has having a proper function of, in the end, referring to Aristotle, because if people in the past had not used it, in particular ways, we wouldn't be using it today.
+    - You can explain why we use the word 'Aristotle', as we do, if has having a proper function of, in the end, referring to Aristotle, because if people in the past had not used it, in particular ways, we wouldn't be using it today.
     - And similarly, for predicates, and so on.
     - These are not biological norms. But we can understand words as having proper functions in the same sense in which even in the merely biological case, we can understand things as having proper functions. And we can understand them as having proper signaling functions.
     - So, there's a proper function for producing these things and a proper function for receiving them.

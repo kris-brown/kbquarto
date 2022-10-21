@@ -1,5 +1,12 @@
 ---
 title: Galois connections
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_1_6.yml
 ---
 
 ## Definition and examples
@@ -337,7 +344,7 @@ Given $f \dashv g$, prove that the composition of left and right adjoint monoton
 
 Let $S=\{1,2,3\}$
 
-1. Come up with any preorder relation on $S$, and define $U(\leq):=\{(s_1,s_2)\ |\ s_1 \leq s_2\}$ (the relation `underlying' the preorder. Note $U: \mathbf{Pos}(S) \hookrightarrow \mathbf{Rel}(S)$)
+1. Come up with any preorder relation on $S$, and define $U(\leq):=\{(s_1,s_2)\ |\ s_1 \leq s_2\}$ (the relation 'underlying' the preorder. Note $U: \mathbf{Pos}(S) \hookrightarrow \mathbf{Rel}(S)$)
 2. Pick binary relations such that $Q \subseteq U(\leq)$ and $Q' \not \subseteq U(\leq)$
 
 We want to check that the reflexive/transitive closure operation $Cl$ is really left adjoint to the underlying relation $U$.

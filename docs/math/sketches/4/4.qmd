@@ -1,5 +1,12 @@
 ---
 title: Categorification
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_4_4.yml
 ---
 
 ## The basic idea
@@ -146,7 +153,7 @@ Recall the [example](#set-smc) with **Set** as a symmetric moniodal category. Ap
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
-We've replaced the identity morphisms with maps from the monoidal unit, but that is functionally equivalent to `just picking one' given that the initial object is a singleton.
+We've replaced the identity morphisms with maps from the monoidal unit, but that is functionally equivalent to 'just picking one' given that the initial object is a singleton.
 
 :::
 :::

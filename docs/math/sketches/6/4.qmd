@@ -1,5 +1,12 @@
 ---
 title: Decorated cospans
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_6_4.yml
 ---
 
 ## Symmetric monoidal functors

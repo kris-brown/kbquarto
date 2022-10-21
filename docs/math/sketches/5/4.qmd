@@ -1,5 +1,12 @@
 ---
 title: Graphical linear algebra
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_5_4.yml
 ---
 
 ## A presentation of Mat R

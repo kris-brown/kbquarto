@@ -1,7 +1,13 @@
 ---
 title: Subjunctive vs counterfactual conditionals
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_phil_distinctions_made_subjunctive_counterfactual.yml
 ---
-
 
 - Subjunctive conditional: if $X$ were $\psi$'d, it would $\phi$.
     - (example?)

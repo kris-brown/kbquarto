@@ -1,5 +1,12 @@
 ---
 title: Computing presented V-categories with matrix multiplication
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - /../../../../backlinks/docs_math_sketches_2_5.yml
 ---
 
 ## Monoidal closed preorders
@@ -65,7 +72,7 @@ e. $\forall u,v,w \in V: (u \multimap v) \otimes (v \multimap w) \leq (u \multim
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Proof
 
-a. The [meaning](..1/6#galois-connection) of $(- \otimes v) \dashv (v \multimap -)$ is exactly the condition of $\multimap$ in a closed symmetric monoidal preorder.
+a. The [meaning](../1/6#galois-connection) of $(- \otimes v) \dashv (v \multimap -)$ is exactly the condition of $\multimap$ in a closed symmetric monoidal preorder.
 b. This follows from (1), using the fact that [left adjoints preserve joins](#../1/6#adjoints-preserve).
 c. This follows from (1) using the [alternative characterization](../1/6#alternate-galois) of Galois connections.
     - Alternatively, start from definition of closed symmetric monoidal preorder and substitute $v \multimap w$ for $a$, and note by reflexivity that  $(v \multimap w) \leq (v \multimap w)$
@@ -90,7 +97,7 @@ Prove that a [symmetric monoidal preorder](2.qmd#smp) is closed iff, given any $
 1. Show that $V \xrightarrow{(-\otimes v)}V$ is [monotone](../1/4#monotone-map).
 2. Supposing that $\mathcal{V}$ is closed, show that $\forall v,w \in V: ((v \multimap w)\otimes v) \leq w$
 3. Show that $(v \multimap -)$ is monotone.
-4. Conclude that a [symmetric monoidal preorder](2.qmd#smp) is closed iff the monotone map $(- \otimes v)$ has a [right adjoint](..1/6#galois-connection).
+4. Conclude that a [symmetric monoidal preorder](2.qmd#smp) is closed iff the monotone map $(- \otimes v)$ has a [right adjoint](../1/6.qmd#galois-connection).
 
 ::: {.callout-note collapse=true appearance="minimal"}
 ## Solution
@@ -205,7 +212,7 @@ Suppose $\mathcal{V}=(V,\leq,I,\otimes)$ is a [symmetric monoidal preorder](2.qm
 
 -  We proved one direction in SMP currying.
 - We need to show that $(v \otimes \bigvee A)\cong  \bigvee_{a \in A} v \otimes a$ (and all joins existing) implies that there exists a $\multimap$ operation that satisfies the closed property: $\forall a,v,w \in V: (a \otimes v) \leq w$ iff $a \leq (v \multimap w)$.
-- The [adjoint functor theorem for preorders](../1/6/#adjoint-functor-theorem) states that [monotone maps](../1/4#monotone-map) preserve joins iff they're left adjoint, so $V \xrightarrow{-\otimes v} V$ must have a right adjoint $g$, which, being a [Galois connection](../1/6#galois-connection), will satisfy the property $(a \otimes v) \leq w \iff a \leq g(w)$ (this is the monoidal closed property).
+- The [adjoint functor theorem for preorders](../1/6/#adjoint-functor-theorem) states that [monotone maps](../1/4#monotone-map) preserve joins iff they're left adjoint, so $V \xrightarrow{-\otimes v} V$ must have a right adjoint $g$, which, being a [Galois connection](../1/6.qmd#galois-connection), will satisfy the property $(a \otimes v) \leq w \iff a \leq g(w)$ (this is the monoidal closed property).
 - Let's rename $g \equiv v \multimap -$. The adjoint functor theorem even gives us a construction for the right adjoint, namely: $v \multimap w:=\bigvee\{a \in V\ |\ a \otimes v \leq w\}$.
 :::
 :::

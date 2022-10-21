@@ -1,6 +1,13 @@
 
 ---
 title: Switcharoos
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs_phil_switcharoos_index.yml
 ---
 
 Often there are ideas that are closely related, and it becomes ambiguous which idea is 'first', if any.
@@ -20,5 +27,3 @@ Often there are ideas that are closely related, and it becomes ambiguous which i
 ---
 title: Switcharoos
 ---
-
-

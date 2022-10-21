@@ -1,5 +1,12 @@
 ---
 title: Props and presentations
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_5_2.yml
 ---
 
 ## Props - definitions and first examples

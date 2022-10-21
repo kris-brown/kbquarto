@@ -1,5 +1,12 @@
 ---
 title: Getting from A to B
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_2_1.yml
 ---
 
 - Want to be able to answer questions about *resources* like:

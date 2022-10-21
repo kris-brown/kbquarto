@@ -1,5 +1,12 @@
 ---
 title: Ought to be vs ought to do
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_phil_distinctions_made_ought_to_be.yml
 ---
 
 

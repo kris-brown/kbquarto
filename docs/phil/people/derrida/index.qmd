@@ -1,5 +1,12 @@
 ---
 title: Derrida
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_phil_people_derrida_index.yml
 ---
 
 A French philosopher, 1930-2005.

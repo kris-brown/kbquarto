@@ -1,5 +1,12 @@
 ---
 title: The category Set as an exemplar topos
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_7_2.yml
 ---
 
 ## **Set**-like properties enjoyed by any topos

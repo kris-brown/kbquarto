@@ -1,5 +1,12 @@
 ---
 title: Categories of profunctors
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_4_3.yml
 ---
 
 ## Composing profunctors

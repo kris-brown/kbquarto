@@ -1,5 +1,12 @@
 ---
 title: More than the sum of their parts
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_1_1.yml
 ---
 
 ## A first look at generative effects

@@ -1,6 +1,13 @@
 
 ---
 title: Sense data and concepts
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs_phil_switcharoos_sensedata_concepts.yml
 ---
 
 

@@ -1,5 +1,12 @@
 ---
 title: Wittgenstein
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_phil_people_wittgenstein_index.yml
 ---
 
 An Austrian philosopher, 1889-1951.

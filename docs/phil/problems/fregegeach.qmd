@@ -1,5 +1,12 @@
 ---
 title: The Frege-Geach problem
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs_phil_problems_fregegeach.yml
 ---
 
 

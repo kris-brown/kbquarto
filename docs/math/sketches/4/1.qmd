@@ -1,5 +1,12 @@
 ---
 title: Can we build it?
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_4_1.yml
 ---
 
 - A large project is broken down into subprojects, each of which can be broken down into further subprojects.

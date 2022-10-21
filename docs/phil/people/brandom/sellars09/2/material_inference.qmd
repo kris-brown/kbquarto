@@ -1,5 +1,12 @@
 ---
 title: Material inference
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs_phil_people_brandom_sellars09_2_material_inference.yml
 ---
 
 Let an [inference](/docs/math/misc/material_conditional.qmd) be a declaration of the form $P \implies Q$

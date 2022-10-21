@@ -1,5 +1,12 @@
 ---
 title: Universals
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs_phil_problems_universals.yml
 ---
 
 
@@ -8,7 +15,7 @@ It seems there is no problem thinking about what triangles and white things are,
 
 ## An answer
 
-This seems to be an instance of the [tooth pain](/docs/phil/situations/toothpain.qmd) issue. Noun-ness was for ordinary objects (with obvious ontological status) in an earlier game, but our creativity with language led us to nounify many other words, leading to `objects' with unclear ontological status.
+This seems to be an instance of the [tooth pain](/docs/phil/situations/toothpain.qmd) issue. Noun-ness was for ordinary objects (with obvious ontological status) in an earlier game, but our creativity with language led us to nounify many other words, leading to 'objects' with unclear ontological status.
 
 ### Realism
 

@@ -1,5 +1,12 @@
 ---
 title: Meets and joins
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_1_5.yml
 ---
 
 ## Definitions and basic examples

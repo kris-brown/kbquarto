@@ -1,5 +1,12 @@
 ---
 title: What the Tortoise said to Achilles
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs_phil_problems_tortoise.yml
 ---
 
 
@@ -48,6 +55,6 @@ By Lewis Caroll in 1895. [-@carroll2021tortoise]
     1. Their role in reasoning
     2. A story for our knowledge/justification of them.
 
-- The story shows how treating a rule as a fact strips it of its normative force. It is the problem of conflating description in the narrow sense with description in the wider sense: see [Sellars on possible worlds](/docs/phil/people/Sellars).
+- The story shows how treating a rule as a fact strips it of its normative force. It is the problem of conflating description in the narrow sense with description in the wider sense: see [Sellars on possible worlds](/docs/phil/people/sellars).
 
 - The last line of Brandom's commentary makes me think this can also be used to counter some forms of radical skepticism, i.e. to recover an air of dignity to making working assumptions.

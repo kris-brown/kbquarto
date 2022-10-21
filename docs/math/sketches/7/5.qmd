@@ -1,5 +1,12 @@
 ---
 title: A topos of behavior types
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_7_5.yml
 ---
 
 ## The interval domain

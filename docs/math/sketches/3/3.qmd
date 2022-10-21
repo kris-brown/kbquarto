@@ -1,5 +1,12 @@
 ---
 title: Functors, natural transformations, and databases
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_3_3.yml
 ---
 
 ## Sets and functions as databases

@@ -1,0 +1,27 @@
+---
+title: Language 'power-users'
+description: |
+    Kids, don't try this at home.
+categories:
+  - philosophy
+author: Kristopher Brown
+date: 10/24/2022
+draft: true
+---
+
+# It's not 'just a language'
+- many arguments are about how to use language.
+- what language we use has a huge impact on the thoughts we practically have and how we resolve disputes (i.e. what actions we take a society).
+- these are actually important.
+
+Analogy:
+- Programming languages X,Y,Z may all be Turing-complete, but certain styles of programming are natural in X but difficult in Y (and all-but-impossible in Z).
+- Having the *word* "externality" in your vocabulary can be a powerful tool towards genuinely having less naively individualistic political/social beliefs. Having the expression "sunk-cost fallacy" will enable you to drop something you've invested some time/effort into. Etc.
+
+# Prerequiste questions: ethics/values
+
+So given that langauge is powerful, we might want to shape it to help us achieve our goals, whatever those may be. People famously have different goals, but that kind of conflict is not of interest in this post! So, assuming you and I have the same interests, why might we still ought to have different languages?
+
+# Power => danger
+
+

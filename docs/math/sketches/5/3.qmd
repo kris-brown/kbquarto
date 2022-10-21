@@ -1,5 +1,12 @@
 ---
 title: Simplified signal flow graphs
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_5_3.yml
 ---
 
 ## Rigs

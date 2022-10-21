@@ -1,5 +1,12 @@
 ---
 title: Enriched profunctors
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_math_sketches_4_2.yml
 ---
 
 ## Feasibility relations

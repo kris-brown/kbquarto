@@ -1,5 +1,12 @@
 ---
 title: Sellars
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_phil_people_sellars_index.yml
 ---
 
 
@@ -113,7 +120,7 @@ assertion. [-@sellars1958counterfactuals]
 - (Related to [this quote](#describing-the-world-without-modality)).
 - What is the connection between the (alethic) modal sense of *must* and the
  normative sense of *must*.
-- Carnap uses `transposed' to talk about an unquoted word used in a sentence as a
+- Carnap uses 'transposed' to talk about an unquoted word used in a sentence as a
 transposed mode of speech (about use of a quoted-word).
   - E.g. "Red is a quality." vs  "'Red' is a one-place predicate.''
 

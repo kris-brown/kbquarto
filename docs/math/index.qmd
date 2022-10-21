@@ -1,6 +1,13 @@
 ---
 title: Math notes
 comments: false
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/docs_math_index.yml
 ---
 
 Various things jotted down while reading about math.

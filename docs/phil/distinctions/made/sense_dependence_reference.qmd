@@ -1,5 +1,12 @@
 ---
 title: Sense dependence vs reference
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_phil_distinctions_made_sense_dependence_reference.yml
 ---
 
 

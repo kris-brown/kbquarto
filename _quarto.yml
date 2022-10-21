@@ -8,7 +8,6 @@ website:
   repo-url: https://github.com/kris-brown/kbquarto
   repo-branch: master
   repo-actions: []
-  sharing: [twitter, facebook, linkedin]
   open-graph: true
   twitter-card: true
   page-navigation: true
@@ -277,7 +276,7 @@ format:
 
 filters:
   - filters/include-files.lua
-  - /Users/ksb/code/kbquarto/filters/tikz-to-png.lua
+  - filters/tikz-to-png.lua
 
   - quarto
 
@@ -291,7 +290,7 @@ comments:
 
 html-math-method:
   method: mathjax
-  url: "/es5/tex-mml-chtml.js"
+  url: "es5/tex-mml-chtml.js"
 
 resources:
   - es5

@@ -1,7 +1,13 @@
 ---
 title: Tooth pain
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs_phil_situations_toothpain.yml
 ---
-
 
 From [-@brandom2019some]:
 
@@ -9,4 +15,3 @@ From [-@brandom2019some]:
    - Later, the community extends that practice to talk about having pain in one's teeth.
 - If, as a matter of contingent fact, the practitioners can learn to use the expression 'in' in the new way, building on (but adapting) the old, they will have fundamentally changed the *meaning* of 'in'.
     - This can be seen by the fact that, in the old practice, it made sense to ask where the gold was before it was in one's tooth, whereas in the new practice asking where the pain was before it was in the tooth can lead only to a distinctively philosophical kind of puzzlement.
-

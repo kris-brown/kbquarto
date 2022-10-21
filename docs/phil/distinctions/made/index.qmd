@@ -4,11 +4,10 @@ title: Distinctions made
 Philosophy can make distinctions that feel good, like they 'cut reality at the joints.'
 
 # [Sense dependence vs Reference dependence](sense_dependence_reference.qmd)
-{{< include sense_dependence_reference.qmd >}}
+{{< include _sense_dependence_reference.md >}}
 
 # [Ought to be vs Ought to do](ought_to_be.qmd)
-{{< include ought_to_be.qmd >}}
+{{< include _ought_to_be.md >}}
 
 # [Subjunctive vs counterfactual conditionals](subjunctive_counterfactual.qmd)
-{{< include subjunctive_counterfactual.qmd >}}
-
+{{< include _subjunctive_counterfactual.md >}}

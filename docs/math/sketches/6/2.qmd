@@ -9,17 +9,4 @@ listing:
     - ../../../../backlinks/docs_math_sketches_6_2.yml
 ---
 
-## Initial objects
-
-## Coproducts
-
-## Pushouts
-## Finite colimits
-
-
-##Cospans
-
-
-
-
-
+{{< include _2.md >}}

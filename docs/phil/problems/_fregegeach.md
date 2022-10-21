@@ -1,0 +1,5 @@
+
+
+A problem metaethical theories belonging that are emotivist/ expressivist. Also sometimes called the *embedding problem*.
+
+Theories in the noncognitivist tradition share the view that the distinctive meaning of moral words does not concern what they are about, and it either does not require or is not exhausted by any answer to what makes moral sentences true. For example, according to A. J. Ayer, the word 'wrong' works more like 'dammit' than like 'common', so that 'stealing money is wrong' means something more like, 'dammit, stealing money!' than like 'stealing money is common'. But standard ways of understanding the meanings of complex sentences, and of understanding the logical relationships between sentences, depend on an answer to what those sentences are about, or what would make them true. So noncognitivists need a different, nonstandard, answer to how the meanings of simple sentences give rise to the meanings of complex sentences. The problem of how to do so, and of whether it can even be done, has come to be known as the Frege-Geach problem.

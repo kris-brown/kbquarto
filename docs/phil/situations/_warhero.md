@@ -1,0 +1,33 @@
+
+From [-@castaneda1968logic]:
+
+- A man serves in a WWII.
+   - In a battle, he does something extremely heroicly, and lots of people see.
+   - He then gets knocked down, loses his dog tags, rolls down a hill.
+   - He wakes up later and has no memory of who he was until that point in his life.
+   - He wanders off and is eventually found by another regiment who has no idea who he is.
+- He winds up in a hospital and makes his way back to America to go to college.
+- Meanwhile, his original troop assumes the heroic soldier died
+   - (He was probably blown to smithereens, since no trace of him other than dog tags)
+   - They start calling him The War Hero, and he's awarded a posthumous medal of honor.
+- The solder gets interested in history and does a PhD.
+   - He decides to writes about the battle he knows he was involved in (in some way).
+   - He's intruiged by the story of The War Hero and makes that his focus.
+   - Soon, he knows everything there is to know about The War Hero in his life up until the battle.
+
+## Commentary by John Perry
+One might say, casually, he knows more about The War Hero than The War Hero himself knew about himself.
+
+This person has two distinct kinds of self knowledge:
+
+- Knowledge of the person one happens to be
+   - This is the normal kind of self-knowledge
+   - "I am a graduate student in Berkekey"
+   - "I have amnesia and no memory of anything before the battle"
+- Self-knowledge
+   - "The War Hero was born in Cincinatti on a cold day."
+   - "The War Hero was forced to wear shorts even during the winter."
+      - If it's true, why is it true? Judging by the truth conditions of the sentence, it's true because a certain person born in Cininitati and was fordced to wear short pants, etc.
+
+Most of us have both types of knowledge, but because they so easily run together we conflate the two.
+

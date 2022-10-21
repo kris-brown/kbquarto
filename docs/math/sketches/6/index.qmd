@@ -3,23 +3,23 @@ title: Circuits
 ---
 
 # [The ubiquity of network languages](1.qmd)
-{{< include 1.qmd >}}
+{{< include _1.md >}}
 
 
 # [Colimits and connection](2.qmd)
-{{< include 2.qmd >}}
+{{< include _2.md >}}
 
 
 # [Hypergraph categories](3.qmd)
-{{< include 3.qmd >}}
+{{< include _3.md >}}
 
 
 # [decorated cospans](4.qmd)
-{{< include 4.qmd >}}
+{{< include _4.md >}}
 
 
 # [Operads and their algebras](5.qmd)
-{{< include 5.qmd >}}
+{{< include _5.md >}}
 
 ---
 title: Circuits

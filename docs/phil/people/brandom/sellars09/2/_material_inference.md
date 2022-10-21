@@ -1,0 +1,22 @@
+
+Let an [inference](/docs/math/misc/material_conditional.qmd) be a declaration of the form $P \implies Q$
+
+- There, $P$ and $Q$ are *logical* variables. We can also put other things in their place:
+    - Non-logical vocabulary, e.g. *red*, *cat*, or *it's raining outside*
+    - Logical connectives: *and*, *or*, etc.
+
+
+
+We want to distinguish certain inferences as *material inferences*, as distinct from logically-valid inferences.
+
+- Logically-valid inferences:
+    - These are inferences that are true no matter what you plug in for the variables or substitute for the non-logical vocabulary.
+    - E.g. $(A \land {\rm it's\ raining}) \lor C \implies (C \lor {\rm it's\ raining})$
+    - This is true, regardless of what we substitute for $A$ and $C$ (or swap "it's raining'' for anything, e.g. "I own two cats'').
+    - Descriptive terms appear *vacuously*
+- Material inferences:
+    - These can be changed from a good material inference into a bad one by substituting some nonlogical vocabulary for different nonlogical vocabulary
+    - E.g. the material inference "$a$ is red" $\implies$ "$a$ is colored'' will become false if we replace 'colored' with 'square'.
+    - Descriptive terms appear *essentially*
+
+

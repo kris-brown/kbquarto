@@ -9,8 +9,4 @@ listing:
     - ../../../../backlinks/docs_math_sketches_7_3.yml
 ---
 
-## Presheaves
-
-## Topological spaces
-
-## Sheaves on topological spaces
+{{< include _3.md >}}

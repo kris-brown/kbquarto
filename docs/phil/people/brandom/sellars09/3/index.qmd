@@ -1,4 +1,7 @@
-
+---
+title: Language as thought and different species of ought
+date: September 16, 2009
+---
 
 # Language as thought and communication
 
@@ -76,7 +79,7 @@ Teaching the very young child to say 'purple' when showing her a purple lolipop 
 
 
 # [Instrumentalism](instrumentalism.qmd)
-{{< include instrumentalism.qmd >}}
+{{< include _instrumentalism.md >}}
 
 # Ought to be and ought to do
 
@@ -134,8 +137,3 @@ Important to make distinctions between different types of saying:
 We need to think of the child as being able to give evidence without the concept of evidence. This is important in the story of how the language game gets off the ground with the early hominids. But we have real experience with this: when teaching logic, it's helpful to teach students to have the practical mastery of writing proofs (prior to them having the concept of a proof). They first get familiar with the symbol pushing game. (proof is a strong form of evidence). This is very common in mathematics education.
 
 
-
----
-title: Language as thought and different species of ought
-date: September 16, 2009
----

@@ -1,0 +1,11 @@
+
+All of our evidence in science comes from empirical observation, so all of our concepts (and claims) must be translatable without remainder into observational vocabulary.
+
+What warrant would there be for any conceptual excess beyond the language of our evidence?
+
+There aren't really any theoretical entities. We postulate them merely to characterize regularities of observable entities. Statements in the observational language are simply true or false, whereas statements in theoretical language are merely more or less useful.
+
+This is a view that members of the Vienna Circle flirted with. A permanent temptation of the empiricist tradition.
+
+The alternative is called *theoretical realism*. Sellars says this is a mistake (an example of "nothing-but-ism", along with emotivism in ethics), originating from thinking of the difference between observational vocabulary and theoretical vocabulary as an ontological difference in the objects referred to by those theories. But it's not an *ontological* distinction, it's a methodological distinction. Two different epistemic relations we can stand in to things that there are. Observable things are those that we come to know about by observation (non-inferential observation reports). Theoretical concepts are concepts that we can only be entitled to apply as a result of a process of inference. See [Pluto example](/docs/phil/situations/pluto.qmd).
+

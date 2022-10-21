@@ -9,8 +9,4 @@ listing:
     - ../../../../backlinks/docs_math_sketches_6_5.yml
 ---
 
-## Operads design wiring diagrams
-
-## Operads from SMCs
-
-## The operad for hypergraph props
+{{< include _5.md >}}

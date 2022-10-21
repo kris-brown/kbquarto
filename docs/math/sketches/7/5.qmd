@@ -9,8 +9,4 @@ listing:
     - ../../../../backlinks/docs_math_sketches_7_5.yml
 ---
 
-## The interval domain
-
-## Sheaves on $\mathbb{R}$
-
-## Safety proofs in temporal logic
+{{< include _5.md >}}

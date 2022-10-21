@@ -109,7 +109,7 @@ Semantic nominalism is atomistic - the relation of a name and its bearer doesn't
 
 # Kant-Sellars thesis
 
-{{< include kant_sellars.qmd >}}
+{{< include _kant_sellars.md >}}
 
 # Modal revolution in the 20th century
 Revolution in Anglophone philosophy, taking three phases:

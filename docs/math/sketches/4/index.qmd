@@ -10,24 +10,20 @@ listing:
 ---
 
 # [Can we build it?](1.qmd)
-{{< include 1.qmd >}}
+{{< include _1.md >}}
 
 
 # [Enriched profunctors](2.qmd)
-{{< include 2.qmd >}}
+{{< include _2.md >}}
 
 
 # [Categories of profunctors](3.qmd)
-{{< include 3.qmd >}}
+{{< include _3.md >}}
 
 
 # [Categorification](4.qmd)
-{{< include 4.qmd >}}
+{{< include _4.md >}}
 
 
 # [Profunctors form compact closed categories](5.qmd)
-{{< include 5.qmd >}}
-
----
-title: Co-design
----
+{{< include _5.md >}}

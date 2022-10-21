@@ -9,10 +9,4 @@ listing:
     - ../../../../backlinks/docs_math_sketches_6_3.yml
 ---
 
-
-
-## Frobenius monoids
-
-## Wiring diagrams for hypergraph categories
-
-## Definition of a hypergraph category
+{{< include _3.md >}}

@@ -1,0 +1,15 @@
+
+We think it's straightforward when a teacher points to a plate and says 'plate'. However, one might argue the teacher has also pointed to:
+
+- the color of the plate
+- the shape of the plate
+- a piece of diningware
+- a plate or an elephant
+- a specific clump of atoms within the plate
+- etc.
+
+We want it to be true that the teacher did, in fact, point to the plate (this is needed for us to understand how the students learn to respond to plates by saying 'plate'). But we need an account.
+
+What *fact of the matter* (the pointing, the thought inside the teacher's head, the dispositions of the teacher) makes it the case that the teacher pointed to the plate?
+
+This is related to the problem of [disjunctivitis](/docs/phil/problems/disjunctivitis.qmd).

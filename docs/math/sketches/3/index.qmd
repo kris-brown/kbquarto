@@ -1,21 +1,3 @@
-# [What is a database?](1.qmd)
-{{< include 1.qmd >}}
-
-# [Categories](2.qmd)
-{{< include 2.qmd >}}
-
-
-# [Functors, natural transformations, and databases](3.qmd)
-{{< include 3.qmd >}}
-
-
-# [Adjunctions and data migration](4.qmd)
-{{< include 4.qmd >}}
-
-
-# [Introduction to limits and colimits](5.qmd)
-{{< include 5.qmd >}}
-
 ---
 title: Databases
 listing:
@@ -26,3 +8,20 @@ listing:
   contents:
     - ../../../../backlinks/docs_math_sketches_3_index.yml
 ---
+
+# [What is a database?](1.qmd)
+{{< include _1.md >}}
+
+# [Categories](2.qmd)
+{{< include _2.md >}}
+
+# [Functors, natural transformations, and databases](3.qmd)
+{{< include _3.md >}}
+
+# [Adjunctions and data migration](4.qmd)
+{{< include _4.md >}}
+
+
+# [Introduction to limits and colimits](5.qmd)
+{{< include _5.md >}}
+

@@ -9,8 +9,4 @@ listing:
     - ../../../../backlinks/docs_math_sketches_5_4.yml
 ---
 
-## A presentation of Mat R
-
-## Aside - monoid objects in a monoidal category
-
-## Singal flow graphs - feedback and more
+{{< include _4.md >}}

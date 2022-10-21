@@ -1,3 +1,8 @@
+---
+title: Inference and Meaning and Language Games
+date: September 9, 2009
+description: This lecture covers [-@sellars1954some] and [-@sellars1953inference]
+---
 
 
 # Note on Sellars' style
@@ -12,7 +17,7 @@
 
 # [Material inferences](material_inference.qmd)
 
-{{< include material_inference.qmd >}}
+{{< include _material_inference.md >}}
 
 ## Sellars has two good ideas associated with material inference:
 
@@ -132,8 +137,3 @@ There is debate (but it should be more of a bigger deal, in Brandom's opinion) a
 
 Sellars needs the notion of language to be something that evolves over time (rather than an instantaneous collection of rules) because we want the decision to make a material move to occur within a language (one is not doing redescription in another language).
 
----
-title: Inference and Meaning and Language Games
-date: September 9, 2009
-description: This lecture covers [-@sellars1954some] and [-@sellars1953inference]
----

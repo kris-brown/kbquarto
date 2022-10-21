@@ -9,26 +9,4 @@ listing:
     - ../../../../backlinks/docs_phil_distinctions_broken_analytic_synthetic.yml
 ---
 
-
-# Background
-
-Learning philosophy historically, one finds a distinction frequently made between *analytic* and *synthetic* statements. We want to put declarative statements into two boxes:
-
-1. Analytic:
-   - "Cats are mammals"
-   - "Every bachelor is unmarried"
-2. Synthetic:
-   - "There has existed a black dog"
-   - "There are three people in this room right now"
-
-How would we characterize analytic statements? One common way is to say that the truth of analytic statements depends purely on what the constituent terms *mean*, whereas synthetic statements (additionally) depend on the state of the world.
-
-# Two dogmas
-
-One of the two dogmas of Quine's [-@orman1976two] is the notion of analyticity, i.e. that the analytic-synthetic distinction can be made at all.
-
-He argues that the type of information required to make us change our opinion of the truth of "cats are mammals" and any synthetic statement are actually not different in kind.
-
-Quine's conclusion: we should cease to make the meaning-theory distinction / language-theory distinction / meaning-belief distinction --- all there is is the use of our expressions, and the usage is what determines both the meanings and what we take to be true.
-
-Quine's target is Carnap (who is thinking of artificial languages: first you fix the language and then you go into the world to see which are true in virtue of what they mean).
+{{< include _analytic_synthetic.md >}}

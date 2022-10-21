@@ -6,56 +6,52 @@ Philosophical 'situations' is a very ambiguous category of anecdotes. They're de
 
 # [Auction](auction.qmd)
 
-{{< include auction.qmd >}}
+{{< include _auction.md >}}
 
 # [Bee waggle](beewaggle.qmd)
 
-{{< include beewaggle.qmd >}}
+{{< include _beewaggle.md >}}
 
 # [Behaviorism](behaviorism.qmd)
 
-{{< include behaviorism.qmd >}}
+{{< include _behaviorism.md >}}
 
 # [Children's game](childrensgame.qmd)
 
-{{< include childrensgame.qmd >}}
+{{< include _childrensgame.md >}}
 
 # [Lost keys](lostkeys.qmd)
 
-{{< include lostkeys.qmd >}}
+{{< include _lostkeys.md >}}
 
 # [Montaigne's dog](montaignedog.qmd)
 
-{{< include montaignedog.qmd >}}
+{{< include _montaignedog.md >}}
 
 # [Novel sentences](novelsentence.qmd)
 
-{{< include novelsentence.qmd >}}
+{{< include _novelsentence.md >}}
 
 # [Pia's Maple tree](piatree.qmd)
 
-{{< include piatree.qmd >}}
+{{< include _piatree.md >}}
 
 # [Pointing at a plate](platepoint.qmd)
 
-{{< include platepoint.qmd >}}
+{{< include _platepoint.md >}}
 
 # [Pluto](pluto.qmd)
 
-{{< include pluto.qmd >}}
+{{< include _pluto.md >}}
 
 # [The shopping list](shoppinglist.qmd)
 
-{{< include shoppinglist.qmd >}}
+{{< include _shoppinglist.md >}}
 
 # [Tooth pain](toothpain.qmd)
 
-{{< include toothpain.qmd >}}
+{{< include _toothpain.md >}}
 
 # [The War Hero](warhero.qmd)
 
-{{< include warhero.qmd >}}
-
----
-title: Philosophical situations
----
+{{< include _warhero.md >}}

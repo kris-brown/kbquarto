@@ -14,16 +14,12 @@ Often there are ideas that are closely related, and it becomes ambiguous which i
 
 # [Concepts and judgment](concept_judgment.qmd)
 
-{{< include concept_judgment.qmd >}}
+{{< include _concept_judgment.md >}}
 
 # [Meaning and truth](meaning_truth.qmd)
 
-{{< include meaning_truth.qmd >}}
+{{< include _meaning_truth.md >}}
 
 # [Sense data and concepts](sensedata_concepts.qmd)
 
-{{< include sensedata_concepts.qmd >}}
-
----
-title: Switcharoos
----
+{{< include _sensedata_concepts.md >}}

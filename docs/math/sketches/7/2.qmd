@@ -9,8 +9,4 @@ listing:
     - ../../../../backlinks/docs_math_sketches_7_2.yml
 ---
 
-## **Set**-like properties enjoyed by any topos
-
-## The subobject classifier
-
-## Logic in the topos **Set**
+{{< include _2.md >}}

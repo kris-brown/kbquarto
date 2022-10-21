@@ -8,17 +8,4 @@ listing:
   contents:
     - ../../../../backlinks/docs_math_sketches_5_1.yml
 ---
-
-
-- Cyber-physical systems have tightly interacting physical and computational parts
-- Model system behavior as the passing around and processing of signals (e.g. real numbers).
-- Interaction can be thought of as variable sharing
-    - Physical coupling between train cars forces their velocity to be the same
-- Categorical treatment of [co-design problems](../4) allowed us to evaluate composite feasibility relation from a diagram of simpler feasibility relations.
-    - Likewise we can evaluate whether two different signal flow graphs specify the same composite system
-    - (perhaps to validate that a system meets a given specification)
-- Symmetric monoidal preorders were a special class of symmetric monoidal category where \emph{morphisms} are constrained to be simple (at most one between any pair of objects).
-    - Signal flow diagrams can be modeled by props, which is a special class of symmetricf monoidal category where \emph{objects} are constrained to be simple (all are generaated by the monoidal product of a single object).
-    - In the former we have to label wires but not boxes. Vice-versa for props.
-
-
+{{< include _1.md >}}

@@ -9,14 +9,4 @@ listing:
     - ../../../../backlinks/docs_math_sketches_7_4.yml
 ---
 
-## The subobject classifier in a sheaf topos
-
-## Logic in a sheaf topos
-
-## Predicates
-
-## Quantification
-
-## Modalities
-
-## Type theories and semantics
+{{< include _4.md >}}

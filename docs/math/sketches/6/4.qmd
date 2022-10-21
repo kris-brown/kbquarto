@@ -9,8 +9,4 @@ listing:
     - ../../../../backlinks/docs_math_sketches_6_4.yml
 ---
 
-## Symmetric monoidal functors
-
-## About decorated cospans
-
-## Electric circuits
+{{< include _4.md >}}

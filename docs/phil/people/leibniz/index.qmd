@@ -2,4 +2,6 @@
 title: Leibniz
 ---
 
-A German metaphysical rationalist, 1646-1716.
+A German metaphysical rationalist (1646-1716).
+
+![](/images/headshots/leibniz.jpeg)

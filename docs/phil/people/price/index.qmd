@@ -12,4 +12,4 @@ listing:
 
 Huw Price is an Australian philosopher, born 1953.
 
-![](/images/price.jpeg)
+![](/images/headshots/price.jpeg)

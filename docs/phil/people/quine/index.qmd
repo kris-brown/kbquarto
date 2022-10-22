@@ -2,6 +2,6 @@
 title: Quine
 ---
 
-W.O. Quine was an American philosopher, born ???.
+W.O. Quine was an American philosopher (1908–2000).
 
-![](/images/quine.jpeg)
+![](/images/headshots/quine.jpeg)

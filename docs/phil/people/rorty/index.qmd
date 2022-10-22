@@ -4,4 +4,4 @@ title: Rorty
 
 An American philosopher, 1931-2007.
 
-![](/images/rorty.jpeg)
+![](/images/headshots/rorty.jpeg)

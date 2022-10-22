@@ -1,6 +1,13 @@
 
 ---
 title: Theoretical vs observable objects
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_phil_distinctions_broken_theoretical_observable.yml
 ---
 
 {{< include _theoretical_observable.md >}}

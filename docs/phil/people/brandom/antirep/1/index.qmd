@@ -16,16 +16,19 @@ title: The Concept of Representation
     - Copernicus: reality behind stationary Earth and revolving Sun is a revolving Earth and stationary Sun.
     - Galileo: effective strategies of understanding time as line lengths and acceleration as triangles ... not easily understood in terms of shared properties.
 
-## The invention
+## The invention of representation
 
-Descartes invents representation with relationships between algebra (representation) and geometry (represented/reality).
+[Descartes](/docs/phil/people/descartes/index.qmd) invents representation with relationships between algebra (representation) and geometry (represented/reality).
 
 - Spinoza talks better about how Descartes used representation than Descartes himself. Spinoza saw Descartes' philosophy as being understood in terms of his innovations of relating algebra to geometry.
     - "The order and connection of things is the same as the order and connection of ideas"
-    - The properties of what is representing or represented are irrelevant, only that there is a mapping between the relations in each world.
+    - The properties of what is representing or represented are irrelevant. What's relevant is that there is a mapping between the relations in each world.
 - If any things are known representationally, then some things must be known nonrepresentationally (to avoid infinite regress)
     - Representationalism gives rise to choice between epistemological skepticism vs foundationalism.
-    - A Kantian insight: the *real* problem is *semantic* skepticism (can we really know something by representing it correctly?)
+    - A Kantian insight: the *real* problem is *semantic* skepticism.
+        - He doesn't take it for granted that we can 'represent' reality and merely have to worry about whether or not that representation is true.
+        - It might be unintelligible that our mental states even purport to specify how things are out there.
+        - This is a prior question to whether or not those purported claims are true.
 
 ## Rationalists vs empiricists
 

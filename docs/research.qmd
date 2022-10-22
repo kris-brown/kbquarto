@@ -4,7 +4,7 @@ comments: false
 ---
 
 # Current
-I work with a [team](https://www.algebraicjulia.org/) developing applied category theory software in Julia. The primary application here is building tools that make scientific computing and scientific knowledge representation easier, more transparent, and more robust to updating one's model of the world. For an overview, see my talk [Combinatorial Representations of Scientific Knowledge](https://www.youtube.com/watch?v=vJRAw8USmYs).
+I am a research software engineer at the [Topos Institute](https://topos.institute/model-based-computing). I work with a [team](https://www.algebraicjulia.org/) developing applied category theory software in Julia. The primary application here is building tools that make scientific computing and scientific knowledge representation easier, more transparent, and more robust to updating one's model of the world. For an overview, see my talk [Combinatorial Representations of Scientific Knowledge](https://www.youtube.com/watch?v=vJRAw8USmYs).
 
 {{< video https://www.youtube.com/embed/vJRAw8USmYs width="560" height="315" >}}
 
@@ -52,21 +52,27 @@ I also interned at Google where we applied the [Lean theorem prover](https://lea
 
 # CV
 
-<object data="../images/cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="../images/cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/cv.pdf">Download PDF</a>.</p>
+<object data="../images/research/cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../images/research/cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/research/cv.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 # Talks
 
-| Title | Event | Links | Year
+| Title | Event | Links |
 |---|---|---|
-| Compositional Exploration of Scientific Models |Glasgow, ACT 2022 | [video](https://youtu.be/KsxKNzUnE6E?t=24894) [slides](/images/ACT2022.pdf) [notes](https://statebox.tv/act2022/exploration/notes) |
+| Compositional Exploration of Scientific Models |Glasgow, ACT 2022 | [video](https://youtu.be/KsxKNzUnE6E?t=24894) [slides](/images/research/ACT2022.pdf) [notes](https://statebox.tv/act2022/exploration/notes) |
 | Rewriting individual-based models for epidemiology | Glasgow, ACT 2022 | [video](https://www.youtube.com/watch?v=iNdH_U-C1Nc&t=31393s) [notes](https://statebox.tv/act2022/individual/notes) |
-| Computational Category Theoretic Graph Rewriting |Nantes, ICGT 2022| [slides](/images/ICGT.pdf)|
-| AlgebraicRewriting.jl - Declarative Data Transformation |JuliaCon 2022| [video](https://www.youtube.com/watch?v=7Ao9_ffLSFg) [slides](/images/JuliaCon.pdf)|
-| Extending McKay's Canonical Isomorph Algorithm to C-Sets |SIAM DM 2022| [slides](/images/SIAM.pdf)|
+| Computational Category Theoretic Graph Rewriting |Nantes, ICGT 2022| [slides](/images/research/ICGT.pdf)|
+| AlgebraicRewriting.jl - Declarative Data Transformation |JuliaCon 2022| [video](https://www.youtube.com/watch?v=7Ao9_ffLSFg) [slides](/images/research/JuliaCon.pdf)|
+| Extending McKay's Canonical Isomorph Algorithm to C-Sets |SIAM DM 2022| [slides](/images/research/SIAM.pdf)|
 | Combinatorial Representations of Scientific Knowledge |Topos 2022| [video](https://www.youtube.com/watch?v=vJRAw8USmYs) [slides](https://topos.site/berkeley-seminar/slides/2022-04-28.pdf)
 | Leveraging Data to Improve the Accuracy of Chemistry Simulations |Thesis 2021| [video](https://www.youtube.com/watch?v=Dcg6f4SfscU)|
 | Formal Verification of Android Build Code |Google 2020| [video](https://www.youtube.com/watch?v=gj3XD8gK0Ho&t=3s)|
+
+## Posters
+
+| Title | Event |
+|---|---|
+| [Applied Category Theory for Scientists](/images/research/DenmarkPoster.pdf) | Denmark, Catalysis and Modeling Symposium 2022 |

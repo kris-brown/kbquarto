@@ -1,3 +1,12 @@
+"""
+TODO ignore X links to Y if X includes Y.
+"""
+function pipeline()
+  links_out, title_dict = get_links() 
+  links_in = get_links_in(links_out)
+  render_links(links_in, title_dict)
+end
+
 """Find, for each qmd file, the outgoing links and their surrounding sentences"""
 function get_links() 
   links_out = Dict{String,Vector{Pair{String,String}}}() 
@@ -10,10 +19,13 @@ function get_links()
       links_out[finame] = get_links(root,file) 
     end 
   end 
+  return links_out, title_dict
+end 
 
+function get_links_in(links_out)
   # ld is the links out; we want the links *in* 
   links_in = Dict{String,Vector{Pair{String,String}}}([ 
-    fi => Pair{String,String}[] for fi in keys(links_out)]) 
+    fi => Pair{String,String}[] for fi in keys(links_out)])
 
   for (fi, outlinks) in collect(links_out) 
     for (out_fi, ctx) in outlinks 
@@ -24,6 +36,10 @@ function get_links()
       end 
     end 
   end 
+  return links_in 
+end 
+
+function render_links(links_in, title_dict)
   filter!(x->!isempty(x[2]),links_in)
   for (k,vs) in collect(links_in) 
     k = k[2:end]
@@ -121,4 +137,4 @@ function show_listing(ndots::Int,name::String)
 end
 
 run(`find . -name "backlinks/*.yml" -delete`) # clear old backlinks
-l = get_links() |> collect; # add new ones
+pipeline()

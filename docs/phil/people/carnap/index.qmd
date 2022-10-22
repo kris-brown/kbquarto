@@ -4,4 +4,4 @@ title: Carnap
 
 Rudolf Carnap was a German philosopher, 1891-1970.
 
-![](/images/carnap.jpeg)
+![](/images/headshots/carnap.jpeg)

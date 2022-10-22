@@ -1,6 +1,9 @@
 ---
 title: People
 comments: false
+listing:
+  contents: /*/*.qmd
+  type: grid
 ---
 
-Notes related to people of interest.
+Notes related to philosophers of interest.

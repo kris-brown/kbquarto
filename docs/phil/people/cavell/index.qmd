@@ -2,6 +2,11 @@
 title: Cavell
 ---
 
+Stanley Cavell was an American philosopher (1926-2018).
+
+![](/images/headshots/cavell.jpeg)
+
+
 # The start of notes on Must We Mean What We Say?
 - Main question: does what we ordinarily say/mean have a direct+deep control over what we can philosophically say/mean?
 - Goal: respond to objections to the methodology of 'ordinary language philosophy' (by Mates)

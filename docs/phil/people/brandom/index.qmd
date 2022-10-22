@@ -9,9 +9,12 @@ listing:
     - ../../../../backlinks/docs_phil_people_brandom_index.yml
 ---
 
-An American philosopher, born in 1950. [Academic website](www.pitt.edu/~rbrandom)
+An American philosopher, born in 1950. 
 
-![Brandom](/images/brandom.jpg)
+![Brandom](/images/headshots/brandom.jpg)
+
+## Links 
+[Academic website](www.pitt.edu/~rbrandom)
 
 ## Lectures
 - Antirepresentationalism (2020)

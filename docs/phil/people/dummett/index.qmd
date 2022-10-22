@@ -2,4 +2,6 @@
 title: Dummett
 ---
 
-Michael Dummett
+Michael Dummett was an English philosopher of logic (1925-2011).
+
+![](/images/headshots/dummett.jpeg)

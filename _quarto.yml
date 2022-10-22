@@ -148,15 +148,16 @@ website:
             - docs/phil/people/carnap/index.qmd
             - docs/phil/people/cavell/index.qmd
             - docs/phil/people/derrida/index.qmd
+            - docs/phil/people/descartes/index.qmd
             - docs/phil/people/dewey/index.qmd
             - docs/phil/people/hume/index.qmd
             - docs/phil/people/kant/index.qmd
             - docs/phil/people/leibniz/index.qmd
-            - docs/phil/people/hume/index.qmd
             - docs/phil/people/nietzsche/index.qmd
             - docs/phil/people/price/index.qmd
             - docs/phil/people/rorty/index.qmd
             - docs/phil/people/sellars/index.qmd
+            - docs/phil/people/spinoza/index.qmd
             - docs/phil/people/wittgenstein/index.qmd
         - section: "Elucidations"
           href: docs/phil/elucidations/index.qmd

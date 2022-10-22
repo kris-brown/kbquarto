@@ -2,7 +2,10 @@
 title: Hume
 ---
 
-A Scottish philosopher, 1711-1776.
+A Scottish philosopher (1711-1776).
+
+![](/images/headshots/hume.jpeg)
+
 
 # Hume's predicament
 Even our best understanding of actual observable empirical facts doesn't yield an understanding of rules relating or otherwise governing them.

@@ -9,7 +9,10 @@ listing:
     - ../../../../backlinks/docs_phil_people_nietzsche_index.yml
 ---
 
-A German philosopher, 1844-1900.
+A German philosopher (1844-1900).
+
+![](/images/headshots/neitzsche.jpeg)
+
 
 
 # Quotes

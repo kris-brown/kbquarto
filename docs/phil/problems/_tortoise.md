@@ -33,7 +33,7 @@ By Lewis Caroll in 1895. [-@carroll2021tortoise]
 
 - This teaches an un-get-over-able lesson about the necessity for an *implicit practical background* of making some moves that are just okay. Things that would be put in a logical system, not in the forms of axioms, but in the form of rules.
 
-(This is from one of his [Sellars lectures](/docs/phil/people/brandom/lectures/sellars_2009))
+(This is from one of his [Sellars lectures](/docs/phil/people/brandom/sellars09/index.qmd))
 
 
 ## My commentary
@@ -44,6 +44,6 @@ By Lewis Caroll in 1895. [-@carroll2021tortoise]
     1. Their role in reasoning
     2. A story for our knowledge/justification of them.
 
-- The story shows how treating a rule as a fact strips it of its normative force. It is the problem of conflating description in the narrow sense with description in the wider sense: see [Sellars on possible worlds](/docs/phil/people/sellars).
+- The story shows how treating a rule as a fact strips it of its normative force. It is the problem of conflating description in the narrow sense with description in the wider sense: see [Sellars on possible worlds](/docs/phil/people/sellars/index.qmd).
 
 - The last line of Brandom's commentary makes me think this can also be used to counter some forms of radical skepticism, i.e. to recover an air of dignity to making working assumptions.

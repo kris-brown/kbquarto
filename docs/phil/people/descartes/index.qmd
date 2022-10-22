@@ -1,0 +1,13 @@
+---
+title: Descartes
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_phil_people_descartes_index.yml
+---
+René Descartes was a French mathematician, scientist, and philosopher: 1596–1650.
+
+![](/images/headshots/descartes.jpeg)

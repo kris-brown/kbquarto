@@ -3,7 +3,7 @@ title: Dewey
 ---
 John Dewey was an American pragmatist philosopher, 1959-1952.
 
-![](/images/dewey.jpg)
+![](/images/headshots/dewey.jpg)
 
 # Rorty on Dewey
 Dewey wants the distinctions between science and philosophy to be rubbed out and replaced with an uncontroversial notion of intelligence trying to solve problems and provide meanings.

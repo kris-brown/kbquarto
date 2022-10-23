@@ -1,4 +1,3 @@
-
 ---
 title: Theoretical vs observable objects
 listing:

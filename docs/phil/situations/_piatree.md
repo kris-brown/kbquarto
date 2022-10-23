@@ -2,9 +2,12 @@
 Example from Charles Travis [-@wright1997companion] (*Pragmatics*, pg 97):
 
 - Maple trees have red leaves naturally, but Pia paints them green.
-- One day, a decorator asks her if she has any green leaves for her display, and Pia answers *yes*.
-- Another day, a chemist asks her if she has any green leaves for her experiment on green leaf chemistry, and Pia answers *no*.
+- One day, a decorator asks her if she has any green leaves for her display, and 
+  Pia answers *yes*.
+- Another day, a chemist asks her if she has any green leaves for her experiment 
+  on green leaf chemistry, and Pia answers *no*.
 - In both cases, Pia answered truthfully.
 
 
-The moral: any true sentence in some context has a context which would make its negation true.
+The moral: any true sentence in some context has a context which would make its 
+negation true.

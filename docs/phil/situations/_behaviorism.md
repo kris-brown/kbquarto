@@ -14,16 +14,19 @@ it's only if it had enough coherence and enough stability, that we're here.
 as a matter of fact, we tended to go on the same way when trained the same way,
 to a remarkable extent, we wouldn't get a language game off the ground.
 
-I should mention that this gerrymandering issue is what was wrong with classical behaviorism from an empirical point of
+I should mention that this gerrymandering issue is what was wrong with classical 
+behaviorism from an empirical point of
 view. \footnote{What was wrong with
 classical behaviorism, from a \emph{conceptual} point of view, is we can see it with
 the wisdom of hindsight is just a larval stage on the way to functionalism. As
 all of the considerations that lead people to think have direct stimulus
-response connections, are satisfied still, if you allow intervening states. It's still an empirical undertaking, and so on. But there's a
+response connections, are satisfied still, if you allow intervening states. 
+It's still an empirical undertaking, and so on. But there's a
 lot more formal power, you can get Turing machines, if you can get functional
 states, so you can get a lot farther. That's why
 nobody should be a classical behaviorist anymore: be a functionalist, you get
-all the advantages, and a lot more expressive power.} Remember, the stimulus and response were supposed to be
+all the advantages, and a lot more expressive power.} Remember, the stimulus and 
+response were supposed to be
 objective features of the critters you were looking at. So that the behavioral
 scientist modeled on the natural scientist, her own conceptual scheme was not
 supposed to be involved in characterizing the behavior of these critters. But
@@ -45,7 +48,8 @@ move four steps forward, and not be pressing on the bar. But why
 is that? Is that something that you without importing any understanding of
 this are objectively reading off of the situation? Or have you, in fact, all
 along been importing, your characterization of what the regularity
-is that you are, that you're characterizing? This is actually empirical as well a methodological
+is that you are, that you're characterizing? This is actually empirical as well 
+a methodological
 problem. What is the prediction that you're supposed to make at this point?
 And how do you justify the one rather than rather than the other by your
 methodological lights?

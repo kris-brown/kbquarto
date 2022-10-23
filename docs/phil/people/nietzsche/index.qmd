@@ -18,4 +18,8 @@ A German philosopher (1844-1900).
 # Quotes
 
 ## Mobile army
-> Truth is a mobile army of metaphors, metonyms, anthropomorphisms, in short, a sum of human relations which were poetically and rhetorically heightened, transferred, and adorned, and after long use seem solid, canonical, and binding to a nation. Truths are illusions about which it has been forgotten that they are illusions. [-@nietzsche1954truth]
+> Truth is a mobile army of metaphors, metonyms, anthropomorphisms, in short, a 
+sum of human relations which were poetically and rhetorically heightened, 
+transferred, and adorned, and after long use seem solid, canonical, and binding 
+to a nation. Truths are illusions about which it has been forgotten that they 
+are illusions. [-@nietzsche1954truth]

@@ -27,7 +27,17 @@ oneself to the idea that there are inductively confirmable generalizations (NB:
  mistake. [-@sellars1963phenomenalism]
 
 ## Community
-> To say that a person desired to do A, thought it his duty to do B, but was forced to do C, is not to describe him as one might describe a scientific specimin. One does indeed describe him, but one does something more. And it's this 'something more' which is the irreducible core of the framework of persons. In what does this 'something more' consist? To think of a featherless bird as a person is to think of it as a being with which  one is bound up in a network of duties. From this point of view, the irreducibility of the personal is the irreducibility of the *ought* or the *is*. But even more basic than this to think of a featherless biped as a person is to construe its behavior in terms of actual or potential membership in an embracing group, each member of which thinks of itself as a member of the group. Let's call such a group a *community*.
+> To say that a person desired to do A, thought it his duty to do B, but was 
+forced to do C, is not to describe him as one might describe a scientific 
+specimin. One does indeed describe him, but one does something more. And it's 
+this 'something more' which is the irreducible core of the framework of persons. 
+In what does this 'something more' consist? To think of a featherless bird as a 
+person is to think of it as a being with which  one is bound up in a network of 
+duties. From this point of view, the irreducibility of the personal is the 
+irreducibility of the *ought* or the *is*. But even more basic than this to 
+think of a featherless biped as a person is to construe its behavior in terms of 
+actual or potential membership in an embracing group, each member of which 
+thinks of itself as a member of the group. Let's call such a group a *community*.
 
 - Deep connection between the normative, the social, and the self-conscious.
 
@@ -64,7 +74,8 @@ world includes linguistic norms and roles viewed from the standpoint of a
 fellow participant.
 
 - This plays off Carnap's notion of 'quasi-syntactical'.
-- There's the narrow view of 'the world', that's the world that science is the measure of all things. And the broader view of the world.
+- There's the narrow view of 'the world', that's the world that science is the 
+  measure of all things. And the broader view of the world.
 
 [^1]: e.g. redness, lionhood
 
@@ -98,7 +109,8 @@ them in a space of implications that they *describe* at all, rather than
 merely *label*.
 
 - Describing is what science is the measure of all things about.
-- You can't do everything with just classification. It's not a rich enough concept to get you to descriptions.
+- You can't do everything with just classification. It's not a rich enough 
+  concept to get you to descriptions.
 
 ##  Man as rational animal
 > To say that man is a rational animal is to say that man is a creature not of
@@ -145,8 +157,9 @@ from the idea that the business of all non-logical concepts is to describe, the
         language as playing an unsurveyable variety of roles.
 - Most interesting philosophical concepts come with a "-ing"/ "-ed"
         distinction that's crucial. Is a justification an act of justifying vs
-        what's justified (related to [Agrippan trilemma](/docs/phil/problems/agrippan.qmd)). Is an experience an act
-        of experiencing vs what's experienced.
+        what's justified (related to 
+        [Agrippan trilemma](/docs/phil/problems/agrippan.qmd)). Is an experience 
+        an act of experiencing vs what's experienced.
 
 ## Rules are lived
 > A rule, properly speaking, isn't a rule unless it lives in behavior,
@@ -166,21 +179,46 @@ of all of things. Of what is that it is, and of what is not that it is not. [-@s
 - Unfortunately, the opening qualification is important but usually left out.
 
 ## Space of reasons
-> In characterizing an episode or a state as *knowing*, we are not giving an empirical description of it. We are placing it in the logical space of reasons, of justifying and being able to justify what one says. [-@sellars1956empiricism]
+> In characterizing an episode or a state as *knowing*, we are not giving an
+ empirical description of it. We are placing it in the logical space of reasons, 
+ of justifying and being able to justify what one says. [-@sellars1956empiricism]
 
 - Note, there's nothing too special about *knowing*. He could also have said *believing*.
--  We're *doing* something, an act that's not *describing* something.
-- Relates to the scientium mensura quote - we have an example of something (describing knowledge) as something that science is not the measure of all things about.
-- Rorty characterized Sellars readership as "right wing" (ones who felt the greatest philosophical illumination from "scientium mensura") vs "left wing" (who rally behind the "space of reasons").
-- The Vienna circle, too, had two wings (the naturalist wing (Neurath) and the empiricist wing (Schlict)) in tension (e.g. empiricists making sense of modal statements). Carnap struggled to hold them together.
-- Joke: Rorty says "I hope the left and right wing Sellarsians can sort their differences out in the end more peacefully than the left and right wing Hegelians did, who settled it once and for all at a 6 month seminar called The Battle of Stalingrad.''
+- We're *doing* something, an act that's not *describing* something.
+- Relates to the scientium mensura quote - we have an example of something 
+  (describing knowledge) as something that science is not the measure of all 
+  things about.
+- Rorty characterized Sellars readership as "right wing" (ones who felt the 
+  greatest philosophical illumination from "scientium mensura") vs "left wing" 
+  (who rally behind the "space of reasons").
+- The Vienna circle, too, had two wings (the naturalist wing (Neurath) and the 
+  empiricist wing (Schlict)) in tension (e.g. empiricists making sense of modal 
+  statements). Carnap struggled to hold them together.
+- Joke: Rorty says "I hope the left and right wing Sellarsians can sort their 
+  differences out in the end more peacefully than the left and right wing 
+  Hegelians did, who settled it once and for all at a 6 month seminar called 
+  The Battle of Stalingrad."
 
 
 ## Subjunctive conditionals as essential
-> We've established not only that subjunctive conditionals are the expressions of material rules of inference, but that the authority of those rules is not derivative from formal rules. In other words, we've shown that material rules of inference are essential to the language we speak, for we make constant use of subjunctive conditions. It's very tempting to conclude that material rules of inference are essential to languages containing descriptive terms.
+> We've established not only that subjunctive conditionals are the expressions 
+of material rules of inference, but that the authority of those rules is not 
+derivative from formal rules. In other words, we've shown that material rules 
+of inference are essential to the language we speak, for we make constant use 
+of subjunctive conditions. It's very tempting to conclude that material rules 
+of inference are essential to languages containing descriptive terms.
 
 ## Transition to conceptual thinking {#transition}
-> Anything which can properly be called 'conceptual thinking' can occur only within a framework of conceptual thinking in terms of which it can be critized, supported, refuted (in short, evaluated). To be able to think is to be able to measure one's thoughts by standards of correctness, of relevance, of evidence [^2]. In this sense the diversified conceptual framework is a whole which (however sketchy) is prior to its parts, and cannot be construed as a coming to gether of parts which are conceptual in character. The conclusion is difficult to avoid that the transition from preconceptual patterns of behavior to conceptual thinking is a holistic one, a jump to a level of awareness that is irreducibly new. A jump which was the coming of the being of man.
+> Anything which can properly be called 'conceptual thinking' can occur only 
+within a framework of conceptual thinking in terms of which it can be critized, 
+supported, refuted (in short, evaluated). To be able to think is to be able to 
+measure one's thoughts by standards of correctness, of relevance, of evidence 
+[^2]. In this sense the diversified conceptual framework is a whole which 
+(however sketchy) is prior to its parts, and cannot be construed as a coming to 
+gether of parts which are conceptual in character. The conclusion is difficult 
+to avoid that the transition from preconceptual patterns of behavior to 
+conceptual thinking is a holistic one, a jump to a level of awareness that is 
+irreducibly new. A jump which was the coming of the being of man.
 
 - Constrast with Wittegnsteinian image of "light dawning slowly on the whole". Sellars is worried about the mechanism of how this happens.
 

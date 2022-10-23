@@ -7,7 +7,11 @@ description: This lecture mainly talks about some ideas of Kant that influenced 
 
 # Historical Kant Context
 
-[Kant](/docs/phil/people/kant/index.qmd) was not in favor within [analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy) when Sellars began, due to Kant's connection to [Hegel](/docs/phil/people/brandom/#on-kant-and-hegel)[^1]. However, this is ironic because Kant is incredibly analytical and science-driven.
+[Kant](/docs/phil/people/kant/index.qmd) was not in favor within 
+[analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy) when 
+Sellars began, due to Kant's connection to 
+[Hegel](/docs/phil/people/brandom/#on-kant-and-hegel)[^1]. However, this is 
+ironic because Kant is incredibly analytical and science-driven.
 
 [^1]:Hegel was the 'Great Bad' of Anglophone philosophy
 
@@ -15,7 +19,8 @@ Three ideas of Kant that mattered to Sellars:
 
 ## Freedom
 - Rousseau said "Obedience to a law that one has laid oneself is freedom."
-- Kant turned this around to distinguish *constraint by norms* from *constraint by power*.
+- Kant turned this around to distinguish *constraint by norms* from *constraint 
+  by power*.
 
 
 ## Normativity
@@ -23,37 +28,69 @@ Kant's *normative* understanding of discursive practice[^2]
 
 [^2]: i.e. practice relating to *concepts*.
 
-- How do we understand the difference between concept-using, sapient beings from mere responders to the natural environment? Here are two possible ways to think of it:
-    - $O$: An *ontological* distintion: knowers are an actually different kind of thing (perhaps there is a presence of 'mind stuff' or 'spirit stuff').
-    - $D$: A *deontological* distinction: we *treat* knowers differently from objects. There are things that the agents are in a distinctive sense *responsible* for [^3].
-- Both sides treat $D$ as true, but Team $O$ furthermore believes $O$ is true and that the order of explanation is $O \implies D$. However, Team $D$ takes $D$ as essential and needs not make any claim about ontology.
+- How do we understand the difference between concept-using, sapient beings from 
+  mere responders to the natural environment? Here are two possible ways to 
+  think of it:
+    - $O$: An *ontological* distintion: knowers are an actually different kind 
+      of thing (perhaps there is a presence of 'mind stuff' or 'spirit stuff').
+    - $D$: A *deontological* distinction: we *treat* knowers differently from 
+      objects. There are things that the agents are in a distinctive sense 
+      *responsible* for [^3].
+- Both sides treat $D$ as true, but Team $O$ furthermore believes $O$ is true 
+  and that the order of explanation is $O \implies D$. However, Team $D$ takes 
+  $D$ as essential and needs not make any claim about ontology.
 
 - Downstream of this are many of Kant's innovations.
     - The minimum unit of awareness/experience is the *judgment*
-        - this comes from taking $D$ to be fundmental: it is the smallest thing we can be held responsible for
-        - Everything else (particular concepts like *Fido the dog*, universal concepts like *triangularity*, logical concepts) has to be understood in terms of the function it plays with respect to judgment.
-    - The *subjective* form of judgment (the "I think..." that can accompany all judgments)
-        - Because it can accompany all representations, this is the emptiest form of judgment.
+        - this comes from taking $D$ to be fundmental: it is the smallest thing 
+          we can be held responsible for
+        - Everything else (particular concepts like *Fido the dog*, universal 
+          concepts like *triangularity*, logical concepts) has to be understood 
+          in terms of the function it plays with respect to judgment.
+    - The *subjective* form of judgment (the "I think..." that can accompany all 
+      judgments)
+        - Because it can accompany all representations, this is the emptiest 
+          form of judgment.
         - The mark of "who is responsible for the judgment".
-        - To say "*I think* it is raining now." is to emphasize that *I* am responsible (e.g. subject to criticism if you go outside and don't get wet).
-    - The *objective* form of judgment (the "$x$ is ..." or "$x$ = ..." for some object $x$).
+        - To say "*I think* it is raining now." is to emphasize that *I* am 
+          responsible (e.g. subject to criticism if you go outside and don't 
+          get wet).
+    - The *objective* form of judgment (the "$x$ is ..." or "$x$ = ..." for some 
+      object $x$).
         - Mark of what you've made yourself responsible to.
-        - When saying "That stone is 50 pounds.", the stone has a certain authority over me (one looks to the stone to see whether I am right or wrong; it sets the standards of correctness). See the [shopping list scenario](/docs/phil/situations/shoppinglist.qmd).
+        - When saying "That stone is 50 pounds.", the stone has a certain 
+          authority over me (one looks to the stone to see whether I am right or 
+          wrong; it sets the standards of correctness). See the 
+          [shopping list scenario](/docs/phil/situations/shoppinglist.qmd).
 
-[^3]: This point is shared by the later Wittgenstein. The [puzzles](/docs/phil/situations/childrensgame.qmd) that Wittgenstein offers us (along the way to trying to dissolve the presuppositions that make it puzzling) center around the normative significance of beliefs/desires/intentions.
+[^3]: This point is shared by the later Wittgenstein. The 
+[puzzles](/docs/phil/situations/childrensgame.qmd) that Wittgenstein offers us 
+(along the way to trying to dissolve the presuppositions that make it puzzling) 
+center around the normative significance of beliefs/desires/intentions.
 
 ## Concepts
-- In addition to concepts whose principle expressive job is to describe/explain empirical goings-on, there are concepts whose principle expressive job it is to make explicit the framework that makes description possible.
+- In addition to concepts whose principle expressive job is to describe/explain 
+  empirical goings-on, there are concepts whose principle expressive job it is 
+  to make explicit the framework that makes description possible.
     - These are known *a priori* framework-explicating concepts.
-    - This is Kant's response to Hume, for how we can understand the modal force of laws in virtue of their non-modal description.
+    - This is Kant's response to Hume, for how we can understand the modal force 
+      of laws in virtue of their non-modal description.
         - The answer is in the description framework itself.
-        - The fact that there are necessarily relations that concepts have among another makes description possible (a concept being contentful at all requires it to have some necessary relations to other concepts).
-- What Sellars means by 'ushering philosphy from its Humean phase to its Kantian phase' is putting categories front and center.
-    - Trying to *describe* the modal structure of the world or describe the space of possible worlds is to try to assimilate modal language into descriptivism, rather than seeing them as playing a different expressive role
+        - The fact that there are necessarily relations that concepts have among 
+          another makes description possible (a concept being contentful at all 
+          requires it to have some necessary relations to other concepts).
+- What Sellars means by 'ushering philosphy from its Humean phase to its Kantian 
+  phase' is putting categories front and center.
+    - Trying to *describe* the modal structure of the world or describe the 
+      space of possible worlds is to try to assimilate modal language into 
+      descriptivism, rather than seeing them as playing a different expressive 
+      role
     - Sellars saw Kant as putting this other option on the table.
 
 ## More ideas
-- A difference between Humean thinking and Kantian thinking: for Kant, laws of nature are not 'super-facts' - they are not 'describing the world'. Rather, they make explicit a rule of inference.
+- A difference between Humean thinking and Kantian thinking: for Kant, laws of 
+  nature are not 'super-facts' - they are not 'describing the world'. Rather, 
+  they make explicit a rule of inference.
 
 - Another Kantian idea: the distinction between *phenomena* and *noumena*:
     - Kant radicalized the distinction between:
@@ -66,10 +103,15 @@ Kant's *normative* understanding of discursive practice[^2]
     - This distinction lives in Sellars as the difference between:
         -  the world *in the narrow sense*
         -  the world *in the wider sense*
-            - E.g. which includes norms that are only accessible from a participant's perspective.
+            - E.g. which includes norms that are only accessible from a 
+              participant's perspective.
 
 # Sellars quotes
 
-The lecture finishes with some [Sellars quotes](/docs/phil/people/sellars/index.qmd#quotes) on describing, explaining, and justifying.
+The lecture finishes with some 
+[Sellars quotes](/docs/phil/people/sellars/index.qmd#quotes) on describing, 
+explaining, and justifying.
 
-He doesn't begin with philosophically elaborated definition of describing, explaining, justifying. He takes these concepts as they come. He wants to do philosophy in a neutral / as close-to-practice way as possible.
+He doesn't begin with philosophically elaborated definition of describing, 
+explaining, justifying. He takes these concepts as they come. He wants to do 
+philosophy in a neutral / as close-to-practice way as possible.

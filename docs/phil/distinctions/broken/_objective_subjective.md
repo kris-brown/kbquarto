@@ -1,26 +1,35 @@
+> So, a second characterization of pragmatism might go like this: there is no 
+> epistemological difference between truth about what ought to be and truth 
+> about what is, nor any metaphysical difference between facts and values, nor 
+> any methodological difference between morality and science. [-@rorty2020pragmatism]
 
-> So, a second characterization of pragmatism might go like this: there is no epistemological difference between truth about what ought to be and truth about what is, nor any metaphysical difference between facts and values, nor any methodological difference between morality and science. [-@rorty2020pragmatism]
+These are all just statements in vocabularies. Without privileging a "*nature*'s 
+own vocabulary."
 
-These are all just statements in vocabularies. Without privileging a "*nature*'s own vocabulary."
+In neither case do you need to worry about what makes such-and-such statement in 
+the vocabulary true. What you should worry about is the reason relations within 
+each vocaublary
 
-In neither case do you need to worry about what makes such-and-such statement in the vocabulary true. What you should worry about is the reason relations within each vocaublary
-
-  - There will be sociological differences between physics and literary theory in how reason relations come about.
-  - But the representationalist mistake one can make is thinking that these sociological differences are metaphysical differences in the underlying content.
+- There will be sociological differences between physics and literary theory 
+  in how reason relations come about.
+- But the representationalist mistake one can make is thinking that these 
+  sociological differences are metaphysical differences in the underlying content.
 
 # Antibifurcationism
-Anti-bifurcationism was coined by [Huw Price](/docs/phil/people/price) to reject the following view.
+Anti-bifurcationism was coined by [Huw Price](/docs/phil/people/price) to reject 
+the following view.
 
 Richard Kraut writes:
 
-> The bifurcationist often undertakes the task of determining which of our wellformed declarative sentences have truth conditions and which ones, though
-meaningful, are simply the manifestations of attitudes or the expressions of
-'stances'. He wants to know which of our predicates get at real properties in the
-world, and which, in contrast, merely manifest aspects of our representational
-apparatus - 'projections borrowed from our internal sentiments'. On different
-occasions he articulates his task in different ways; but they all point to some variant
-of the bifurcation thesis ..., the thesis that some declarative sentences (call them the
-D sentences)
+> The bifurcationist often undertakes the task of determining which of our
+  well-formed declarative sentences have truth conditions and which ones, though
+  meaningful, are simply the manifestations of attitudes or the expressions of
+  'stances'. He wants to know which of our predicates get at real properties 
+  in the world, and which, in contrast, merely manifest aspects of our 
+  representational apparatus - 'projections borrowed from our internal 
+  sentiments'. On different occasions he articulates his task in different ways; 
+  but they all point to some variant of the bifurcation thesis ..., the thesis 
+  that some declarative sentences (call them the D sentences)
 
 >    - describe the world
     - ascribe real properties

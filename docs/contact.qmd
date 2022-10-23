@@ -5,10 +5,13 @@ comments: false
 
 I can be reached via many emails:
 
-- kristopher.brown (ufl.edu)
+- kris (topos.institute)
 - ksb (stanford.edu)
 - kristopher.stephen.brown (gmail.com)
 - sirkris.brown (gmail.com)
   - (it's a palindrome)
 
-Also on [Github](https://github.com/kris-brown/), [LinkedIn](https://www.linkedin.com/in/kristophersbrown/), [Youtube](https://www.youtube.com/channel/UCsS3Vyi48g-vOyG0emREmUg), or [Twitter](https://twitter.com/ksb_id).
+Also on [Github](https://github.com/kris-brown/), 
+[LinkedIn](https://www.linkedin.com/in/kristophersbrown/), 
+[Youtube](https://www.youtube.com/channel/UCsS3Vyi48g-vOyG0emREmUg), 
+or [Twitter](https://twitter.com/ksb_id).

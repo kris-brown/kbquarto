@@ -15,7 +15,8 @@ search: false
 comments: false
 ---
 
-There are a few draft posts pending, but in the meantime here are two posts I made to the [AlgebraicJulia blog](https://www.algebraicjulia.org/blog/):
+There are a few draft posts pending, but in the meantime here are two posts I 
+made to the [AlgebraicJulia blog](https://www.algebraicjulia.org/blog/):
 
 - [Equality vs equivalence: computing isomorphism classes of C-sets](https://www.algebraicjulia.org/blog/post/2022/01/cset-automorphisms/)
 - [The chase: data repair and logical reasoning](https://www.algebraicjulia.org/blog/post/2022/06/chase/)

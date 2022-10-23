@@ -1,4 +1,3 @@
-
 From [-@castaneda1968logic]:
 
 - A man serves in a WWII.
@@ -13,10 +12,12 @@ From [-@castaneda1968logic]:
 - The solder gets interested in history and does a PhD.
    - He decides to writes about the battle he knows he was involved in (in some way).
    - He's intruiged by the story of The War Hero and makes that his focus.
-   - Soon, he knows everything there is to know about The War Hero in his life up until the battle.
+   - Soon, he knows everything there is to know about The War Hero in his life 
+     up until the battle.
 
 ## Commentary by John Perry
-One might say, casually, he knows more about The War Hero than The War Hero himself knew about himself.
+One might say, casually, he knows more about The War Hero than The War Hero 
+himself knew about himself.
 
 This person has two distinct kinds of self knowledge:
 
@@ -27,7 +28,9 @@ This person has two distinct kinds of self knowledge:
 - Self-knowledge
    - "The War Hero was born in Cincinatti on a cold day."
    - "The War Hero was forced to wear shorts even during the winter."
-      - If it's true, why is it true? Judging by the truth conditions of the sentence, it's true because a certain person born in Cininitati and was fordced to wear short pants, etc.
+      - If it's true, why is it true? Judging by the truth conditions of the 
+        sentence, it's true because a certain person born in Cininitati and was 
+        forced to wear short pants, etc.
 
-Most of us have both types of knowledge, but because they so easily run together we conflate the two.
-
+Most of us have both types of knowledge, but because they so easily run 
+together we conflate the two.

@@ -15,19 +15,25 @@ Immanuel Kant was a German philosopher (1724-1804).
 
 
 # On Locke
-The "celebrated Mr. Locke" (i.e. empiricism) offered "a mere physiology of the understanding." [^1]
+The "celebrated Mr. Locke" (i.e. empiricism) offered "a mere physiology of the 
+understanding." [^1]
 
 # Kantian problematic
 
-Kant transformed the Cartesian problematic from an *epistemic* one to a *semantic* one [-@brandom2006kantian].
+Kant transformed the Cartesian problematic from an *epistemic* one to a 
+*semantic* one [-@brandom2006kantian].
 
-- He shifts the center of attention from *truth* and *justification* to the nature of representation itself.
-- He replaces concern with *justifying claims* by concern with understanding representational purport.
-- His problem is not "show that reality is often as it appears", but rather "understand what
-it is for things so much as to appear to be one way rather than another."
+- He shifts the center of attention from *truth* and *justification* to the 
+  nature of representation itself.
+- He replaces concern with *justifying claims* by concern with understanding 
+  representational purport.
+- His problem is not "show that reality is often as it appears", but rather 
+  "understand what it is for things so much as to appear to be one way rather 
+  than another."
 - The epistemological equation has semantic presuppositions, which he challenges.
 
-Kant thinks that answering the semantic skeptic will also address the epistemic skeptic.
+Kant thinks that answering the semantic skeptic will also address the epistemic 
+skeptic.
 
 - Specifying conditions under which there could be representations at all requires
   that there is a substantial degree of representational *success*. If we are not

@@ -3,19 +3,33 @@ title: Rorty Finds His Pragmatist Voice
 ---
 
 # Major lessons
-1. (From the discussion of truth as “what is best in the way of belief” as opposed to correspondence with reality):
+1. (From the discussion of truth as “what is best in the way of belief” as 
+   opposed to correspondence with reality):
    - How the combination of:
        - declarativism
            - blurring out all distinctions of kind of claimable
        - expressivism
-           - a local expressivism about what one is doing in attributing truth—namely not describing the claimable, but endorsing it
-           - underwriting a global antirepresentationalism because of special properties of the vocabulary of truth
+           - a local expressivism about what one is doing in attributing truth — 
+             namely not describing the claimable, but endorsing it
+           - underwriting a global antirepresentationalism because of special 
+             properties of the vocabulary of truth
    - *together* underwrite a Jamesean understanding of truth-talk.
-   - This role for an expressivist move in a pragmatist argument forges an important link between the first and the second halves of this course.
+   - This role for an expressivist move in a pragmatist argument forges an 
+     important link between the first and the second halves of this course.
 2. (From the discussion of representation):
-   - What is really at stake in the battle between a representational model of the content of expressions and a pragmatist model is the best order of explanation (a way of thinking about conceptual priority) between representational relations and reason relations (of implication and incompatibility).
-  - Davidson teaches us that and how taking reason relations as primary (the pragmatists says, because giving and assessing reasons, implicitly and practically appealing to justificatory reason relations, specifiable in a deontic normative vocabulary of “commitment” and “entitlement”) holistically determines representational relations in top-down explanatory stories.
-  - Representationalists are committed to atomistic objective usually causal relations (specifiable in an alethic modal vocabulary) determine reason relations.
+   - What is really at stake in the battle between a representational model of 
+     the content of expressions and a pragmatist model is the best order of 
+     explanation (a way of thinking about conceptual priority) between 
+     representational relations and reason relations (of implication and 
+     incompatibility).
+  - Davidson teaches us that and how taking reason relations as primary (the 
+    pragmatists says, because giving and assessing reasons, implicitly and 
+    practically appealing to justificatory reason relations, specifiable in a 
+    deontic normative vocabulary of “commitment” and “entitlement”) holistically 
+    determines representational relations in top-down explanatory stories.
+  - Representationalists are committed to atomistic objective usually causal 
+    relations (specifiable in an alethic modal vocabulary) determine reason 
+    relations.
 
 # Introduction to pragmatism
 ## Platonist / Pragmatist distinction
@@ -28,22 +42,34 @@ Rorty takes for granted a distinction of Dewey:
 | Knowing that | knowing how |
 | End the conversation | Continuing the conversation |
 
-- Platonists look for a principle or rule, something explicit or that could be made explicit, behind every implicit propriety of practice.
+- Platonists look for a principle or rule, something explicit or that could be 
+  made explicit, behind every implicit propriety of practice.
 
-- Pragmatists argue that explicit principles or theories float on a vast sea of implicit practical skills.
+- Pragmatists argue that explicit principles or theories float on a vast sea of 
+  implicit practical skills.
 
-For example, a cobbler can make good shoes. The Platonist looks for what form is behind his mastery, what principle / mental representation makes it possible that the cobbler does that? The pragmatist treats the skill as prior to the principle.
+For example, a cobbler can make good shoes. The Platonist looks for what form is 
+behind his mastery, what principle / mental representation makes it possible 
+that the cobbler does that? The pragmatist treats the skill as prior to the 
+principle.
 
 ## ...
 
-Rorty sees representationalism as the distinctly modern form of Platonism as described above.
+Rorty sees representationalism as the distinctly modern form of Platonism as 
+described above.
 
-Kant is the avatar of this form of representationalism: representations and rules are two sides of the same coin. He puts principle over practice (opposed by Dewey, who was followed by Heidegger and Wittgenstein in this respect).
+Kant is the avatar of this form of representationalism: representations and 
+rules are two sides of the same coin. He puts principle over practice (opposed 
+by Dewey, who was followed by Heidegger and Wittgenstein in this respect).
 
 ## Vocabulary vocabulary
-This is Rorty's way of talking about language games. Or paradigms (in the Kuhnian sense - Kuhn was writing just down the hall from Rorty). Vocabularies are what we deploy in discursive practice.
+This is Rorty's way of talking about language games. Or paradigms (in the 
+Kuhnian sense - Kuhn was writing just down the hall from Rorty). Vocabularies 
+are what we deploy in discursive practice.
 
-He thinks is needed as a successor notion to the idea of languages and theories, which was rightfully taken apart by Quine's Two Dogmas of Empiricism [-@orman1976two].
+He thinks is needed as a successor notion to the idea of languages and theories, 
+which was rightfully taken apart by Quine's Two Dogmas of Empiricism 
+[-@orman1976two].
 
 Examples, how big are they?
 - on the one hand, the vocabulary of 16th century theology
@@ -52,75 +78,141 @@ Examples, how big are they?
 
 ## ...
 
-- Philosophers think that they are debating about what is true in a given vocabulary when really their question is better framed as trying to pick the right vocabulary (important to realize this, since it changes how we compare arguments).
-    - This point appears to be accepting the Carnappian distinction of theory and
-- Rorty makes fun of representational realists as being committed to the idea that there is a thing such as "nature's own language" / "nature's own vocabulary"
-   - He sees Lewis as committed to this as the language which determines what the 'natural properties' are.
+- Philosophers think that they are debating about what is true in a given 
+  vocabulary when really their question is better framed as trying to pick the 
+  right vocabulary (important to realize this, since it changes how we compare 
+  arguments).
+    - This point appears to be accepting the Carnappian distinction of theory 
+      and language
+- Rorty makes fun of representational realists as being committed to the idea 
+  that there is a thing such as "nature's own language" / "nature's own 
+  vocabulary"
+   - He sees Lewis as committed to this as the language which determines what 
+     the 'natural properties' are.
 
-- Rorty doesn't draw a line between speaking in a vocabulary and changing your vocabulary (he thinks almost all speech acts change it).
-   - Duhem point: if we acknowledge that your meanings at least partially determine what inferences are good. What follows a given sentence depends on what auxiliary hypotheses you're allowed to use as collateral premises for
-      - We can see what else you're committed to has an effect on that sentence, given the meaning of that sentence is characterized by its inferential relations.
-- In mature sciences a lot of work is taken to allow for discourse to proceed as if the vocabulary were fixed
-    - The discursive equivalent of "clean rooms", maintained through heroic social disciplinary measures
-    - This is for mature sciencies: if you think of the history of temperature, every single time a new way of measuring temperature was discovered, the concept changes
-    - But it would be a serious mistake to take this extreme, artificial case to be the paradigm on the basis of which we understand the use of language in general. (Here we might think of Heidegger on the effort it takes to precipitate Vorhandenheit out of Zuhandenheit.
+- Rorty doesn't draw a line between speaking in a vocabulary and changing your 
+  vocabulary (he thinks almost all speech acts change it).
+   - Duhem point: if we acknowledge that your meanings at least partially 
+     determine what inferences are good. What follows a given sentence depends 
+     on what auxiliary hypotheses you're allowed to use as collateral premises 
+     for
+      - We can see what else you're committed to has an effect on that sentence, 
+        given the meaning of that sentence is characterized by its inferential 
+        relations.
+- In mature sciences a lot of work is taken to allow for discourse to proceed as 
+  if the vocabulary were fixed
+    - The discursive equivalent of "clean rooms", maintained through heroic 
+      social disciplinary measures
+    - This is for mature sciencies: if you think of the history of temperature, 
+      every single time a new way of measuring temperature was discovered, the 
+      concept changes
+    - But it would be a serious mistake to take this extreme, artificial case to 
+      be the paradigm on the basis of which we understand the use of language in 
+      general. (Here we might think of Heidegger on the effort it takes to 
+      precipitate Vorhandenheit out of Zuhandenheit.
 
 
-> On the pragmatist account, a criterion (what follows from the axioms, what the needle points to, what the statute says) is a criterion because some particular social practice needs to block the road of inquiry, halt the regress of interpretations, in order to get something done. So rigorous argumentation-the practice which is made-possible by agreement on criteria, on stopping-places - is no more generally desirable than blocking the road of inquiry is generally desirable.
-It is something which it is convenient to have if you can get it. if the purposes you are engaged in fulfilling can be specified pretty clearly in advance (e.g., finding out how an enzyme functions, preventing violence in the streets, proving theorems), then you can get it.
-If they are not (as in the search for a just society, the resolution of a moral dilemma, the choice of a symbol of ultimate concern, the quest for a "postmodernist" sensibility), then you probably cannot, and you should not try for it.
-The philosopher will not want to beg the question between these various descriptions in advance.”
+> On the pragmatist account, a criterion (what follows from the axioms, what the 
+  needle points to, what the statute says) is a criterion because some particular 
+  social practice needs to block the road of inquiry, halt the regress of 
+  interpretations, in order to get something done. So rigorous argumentation-the 
+  practice which is made-possible by agreement on criteria, on stopping-places 
+  - is no more generally desirable than blocking the road of inquiry is 
+  generally desirable.
+
+> It is something which it is convenient to have if you can get it. if the 
+purposes you are engaged in fulfilling can be specified pretty clearly in 
+advance (e.g., finding out how an enzyme functions, preventing violence in the 
+streets, proving theorems), then you can get it.
+If they are not (as in the search for a just society, the resolution of a moral 
+dilemma, the choice of a symbol of ultimate concern, the quest for a 
+"postmodernist" sensibility), then you probably cannot, and you should not try 
+for it. The philosopher will not want to beg the question between these various 
+descriptions in advance.
 
 ## Redescription
 - The generation of new vocabularies.
 
-- This is the essence of discursive practice, is to be committed to a view of conversation as something to be continued.
+- This is the essence of discursive practice, is to be committed to a view of 
+  conversation as something to be continued.
 
-- But one can do other things with vocabularies than use them to describe. So “redescription,” though evocative, might be replaced by “recharacterization,” or “reconceptualization.”
+- But one can do other things with vocabularies than use them to describe. So 
+  “redescription,” though evocative, might be replaced by “recharacterization,” 
+  or “reconceptualization.”
 
 ## Conversation
-> Pragmatists follow Plato in striving for an escape from conversation to something atemporal
- which lies in the background of all possible conversations
+> Pragmatists follow Plato in striving for an escape from conversation to 
+  something atemporal which lies in the background of all possible conversations
 
-Conversation is about redescribing our vocabulary as much as using it. It is the process that produces redescriptions.
+Conversation is about redescribing our vocabulary as much as using it. It is the 
+process that produces redescriptions.
 
-Quantifying over all possible vocabularies is a temptation and something you would only attempt to do if you are trying to end all conversation. This is a fundamental mistake.
+Quantifying over all possible vocabularies is a temptation and something you 
+would only attempt to do if you are trying to end all conversation. This is a 
+fundamental mistake.
 
 - This is something the early Wittgenstein did in the Tractatus
-- He then learned not to do this. It's related to his later view that language is a motley.
+- He then learned not to do this. It's related to his later view that language 
+  is a motley.
 
 Dummett's interpretation of Wittgenstein:
 
-- Wittgenstein would think that if there were any use for a philosophical notion of meaning, the point of having a notion of meaning would be to codify proprieties of use.
-- But there is no limit of things one can use language for, so we cannot systematically find all meanings of all expressions.
+- Wittgenstein would think that if there were any use for a philosophical notion 
+  of meaning, the point of having a notion of meaning would be to codify 
+  proprieties of use.
+- But there is no limit of things one can use language for, so we cannot 
+  systematically find all meanings of all expressions.
 - Wittgentstein tool analogy:
-   - you would think that you could describe the different ways of using things in terms of what you do with them in the way you could tools, so that you could think of hammer and nails, screw and screwdriver, glue and glue brush, all his ways of attaching things to one another. And that would be a sort of common function that they could perform
-   - Early W. thought 'Yes, representation is like that. That's what language is for'
-   - What about a wrench What about the pencil that the carpenter uses, or the level that the carpenter uses, or the tool belt or tool chest? Or the set of plans that they're using?
-      - All these are functioning differently, and there isn't going to be a systematic way of saying all the different kinds of tools that you could have
-   - Classic Wittgensteinian anecdotes turn on the [malleability of language](/docs/phil/situations/toothpain.qmd).
-      - The metaphysical puzzle comes from having a *static*, totalizing picture of language rather than accepting it as a motley that evolves whenever you use it.
-      - We carefully design mature natural science and math to not have this happen, but this should not be a model for how our language works.
-   - This is why Wittgenstein is a semantic nihilist, he doesn't think there are actually meanings. The plasticisty of language makes this impossible.
+   - you would think that you could describe the different ways of using things 
+     in terms of what you do with them in the way you could tools, so that you 
+     could think of hammer and nails, screw and screwdriver, glue and glue brush, 
+     all his ways of attaching things to one another. And that would be a sort 
+     of common function that they could perform
+   - Early W. thought 'Yes, representation is like that. That's what language is 
+     for'
+   - What about a wrench What about the pencil that the carpenter uses, or the 
+     level that the carpenter uses, or the tool belt or tool chest? Or the set 
+     of plans that they're using?
+      - All these are functioning differently, and there isn't going to be a 
+        systematic way of saying all the different kinds of tools that you could have
+   - Classic Wittgensteinian anecdotes turn on the 
+     [malleability of language](/docs/phil/situations/toothpain.qmd).
+      - The metaphysical puzzle comes from having a *static*, totalizing picture 
+        of language rather than accepting it as a motley that evolves whenever 
+        you use it.
+      - We carefully design mature natural science and math to not have this 
+        happen, but this should not be a model for how our language works.
+   - This is why Wittgenstein is a semantic nihilist, he doesn't think there are 
+     actually meanings. The plasticisty of language makes this impossible.
 
 ## Coping
-Rorty has another term that is part of the constellation that starts with “vocabulary” and includes “redescription” and “conversation.” It is “coping.” It is his generic term for what we do with vocabularies, generally. It is in terms of success at coping that we are able sometimes to assess and compare vocabularies as better and worse. In that regard, it plays a role analogous to the notion of accuracy of representation, that Rorty wants to persuade us to discard as specifying the dimension along which arbitrary vocabularies can be assessed as better or worse.
+Rorty has another term that is part of the constellation that starts with 
+“vocabulary” and includes “redescription” and “conversation.” It is “coping.” 
+It is his generic term for what we do with vocabularies, generally. It is in 
+terms of success at coping that we are able sometimes to assess and compare 
+vocabularies as better and worse. In that regard, it plays a role analogous to 
+the notion of accuracy of representation, that Rorty wants to persuade us to 
+discard as specifying the dimension along which arbitrary vocabularies can be 
+assessed as better or worse.
 
-It is crucial to this notion of coping that standards for it are rigorously internal to the vocabularies being assessed.
+It is crucial to this notion of coping that standards for it are rigorously 
+internal to the vocabularies being assessed.
 
 ## Facts
-Different kinds of facts are identified individuated by the vocabularies we use to state them.
+Different kinds of facts are identified individuated by the vocabularies we use 
+to state them.
 (e.g. Physical Facts, normative facts, nautical facts,...)
 
-Rorty concludes if it doesn't make sense to quantify over all possible vocabularies, then it doesn't make sense to quantify over all possible facts
+Rorty concludes if it doesn't make sense to quantify over all possible 
+vocabularies, then it doesn't make sense to quantify over all possible facts
 (a new vocabulary is going to make it possible to state new facts)
 
 
 # Radical bifurcationism
 
-Rorty rejects the [objective/subjective](/docs/phil/distinctions/broken/objective_subjective.qmd) of objective and subjective facts.
+Rorty rejects the [objective/subjective](/docs/phil/distinctions/broken/objective_subjective.qmd)
+ of objective and subjective facts.
 
 :::{.callout-warning}
 (Stopped taking notes at 1:11, pg 6 of Brandom's presentation notes)
 :::
-

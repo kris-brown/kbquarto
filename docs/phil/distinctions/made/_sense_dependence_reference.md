@@ -8,8 +8,12 @@ Two meanings of "$X$ depends on $Y$" that are easily conflated.
 - To assert a *sense* dependence of $X$ on $Y$ is to say: ".
 - To assert a *reference* dependence is to say: "."
 
-Brandom points out that we can have sense dependence without having reference dependence.
+Brandom points out that we can have sense dependence without having reference 
+dependence.
 
-An example is a toy concept of beauty: "$X$ is beautiful if looking at it elicits pleasure in people."
- - This is asserting a *sense* dependence of beauty on people, but not a *reference* dependence.
- - It is intelligible that there could exist beautiful sunsets before there ever were people in the world, or if people never existed.
+An example is a toy concept of beauty: "$X$ is beautiful if looking at it
+elicits pleasure in people."
+ - This is asserting a *sense* dependence of beauty on people, but not a 
+   *reference* dependence.
+ - It is intelligible that there could exist beautiful sunsets before there ever 
+   were people in the world, or if people never existed.

@@ -1,5 +1,12 @@
 ---
 title: Spinoza
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs_phil_people_spinoza_index.yml
 ---
 
 Baruch Spinoza was a Dutch philosopher (1632-1677).

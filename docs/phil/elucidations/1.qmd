@@ -4,54 +4,93 @@ subtitle: Agnes Collard
 date: July 6, 2009
 ---
 
-
-- We want a theory of desire that can answer questions like, given a scenario and a desire, was that desire satisfied?
-  - Notably, we are *not* asking whether a person with that desire was happy or not afterwards.
+- We want a theory of desire that can answer questions like, given a scenario 
+  and a desire, was that desire satisfied?
+  - Notably, we are *not* asking whether a person with that desire was happy or 
+    not afterwards.
 
 # Conventional wisdom: desire <-> a desired state of the world
   - Satisfaction is whether or not that state is obtained
   - Challenging scenario for this view:
-    - A man is rushing to catch a important train to NYC and boards at the last second, only to realize afterward that the train is heading to the wrong destination. Was his desire satisfied?
+    - A man is rushing to catch a important train to NYC and boards at the last 
+      second, only to realize afterward that the train is heading to the wrong 
+      destination. Was his desire satisfied?
     - No - eliminitivist
-      - We reject that the than man desired to get on the train to a wrong destination, because his 'true' desire involved to see the doctor in NYC, which is inconsistent with being on the wrong train.
+      - We reject that the than man desired to get on the train to a wrong 
+        destination, because his 'true' desire involved to see the doctor in 
+        NYC, which is inconsistent with being on the wrong train.
       - Problem:
-        - The doctor was going to tell him if his disease was curable, so what his 'true' desire is the cure, not the train to NYC (this can be done ad infinitum: his true desire is not the cure but rather health -> happiness -> 'the good').
-        - I.e. the naive eliminitivist accidentally eliminates all desires other than the desire for 'the good'.
+        - The doctor was going to tell him if his disease was curable, so what 
+          his 'true' desire is the cure, not the train to NYC (this can be done 
+          ad infinitum: his true desire is not the cure but rather health -> 
+          happiness -> 'the good').
+        - I.e. the naive eliminitivist accidentally eliminates all desires other 
+          than the desire for 'the good'.
     - Yes - separatist
-      - Introduce another desire to make sense of why the man is upset despite the desire being satisfied. The 'catch-this-train' desire was satisfied, but 'get to NYC' that was not satisfied.
+      - Introduce another desire to make sense of why the man is upset despite 
+        the desire being satisfied. The 'catch-this-train' desire was satisfied, 
+        but 'get to NYC' that was not satisfied.
       - Problem
-        - This account makes the desires seem separate/atomic, but why do they seem so intimiately connected to each other?
-        - If he learned just before that it was going to the wrong destination, his desire to catch the (that) train would instantly vanish.
+        - This account makes the desires seem separate/atomic, but why do they 
+          seem so intimiately connected to each other?
+        - If he learned just before that it was going to the wrong destination, 
+          his desire to catch the (that) train would instantly vanish.
         - Makes desires in principle unconnected from what is good for us.
 
 # Challenging the conventional wisdom: Desire = Object + Aim
-  - When you want anything, you want more than one thing, so it's complicated to answer "did you get what you want".
-  - The man wanted to catch the train AND wanted to get to NYC, those are both aspects of his SINGLE desire.
+  - When you want anything, you want more than one thing, so it's complicated to 
+    answer "did you get what you want".
+  - The man wanted to catch the train AND wanted to get to NYC, those are both 
+    aspects of his SINGLE desire.
   - There is a specific side and a general side to a desire
     - Object of desire ("catching this train")
     - Aim - what makes the object appealing.
 
 # Relation between desire and belief
-  - Conventional wisdom holds they are both representable merely as states of the world, although they have an complementary relationship
-    - We want to update our belief state to match the world, want to update the world to match our belief state.
+  - Conventional wisdom holds they are both representable merely as states of 
+    the world, although they have an complementary relationship
+    - We want to update our belief state to match the world, want to update the 
+      world to match our belief state.
   - This picture is incomplete
     - Example: feel hungry, desire food.
-      - It can't be an accident that a bunch of seemingly related desires pop up (want a sandwich downstairs, want pasta from next door, ...)
-      - It doesn't make sense that we desire things in a way that is not possible (want sandwich from Paris, from the moon)
+      - It can't be an accident that a bunch of seemingly related desires pop up 
+        (want a sandwich downstairs, want pasta from next door, ...)
+      - It doesn't make sense that we desire things in a way that is not 
+        possible (want sandwich from Paris, from the moon)
       - Things make more sense when we break down the structure of a desire:
         - Object: sandwich from deli downstairs, sandwich
         - Aim: satisfy the hunger
 # Summary slogan: "Satisfaction as a compromise"
 
-  - These thoughts might inspire positive change in fields like economics, where people's desires are taken to be "given in advance"
-    - Their framework involves setting up a system that optimizes utility, given desires (as the fixed input data).
+  - These thoughts might inspire positive change in fields like economics, where 
+    people's desires are taken to be "given in advance"
+    - Their framework involves setting up a system that optimizes utility, given 
+      desires (as the fixed input data).
     - But rather the desires are adaptive to the world / how things are achieved.
-  - Parents try don't satisfy children's desires because they don't have the right desires. The desires are formed on the reflection of prior experience (knowing what to want, how to achieve it).
-  - The story of the formation of the desire is required towards understanding what it means to satsify it.
+  - Parents try don't satisfy children's desires because they don't have the 
+    right desires. The desires are formed on the reflection of prior experience 
+    (knowing what to want, how to achieve it).
+  - The story of the formation of the desire is required towards understanding 
+    what it means to satsify it.
 
 # My thoughts at the time
-  - Some problems stem from representating a human state of mind as a static object, whereas our beliefs aren't constant w/r/t time spent in reflection.
-    - Every desire can be chained iteratively until you reach "the good", but almost never is that entire chain 'in register' for real human being. At instant t in time, we are cognizant of a finite number of steps along that chain (we implicitly accept some goals as final, even with more thought power we would view them as instrumental).
-    - Therefore the eliminitivist is not susceptible to Collard's criticism. Whether the man's desire was satisfied would be dependent on his mental state while having the desire. If he did not invest enough effort into chaining the desire all the way to The Good, then it's possible for the desire to be satisfied but the person not (and more likely the fewer links along the chain are 'in register').
-  - Collard's "object"/"aim" structure of a desire seems to be just considering two points along the chain - this is still more nuance than a one-point approximation, but it really is referring to a pair "naive desires" as a desire with bipartite structure.
-    - It is a reasonable strategy to salvage the "separatist" POV by giving an account for the relation between different desired states of the world (they are not atomic anymore)
+  - Some problems stem from representating a human state of mind as a static 
+    object, whereas our beliefs aren't constant w/r/t time spent in reflection.
+    - Every desire can be chained iteratively until you reach "the good", but 
+      almost never is that entire chain 'in register' for real human being. At 
+      instant $t$ in time, we are cognizant of a finite number of steps along 
+      that chain (we implicitly accept some goals as final, even with more 
+      thought power we would view them as instrumental).
+    - Therefore the eliminitivist is not susceptible to Collard's criticism. 
+      Whether the man's desire was satisfied would be dependent on his mental 
+      state while having the desire. If he did not invest enough effort into 
+      chaining the desire all the way to The Good, then it's possible for the 
+      desire to be satisfied but the person not (and more likely the fewer links 
+      along the chain are 'in register').
+  - Collard's "object"/"aim" structure of a desire seems to be just considering 
+    two points along the chain - this is still more nuance than a one-point 
+    approximation, but it really is referring to a pair "naive desires" as a 
+    desire with bipartite structure.
+    - It is a reasonable strategy to salvage the "separatist" POV by giving an
+      account for the relation between different desired states of the world 
+      (they are not atomic anymore)

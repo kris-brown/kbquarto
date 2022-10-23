@@ -6,8 +6,8 @@ format:
   html:
     fig-width: 2
     fig-height: 2
-
 ---
+
 <p align="center">
 <img src="images/cover.jpeg" alt="Hey." style="width:200px;"/>
 </p>
@@ -15,4 +15,5 @@ format:
 
 ## About the site
 
-In addition to info about me and my research, I also use the site to organize thoughts and notes.
+In addition to info about me and my research, I also use the site to organize 
+thoughts and notes.

@@ -11,9 +11,23 @@ A non-exhaustive list of personal (not too-personal though) details:
 
 ### Activities
 - Sometimes writing [music](https://www.youtube.com/embed/EjZH9OW6eA0).
-- Sometimes writing puzzles. ([2021](https://2021.huntinality.com/puzzle/wahshington_post.html) [2022](https://www.huntinality.com/puzzles/worst_crossword_ever))
+- Sometimes writing puzzles. ([2021](https://2021.huntinality.com/puzzle/wahshington_post.html) 
+  [2022](https://www.huntinality.com/puzzles/worst_crossword_ever))
 - Reading.
-    - E.g. [Borges](https://en.wikipedia.org/wiki/Ficciones), [Nabokov](https://en.wikipedia.org/wiki/Lolita), [DFW](https://en.wikipedia.org/wiki/Infinite_Jest), [Calvino](https://en.wikipedia.org/wiki/If_on_a_winter%27s_night_a_traveler), [Williams](https://en.wikipedia.org/wiki/Stoner_(novel)), [Kafka](https://en.wikipedia.org/wiki/The_Trial), [Mann](https://en.wikipedia.org/wiki/The_Magic_Mountain), [Svevo](https://en.wikipedia.org/wiki/Zeno%27s_Conscience), [Bernhard](https://en.wikipedia.org/wiki/Extinction_(Bernhard_novel)), [Camus](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)), [Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/), [Kripke](https://en.wikipedia.org/wiki/Naming_and_Necessity), [Rorty](https://plato.stanford.edu/entries/rorty/), [Brandom](https://plato.stanford.edu/entries/pragmatism/)
+    - E.g. [Borges](https://en.wikipedia.org/wiki/Ficciones), 
+      [Nabokov](https://en.wikipedia.org/wiki/Lolita), 
+      [DFW](https://en.wikipedia.org/wiki/Infinite_Jest), 
+      [Calvino](https://en.wikipedia.org/wiki/If_on_a_winter%27s_night_a_traveler), 
+      [Williams](https://en.wikipedia.org/wiki/Stoner_(novel)), 
+      [Kafka](https://en.wikipedia.org/wiki/The_Trial), 
+      [Mann](https://en.wikipedia.org/wiki/The_Magic_Mountain), 
+      [Svevo](https://en.wikipedia.org/wiki/Zeno%27s_Conscience), 
+      [Bernhard](https://en.wikipedia.org/wiki/Extinction_(Bernhard_novel)), 
+      [Camus](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)), 
+      [Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/), 
+      [Kripke](https://en.wikipedia.org/wiki/Naming_and_Necessity), 
+      [Rorty](https://plato.stanford.edu/entries/rorty/), 
+      [Brandom](https://plato.stanford.edu/entries/pragmatism/)
 - Playing [Go](https://online-go.com/player/583929/) (even though I'm bad)
 
 ### Likes
@@ -30,7 +44,8 @@ A non-exhaustive list of personal (not too-personal though) details:
 - When eating peanuts, eating the whole shell, too.
 - I once inadvertently did ([fashion](https://dartmouthfashioncouncildotcom.wordpress.com/2014/05/06/street-style-ft-kris-brown-14/)).
 - I have 3 lb of malic acid in my house.
-- Since 2015, I've journaled about each day's events, unintentionally in the style of [The Stranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)).
+- Since 2015, I've journaled about each day's events, unintentionally in the 
+  style of [The Stranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)).
 - I make an odd noise when I sneeze.
 - Preferred coding position: supine
 

@@ -1,12 +1,12 @@
 ---
-title: Co-design
+title: "4: Co-design"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - /../../../../backlinks/docs_math_sketches_4_index.yml
+    - /../../../../backlinks/docs/math/sketches/4/index.yml
 ---
 
 # [Can we build it?](1.qmd)

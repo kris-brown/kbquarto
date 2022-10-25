@@ -1,5 +1,5 @@
 ---
-title: Rorty’s Critique of Enlightenment Representationalism, and (so) of Analytic Philosophy
+title: "02: Rorty’s Critique of Enlightenment Representationalism, and (so) of Analytic Philosophy"
 ---
 
 # Rorty's basic idea
@@ -9,7 +9,7 @@ title: Rorty’s Critique of Enlightenment Representationalism, and (so) of Anal
   the 20th century
   - Neokantianism (Marburg / Freiburg to CI Lewis and Carnap). Philosophy has 
     sovereign authority.
-    - Idea originates with Plato, but Descartes/Kant/representationalism are 
+    - Idea originates with [Plato](/docs/phil/people/plato/index.qmd), but Descartes/Kant/representationalism are 
       modern versions.
   - Neohegelianism (Hegel socialized philosophy, Marx naturalized it). 
     Philosophy brought 'down to Earth'.

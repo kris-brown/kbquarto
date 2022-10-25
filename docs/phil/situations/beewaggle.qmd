@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs_phil_situations_beewaggle.yml
+    - ../../../backlinks/docs/phil/situations/beewaggle.yml
 ---
 
 {{< include _beewaggle.md >}}

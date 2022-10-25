@@ -1,0 +1,12 @@
+---
+title: Analytic vs synthetic statements
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/distinctions/made/analytic_synthetic.yml
+---
+
+{{< include _analytic_synthetic.md >}}

@@ -1,0 +1,12 @@
+---
+title: Is-ought problem
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/phil/problems/is_ought.yml
+---
+
+{{< include _is_ought.md >}}

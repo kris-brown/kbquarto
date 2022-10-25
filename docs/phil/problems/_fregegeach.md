@@ -1,7 +1,8 @@
 
 
-A problem metaethical theories belonging that are emotivist/ expressivist. Also 
-sometimes called the *embedding problem*.
+A problem for people who subscribe to 
+[emotivism](/docs/phil/definitions/emotivism.qmd). 
+Also sometimes called the *embedding problem*.
 
 Theories in the noncognitivist tradition share the view that the distinctive 
 meaning of moral words does not concern what they are about, and it either does 

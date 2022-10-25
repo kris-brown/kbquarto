@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs_phil_problems_ruleregress.yml
+    - ../../../backlinks/docs/phil/problems/ruleregress.yml
 ---
 
 {{< include _ruleregress.md >}}

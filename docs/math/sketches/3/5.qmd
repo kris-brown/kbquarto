@@ -1,12 +1,12 @@
 ---
-title: Introduction to limits and colimits
+title: "3.5: Introduction to limits and colimits"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_3_5.yml
+    - ../../../../backlinks/docs/math/sketches/3/5.yml
 ---
 
 {{< include _5.md >}}

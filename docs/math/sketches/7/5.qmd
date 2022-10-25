@@ -1,12 +1,12 @@
 ---
-title: A topos of behavior types
+title: "7.5: A topos of behavior types"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_7_5.yml
+    - ../../../../backlinks/docs/math/sketches/7/5.yml
 ---
 
 {{< include _5.md >}}

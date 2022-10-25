@@ -1,0 +1,6 @@
+---
+title: Glossary
+description: Collection of terms with technical meanings with links to definitions.
+comments: false
+---
+

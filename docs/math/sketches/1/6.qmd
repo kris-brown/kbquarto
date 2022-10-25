@@ -1,12 +1,12 @@
 ---
-title: Galois connections
+title: "1.6: Galois connections"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_1_6.yml
+    - ../../../../backlinks/docs/math/sketches/1/6.yml
 ---
 
 {{< include _6.md >}}

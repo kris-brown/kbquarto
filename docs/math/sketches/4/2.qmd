@@ -1,12 +1,12 @@
 ---
-title: Enriched profunctors
+title: "4.2: Enriched profunctors"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_4_2.yml
+    - ../../../../backlinks/docs/math/sketches/4/2.yml
 ---
 
 {{< include _2.md >}}

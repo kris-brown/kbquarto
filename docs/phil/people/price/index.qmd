@@ -7,7 +7,7 @@ listing:
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_phil_people_price_index.yml
+    - ../../../../backlinks/docs/phil/people/price/index.yml
 ---
 
 Huw Price is an Australian philosopher, born 1953.

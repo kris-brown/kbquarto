@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_phil_distinctions_broken_analytic_synthetic.yml
+    - ../../../../backlinks/docs/phil/distinctions/broken/analytic_synthetic.yml
 ---
 
 {{< include _analytic_synthetic.md >}}

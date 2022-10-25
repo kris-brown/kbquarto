@@ -1,26 +1,79 @@
+
 """
 TODO ignore X links to Y if X includes Y.
 """
 function pipeline()
-  links_out, title_dict = get_links() 
+  links_out, title_dict, include_in = get_links() 
   links_in = get_links_in(links_out)
+  # render_deps(links_out)
   render_links(links_in, title_dict)
+  render_includes(include_in)
+  return links_out, title_dict, links_in, include_in
 end
+
+function render_includes(include_in)
+  include_out = Dict()
+  for (k, vs) in collect(include_in)
+    for v in vs 
+      if haskey(include_out, v) push!(include_out[v], k)
+      else include_out[v] = [k]
+      end
+    end
+  end
+
+  for (k, vs) in collect(include_out)
+    kpth = "backlinks/$k"
+    mkpath(dirname(kpth))
+    open(kpth, "w") do io
+      for v in vs 
+        v[1]=='/' || error("assumption violated $v")
+        println(io, v[2:end])
+      end
+    end
+  end
+end
+
+is_qmd(x) = occursin(".qmd",x)
+is_md(x) = occursin(".md",x)
 
 """Find, for each qmd file, the outgoing links and their surrounding sentences"""
 function get_links() 
   links_out = Dict{String,Vector{Pair{String,String}}}() 
+  include_in = Dict{String,Vector{String}}()
   title_dict = Dict{String,String}()
   for (root, _, files) in walkdir("docs") 
-    for file in filter(x -> occursin("qmd",x), files) 
-      file[end-3:end] == ".qmd" || error("file $file") # sanity check
+    for file in sort(collect(filter(x -> is_qmd(x) || is_md(x), files)))
       finame = normpath("/$root/$(file[1:end-4])")
-      title_dict[finame] = get_title(root,file)
-      links_out[finame] = get_links(root,file) 
+      if is_qmd(file) 
+        if !haskey(links_out, finame)
+          links_out[finame] = get_links(root,file) 
+        end
+        include_in[finame] = get_includes(root, file)
+        title_dict[finame] = get_title(root,file)
+      else
+        file[1] == '_' || error("assumption violated $root: $file")
+        links_out[normpath("/$root/$(file[2:end-3])")] = get_links(root, file)
+      end
     end 
-  end 
-  return links_out, title_dict
+  end
+  # for (k, is) in collect(include_in)
+  #   for i in is 
+  #     append!(links_out[k], links_out[i])
+  #   end
+  # end
+  return links_out, title_dict, include_in
 end 
+
+make_absolute(root, pth) = pth[1] == '/' ? pth : "/$root/$pth"
+
+function get_includes(root, fi) 
+  pth = "$root/$fi"
+  rgx = r"{{< include (.*?).md >}}"
+  return map(first.(eachmatch(rgx, read(pth, String)))) do x 
+    x[1] == '_' || error("included $x")
+    return make_absolute(root, x)
+  end 
+end
 
 function get_links_in(links_out)
   # ld is the links out; we want the links *in* 
@@ -30,7 +83,7 @@ function get_links_in(links_out)
   for (fi, outlinks) in collect(links_out) 
     for (out_fi, ctx) in outlinks 
       out_fi = occursin("#", out_fi) ? out_fi[1:findlast("#", out_fi).start-1] : out_fi 
-      if !haskey(links_in, "$out_fi") println("\tcan't find $out_fi in links_in") 
+      if !haskey(links_in, "$out_fi") println("\tcan't find $out_fi in links_in. \n\t\tfi=$fi\n\nctx $ctx") 
       else 
         push!(links_in[out_fi], fi=>ctx) 
       end 
@@ -39,12 +92,19 @@ function get_links_in(links_out)
   return links_in 
 end 
 
+# function render_deps(links_out)
+#   for (k, vs) in collect(links_out)
+#     println("k $k\n\tvs $vs")
+#   end
+# end
+
 function render_links(links_in, title_dict)
   filter!(x->!isempty(x[2]),links_in)
+
   for (k,vs) in collect(links_in) 
-    k = k[2:end]
-    bl = replace(k, "/"=>"_")
-    open("backlinks/$bl.yml", "w") do io
+    kpth = "backlinks$k.yml"
+    mkpath(dirname(kpth))
+    open(kpth, "w") do io
       for (v1,v2) in vs 
         println(io,"- name: $(title_dict[v1])")
         println(io,"  href: $v1.html")
@@ -52,9 +112,10 @@ function render_links(links_in, title_dict)
       end
     end
     # sanity check
-    ndots = count(==('/'),k)
-    dotsbl = join(fill("..", ndots), "/") * "/backlinks/$bl.yml"
-    occursin(dotsbl, read("$k.qmd", String) ) || error("$k\n",show_listing(ndots,bl))
+    ndots = count(==('/'),k) - 1
+    dotsbl = join(fill("..", ndots), "/") * "/" * kpth
+    fname = "$(k[2:end]).qmd"
+    occursin(dotsbl, read(fname, String) ) || error("$k\n",show_listing(ndots,kpth))
   end
   return links_in
 end
@@ -73,7 +134,7 @@ function get_links(root,fi)
     mstr = m.captures[1] 
     if all(x->isnothing(match(x, mstr)), [r"http",r".jpeg", r".pdf", r"jpg", r"www."]) && first(m)!='#'
       # if the path is a relative path, add the root 
-      mstr = isnothing(match(r"docs", mstr)) ? "$root/$mstr" : mstr 
+      mstr = make_absolute(root, mstr) 
       # if the link refers to a specific section of a page, cut that off 
       mstr = occursin("#", mstr) ? mstr[1:findlast("#", mstr).start-1] : mstr 
       # if the link points to just a folder, add a index.qmd 
@@ -132,9 +193,11 @@ function show_listing(ndots::Int,name::String)
   filter-ui: true
   template: "$d/ejs/custom.ejs"
   contents:
-    - $d/backlinks/$name.yml
+    - $d/$name
 """
 end
 
-run(`find . -name "backlinks/*.yml" -delete`) # clear old backlinks
-pipeline()
+bash(str::String) = run(`bash -c $str`)
+
+bash("rm -r backlinks/docs") # clear old backlinks
+links_out, title_dict, links_in, include_in = pipeline();

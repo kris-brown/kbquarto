@@ -1,12 +1,12 @@
 ---
-title: The ubiquity of network languages
+title: "6.1: The ubiquity of network languages"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_6_1.yml
+    - ../../../../backlinks/docs/math/sketches/6/1.yml
 ---
 {{< include _1.md >}}
 

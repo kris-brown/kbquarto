@@ -1,12 +1,12 @@
 ---
-title: Categorification
+title: "4.4: Categorification"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_4_4.yml
+    - ../../../../backlinks/docs/math/sketches/4/4.yml
 ---
 
 {{< include _4.md >}}

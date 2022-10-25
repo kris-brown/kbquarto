@@ -7,7 +7,7 @@ listing:
   filter-ui: true
   template: "/../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs_phil_switcharoos_meaning_truth.yml
+    - ../../../backlinks/docs/phil/switcharoos/meaning_truth.yml
 ---
 
 {{< include _meaning_truth.md >}}

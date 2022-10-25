@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../../../../ejs/custom.ejs"
   contents:
-    - ../../../../../../backlinks/docs_phil_people_brandom_sellars09_2_material_inference.yml
+    - ../../../../../../backlinks/docs/phil/people/brandom/sellars09/2/material_inference.yml
 ---
 
 {{< include _material_inference.md >}}

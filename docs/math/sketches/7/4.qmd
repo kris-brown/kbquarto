@@ -1,12 +1,12 @@
 ---
-title: Toposes
+title: "7.4: Toposes"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_7_4.yml
+    - ../../../../backlinks/docs/math/sketches/7/4.yml
 ---
 
 {{< include _4.md >}}

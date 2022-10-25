@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_phil_people_kant_index.yml
+    - ../../../../backlinks/docs/phil/people/kant/index.yml
 ---
 
 Immanuel Kant was a German philosopher (1724-1804).

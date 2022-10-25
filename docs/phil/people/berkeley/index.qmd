@@ -1,0 +1,12 @@
+---
+title: George Berkeley
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/people/berkeley/index.yml
+---
+
+George Berkeley was a philosopher.

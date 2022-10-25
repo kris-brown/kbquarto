@@ -7,29 +7,42 @@ date: April 5, 2010
 # Two notions of good
 - Distinction: good (absolutely) vs good for something vs good <noun>
   - E.g. It's good to be kind, it's good for me to study math, that's a good car
-- British 20th centurary moral philosophers like GE Moore don't like "good for X" wanting a morality that is not egoistic, instead trying to frame in terms of absolute good.
-  - These theories overlooked possible justifications which use "good for" but are not egoistic.
-  - Absolute good is a much more abstract / questionable concept, so it would be nice to frame ethics without it if possible.
+- British 20th centurary moral philosophers like GE Moore don't like "good for 
+  X" wanting a morality that is not egoistic, instead trying to frame in terms 
+  of absolute good.
+  - These theories overlooked possible justifications which use "good for" but 
+    are not egoistic.
+  - Absolute good is a much more abstract / questionable concept, so it would be 
+    nice to frame ethics without it if possible.
 # Is there bad
-  - These may be different (absolute good is incoherent, but not absolute bad) but Kraut needs neither.
-  - It's coherent to say "pain is bad", but we also say "it's bad for me to feel pain". What more is gained by using absolute language?
+  - These may be different (absolute good is incoherent, but not absolute bad) 
+    but Kraut needs neither.
+  - It's coherent to say "pain is bad", but we also say "it's bad for me to 
+    feel pain". What more is gained by using absolute language?
   - What about cruelty/cowardice?
-    - Again we can show that these things are bad because they are bad for people.
+    - Again we can show that these things are bad because they are bad for 
+      people.
 
 # Moral consequences
-- Does this point of view lead to egoism, e.g. good/bad being instrumental to what we want?
-  - Mistake to conflate "good for me" as "what I want" or "good for some end I want".
-  - There are objective truths of what is good for certain types of beings, even if we're ignorant.
-  - There are differences and similarities for what is good for different people/species.
+- Does this point of view lead to egoism, e.g. good/bad being instrumental to 
+  what we want?
+  - Mistake to conflate "good for me" as "what I want" or "good for some end I 
+    want".
+  - There are objective truths of what is good for certain types of beings, even 
+    if we're ignorant.
+  - There are differences and similarities for what is good for different 
+    people/species.
     - Cannot apply same formula to each case.
 
 # Issues
 - What problems does thinking about morality in terms of absolute good have?
-  - It's not necessarily bad. But it could be used to justify something that is bad for everybody.
+  - It's not necessarily bad. But it could be used to justify something that is 
+    bad for everybody.
 
 # Practical applications
 ## Euthenasia
-- Argument against euthansisa: life itself is good (would not be sufficient if Kraut's thesis is accepted)
+- Argument against euthansisa: life itself is good (would not be sufficient if 
+  Kraut's thesis is accepted)
 
 ## Conflicting interests
 - E.g. good for A to be loud, good for B to be in quiet environment
@@ -38,6 +51,9 @@ date: April 5, 2010
     - "Absolute Good" not needed
 
 # My response at the time
-- We can frame some instances of absolute good/bad in terms of good for, but the interesting question is can this be done for all uses?
-    - if absolute bad exists, then it does seem possible that an institituion/relationship is good for everyone involved but still is bad (or vice versa). E.g. euthansia.
+- We can frame some instances of absolute good/bad in terms of good for, but the 
+  interesting question is can this be done for all uses?
+    - if absolute bad exists, then it does seem possible that an institituion / 
+      relationship is good for everyone involved but still is bad (or vice 
+      versa). E.g. euthansia.
     - Kraut's grammar of moral terms should not alter this fact.

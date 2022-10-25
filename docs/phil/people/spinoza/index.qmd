@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_phil_people_spinoza_index.yml
+    - ../../../../backlinks/docs/phil/people/spinoza/index.yml
 ---
 
 Baruch Spinoza was a Dutch philosopher (1632-1677).

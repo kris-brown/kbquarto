@@ -1,6 +1,7 @@
-- To follow a rule (e.g. 'under circumstances $C$, do $A$', or 'Whenever you 
-  see a cat, raise your hand'), we have to understand the concepts that are 
-  involved within (i.e. $C$ or *cat*, or *raising one's hand*).
+To follow a rule (e.g. 'under circumstances $C$, do $A$', or 'Whenever you 
+  see a cat, raise your arm'), we have to understand the concepts that are 
+  involved within (i.e. $C$ or *cat*, or *raising one's arm*).
+  
 - However, to grasp a concept (such that the original rule can be followed) 
   requires a further rule.
 - Put another way, because rules have many interpretations, for any rule $R$ we 

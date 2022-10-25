@@ -1,12 +1,12 @@
 ---
-title: Colimits and connection
+title: "6.2: Colimits and connection"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_6_2.yml
+    - ../../../../backlinks/docs/math/sketches/6/2.yml
 ---
 
 {{< include _2.md >}}

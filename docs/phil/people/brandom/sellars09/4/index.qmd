@@ -1,5 +1,5 @@
 ---
-title: Counterfactuals and the Kant-Sellars Thesis
+title: "04: Counterfactuals and the Kant-Sellars Thesis"
 date: September 23, 2009
 description: This lecture concerns [-@sellars1958counterfactuals] and has two parts. 1.) Counterfactuals and dispositions, and 2.) Causal modalities (the focus of this lecture).
 listing:
@@ -8,7 +8,7 @@ listing:
   filter-ui: true
   template: "../../../../../../ejs/custom.ejs"
   contents:
-    - /../../../../../../backlinks/docs_phil_people_brandom_sellars09_4_index.yml
+    - /../../../../../../backlinks/docs/phil/people/brandom/sellars09/4/index.yml
 ---
 
 # Counterfactuals and dispositions

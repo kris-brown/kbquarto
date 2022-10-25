@@ -1,12 +1,12 @@
 ---
-title: Databases
+title: "3: Databases"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_3_index.yml
+    - ../../../../backlinks/docs/math/sketches/3/index.yml
 ---
 
 # [What is a database?](1.qmd)

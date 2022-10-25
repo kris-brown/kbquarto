@@ -1,11 +1,11 @@
 ---
-title: Comparing systems as interacting signal processors
+title: "5.1: Comparing systems as interacting signal processors"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_5_1.yml
+    - ../../../../backlinks/docs/math/sketches/5/1.yml
 ---
 {{< include _1.md >}}

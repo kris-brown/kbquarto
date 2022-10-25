@@ -1,12 +1,12 @@
 ---
-title: Monotone maps
+title: "1.4: Monotone maps"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_1_4.yml
+    - ../../../../backlinks/docs/math/sketches/1/4.yml
 ---
 
 {{< include _4.md >}}

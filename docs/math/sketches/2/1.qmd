@@ -1,12 +1,12 @@
 ---
-title: Getting from A to B
+title: "2.1: Getting from A to B"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_2_1.yml
+    - ../../../../backlinks/docs/math/sketches/2/1.yml
 ---
 
 {{< include _1.md >}}

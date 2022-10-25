@@ -1,0 +1,18 @@
+---
+title: Emotivism
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/phil/definitions/emotivism.yml
+---
+
+How can we, in our modern scientific world, come to know *moral* facts? This is a problem of [moral skepticism](/docs/phil/problems/is_ought.qmd).
+
+Emotivism is a meta-ethical theory that addresses this by challenging the our 
+concept of moral 'knowledge'. Rather than "X is good" being 
+fact-stating (in the same kind of way "The frog is on the log" is fact stating), 
+moral claims have the veneer of fact-statingness while really having the meaning 
+of statements like "Yay, X!" or "Boo, X!".

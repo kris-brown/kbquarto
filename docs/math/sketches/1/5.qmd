@@ -1,11 +1,11 @@
 ---
-title: Meets and joins
+title: "1.5: Meets and joins"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_1_5.yml
+    - ../../../../backlinks/docs/math/sketches/1/5.yml
 ---
 {{< include _5.md >}}

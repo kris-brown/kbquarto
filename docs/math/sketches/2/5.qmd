@@ -1,12 +1,12 @@
 ---
-title: Computing presented V-categories with matrix multiplication
+title: "2.5: Computing presented V-categories with matrix multiplication"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - /../../../../backlinks/docs_math_sketches_2_5.yml
+    - /../../../../backlinks/docs/math/sketches/2/5.yml
 ---
 
 {{< include _5.md >}}

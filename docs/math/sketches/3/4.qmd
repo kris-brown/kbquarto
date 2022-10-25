@@ -1,12 +1,12 @@
 ---
-title: Adjunctions and data migration
+title: "3.4: Adjunctions and data migration"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_3_4.yml
+    - ../../../../backlinks/docs/math/sketches/3/4.yml
 ---
 
 {{< include _4.md >}}

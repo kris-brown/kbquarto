@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_phil_distinctions_made_sense_dependence_reference.yml
+    - ../../../../backlinks/docs/phil/distinctions/made/sense_dependence_reference.yml
 ---
 
 {{< include _sense_dependence_reference.md >}}

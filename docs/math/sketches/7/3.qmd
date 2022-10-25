@@ -1,12 +1,12 @@
 ---
-title: Sheaves
+title: "7.3: Sheaves"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_7_3.yml
+    - ../../../../backlinks/docs/math/sketches/7/3.yml
 ---
 
 {{< include _3.md >}}

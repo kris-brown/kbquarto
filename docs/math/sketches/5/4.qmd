@@ -1,12 +1,12 @@
 ---
-title: Graphical linear algebra
+title: "5.4: Graphical linear algebra"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_5_4.yml
+    - ../../../../backlinks/docs/math/sketches/5/4.yml
 ---
 
 {{< include _4.md >}}

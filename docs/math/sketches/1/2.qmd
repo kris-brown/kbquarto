@@ -1,11 +1,11 @@
 ---
-title: What is order?
+title: "1.2: What is order?"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_1_2.yml
+    - ../../../../backlinks/docs/math/sketches/1/2.yml
 ---
 {{< include _2.md >}}

@@ -1,12 +1,12 @@
 ---
-title: Functors, natural transformations, and databases
+title: "3.3: Functors, natural transformations, and databases"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_3_3.yml
+    - ../../../../backlinks/docs/math/sketches/3/3.yml
 ---
 
 {{< include _3.md >}}

@@ -1,12 +1,12 @@
 ---
-title: Generative effects
+title: "1: Generative effects"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_1_index.yml
+    - ../../../../backlinks/docs/math/sketches/1/index.yml
 ---
 
 # [More than the sum of their parts](1.qmd)
@@ -26,7 +26,3 @@ listing:
 
 # [Galois connections](6.qmd)
 {{< include _6.md >}}
-
----
-title: Generative effects
----

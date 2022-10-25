@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../../../../ejs/custom.ejs"
   contents:
-    - ../../../../../../backlinks/docs_phil_people_brandom_sellars09_4_kant_sellars.yml
+    - ../../../../../../backlinks/docs/phil/people/brandom/sellars09/4/kant_sellars.yml
 ---
 
 {{< include _kant_sellars.md >}}

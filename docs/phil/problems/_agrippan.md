@@ -1,5 +1,4 @@
-
-There are only three ways of completing a proof:
+It seems like there are only three ways of completing a proof:
 
 - The *circular* argument, in which the proof of some proposition presupposes 
   the truth of that very proposition
@@ -8,8 +7,10 @@ There are only three ways of completing a proof:
 - The *dogmatic* argument, which rests on accepted precepts which are merely 
   asserted rather than defended
 
-This is a problem for classical logic in particular; it could be addressed by 
-introducing nonmonotonic logic (default and challenge). Some claims (e.g. 
+These all tend to rub us the wrong way, but this is a problem for [classical logic](/docs/phil/definitions/classical_logic.qmd) in particular.
+
+It could be addressed by introducing 
+[nonmonotonic logic](/docs/phil/definitions/nonmonotonic_logic.qmd):  e.g. default and challenge approach to justification where some claims (e.g. 
 first person observations) come with a default justification (which is not 
-based on the justification of other claims). Yet it must be defended when 
+based on the justification of other claims). Yet they must be defended when 
 challenged.

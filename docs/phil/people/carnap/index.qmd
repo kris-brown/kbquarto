@@ -1,5 +1,12 @@
 ---
 title: Carnap
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/people/carnap/index.yml
 ---
 
 Rudolf Carnap was a German philosopher, 1891-1970.

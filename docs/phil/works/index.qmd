@@ -1,0 +1,7 @@
+---
+title: Philophical works 
+comments: false
+listing:
+  contents: /*/*.qmd
+  type: grid
+---

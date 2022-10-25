@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_phil_distinctions_made_ought_to_be.yml
+    - ../../../../backlinks/docs/phil/distinctions/made/ought_to_be.yml
 ---
 
 {{< include _ought_to_be.md >}}

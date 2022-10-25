@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs_phil_problems_skepticism.yml
+    - ../../../backlinks/docs/phil/problems/skepticism.yml
 ---
 
 {{< include _skepticism.md >}}

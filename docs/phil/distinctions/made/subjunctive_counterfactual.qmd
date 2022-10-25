@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_phil_distinctions_made_subjunctive_counterfactual.yml
+    - ../../../../backlinks/docs/phil/distinctions/made/subjunctive_counterfactual.yml
 ---
 
 {{< include _subjunctive_counterfactual.md >}}

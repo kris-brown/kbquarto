@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs_phil_switcharoos_sensedata_concepts.yml
+    - ../../../backlinks/docs/phil/switcharoos/sensedata_concepts.yml
 ---
 
 {{< include _sensedata_concepts.md >}}

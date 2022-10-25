@@ -1,12 +1,12 @@
 ---
-title: Symmetric monoidal preorders
+title: "2.2: Symmetric monoidal preorders"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_2_2.yml
+    - ../../../../backlinks/docs/math/sketches/2/2.yml
 ---
 
 {{< include _2.md >}}

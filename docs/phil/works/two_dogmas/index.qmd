@@ -1,0 +1,13 @@
+---
+title: Two Dogams of Empiricism
+author: W. O. Quine
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/works/two_dogmas/index.yml
+---
+
+[-@orman1976two]

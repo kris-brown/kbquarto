@@ -1,8 +1,10 @@
-
-
-
-
-
 ---
 title: Lectures on Wilfrid Sellars (2009)
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../backlinks/docs/phil/people/brandom/sellars09/index.yml
 ---

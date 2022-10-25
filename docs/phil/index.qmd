@@ -7,10 +7,10 @@ listing:
   filter-ui: true
   template: "../../ejs/custom.ejs"
   contents:
-    - ../../backlinks/docs_phil_index.yml
+    - ../../backlinks/docs/phil/index.yml
 ---
 
-Various notes on philosophy.
+I try to jot something down whenever I read something interesting in philosophy.
 
 :::{.callout-warning}
 This is very much under construction. A lot of notes are not yet polished for

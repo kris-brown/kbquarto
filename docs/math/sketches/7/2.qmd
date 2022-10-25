@@ -1,12 +1,12 @@
 ---
-title: The category Set as an exemplar topos
+title: "7.2: The category Set as an exemplar topos"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_7_2.yml
+    - ../../../../backlinks/docs/math/sketches/7/2.yml
 ---
 
 {{< include _2.md >}}

@@ -1,7 +1,12 @@
 ---
 title: Distinctions made
 ---
-Philosophy can make distinctions that feel good, like they 'cut reality at the joints.'
+
+Philosophy can make distinctions that feel good, like they 'cut reality at the 
+joints.'
+
+# [Analytic/synthetic facts](analytic_synthetic.qmd)
+{{< include _analytic_synthetic.md >}}
 
 # [Sense dependence vs Reference dependence](sense_dependence_reference.qmd)
 {{< include _sense_dependence_reference.md >}}

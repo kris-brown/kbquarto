@@ -4,37 +4,50 @@ subtitle: Jocelyn Benoist
 date: November 2, 2009.
 ---
 
-What is interesting about perception for philosophers (distinct from biologists/neuroscientists)?
+What is interesting about perception for philosophers (distinct from 
+biologists/neuroscientists)?
     - Perception has necessary role within analysis of certain concepts
 
 # Philophers need not come up with a theory of perception
-- Empirical facts about perception may be useful, and the physical theories of perception need not be challenged
+- Empirical facts about perception may be useful, and the physical theories of 
+  perception need not be challenged
     - E.g. gestalt psychology could be important to phenomonology
     - Notion of 'perceptual features'. Empirical question:
-    - Is it that to perceive is, essentially, to perceive objects? Every perception is a perception of something?
+    - Is it that to perceive is, essentially, to perceive objects? Every 
+      perception is a perception of something?
         -  alternatively, we could also perceive 'features', too
-        - More generally, is perception uniform or is there a richness/complexity of kind in the types of perception? This could influence philosophers who need to discuss the uses of perception.
-    - In some sense, this is just a boring/trivial question about the grammar of perception.
-    - Interesting empirical question: what is the privileged form of perceputal sensations - how far are we (always) breaking down sense data into objects? What physical mechanism does this?
+        - More generally, is perception uniform or is there a 
+          richness/complexity of kind in the types of perception? This could 
+          influence philosophers who need to discuss the uses of perception.
+    - In some sense, this is just a boring/trivial question about the grammar of 
+      perception.
+    - Interesting empirical question: what is the privileged form of perceputal 
+      sensations - how far are we (always) breaking down sense data into 
+      objects? What physical mechanism does this?
 
 # What should philosophers do
-  - Philosophy should disentangle confusions that arise out of the natural usage of the term.
+  - Philosophy should disentangle confusions that arise out of the natural usage 
+    of the term.
     - An enduring example confusion:
       - Tendancy to approach problems in perception from a theory of knowledge.
         - How much do we know given our perceptions?
-        - How does the knowledge from perceptions interact with other sources of knowledge?
+        - How does the knowledge from perceptions interact with other sources of 
+          knowledge?
       - This is often a confusion
-        - (though may make sense in certain contexts, e.g. wondering if I've seen you before in the street)
-      - It makes us wrongly think of the essence of perception as being in contact / direct relation with the world, as a means of getting knowledge.
+        - (though may make sense in certain contexts, e.g. wondering if I've 
+          seen you before in the street)
+      - It makes us wrongly think of the essence of perception as being in 
+        contact / direct relation with the world, as a means of getting 
+        knowledge.
       -  This is a category error
-        - Epistemologists are not actually dealing with perception, rather something derived from perception
-
-
+        - Epistemologists are not actually dealing with perception, rather 
+          something derived from perception
 
 # Local error
 - Seeing something far away might be misleading
 - Two people could perceive the same phenomenon differently for various reasons
-- It's a mistake of philosophers to lift this to questioning perception in general, questioning whether we ever could be in contact with the real world.
+- It's a mistake of philosophers to lift this to questioning perception in 
+  general, questioning whether we ever could be in contact with the real world.
 
 
 
@@ -43,27 +56,52 @@ What is interesting about perception for philosophers (distinct from biologists/
 # 5 Contact with the outside world
   - Raw data (waves/beams) impinge upon us, our minds make sense of this
     - Optics / biology outside domain of philosophy.
-    - Then philosophy asks the trancendental question "how is it possible for us to access the outside world?"
+    - Then philosophy asks the trancendental question "how is it possible for us 
+      to access the outside world?"
       - From what point of view is this question being asked?
-      - "Contact" is a better word than "access" because the fact that we (in the world) are in contact with the world is obvious and nullifies the philosophical question.
-      - This question is a symptom of philosophy since Descartes, implies one has already gone astray from understanding what perception is.
-        - Benoist would respond to a Cartesian skeptic differently; rather, would reject the question as ill-founded because the fact we are in contact with the world is presupposed before asking more abstract/higher order questions.
-        - The fact that Descartes creates this artificial question leads him to the artificial separation of the physical and spiritual world. Both artificialities are related.
-      - It's fundamental to perception that it's not possible to 'take distance' from perception
-        - (yes, epistemlogically, but that is really treating the uses of perceptions).
-        - It's legitimate inquiry into the role of perception among other aspects of reasoning, but it is not about perception itself.
+      - "Contact" is a better word than "access" because the fact that we (in 
+        the world) are in contact with the world is obvious and nullifies the 
+        philosophical question.
+      - This question is a symptom of philosophy since Descartes, implies one 
+        has already gone astray from understanding what perception is.
+        - Benoist would respond to a Cartesian skeptic differently; rather, 
+          would reject the question as ill-founded because the fact we are in 
+          contact with the world is presupposed before asking more 
+          abstract/higher order questions.
+        - The fact that Descartes creates this artificial question leads him to 
+          the artificial separation of the physical and spiritual world. Both 
+          artificialities are related.
+      - It's fundamental to perception that it's not possible to 'take distance' 
+        from perception
+        - (yes, epistemlogically, but that is really treating the uses of 
+          perceptions).
+        - It's legitimate inquiry into the role of perception among other 
+          aspects of reasoning, but it is not about perception itself.
 
 # Making sense of disagreement
-  - How does belief in raw contact with the world explain different observers observing the same thing differently?
+  - How does belief in raw contact with the world explain different observers 
+    observing the same thing differently?
     - E.g. "jaundiced eye" seeing the world with yellow tint
     - Benoist: perception is clearly dependent on where you are
-    - The fact it is perspectival does not take away from the fact we are in direct contact
-    - However we also have different faculties which cause differences beyond geometry (diseases, enhancements).
-      - The yellow of jaundiced eye is just as much a reality and fact of perception as seeing a stick broken in the water.
-        - There is a temptation to think when our perspective has dramatically affected the experience of some aspect of reality (stick), that it's no longer the stick which we are perceiving
-        - (even though it is the stick, even if it looks different than how we're used to it - it's just the reality of optics that viewed a certain way the experience of a stick is broken)
-        - JL Austin: does anyone expect a stick, if it's actually straight, has to appear to be straight under all circumstances?
-      - It is wrong of philosophers to conclude from examples like this that our subjectivity is in between us and contact with reality.
-        - Our subjectivity is just us being ourselves as we are in relation to the reality.
-        - Subjectivity just captures the factors of perception which are dependent on the perceiver's location/faculties
-        - Subjectivity is just one aspect of the reality of perception (direct contact with the world).
+    - The fact it is perspectival does not take away from the fact we are in 
+      direct contact
+    - However we also have different faculties which cause differences beyond 
+      geometry (diseases, enhancements).
+      - The yellow of jaundiced eye is just as much a reality and fact of 
+        perception as seeing a stick broken in the water.
+        - There is a temptation to think when our perspective has dramatically 
+          affected the experience of some aspect of reality (stick), that it's 
+          no longer the stick which we are perceiving
+        - (even though it is the stick, even if it looks different than how 
+          we're used to it - it's just the reality of optics that viewed a 
+          certain way the experience of a stick is broken)
+        - JL Austin: does anyone expect a stick, if it's actually straight, has 
+          to appear to be straight under all circumstances?
+      - It is wrong of philosophers to conclude from examples like this that our 
+        subjectivity is in between us and contact with reality.
+        - Our subjectivity is just us being ourselves as we are in relation to 
+          the reality.
+        - Subjectivity just captures the factors of perception which are 
+          dependent on the perceiver's location/faculties
+        - Subjectivity is just one aspect of the reality of perception (direct 
+          contact with the world).

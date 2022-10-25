@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs_phil_situations_auction.yml
+    - ../../../backlinks/docs/phil/situations/auction.yml
 ---
 
 {{< include _auction.md >}}

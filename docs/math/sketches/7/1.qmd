@@ -1,12 +1,12 @@
 ---
-title: How can we prove our machine is safe?
+title: "7.1: How can we prove our machine is safe?"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_7_1.yml
+    - ../../../../backlinks/docs/math/sketches/7/1.yml
 ---
 
 {{< include _1.md >}}

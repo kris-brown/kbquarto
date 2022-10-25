@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs_math_misc_material_conditional.yml
+    - ../../../backlinks/docs/math/misc/material_conditional.yml
 ---
 
 In logic, we see expressions like $P \implies Q$ a lot.

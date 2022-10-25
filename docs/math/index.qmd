@@ -7,7 +7,7 @@ listing:
   filter-ui: true
   template: "../../ejs/custom.ejs"
   contents:
-    - ../../backlinks/docs_math_index.yml
+    - ../../backlinks/docs/math/index.yml
 ---
 
 Various things jotted down while reading about math.

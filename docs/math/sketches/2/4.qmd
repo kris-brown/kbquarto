@@ -1,12 +1,12 @@
 ---
-title: Constructions on V-categories
+title: "2.4: Constructions on V-categories"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_2_4.yml
+    - ../../../../backlinks/docs/math/sketches/2/4.yml
 ---
 
 {{< include _4.md >}}

@@ -1,29 +1,15 @@
-
-# Background
-
-Learning philosophy historically, one finds a distinction frequently made 
-between *analytic* and *synthetic* statements. We want to put declarative 
-statements into two boxes:
-
-1. Analytic:
-   - "Cats are mammals"
-   - "Every bachelor is unmarried"
-2. Synthetic:
-   - "There has existed a black dog"
-   - "There are three people in this room right now"
-
-How would we characterize analytic statements? One common way is to say that the 
-truth of analytic statements depends purely on what the constituent terms *mean*, 
-whereas synthetic statements (additionally) depend on the state of the world.
-
-# Two dogmas
-
-One of the two dogmas of Quine's [-@orman1976two] is the notion of analyticity, 
+The distinction is made 
+[here](/docs/phil/distinctions/made/analytic_synthetic.qmd)
+but is broken in [Quine](/docs/phil/people/quine/index.qmd)'s  
+[Two Dogmas of Empiricism](/docs/phil/works/two_dogmas/index.qmd)
+is the notion of analyticity, 
 i.e. that the analytic-synthetic distinction can be made at all.
 
 He argues that the type of information required to make us change our opinion of 
 the truth of "cats are mammals" and any synthetic statement are actually not 
-different in kind.
+different in kind. (We might discover all things that which call 'cats' have 
+actually been biological-looking robots - we'd likely change what category to 
+put 'cats' in than to declare all of these things are no longer cats.)
 
 Quine's conclusion: we should cease to make the meaning-theory distinction / 
 language-theory distinction / meaning-belief distinction --- all there is is the 

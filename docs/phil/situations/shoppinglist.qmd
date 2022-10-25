@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs_phil_situations_shoppinglist.yml
+    - ../../../backlinks/docs/phil/situations/shoppinglist.yml
 ---
 
 {{< include _shoppinglist.md >}}

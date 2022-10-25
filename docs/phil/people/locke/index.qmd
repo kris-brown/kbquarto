@@ -1,5 +1,12 @@
 ---
 title: Locke
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/people/locke/index.yml
 ---
 
 John Locke was an English philospher (1632-1704).

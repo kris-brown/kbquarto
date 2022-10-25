@@ -1,12 +1,12 @@
 ---
-title: Props and presentations
+title: "5.2: Props and presentations"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_5_2.yml
+    - ../../../../backlinks/docs/math/sketches/5/2.yml
 ---
 
 {{< include _2.md >}}

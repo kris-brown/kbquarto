@@ -1,12 +1,12 @@
 ---
-title: Operads and their algebras
+title: "6.5: Operads and their algebras"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_6_5.yml
+    - ../../../../backlinks/docs/math/sketches/6/5.yml
 ---
 
 {{< include _5.md >}}

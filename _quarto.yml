@@ -11,21 +11,7 @@ website:
   open-graph: true
   twitter-card: true
   page-navigation: true
-  page-footer:
-    left: |
-      Left text
-    center: |
-      Center text
-    right:
-      - icon: twitter
-        href: https://twitter.com/ksb_id
-        aria-label: KSB Twitter
-      - icon: github
-        href: https://github.com/kris-brown
-        aria-label: KSB GitHub
-      - icon: file-earmark-person
-        href: docs/research.qmd#cv
-        aria-label: KSB CV
+  reader-mode: true
 
   navbar:
     background: light
@@ -63,204 +49,14 @@ website:
       style: "floating"
       collapse-level: 1
       align: left
-      contents:
-        - docs/phil/index.qmd
-        - section: "Problems"
-          href: docs/phil/problems/index.qmd
-          contents:
-            - docs/phil/problems/agrippan.qmd
-            - docs/phil/problems/bradleys.qmd
-            - docs/phil/problems/disjunctivitis.qmd
-            - docs/phil/problems/fregegeach.qmd
-            - docs/phil/problems/ruleregress.qmd
-            - docs/phil/problems/skepticism.qmd
-            - docs/phil/problems/universals.qmd
-            - docs/phil/problems/tortoise.qmd
-        - section: "Situations"
-          href: docs/phil/situations/index.qmd
-          contents:
-            - docs/phil/situations/auction.qmd
-            - docs/phil/situations/beewaggle.qmd
-            - docs/phil/situations/behaviorism.qmd
-            - docs/phil/situations/childrensgame.qmd
-            - docs/phil/situations/lostkeys.qmd
-            - docs/phil/situations/montaignedog.qmd
-            - docs/phil/situations/novelsentence.qmd
-            - docs/phil/situations/piatree.qmd
-            - docs/phil/situations/platepoint.qmd
-            - docs/phil/situations/pluto.qmd
-            - docs/phil/situations/shoppinglist.qmd
-            - docs/phil/situations/toothpain.qmd
-            - docs/phil/situations/warhero.qmd
-        - section: "Switcharoos"
-          href: docs/phil/switcharoos/index.qmd
-          contents:
-            - docs/phil/switcharoos/concept_judgment.qmd
-            - docs/phil/switcharoos/meaning_truth.qmd
-            - docs/phil/switcharoos/sensedata_concepts.qmd
-        - section: "Distinctions"
-          contents:
-            - section: "Distinctions made"
-              href: docs/phil/distinctions/made/index.qmd
-              contents:
-                - docs/phil/distinctions/made/ought_to_be.qmd
-                - docs/phil/distinctions/made/sense_dependence_reference.qmd
-                - docs/phil/distinctions/made/subjunctive_counterfactual.qmd
-            - section: "Distinctions broken"
-              href: docs/phil/distinctions/broken/index.qmd
-              contents:
-                - docs/phil/distinctions/broken/analytic_synthetic.qmd
-                - docs/phil/distinctions/broken/objective_subjective.qmd
-                - docs/phil/distinctions/broken/theoretical_observable.qmd
-        - section: "People"
-          href: docs/phil/people/index.qmd
-          contents:
-            - section: "Brandom"
-              href: docs/phil/people/brandom/index.qmd
-              contents:
-                - section: "Antirepresentationalism"
-                  href: docs/phil/people/brandom/antirep/index.qmd
-                  contents:
-                    - docs/phil/people/brandom/antirep/1/index.qmd
-                    - docs/phil/people/brandom/antirep/2/index.qmd
-                    - docs/phil/people/brandom/antirep/3/index.qmd
-                    - docs/phil/people/brandom/antirep/4/index.qmd
-                    - docs/phil/people/brandom/antirep/5/index.qmd
-                    - docs/phil/people/brandom/antirep/6/index.qmd
-                    - docs/phil/people/brandom/antirep/7/index.qmd
-                    - docs/phil/people/brandom/antirep/8/index.qmd
-                    - docs/phil/people/brandom/antirep/9/index.qmd
-                    - docs/phil/people/brandom/antirep/10/index.qmd
-                    - docs/phil/people/brandom/antirep/11/index.qmd
-                    - docs/phil/people/brandom/antirep/12/index.qmd
-                    - docs/phil/people/brandom/antirep/13/index.qmd
-                    - docs/phil/people/brandom/antirep/14/index.qmd
-
-                - section: "Sellars ('09)"
-                  href: docs/phil/people/brandom/sellars09/index.qmd
-                  contents:
-                    - docs/phil/people/brandom/sellars09/1/index.qmd
-                    - docs/phil/people/brandom/sellars09/2/index.qmd
-                    - docs/phil/people/brandom/sellars09/3/index.qmd
-                    - docs/phil/people/brandom/sellars09/4/index.qmd
-                - section: "Sellars ('19)"
-                  href: docs/phil/people/brandom/sellars19/index.qmd
-            - docs/phil/people/carnap/index.qmd
-            - docs/phil/people/cavell/index.qmd
-            - docs/phil/people/derrida/index.qmd
-            - docs/phil/people/descartes/index.qmd
-            - docs/phil/people/dewey/index.qmd
-            - docs/phil/people/hume/index.qmd
-            - docs/phil/people/kant/index.qmd
-            - docs/phil/people/leibniz/index.qmd
-            - docs/phil/people/nietzsche/index.qmd
-            - docs/phil/people/price/index.qmd
-            - docs/phil/people/rorty/index.qmd
-            - docs/phil/people/sellars/index.qmd
-            - docs/phil/people/spinoza/index.qmd
-            - docs/phil/people/wittgenstein/index.qmd
-        - section: "Elucidations"
-          href: docs/phil/elucidations/index.qmd
-          contents:
-            - docs/phil/elucidations/1.qmd
-            - docs/phil/elucidations/2.qmd
-            - docs/phil/elucidations/3.qmd
-            - docs/phil/elucidations/4.qmd
-            - docs/phil/elucidations/5.qmd
-            - docs/phil/elucidations/6.qmd
-            - docs/phil/elucidations/7.qmd
-            - docs/phil/elucidations/8.qmd
-            - docs/phil/elucidations/9.qmd
-            - docs/phil/elucidations/10.qmd
-            - docs/phil/elucidations/11.qmd
-            - docs/phil/elucidations/12.qmd
-            - docs/phil/elucidations/13.qmd
-            - docs/phil/elucidations/14.qmd
-            - docs/phil/elucidations/15.qmd
-            - docs/phil/elucidations/16.qmd
-            - docs/phil/elucidations/17.qmd
-            - docs/phil/elucidations/18.qmd
-            - docs/phil/elucidations/19.qmd
-            - docs/phil/elucidations/20.qmd
-            - docs/phil/elucidations/21.qmd
-            - docs/phil/elucidations/22.qmd
-            - docs/phil/elucidations/23.qmd
-            - docs/phil/elucidations/24.qmd
-            - docs/phil/elucidations/25.qmd
-            - docs/phil/elucidations/26.qmd
-            - docs/phil/elucidations/34.qmd
-            - docs/phil/elucidations/45.qmd
+      contents: docs/phil
 
     - id: math
       title: "Math notes"
       style: "floating"
       collapse-level: 1
       align: left
-      contents:
-        - docs/math/index.qmd
-        - section: "Seven sketches"
-          href: docs/math/sketches/index.qmd
-          contents:
-            - section: "Generative effects"
-              href: docs/math/sketches/1/index.qmd
-              contents:
-                - href: docs/math/sketches/1/1.qmd
-                - href: docs/math/sketches/1/2.qmd
-                - href: docs/math/sketches/1/3.qmd
-                - href: docs/math/sketches/1/4.qmd
-                - href: docs/math/sketches/1/5.qmd
-                - href: docs/math/sketches/1/6.qmd
-            - section: "Resource theories"
-              href: docs/math/sketches/2/index.qmd
-              contents:
-                - href: docs/math/sketches/2/1.qmd
-                - href: docs/math/sketches/2/2.qmd
-                - href: docs/math/sketches/2/3.qmd
-                - href: docs/math/sketches/2/4.qmd
-                - href: docs/math/sketches/2/5.qmd
-            - section: "Databases"
-              href: docs/math/sketches/3/index.qmd
-              contents:
-                - href: docs/math/sketches/3/1.qmd
-                - href: docs/math/sketches/3/2.qmd
-                - href: docs/math/sketches/3/3.qmd
-                - href: docs/math/sketches/3/4.qmd
-                - href: docs/math/sketches/3/5.qmd
-            - section: "Co-design"
-              href: docs/math/sketches/4/index.qmd
-              contents:
-                - href: docs/math/sketches/4/1.qmd
-                - href: docs/math/sketches/4/2.qmd
-                - href: docs/math/sketches/4/3.qmd
-                - href: docs/math/sketches/4/4.qmd
-                - href: docs/math/sketches/4/5.qmd
-            - section: "Signal flow graphs"
-              href: docs/math/sketches/5/index.qmd
-              contents:
-                - href: docs/math/sketches/5/1.qmd
-                - href: docs/math/sketches/5/2.qmd
-                - href: docs/math/sketches/5/3.qmd
-                - href: docs/math/sketches/5/4.qmd
-            - section: "Circuits"
-              href: docs/math/sketches/6/index.qmd
-              contents:
-                - href: docs/math/sketches/6/1.qmd
-                - href: docs/math/sketches/6/2.qmd
-                - href: docs/math/sketches/6/3.qmd
-                - href: docs/math/sketches/6/4.qmd
-                - href: docs/math/sketches/6/5.qmd
-            - section: "Logic of behavior"
-              href: docs/math/sketches/7/index.qmd
-              contents:
-                - href: docs/math/sketches/7/1.qmd
-                - href: docs/math/sketches/7/2.qmd
-                - href: docs/math/sketches/7/3.qmd
-                - href: docs/math/sketches/7/4.qmd
-                - href: docs/math/sketches/7/5.qmd
-        - section: "Misc"
-          contents:
-            - section: "Material conditional"
-            - href: docs/math/misc/material_conditional.qmd
+      contents: docs/math
 
 bibliography: references.bib
 
@@ -278,7 +74,6 @@ format:
 filters:
   - filters/include-files.lua
   - filters/tikz-to-png.lua
-
   - quarto
 
 freeze: auto

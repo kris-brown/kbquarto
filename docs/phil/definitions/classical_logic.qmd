@@ -1,0 +1,12 @@
+---
+title: Classical logic
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/phil/definitions/classical_logic.yml
+---
+
+TODO 

@@ -6,7 +6,8 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs_phil_problems_fregegeach.yml
+    - ../../../backlinks/docs/phil/problems/fregegeach.yml
 ---
 
 {{< include _fregegeach.md >}}
+

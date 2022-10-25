@@ -7,7 +7,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs_phil_switcharoos_concept_judgment.yml
+    - ../../../backlinks/docs/phil/switcharoos/concept_judgment.yml
 ---
 
 {{< include _concept_judgment.md >}}

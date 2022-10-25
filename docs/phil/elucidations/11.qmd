@@ -6,31 +6,52 @@ date: May 7, 2010
 
 # Augustinian picture of how we learn language
 - Wittgenstein opens PI Augustine's picture:
-  - Common sense description: words name objects, sentences are combinations of such names
-  - Every word has a correlated meaning which is the object for which the word stands.
+  - Common sense description: words name objects, sentences are combinations of 
+    such names
+  - Every word has a correlated meaning which is the object for which the word 
+    stands.
     - Problem: what object does the word 'and' stand for?
 
 
 # Is _Philosophical Investigations_ criticizing this picture?
 - Standard thought is this picture is the main object of criticism of PI
-  - Gustafsson thinks this is making too much philosophy out of the Augustinian picture.
-    - (in fact, Augstine himself doesn't subscribe to the philosophical implications commonly attributed to the passage)
+  - Gustafsson thinks this is making too much philosophy out of the Augustinian  
+    picture.
+    - (in fact, Augstine himself doesn't subscribe to the philosophical 
+      implications commonly attributed to the passage)
 - This simple picture is attractive and can be applied in good ways or bad ways.
-  - Pictures for Wittgenstein operate on a primative level, can't say they're right or wrong.
-    - Wittgenstein in *Foundations of Mathematics*: "We don't judge the picture but we judge by means of the picture."
-  - They are prototheories / paradigms that are bad if cut from their useful applications.
-    - e.g. Start looking for the correlate of the word red, postulate Platonic forms and get philosophical confusion
-  - Cannot be argued against because counterexamples can be absorbed by a picture, which can be elaborated upon
-    - The closer the picture is to a fully fleshed out theory, the harder (more artificial-seeming) this becomes.
+  - Pictures for Wittgenstein operate on a primative level, can't say they're 
+    right or wrong.
+    - Wittgenstein in *Foundations of Mathematics*: "We don't judge the picture 
+      but we judge by means of the picture."
+  - They are prototheories / paradigms that are bad if cut from their useful 
+    applications.
+    - e.g. Start looking for the correlate of the word red, postulate Platonic 
+      forms and get philosophical confusion
+  - Cannot be argued against because counterexamples can be absorbed by a 
+    picture, which can be elaborated upon
+    - The closer the picture is to a fully fleshed out theory, the harder (more 
+      artificial-seeming) this becomes.
 # Is Wittgenstein criticizing Plato?
-- If Wittgenstein is not strictly criticizing Augustine, is he at least criticizing Plato?
-  - Wittgenstein quotes Theatetus picture of language: Socrates is presenting something he has heard and he concludes we don't really understand it.
-  - Wittgenstein considers himself in a common struggle with Plato and Augustine. He is attracted by these pictures but is trying to overcome them, just like Plato and Augustine.
-    - If Wittgenstein is documenting his personal struggles, then what philosophical value is there? Is it just of autobiographical interest?
-      - There are many levels of PI - he provides arguments and uncovers paradoxes.
-      - Is he merely providing more details to the pictures in order to try to avoid the counterexamples/paradoxes? Is he trying to get rid of pictures altogether? Experts are divided.
-        - Some say 'meaning as use' is a picture, one he thinks is less harmful than augustinian view
-      - He doesn't really want to construct theories, but rather wants philosophical peace / quietism.
+- If Wittgenstein is not strictly criticizing Augustine, is he at least 
+  criticizing [Plato](/docs/phil/people/plato/index.qmd)?
+  - Wittgenstein quotes Theatetus picture of language: Socrates is presenting 
+    something he has heard and he concludes we don't really understand it.
+  - Wittgenstein considers himself in a common struggle with Plato and 
+    Augustine. He is attracted by these pictures but is trying to overcome them, 
+    just like Plato and Augustine.
+    - If Wittgenstein is documenting his personal struggles, then what 
+      philosophical value is there? Is it just of autobiographical interest?
+      - There are many levels of PI - he provides arguments and uncovers 
+        paradoxes.
+      - Is he merely providing more details to the pictures in order to try to 
+        avoid the counterexamples/paradoxes? Is he trying to get rid of pictures 
+        altogether? Experts are divided.
+        - Some say 'meaning as use' is a picture, one he thinks is less harmful 
+          than augustinian view
+      - He doesn't really want to construct theories, but rather wants 
+        philosophical peace / quietism.
+        
 # More potentially harmful pictures
   - thinking as something that goes on inside your head
   - regarding infinity as merely something very large

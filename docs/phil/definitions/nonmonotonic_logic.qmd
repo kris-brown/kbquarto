@@ -1,0 +1,12 @@
+---
+title: Non-monotonic logic
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/phil/definitions/nonmonotonic_logic.yml
+---
+
+TODO

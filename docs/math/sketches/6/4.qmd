@@ -1,12 +1,12 @@
 ---
-title: Decorated cospans
+title: "6.4: Decorated cospans"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_6_4.yml
+    - ../../../../backlinks/docs/math/sketches/6/4.yml
 ---
 
 {{< include _4.md >}}

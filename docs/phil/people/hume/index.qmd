@@ -1,5 +1,12 @@
 ---
 title: Hume
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/people/hume/index.yml
 ---
 
 A Scottish philosopher (1711-1776).

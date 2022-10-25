@@ -1,12 +1,12 @@
 ---
-title: Profunctors form compact closed categories
+title: "4.5: Profunctors form compact closed categories"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_4_5.yml
+    - ../../../../backlinks/docs/math/sketches/4/5.yml
 ---
 
 {{< include _5.md >}}

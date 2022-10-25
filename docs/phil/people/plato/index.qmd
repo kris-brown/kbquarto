@@ -1,0 +1,15 @@
+---
+title: Plato
+comments: false
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/people/plato/index.yml
+---
+
+Plato was an ancient Greek philosopher (428 BC - 348 BC).
+
+![](/images/headshots/plato.jpeg)

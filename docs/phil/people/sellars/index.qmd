@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_phil_people_sellars_index.yml
+    - ../../../../backlinks/docs/phil/people/sellars/index.yml
 ---
 
 

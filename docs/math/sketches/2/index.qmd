@@ -1,12 +1,12 @@
 ---
-title: Resource theories
+title: "2. Resource theories"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_2_index.yml
+    - ../../../../backlinks/docs/math/sketches/2/index.yml
 ---
 
 

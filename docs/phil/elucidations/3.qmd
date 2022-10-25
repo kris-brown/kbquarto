@@ -9,63 +9,99 @@ date: September 1, 2009
 Nietzsche means something different from ethics when using the term morality
 
 - He presents himself as a "critic of morality"
-- Although also talks about "higher moralities" as things he approves of, using the same German word.
-- Leitner distinguishes these senses by introducing the term "morality in the pejorative sense"
+- Although also talks about "higher moralities" as things he approves of, using 
+  the same German word.
+- Leitner distinguishes these senses by introducing the term "morality in the 
+  pejorative sense"
 - What characterizes the types of morality Nietzsche's opposed to?
-    1. Has particular assumptions about human nature that Nietzsche takes to be false.
-        - E.g. assuming there is "free/autonomous agency" of the sort Nietzsche thinks doesn't exist.
+    1. Has particular assumptions about human nature that Nietzsche takes to be 
+       false.
+        - E.g. assuming there is "free/autonomous agency" of the sort Nietzsche 
+          thinks doesn't exist.
     2. Has certain normative content he doesn't like (big disjunctive list)
         - Egalitarianism
         - High value on pity / altruism
         - Especially high value on happiness / low value on suffering
-        - E.g. Nietzsche is a critic of utilitarianism, which might have some but not all of these features
+        - E.g. Nietzsche is a critic of utilitarianism, which might have some 
+          but not all of these features
 
 # Naturalism about morality
 - Leitner calls Nietzsche a naturalist thinker about morality
-    - Thinking of him in line with Hume and Freud, rather than the popular view of thinking of him as a precursor to postmodernism
+    - Thinking of him in line with Hume and Freud, rather than the popular view 
+      of thinking of him as a precursor to postmodernism
 - "Naturalist" is a fraught term. Need to distinguish:
     - "substantive"
         - a certain ontological view (no 'supernatural' things exist)
     - "methodological"
         - an idea of how one does philosophy
-        - There aren't any distinctive philosophical practices, no difference in kind with other sciences (primarily psychology)
+        - There aren't any distinctive philosophical practices, no difference in 
+          kind with other sciences (primarily psychology)
         - No reliance purely on *a priori*
     - Nietzsche is at least the latter. Calls himself the 'first psychologist'
     - He is a 'speculative methodological naturalist' like Hume.
     - Same kind of structure of argument that is characteristic of Hume:
         - Take some class of beliefs (e.g. beliefs of morality)
         - Be skeptical that the beliefs can be rationally arrived at
-        - Construct a psychological narrative for how we could have arrived at those beliefs / why they are attractive to human beings as they are.
-        - E.g. in geneology of morals: how did the acetic ideal come to dominate the human mind / major religions.
+        - Construct a psychological narrative for how we could have arrived at 
+          those beliefs / why they are attractive to human beings as they are.
+        - E.g. in geneology of morals: how did the acetic ideal come to dominate 
+          the human mind / major religions.
 
 # What is the argument?
-- How would Nietzsche try to convince someone who believes in morality (in the pejorative sense)?
-  - Leitner believes Nietzsche's goal is not to get everyone to give up on morality.
+- How would Nietzsche try to convince someone who believes in morality (in the 
+  pejorative sense)?
+  - Leitner believes Nietzsche's goal is not to get everyone to give up on 
+    morality.
     - "Herd morality for the herd"
     - There are different types of people
-  - But there are (potential) creative geniuses like Goethe, Napoleon, Nietzsche himself, etc., whose flourishing is hindered by morality.
+  - But there are (potential) creative geniuses like Goethe, Napoleon, 
+    Nietzsche himself, etc., whose flourishing is hindered by morality.
   - Lots of techniques to convince those people.
-  - Nietzsche acknowledges that belief isn't an entirely (or even mostly) rational deliberative process, so his methods of convincing are unusual compared to other philosophers.
+  - Nietzsche acknowledges that belief isn't an entirely (or even mostly) 
+    rational deliberative process, so his methods of convincing are unusual 
+    compared to other philosophers.
   - Writes to 'get you in the gut' - is crude/rude/joking/hyperbolic.
-  - "We don't even notice the slave morality because it's been victorious" He knows his readership isn't even skeptical of morality, so he needs to be provokative to loosen them up / open them up to critical reflection.
+  - "We don't even notice the slave morality because it's been victorious" He 
+    knows his readership isn't even skeptical of morality, so he needs to be 
+    provocative to loosen them up / open them up to critical reflection.
   - Makes arguments
-    - E.g. Naturalistic picture debunks common picture of human agency (his readership is becoming more committed to science, which allows him to draw up a tension)
+    - E.g. Naturalistic picture debunks common picture of human agency (his 
+      readership is becoming more committed to science, which allows him to 
+      draw up a tension)
   - But you can't argue someone out of their morality, so rhetoric is important.
 
 
 # Is different types of good for different people self-contradictory?
-  - Nietzsche wants different moralities for different types of people, but maybe he's implicitly arguing for a universal principle "what is good for people is good for their individual fluorishing as the type of person they are"
+  - Nietzsche wants different moralities for different types of people, but 
+    maybe he's implicitly arguing for a universal principle "what is good for 
+    people is good for their individual fluorishing as the type of person they 
+    are"
   - Distinguish two kinds of goodness
-    1. prudential goodness, what is good for an individual (e.g. their well-being)
-    2. moral goodness (all other types of goodness) (e.g. "morality in the pejorative sense ought be rejected because it prevents higher beings from flourishing")
-      - Nietzsche doesn't believe these claims are 'moral facts' (he's not a moral realist)
-      - If a herd animal read Nietzsche's book and understood it perfectly but reacted poorly ("but this criticism of herd morality isn't good for the rest of of us") ... N would not think this person has made any error.
-      - Nietzsche thinks it's a matter of taste whether flourishing of higher beings is more important than well-being of the herd.
-  - So he is not aiming for a universal principle that is in the best interest of everyone.
+    1. prudential goodness, what is good for an individual (e.g. their 
+       well-being)
+    2. moral goodness (all other types of goodness) (e.g. "morality in the 
+       pejorative sense ought be rejected because it prevents higher beings 
+       from flourishing")
+      - Nietzsche doesn't believe these claims are 'moral facts' (he's not a 
+        moral realist)
+      - If a herd animal read Nietzsche's book and understood it perfectly but 
+        reacted poorly ("but this criticism of herd morality isn't good for the 
+        rest of of us") ... N would not think this person has made any error.
+      - Nietzsche thinks it's a matter of taste whether flourishing of higher 
+        beings is more important than well-being of the herd.
+  - So he is not aiming for a universal principle that is in the best interest 
+    of everyone.
 
 # Relevance to contemporary analytic moral philosophy
--  Leitner: I don't think "analytic philosophy" exists, beyond some general stylistic concerns like attempting to be clear.
-- There is a current strand of moral philosophy intersecting with psychology that he would fit in with.
-- Nietzsche was a speculative naturalist, it's possible that his beliefs that had empircal content are not psychological facts, but Leitner thinks after a century of psychological research that Nietzsche was right often.
+- Leitner: I don't think "analytic philosophy" exists, beyond some general 
+  stylistic concerns like attempting to be clear.
+- There is a current strand of moral philosophy intersecting with psychology 
+  that he would fit in with.
+- Nietzsche was a speculative naturalist, it's possible that his beliefs that 
+  had empircal content are not psychological facts, but Leitner thinks after a 
+  century of psychological research that Nietzsche was right often.
   - E.g. he centred the role of the subconscious
-  - Among the three dominant paradigms of moral psychology, Aristotle/Kant/Nietzsche, Nietzsche has the most plausible underlying assumptions given what we now know about psychology.
+  - Among the three dominant paradigms of moral psychology, Aristotle / Kant / 
+    Nietzsche, Nietzsche has the most plausible underlying assumptions given 
+    what we now know about psychology.
+    

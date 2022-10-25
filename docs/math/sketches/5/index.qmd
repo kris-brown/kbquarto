@@ -1,4 +1,13 @@
-
+---
+title: Signal flow graphs
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/math/sketches/5/index.yml
+---
 
 # [Comparing systems as interacting signal processors](1.qmd)
 {{< include _1.md >}}
@@ -14,14 +23,3 @@
 
 # [Graphical linear algebra](4.qmd)
 {{< include _4.md >}}
-
----
-title: Signal flow graphs
-listing:
-  id: backlinks
-  type: table
-  filter-ui: true
-  template: "../../../../ejs/custom.ejs"
-  contents:
-    - ../../../../backlinks/docs_math_sketches_5_index.yml
----

@@ -1,12 +1,12 @@
 ---
-title: Categories
+title: "3.2: Categories"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_3_2.yml
+    - ../../../../backlinks/docs/math/sketches/3/2.yml
 ---
 
 {{< include _2.md >}}

@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs_phil_situations_behaviorism.yml
+    - ../../../backlinks/docs/phil/situations/behaviorism.yml
 ---
 
 {{< include _behaviorism.md >}}

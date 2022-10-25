@@ -6,7 +6,7 @@ listing:
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_phil_people_nietzsche_index.yml
+    - ../../../../backlinks/docs/phil/people/nietzsche/index.yml
 ---
 
 A German philosopher (1844-1900).

@@ -1,12 +1,12 @@
 ---
-title: Can we build it?
+title: "4.1: Can we build it?"
 listing:
   id: backlinks
   type: table
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../../backlinks/docs_math_sketches_4_1.yml
+    - ../../../../backlinks/docs/math/sketches/4/1.yml
 ---
 
 {{< include _1.md >}}

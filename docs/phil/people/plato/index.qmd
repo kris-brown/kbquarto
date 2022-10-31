@@ -5,6 +5,7 @@ comments: false
 listing:
   id: backlinks
   type: table
+  page-size: 100000
   filter-ui: true
   template: "../../../../ejs/custom.ejs"
   contents:

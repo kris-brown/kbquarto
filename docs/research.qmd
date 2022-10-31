@@ -1,6 +1,9 @@
 ---
 title: "Research"
-comments: false
+comments: false # ../backlinks/docs/research.yml
+format: 
+  html:
+    page-layout: full
 ---
 
 # Current
@@ -10,7 +13,8 @@ I am a research software engineer at the
 software in Julia. The primary application here is building tools that make 
 scientific computing and scientific knowledge representation easier, more 
 transparent, and more robust to updating one's model of the world. For an 
-overview, see my talk [Combinatorial Representations of Scientific Knowledge](https://www.youtube.com/watch?v=vJRAw8USmYs).
+overview, see my talk 
+[Combinatorial Representations of Scientific Knowledge](https://www.youtube.com/watch?v=vJRAw8USmYs).
 
 {{< video https://www.youtube.com/embed/vJRAw8USmYs width="560" height="315" >}}
 
@@ -129,7 +133,7 @@ final presentation was recorded [here](https://youtu.be/gj3XD8gK0Ho).
 
 # CV
 
-<object data="../images/research/cv.pdf" type="application/pdf" width="700px" height="700px">
+<object data="../images/research/cv.pdf" type="application/pdf" width="920px" height="700px">
     <embed src="../images/research/cv.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../images/research/cv.pdf">Download PDF</a>.</p>
     </embed>

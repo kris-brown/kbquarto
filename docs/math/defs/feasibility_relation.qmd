@@ -1,9 +1,10 @@
 ---
-title: "Feasilibity relation"
+title: "Feasibility relation"
 categories: 🔴
 listing:
   id: backlinks
   type: table
+  page-size: 100000
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:

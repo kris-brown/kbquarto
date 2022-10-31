@@ -64,8 +64,8 @@ format:
   html:
     toc: true
     theme:
-      dark: darkly
       light: [cosmo, theme.scss]
+      dark: darkly
     code-copy: true
     code-overflow: wrap
     css: styles.css

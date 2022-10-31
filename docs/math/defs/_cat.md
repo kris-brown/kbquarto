@@ -1,4 +1,5 @@
 To specify a category, we need: 
+
 - a collection of objects, $Ob(\mathcal{C})$
 - For every two objects $c$ and $d$, one specifies a set $\mathcal{C}(c,d)$ 
   called *morphisms} from $c$ to $d$

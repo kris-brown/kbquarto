@@ -2,11 +2,11 @@
 title: Math notes
 comments: false
 listing:
-  - id: math #  ../../backlinks/docs/math/index.yml
-    type: table
-    categories: true
-    max-items: 100
-    fields: [title, categories, date]
+  type: table #  ../../backlinks/docs/math/index.yml
+  page-size: 100000
+  sort: "categories desc"
+  categories: true
+  fields: [title, categories, date]
 ---
 
 Various things jotted down while reading about math.

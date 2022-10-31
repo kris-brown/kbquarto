@@ -3,13 +3,12 @@ title: Philosophy notes
 categories: 🟣
 comments: false
 listing:
-  - id: phil #  ../../backlinks/docs/phil/index.yml
-    type: table
-    categories: true
-    max-items: 100
-    fields: [title, categories, date]
+  type: table
+  page-size: 100000
+  sort: "categories desc"
+  categories: true  #  ../../backlinks/docs/phil/index.yml
+  max-items: 100
+  fields: [title, categories, date] 
 ---
-
-I try to jot something down whenever I read something interesting in philosophy.
 
 {{< include ../_wip.md >}}

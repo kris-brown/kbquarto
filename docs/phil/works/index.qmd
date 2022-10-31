@@ -5,6 +5,7 @@ comments: false
 listing:
   contents: /*/*.qmd
   type: table
+  page-size: 100000
   fields: ["title", "author", "published"]
 ---
 

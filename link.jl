@@ -191,6 +191,7 @@ function show_listing(ndots::Int,name::String)
   """listing:
   id: backlinks
   type: table
+  page-size: 100000
   filter-ui: true
   template: "$d/ejs/custom.ejs"
   contents:

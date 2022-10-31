@@ -1,20 +1,34 @@
 ---
 title: Blog
-subtitle: Random thoughts
 listing:
   sort: "date desc"
   contents: "posts"
-  sort-ui: false
-  filter-ui: false
+  sort-ui: true
+  filter-ui: true
   categories: true
+  type: table
+  page-size: 100000
+  fields: [title, categories, date]
   feed: true
 page-layout: full
 search: false
 comments: false
 ---
 
-There are a few draft posts pending, but in the meantime here are two posts I 
-made to the [AlgebraicJulia blog](https://www.algebraicjulia.org/blog/):
+The purpose of things written here is mostly to separate the things written in 
+[Notes](/docs/notes.qmd) (which are written from a somewhat neutral / 
+encyclopedic style) 
+from stuff that is more opinionated. The primary types of things I expect to 
+write are:
+
+- connecting the dots between various things written in the Notes 
+- expository material about content in the Notes and in 
+  [Research](/docs/research.qmd)
+- opinions / random thoughts / personal updates 
+
+There are a few draft posts pending, but in the meantime here are two 
+research-related posts I made to the 
+[AlgebraicJulia blog](https://www.algebraicjulia.org/blog/):
 
 - [Equality vs equivalence: computing isomorphism classes of C-sets](https://www.algebraicjulia.org/blog/post/2022/01/cset-automorphisms/)
 - [The chase: data repair and logical reasoning](https://www.algebraicjulia.org/blog/post/2022/06/chase/)

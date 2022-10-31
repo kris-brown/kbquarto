@@ -21,7 +21,6 @@ relevant `.qmd` files.
 
 The categories `⚪, 🔴, 🟠, 🟢, 🟣` are used to distinguish the various levels of 
 polish of notes. White being for stubs / to-dos, red being for very messy, etc.
-A meta-to-do is to go through all the files and appropriately tag them.
 
 ## Methodological issues 
 - What perspective is a page being written from? E.g. in "Universals". I do not 

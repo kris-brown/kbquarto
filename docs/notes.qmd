@@ -2,32 +2,17 @@
 title: Notes
 comments: false
 listing: 
-  - id: math
-    contents: "math/**"
-    type: table
-    max-items: 100
-    fields: [title, categories, date]
-
-  - id: phil
-    contents: "phil/**"
-    type: table
-    categories: true
-    max-items: 100
-    fields: [title, categories, date]
-
-format: 
-  html:
-    page-layout: full
+  type: table
+  sort: "title desc"
+  fields: [title]
+  contents: 
+    - "phil/index.qmd"
+    - "math/index.qmd" # ../backlinks/docs/notes.yml
 ---
 
-I currently have uploaded some notes on [math](math/) and [philosophy](phil/).
+Organizing / interconnecting my notes helps me make sense of them. Also, I 
+make it all public as a discussion starter for friends + to give me pressure 
+to make them less trash.
 
 {{< include _wip.md >}}
 
-# [Phil notes](phil/)
-:::{#phil}
-:::
-
-# [Math notes](math/)
-:::{#math}
-:::

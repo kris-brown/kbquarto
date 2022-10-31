@@ -1,0 +1,3 @@
+- A tuple $G=(V, A, s, t)$
+- Set of vertices and arrows, with two functions $A\rightarrow V$ which say where the source and target of each arrow goes to.
+- A *path* in $G$ is any sequence of arrows such that the target of one arrow is the source of the next (including length 0 and 1 sequences).

@@ -1,5 +1,6 @@
 ---
 title: "6.5: Operads and their algebras"
+categories: ⚪
 listing:
   id: backlinks
   type: table

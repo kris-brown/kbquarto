@@ -1,0 +1,13 @@
+---
+title: "Meets and joins of the power set preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/meets_and_joins_of_powerset.yml
+---
+
+{{< include _meets_and_joins_of_powerset.md >}}

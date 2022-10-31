@@ -1,5 +1,6 @@
 ---
 title: "1: Generative effects"
+categories: 🟣
 listing:
   id: backlinks
   type: table

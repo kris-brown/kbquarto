@@ -1,0 +1,13 @@
+---
+title: "Pullback along a monotone map"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/pullback_along_mono_map.yml
+---
+
+{{< include _pullback_along_mono_map.md >}}

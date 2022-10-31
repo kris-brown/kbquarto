@@ -1,5 +1,6 @@
 ---
 title: The Frege-Geach problem
+categories: 🔴
 listing:
   id: backlinks
   type: table

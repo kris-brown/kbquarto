@@ -1,0 +1,13 @@
+---
+title: "**Set** as an SMC"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/set_smc.yml
+---
+
+{{< include _set_smc.md >}}

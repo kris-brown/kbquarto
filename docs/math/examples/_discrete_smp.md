@@ -1,0 +1,3 @@
+- A monoid is a set $M$ with a monoid unit $e \in M$ and associative monoid multiplication $M \times M \xrightarrow{\star} M$ such that $m \star e=m=e \star m$
+- Every set $S$ determines a discrete preorder: $\mathbf{Disc}_S$
+- It is easy to check if $(M,e,\star)$ is a commutative monoid then $(\mathbf{Disc}_M, =, e, \star)$ is a symmetric monoidal preorder.

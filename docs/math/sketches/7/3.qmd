@@ -1,5 +1,6 @@
 ---
 title: "7.3: Sheaves"
+categories: ⚪
 listing:
   id: backlinks
   type: table

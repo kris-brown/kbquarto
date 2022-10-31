@@ -1,0 +1,13 @@
+---
+title: "Computing with limit formula in **Set**"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_3_99.yml
+---
+
+{{< include _sketches_3_99.md >}}

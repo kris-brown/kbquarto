@@ -1,5 +1,6 @@
 ---
 title: "1.2: What is order?"
+categories: 🟣
 listing:
   id: backlinks
   type: table
@@ -8,4 +9,5 @@ listing:
   contents:
     - ../../../../backlinks/docs/math/sketches/1/2.yml
 ---
+
 {{< include _2.md >}}

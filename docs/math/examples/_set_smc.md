@@ -1,0 +1,6 @@
+- Monoidal structure on **Set**
+- Let $I$ be any singleton, say $\{1\}$ and the monoidal product is the cartesian product.
+- This means that $\times$ is a functor:
+    - For any pair of sets in $(S,T) \in Ob(\mathbf{Set}\times\mathbf{Set})$, one obtains a set $S \times T \in Ob(\mathbf{Set})$.
+    - For any pair of morphisms (functions) one obtains a function $(f\times g)$ which works pointwise: $(f\times g)(s,t):=(f(s),g(t))$ which preserves identities and composition.
+- The bookkeeping isomorphisms are obvious in **Set**

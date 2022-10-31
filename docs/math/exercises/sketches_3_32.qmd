@@ -1,0 +1,13 @@
+---
+title: "Monoids and groups"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_3_32.yml
+---
+
+{{< include _sketches_3_32.md >}}

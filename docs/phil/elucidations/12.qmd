@@ -1,5 +1,6 @@
 ---
 title: Contextualism
+categories: 🔴
 subtitle: Jason Bridges
 date: June 3, 2010
 ---

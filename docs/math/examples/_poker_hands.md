@@ -1,0 +1,6 @@
+- Let $H$ be the set of all poker hands, ordered by $h \leq h'$ if $h'$ beats or ties hand $h$.
+- One can propose a monoidal product by assigning $h_1 \otimes h_2$ to be "the best hand one can form out of the ten cards in $h_1 \bigcup h_2$"
+- This proposal will \textbf{fail} monotonicity with the following example:
+    - $h_1 := \{2\heartsuit, 3\heartsuit,10 \spadesuit,J\spadesuit,Q\spadesuit\} \leq i_1 := \{4\spadesuit,4\spadesuit,6\heartsuit,6\diamondsuit,10\diamondsuit\}$
+    - $h_2 := \{2\diamondsuit,3\diamondsuit,4\diamondsuit,K\spadesuit,A\spadesuit\} \leq i_2 := \{5\spadesuit,5\heartsuit,7\heartsuit,J\diamondsuit,Q\diamondsuit\}$
+    - $h_1 \otimes h_2=\{10\spadesuit,J\spadesuit,Q\spadesuit,K\spadesuit,A\spadesuit\} \not \leq i_2 \otimes i_2 = \{5\spadesuit, 5\heartsuit,6\heartsuit,6\diamondsuit,Q\diamondsuit\}$

@@ -1,0 +1,13 @@
+---
+title: "Adjoint functor theorem for preorders"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/adjoint_functor_theorem_preorders.yml
+---
+
+{{< include _adjoint_functor_theorem_preorders.md >}}

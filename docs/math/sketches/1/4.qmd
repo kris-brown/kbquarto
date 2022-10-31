@@ -1,5 +1,6 @@
 ---
 title: "1.4: Monotone maps"
+categories: 🟣
 listing:
   id: backlinks
   type: table

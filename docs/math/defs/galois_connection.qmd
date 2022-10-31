@@ -1,0 +1,13 @@
+---
+title: "Galois connection"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/galois_connection.yml
+---
+
+{{< include _galois_connection.md >}}

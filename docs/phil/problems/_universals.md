@@ -2,13 +2,6 @@
 It seems there is no problem thinking about what triangles and white things are, 
 but what of triangularity and whiteness?
 
-## An answer
-
-This seems to be an instance of the [tooth pain](/docs/phil/situations/toothpain.qmd) 
-issue. Noun-ness was for ordinary objects (with obvious ontological status) in 
-an earlier game, but our creativity with language led us to nounify many other 
-words, leading to 'objects' with unclear ontological status.
-
 ### Realism
 
 Realism asserts that universals are real things, that *triangularity* does refer 
@@ -28,3 +21,7 @@ There are no abstract ideas, just particulars.
 
 One can accept that universals refer to things in the world but be clear that 
 they are mental things (concepts). [Locke](/docs/phil/people/locke/index.qmd) is an example.
+
+## Other resources 
+- [IEP](https://iep.utm.edu/universa/)
+- [SEP](https://plato.stanford.edu/entries/properties/)

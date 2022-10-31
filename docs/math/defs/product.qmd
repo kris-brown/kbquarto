@@ -1,0 +1,13 @@
+---
+title: "Product"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/product.yml
+---
+
+{{< include _product.md >}}

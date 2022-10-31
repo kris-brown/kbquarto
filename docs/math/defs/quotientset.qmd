@@ -1,0 +1,13 @@
+---
+title: "Quotient set"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/quotientset.yml
+---
+
+{{< include _quotientset.md >}}

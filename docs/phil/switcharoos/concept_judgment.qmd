@@ -1,6 +1,6 @@
-
 ---
 title: Concepts and judgment
+categories: 🟠
 listing:
   id: backlinks
   type: table

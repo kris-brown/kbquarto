@@ -1,5 +1,6 @@
 ---
 title: Price
+categories: ⚪
 comments: false
 listing:
   id: backlinks

@@ -1,5 +1,6 @@
 ---
 title: "2.4: Constructions on V-categories"
+categories: 🟣
 listing:
   id: backlinks
   type: table

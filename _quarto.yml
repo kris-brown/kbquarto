@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "KBKB"
+  title: "KB"
   site-url: https://www.krisb.org
   repo-url: https://github.com/kris-brown/kbquarto
   repo-branch: master
@@ -78,6 +78,10 @@ filters:
 
 freeze: auto
 
+date: last-modified
+date-format: short
+title-block-published: "Updated"
+title-block-categories: true
 editor: visual
 
 comments:

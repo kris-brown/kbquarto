@@ -1,0 +1,13 @@
+---
+title: "Feasilibity relation"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/feasibility_relation.yml
+---
+
+{{< include _feasibility_relation.md >}}

@@ -1,5 +1,6 @@
 ---
 title: People
+categories: 🟣
 comments: false
 listing:
   contents: /*/*.qmd

@@ -1,0 +1,13 @@
+---
+title: "Preorders form a category"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/sketches_preorder_cat.yml
+---
+
+{{< include _sketches_partition_eqrel.md >}}

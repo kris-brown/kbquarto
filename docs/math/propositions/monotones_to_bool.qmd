@@ -1,0 +1,13 @@
+---
+title: "Monotones to bool are upper sets"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/monotones_to_bool.yml
+---
+
+{{< include _monotones_to_bool.md >}}

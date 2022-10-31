@@ -1,0 +1,13 @@
+---
+title: "Retractions are not inverses"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/retract.yml
+---
+
+{{< include _retract.md >}}

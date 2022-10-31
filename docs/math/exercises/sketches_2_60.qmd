@@ -1,0 +1,13 @@
+---
+title: "Distance matrix from graph"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_2_60.yml
+---
+
+{{< include _sketches_2_60.md >}}

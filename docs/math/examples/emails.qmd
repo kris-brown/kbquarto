@@ -1,0 +1,13 @@
+---
+title: "Poker hands"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/emails.yml
+---
+
+{{< include _emails.md >}}

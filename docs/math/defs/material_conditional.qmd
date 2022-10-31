@@ -1,0 +1,43 @@
+---
+title: Material conditional
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/material_conditional.yml
+---
+
+In logic, we see expressions like $P \implies Q$ a lot.
+
+- The symbol $\implies$ is read as 'implies' and is also called the 
+  [material conditional](https://en.wikipedia.org/wiki/Material_conditional).
+- Logically/mathematically, it is a truth-function.
+    - I.e. it merely takes in two yes-or-no bits of information and 
+      deterministically spits out a bit of information.
+    - A simple characterization is to say that the only way to show that 
+      $P\implies Q$ is false is to show that $P$ is false and $Q$ is true.
+    - It is expressible as the following table:
+
+| $P$ | $Q$ | $P \implies Q$ |
+|:---:|:---:|:--------------:|
+|T    | T   | T              |
+|T | F | F |
+|F | T | T |
+|F | F | T |
+
+- Its *meaning*, in brief, is an assertion that $Q$ being true can be asserted 
+  if $P$ is true.
+    - There is a gap between these two characterizations, expressed in Lewis 
+      Carroll's [parable](/docs/phil/problems/tortoise.qmd).
+- A common example is: If $x$ is a bachelor, then $x$ is male.
+- The $\implies$ relation is 'truth functional' - it only depends on the 
+  scenarios in which $P$ and $Q$ are true and says nothing about $P$ and $Q$ 
+  being related to each other in some deeper way. The following examples 
+  illustrate this:
+    - If $1+1=2$, then more than 10 people live on Earth. (this is the first 
+      row of the table)
+    - If the moon is made of cheese, then $1+1=2$. (the third row)
+    - If the moon is made of cheese, then $1+1=3$. (the fourth row)

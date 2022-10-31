@@ -1,5 +1,6 @@
 ---
 title: Moral disagreement
+categories: 🔴
 subtitle: Kieran Setiya
 date: April 9, 2012
 ---

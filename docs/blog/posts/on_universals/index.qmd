@@ -1,0 +1,29 @@
+---
+title: On universals
+description: Connecting "tooth pain" anecdote to a historical problem.
+categories: 🟠
+author: Kristopher Brown
+date: 2/24/2022
+draft: false
+---
+
+One source of philosophical controversy is that of 
+[universals](/docs/phil/problems/universals.qmd).
+
+To me, this seems to be an instance of the 
+[tooth pain](/docs/phil/situations/toothpain.qmd) issue. 
+
+Here is an account: 
+
+- Noun-ness *was* for ordinary objects (with obvious ontological status) in 
+an earlier language game. E.g. rocks, tigers, hands.
+- Our creativity with language / grammatical led us to nounify many other 
+words, leading to 'objects' with unclear ontological status.
+
+### Engaging with the other accounts of universals
+To do...
+
+- realism
+- nominalism 
+- conceptual nominalism
+

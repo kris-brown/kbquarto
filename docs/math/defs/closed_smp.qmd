@@ -1,0 +1,13 @@
+---
+title: "Closed symmetric monoidal preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/closed_smp.yml
+---
+
+{{< include _closed_smp.md >}}

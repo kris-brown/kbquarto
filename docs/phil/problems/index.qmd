@@ -1,5 +1,6 @@
 ---
 title: Philosophical Problems
+categories: 🟣
 ---
 
 This chapter is a collection of situations that are brought up as problems to be 

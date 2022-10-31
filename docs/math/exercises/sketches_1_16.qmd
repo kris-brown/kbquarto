@@ -1,0 +1,13 @@
+---
+title: "Intro to partitions"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_1_16.yml
+---
+
+{{< include _sketches_1_16.md >}}

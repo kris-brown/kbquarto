@@ -1,0 +1,13 @@
+---
+title: "Enriched category base change"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/enriched_base_change.yml
+---
+
+{{< include _enriched_base_change.md >}}

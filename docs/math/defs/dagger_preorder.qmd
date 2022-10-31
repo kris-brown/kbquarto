@@ -1,0 +1,13 @@
+---
+title: "Dagger preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/dagger_preorder.yml
+---
+
+{{< include _dagger_preorder.md >}}

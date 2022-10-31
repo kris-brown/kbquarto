@@ -1,0 +1,13 @@
+---
+title: "Currying in a symmetric monoidal preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/smp_curry.yml
+---
+
+{{< include _smp_curry.md >}}

@@ -1,0 +1,13 @@
+---
+title: "Opposite symmetric monoidal preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/op_smp.yml
+---
+
+{{< include _op_smp.md >}}

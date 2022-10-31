@@ -1,5 +1,6 @@
 ---
 title: Rorty
+categories: ⚪
 ---
 
 An American philosopher, 1931-2007.

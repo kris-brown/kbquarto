@@ -1,0 +1,13 @@
+---
+title: "**Grph** as a functor category"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/grph.yml
+---
+
+{{< include _grph.md >}}

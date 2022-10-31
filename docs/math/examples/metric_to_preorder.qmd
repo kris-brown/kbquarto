@@ -1,0 +1,13 @@
+---
+title: "Metric space to preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/metric_to_preorder.yml
+---
+
+{{< include _metric_to_preorder.md >}}

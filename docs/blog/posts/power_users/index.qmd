@@ -1,9 +1,7 @@
 ---
 title: Language 'power-users'
-description: |
-    Kids, don't try this at home.
-categories:
-  - philosophy
+description: Kids, don't try this at home.
+categories: 🔴
 author: Kristopher Brown
 date: 10/24/2022
 draft: true

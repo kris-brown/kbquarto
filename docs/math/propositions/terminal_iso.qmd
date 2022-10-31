@@ -1,0 +1,13 @@
+---
+title: "Terminal objects are isomorphic"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/terminal_iso.yml
+---
+
+{{< include _terminal_iso.md >}}

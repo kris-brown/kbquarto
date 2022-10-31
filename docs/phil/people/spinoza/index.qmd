@@ -1,5 +1,6 @@
 ---
 title: Spinoza
+categories: ⚪
 listing:
   id: backlinks
   type: table

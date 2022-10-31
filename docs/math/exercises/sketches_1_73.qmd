@@ -1,0 +1,13 @@
+---
+title: "Skeletal dagger preorders are discrete preorders"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_1_73.yml
+---
+
+{{< include _sketches_1_73.md >}}

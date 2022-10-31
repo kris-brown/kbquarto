@@ -1,0 +1,13 @@
+---
+title: "Enumerating finite functors"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_3_39.yml
+---
+
+{{< include _sketches_3_39.md >}}

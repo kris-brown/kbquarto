@@ -1,5 +1,6 @@
 ---
 title: "2. Resource theories"
+categories: 🟣
 listing:
   id: backlinks
   type: table

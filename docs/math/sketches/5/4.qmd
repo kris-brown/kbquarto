@@ -1,5 +1,6 @@
 ---
 title: "5.4: Graphical linear algebra"
+categories: 🟣
 listing:
   id: backlinks
   type: table

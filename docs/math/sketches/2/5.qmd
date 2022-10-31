@@ -1,5 +1,6 @@
 ---
 title: "2.5: Computing presented V-categories with matrix multiplication"
+categories: 🟣
 listing:
   id: backlinks
   type: table

@@ -1,7 +1,11 @@
 ---
-title: Philophical works 
+title: Philosophical works 
+categories: 🟣
 comments: false
 listing:
   contents: /*/*.qmd
-  type: grid
+  type: table
+  fields: ["title", "author", "published"]
 ---
+
+List of works referenced.

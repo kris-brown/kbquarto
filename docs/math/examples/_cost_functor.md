@@ -1,0 +1,2 @@
+- A **Cost**-functor is also known as a Lipschitz function.
+- Therefore a Lipschitz function is one under which the distance between any pair of points does not increase.

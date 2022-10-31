@@ -1,5 +1,6 @@
 ---
 title: Experimental philosophy
+categories: 🔴
 subtitle: Jesse Prinz
 date: December 1, 2009
 ---

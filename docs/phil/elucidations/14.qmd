@@ -1,5 +1,6 @@
 ---
 title: Skepticism
+categories: 🔴
 subtitle: Ed Witherspoon
 date: August 2, 2010
 ---

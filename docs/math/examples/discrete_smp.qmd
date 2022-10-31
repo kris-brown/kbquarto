@@ -1,0 +1,13 @@
+---
+title: "Discrete symmetric monoidal preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/discrete_smp.yml
+---
+
+{{< include _discrete_smp.md >}}

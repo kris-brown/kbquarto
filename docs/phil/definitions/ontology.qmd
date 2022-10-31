@@ -1,0 +1,13 @@
+---
+title: Ontology
+categories: "⚪"
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/phil/definitions/ontology.yml
+---
+
+The theory of what really is, or the what is there 'objectively'

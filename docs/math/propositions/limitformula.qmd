@@ -1,0 +1,13 @@
+---
+title: "Formula for limits in **Set**"
+categories: ⚪
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/limitformula.yml
+---
+
+{{< include _limitformula.md >}}

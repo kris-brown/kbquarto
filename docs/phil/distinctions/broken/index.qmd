@@ -1,16 +1,12 @@
 ---
 title: Distinctions broken
+categories: 🟣
+listing: 
+  categories: true
+  type: table
+  fields: [title, categories, date]
 ---
 
 We naturally discretize things in the world into different categories of things, 
 but many times philosophy will find that two things (possibly seemingly 
 opposites) are shown convincingly to being the same in some fundamental sense.
-
-# [Analytic/synthetic facts](analytic_synthetic.qmd)
-{{< include _analytic_synthetic.md >}}
-
-# [Objective/subjective facts](objective_subjective.qmd)
-{{< include _objective_subjective.md >}}
-
-# [Theoretical/observable objects](theoretical_observable.qmd)
-{{< include _theoretical_observable.md >}}

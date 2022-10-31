@@ -1,5 +1,6 @@
 ---
 title: "7.5: A topos of behavior types"
+categories: ⚪
 listing:
   id: backlinks
   type: table

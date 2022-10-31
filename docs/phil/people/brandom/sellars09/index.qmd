@@ -1,5 +1,6 @@
 ---
 title: Lectures on Wilfrid Sellars (2009)
+categories: 🟣
 listing:
   id: backlinks
   type: table

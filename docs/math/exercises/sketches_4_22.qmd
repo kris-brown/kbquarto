@@ -1,0 +1,13 @@
+---
+title: "**Cost**-profunctor composition"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_4_22.yml
+---
+
+{{< include _sketches_4_22.md >}}

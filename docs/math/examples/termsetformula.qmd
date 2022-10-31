@@ -1,0 +1,13 @@
+---
+title: "Terminal in **Set** from formula"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/termsetformula.yml
+---
+
+{{< include _termsetformula.md >}}

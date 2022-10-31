@@ -1,5 +1,6 @@
 ---
 title: "3.1: What is a database?"
+categories: 🟣
 listing:
   id: backlinks
   type: table

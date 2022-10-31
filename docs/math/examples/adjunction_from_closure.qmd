@@ -1,0 +1,13 @@
+---
+title: "Adjunctions from closures"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/adjunction_from_closure.yml
+---
+
+{{< include _adjunction_from_closure.md >}}

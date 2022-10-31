@@ -1,0 +1,13 @@
+---
+title: "Matrix in a quantale"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/quantale_matrix.yml
+---
+
+{{< include _quantale_matrix.md >}}

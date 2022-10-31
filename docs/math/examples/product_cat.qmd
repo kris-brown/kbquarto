@@ -1,0 +1,13 @@
+---
+title: "Product in **Cat**"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/product_cat.yml
+---
+
+{{< include _product_cat.md >}}

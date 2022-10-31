@@ -1,5 +1,6 @@
 ---
 title: Bradley's Problem
+categories: 🔴
 listing:
   id: backlinks
   type: table

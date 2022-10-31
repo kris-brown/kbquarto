@@ -1,0 +1,13 @@
+---
+title: "Free category presented by a graph"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/freecat.yml
+---
+
+{{< include _freecat.md >}}

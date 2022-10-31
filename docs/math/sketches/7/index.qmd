@@ -1,5 +1,6 @@
 ---
-title: Logic of behavior
+title: "7. Logic of behavior"
+categories: 🟣
 ---
 
 # [How can we prove our machine is safe?](1.qmd)

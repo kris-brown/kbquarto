@@ -1,0 +1,13 @@
+---
+title: "Alternate characterization of Galois connections"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/galois_alternate.yml
+---
+
+{{< include _galois_alternate.md >}}

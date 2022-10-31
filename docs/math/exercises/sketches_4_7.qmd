@@ -1,0 +1,13 @@
+---
+title: "**Bool** has closure"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_4_7.yml
+---
+
+{{< include _sketches_4_7.md >}}

@@ -1,0 +1,13 @@
+---
+title: "Currying"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_3_73.yml
+---
+
+{{< include _sketches_3_73.md >}}

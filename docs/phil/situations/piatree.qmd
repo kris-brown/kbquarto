@@ -1,5 +1,6 @@
 ---
 title: Pia's Maple Tree
+categories: 🟢
 listing:
   id: backlinks
   type: table

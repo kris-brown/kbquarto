@@ -1,0 +1,13 @@
+---
+title: "**Cost** category product"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/cost_product.yml
+---
+
+{{< include _cost_product.md >}}

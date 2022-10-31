@@ -1,0 +1,13 @@
+---
+title: "Meet of a subset"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/meet_of_subset.yml
+---
+
+{{< include _meet_of_subset.md >}}

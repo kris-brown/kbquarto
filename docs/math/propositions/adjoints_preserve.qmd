@@ -1,0 +1,13 @@
+---
+title: "Adjoints preserve meets/joins"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/adjoints_preserve.yml
+---
+
+{{< include _adjoints_preserve.md >}}

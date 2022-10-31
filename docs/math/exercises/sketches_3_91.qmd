@@ -1,0 +1,13 @@
+---
+title: "Product as a terminal cone"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_3_91.yml
+---
+
+{{< include _sketches_3_91.md >}}

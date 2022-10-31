@@ -1,5 +1,6 @@
 ---
 title: "7.2: The category Set as an exemplar topos"
+categories: ⚪
 listing:
   id: backlinks
   type: table

@@ -1,5 +1,5 @@
 
-Let an [inference](/docs/math/misc/material_conditional.qmd) be a declaration of 
+Let an [inference](/docs/math/defs/material_conditional.qmd) be a declaration of 
 the form $P \implies Q$
 
 - There, $P$ and $Q$ are *logical* variables. We can also put other things in 

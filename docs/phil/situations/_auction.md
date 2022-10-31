@@ -1,17 +1,18 @@
 
 I wander in from a different culture, into an auction house:
-    - There, the significance of waving your hand is bidding the next amount on 
-      whatever is being auctioned.
-        - But all *I* know of the local customs is that waving usually is a 
-          greeting for people.
-    - So, I go in there and greet my friend by waving.
-        - I'm unaware that, in this context, doing that has the *significance* 
-          of bidding $500 for that armoire.
-    - Now, if, as a matter of fact, I'm held responsible there ("You've 
-      implicitly accepted these rules by going into the auction house!"), then 
-      I've actually bid. That's what I've done.
-        - Even though I didn't intend to do that, I didn't mean to do that. 
-          But I produced a performance that has that significance.
+
+- There, the significance of waving your hand is bidding the next amount on 
+  whatever is being auctioned.
+  - But all *I* know of the local customs is that waving usually is a 
+      greeting for people.
+- So, I go in there and greet my friend by waving.
+  - I'm unaware that, in this context, doing that has the *significance* 
+    of bidding $500 for that armoire.
+- Now, if, as a matter of fact, I'm held responsible there ("You've 
+  implicitly accepted these rules by going into the auction house!"), then 
+  I've actually bid. That's what I've done.
+  - Even though I didn't intend to do that, I didn't mean to do that. 
+    But I produced a performance that has that significance.
 
 
 ## A parallel story

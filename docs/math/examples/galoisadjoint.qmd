@@ -1,0 +1,13 @@
+---
+title: "Galois connections and adjoint functors"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/galoisadjoint.yml
+---
+
+{{< include _galoisadjoint.md >}}

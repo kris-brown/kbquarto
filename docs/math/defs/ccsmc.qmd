@@ -1,0 +1,13 @@
+---
+title: "Compact Closed Symmetric Monoidal Category"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/ccsmc.yml
+---
+
+{{< include _ccsmc.md >}}

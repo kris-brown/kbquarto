@@ -1,0 +1,13 @@
+---
+title: "**Bool**-categories are preorders"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/boolcat_preorder.yml
+---
+
+{{< include _boolcat_preorder.md >}}

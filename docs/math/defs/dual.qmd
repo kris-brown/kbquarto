@@ -1,0 +1,13 @@
+---
+title: "Dual"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/dual.yml
+---
+
+{{< include _dual.md >}}

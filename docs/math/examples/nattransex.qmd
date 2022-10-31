@@ -1,0 +1,13 @@
+---
+title: "Natural transformation example"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/nattransex.yml
+---
+
+{{< include _nattransex.md >}}

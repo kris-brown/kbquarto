@@ -1,0 +1,13 @@
+---
+title: "Graph"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/graph.yml
+---
+
+{{< include _graph.md >}}

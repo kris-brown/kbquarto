@@ -1,0 +1,13 @@
+---
+title: "Enriched category interpretation"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_2_63.yml
+---
+
+{{< include _sketches_2_63.md >}}

@@ -1,5 +1,6 @@
 ---
 title: Nature and ethics
+categories: 🔴
 subtitle: Daniel Groll
 date: January 4, 2010
 ---

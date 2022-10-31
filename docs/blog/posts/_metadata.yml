@@ -1,6 +1,4 @@
-title-block-banner: "#EDF3F9"
-title-block-banner-color: body
 toc-location: left
 include-after-body:
   - ../signup.html
-search: false
+search: true

@@ -1,5 +1,6 @@
 ---
-title: Two Dogams of Empiricism
+title: Two Dogmas of Empiricism
+categories: ⚪
 author: W. O. Quine
 listing:
   id: backlinks

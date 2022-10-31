@@ -1,5 +1,6 @@
 ---
 title: "7.1: How can we prove our machine is safe?"
+categories: ⚪
 listing:
   id: backlinks
   type: table

@@ -1,6 +1,8 @@
 ---
 title: Wittgenstein on Rules and Private Language
+categories: ⚪
 author: Saul Kripke
+published: 1982
 listing:
   id: backlinks
   type: table

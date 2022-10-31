@@ -1,0 +1,13 @@
+---
+title: "Preserving meets/joins"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/preserving_meets.yml
+---
+
+{{< include _preserving_meets.md >}}

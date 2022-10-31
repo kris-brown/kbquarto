@@ -1,0 +1,13 @@
+---
+title: "Preorder of relations level shift"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/preorder_relations_level_shift.yml
+---
+
+{{< include _preorder_relations_level_shift.md >}}

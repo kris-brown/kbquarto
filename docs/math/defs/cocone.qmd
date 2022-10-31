@@ -1,0 +1,13 @@
+---
+title: "Cocone"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/cocone.yml
+---
+
+{{< include _cocone.md >}}

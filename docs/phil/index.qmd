@@ -1,18 +1,15 @@
 ---
 title: Philosophy notes
+categories: 🟣
 comments: false
 listing:
-  id: backlinks
-  type: table
-  filter-ui: true
-  template: "../../ejs/custom.ejs"
-  contents:
-    - ../../backlinks/docs/phil/index.yml
+  - id: phil #  ../../backlinks/docs/phil/index.yml
+    type: table
+    categories: true
+    max-items: 100
+    fields: [title, categories, date]
 ---
 
 I try to jot something down whenever I read something interesting in philosophy.
 
-:::{.callout-warning}
-This is very much under construction. A lot of notes are not yet polished for
-other people to read / make sense of them, but this is something I plan to do!
-:::
+{{< include ../_wip.md >}}

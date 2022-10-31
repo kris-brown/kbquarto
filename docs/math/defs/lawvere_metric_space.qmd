@@ -1,0 +1,13 @@
+---
+title: "Lawvere metric space"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/lawvere_metric_space.yml
+---
+
+{{< include _lawvere_metric_space.md >}}

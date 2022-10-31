@@ -1,5 +1,6 @@
 ---
 title: Classical logic
+categories: "⚪"
 listing:
   id: backlinks
   type: table

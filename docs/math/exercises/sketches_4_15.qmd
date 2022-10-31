@@ -1,0 +1,13 @@
+---
+title: "**Cost** profunctor matrix"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_4_15.yml
+---
+
+{{< include _sketches_4_15.md >}}

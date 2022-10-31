@@ -1,5 +1,6 @@
 ---
 title: "4.3: Categories of profunctors"
+categories: 🟣
 listing:
   id: backlinks
   type: table

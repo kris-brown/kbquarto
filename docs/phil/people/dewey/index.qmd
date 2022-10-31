@@ -1,5 +1,6 @@
 ---
 title: Dewey
+categories: ⚪
 ---
 John Dewey was an American pragmatist philosopher, 1959-1952.
 

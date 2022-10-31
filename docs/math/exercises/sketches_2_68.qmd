@@ -1,0 +1,13 @@
+---
+title: "Lawvere metric space base change"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_2_68.yml
+---
+
+{{< include _sketches_2_68.md >}}

@@ -1,9 +1,7 @@
 ---
 title: Minimize ontology talk
-description: |
-    Trying to remove one unnecssary source of friction in life.
-categories:
-  - philosophy
+description: Trying to remove one unnecssary source of friction in life.
+categories: 🔴
 author: Kristopher Brown
 date: 2/24/2022
 draft: true
@@ -12,7 +10,7 @@ draft: true
 This is essentially a rehash of various bits of Rorty that were floating in my 
 head, sort of put into my own words.
 
-Ontology (the theory of what really is, or the what is there 'objectively') 
+[Ontology](/docs/phil/definitions/ontology.qmd) (the theory of what really is, or the what is there 'objectively') 
 makes conflict possible: e.g. without further auxillary hypotheses, there is no 
 incompatibility between "Alice thinks there is a saber-toothed tiger coming" and 
 "Bob thinks there is no such tiger coming." We can think of the *social 

@@ -1,5 +1,6 @@
 ---
-title: Circuits
+title: "6. Circuits"
+categories: 🟣
 ---
 
 # [The ubiquity of network languages](1.qmd)

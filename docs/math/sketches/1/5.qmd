@@ -1,5 +1,6 @@
 ---
 title: "1.5: Meets and joins"
+categories: 🟣
 listing:
   id: backlinks
   type: table
@@ -8,4 +9,5 @@ listing:
   contents:
     - ../../../../backlinks/docs/math/sketches/1/5.yml
 ---
+
 {{< include _5.md >}}

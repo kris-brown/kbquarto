@@ -1,5 +1,6 @@
 ---
 title: Poetry
+categories: 🔴
 subtitle: Gabriel Lear
 date: August 3, 2009
 ---

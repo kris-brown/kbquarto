@@ -1,0 +1,6 @@
+- Lawvere's symmetric monoidal preorder, **Cost**.
+- Let $[0,\infty]$ represent the non-negative real numbers with infinity. Also take the usual notion of $\geq$.
+- There is a monoidal structure for this preorder: $\mathbf{Cost}:=([0,\infty],\geq,0,+)$
+    - The monoidal unit being zero means "you can get from $a$ to $a$ at no cost."
+    - The product being + means "getting from $a$ to $c$ is **at most** the cost of $a$ to $b$ **plus** $b$ to $c$"
+    - The 'at most' above comes from the $\geq$.

@@ -1,0 +1,13 @@
+---
+title: "Monoidal monotones between naturals and reals"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/monoidal_monotone_n_r.yml
+---
+
+{{< include _monoidal_monotone_n_r.md >}}

@@ -1,0 +1,13 @@
+---
+title: "Free diagram"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/free_diagram.yml
+---
+
+{{< include _free_diagram.md >}}

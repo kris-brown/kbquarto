@@ -1,5 +1,6 @@
 ---
 title: Naming and Necessity 
+categories: ⚪
 author: Saul Kripke
 published: 1980
 ---

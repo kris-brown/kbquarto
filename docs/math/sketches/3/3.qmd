@@ -1,5 +1,6 @@
 ---
 title: "3.3: Functors, natural transformations, and databases"
+categories: 🟣
 listing:
   id: backlinks
   type: table

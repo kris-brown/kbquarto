@@ -1,5 +1,6 @@
 ---
 title: Heidegger
+categories: ⚪
 ---
 
 Martin Heidegger was a German philosopher (1889-1976).

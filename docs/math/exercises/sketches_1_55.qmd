@@ -1,0 +1,13 @@
+---
+title: "Upper sets of discrete preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_1_55.yml
+---
+
+{{< include _sketches_1_55.md >}}

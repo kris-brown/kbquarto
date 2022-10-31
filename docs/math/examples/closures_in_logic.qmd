@@ -1,0 +1,13 @@
+---
+title: "Closures in logic"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/closures_in_logic.yml
+---
+
+{{< include _closures_in_logic.md >}}

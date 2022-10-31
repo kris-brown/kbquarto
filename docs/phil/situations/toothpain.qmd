@@ -1,5 +1,6 @@
 ---
 title: Tooth pain
+categories: 🟢
 listing:
   id: backlinks
   type: table

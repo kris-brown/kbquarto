@@ -1,0 +1,13 @@
+---
+title: "Natural numbers as a category"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/naturals_cat.yml
+---
+
+{{< include _naturals_cat.md >}}

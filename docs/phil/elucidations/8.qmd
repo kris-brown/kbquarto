@@ -1,5 +1,6 @@
 ---
 title: Evolutionary psychology
+categories: 🔴
 subtitle: Chris Haufe
 date: February 12, 2010
 ---

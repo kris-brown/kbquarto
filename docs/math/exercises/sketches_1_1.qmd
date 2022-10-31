@@ -1,0 +1,13 @@
+---
+title: "Examples of functions that preserve structure"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_1_1.yml
+---
+
+{{< include _sketches_1_1.md >}}

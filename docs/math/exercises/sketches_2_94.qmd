@@ -1,0 +1,13 @@
+---
+title: "Power set quantale"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_2_94.yml
+---
+
+{{< include _sketches_2_94.md >}}

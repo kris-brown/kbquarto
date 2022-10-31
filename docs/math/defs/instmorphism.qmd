@@ -1,0 +1,13 @@
+---
+title: "DB instance morphism"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/instmorphism.yml
+---
+
+{{< include _instmorphism.md >}}

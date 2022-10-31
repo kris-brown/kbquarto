@@ -1,0 +1,3 @@
+- It is possible for $f;g=id$ but $g;f \ne id$
+- \begin{tikzcd} \pagecolor{white} 1 \arrow[r, "f"] & A \arrow[r, "g"] & 1 \\& B \arrow[ru]     &   \\2 \arrow[r]      & C \arrow[r]      & 2\end{tikzcd}
+- This is called a *retraction* rather than an *isomorphism*.

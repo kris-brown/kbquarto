@@ -1,0 +1,13 @@
+---
+title: "Meet of preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/meet.yml
+---
+
+{{< include _meet.md >}}

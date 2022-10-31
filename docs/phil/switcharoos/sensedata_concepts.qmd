@@ -1,5 +1,6 @@
 ---
 title: Sense data and concepts
+categories: 🔴
 listing:
   id: backlinks
   type: table

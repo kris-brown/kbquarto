@@ -1,5 +1,6 @@
 ---
 title: Theoretical vs observable objects
+categories: "🟢"
 listing:
   id: backlinks
   type: table

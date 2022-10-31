@@ -1,5 +1,6 @@
 ---
 title: "1.6: Galois connections"
+categories: 🟣
 listing:
   id: backlinks
   type: table
@@ -10,3 +11,4 @@ listing:
 ---
 
 {{< include _6.md >}}
+

@@ -1,5 +1,6 @@
 ---
 title: Objective vs subjective facts
+categories: 🔴
 listing:
   id: backlinks
   type: table

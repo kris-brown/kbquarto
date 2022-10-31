@@ -1,5 +1,6 @@
 ---
 title: Leibniz
+categories: ⚪
 ---
 
 A German metaphysical rationalist (1646-1716).

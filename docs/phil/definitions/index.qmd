@@ -1,6 +1,10 @@
 ---
 title: Definitions
+categories: 🟣
+listing: 
+  categories: true
+  type: table
+  fields: [title, categories, date]
 ---
 
 Miscellaneous definitions.
-

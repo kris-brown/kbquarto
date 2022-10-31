@@ -1,0 +1,13 @@
+---
+title: "Database instance"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/db_instance.yml
+---
+
+{{< include _db_instance.md >}}

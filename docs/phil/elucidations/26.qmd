@@ -1,5 +1,6 @@
 ---
 title: Evolutionary ethics
+categories: 🔴
 subtitle: Robert Richards
 date: September 8, 2011
 ---

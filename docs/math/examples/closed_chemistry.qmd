@@ -1,0 +1,13 @@
+---
+title: "Closure in chemistry resource theoery"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/closed_chemistry.yml
+---
+
+{{< include _closed_chemistry.md >}}

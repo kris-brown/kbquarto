@@ -1,5 +1,6 @@
 ---
 title: "5.3: Simplified signal flow graphs"
+categories: 🟣
 listing:
   id: backlinks
   type: table

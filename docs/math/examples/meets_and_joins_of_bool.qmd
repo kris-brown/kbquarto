@@ -1,0 +1,13 @@
+---
+title: "Meets and joins of **Bool**"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/meets_and_joins_of_bool.yml
+---
+
+{{< include _meets_and_joins_of_bool.md >}}

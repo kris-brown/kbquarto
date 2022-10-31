@@ -1,0 +1,3 @@
+- Recall the divisibility preorder $(\mathbb{N}, |)$
+- There is a symmetric monoidal structure on this preorder with unit $1$ and product $*$.
+-  Monotonicity ($x_1|y_1 \land x_2|y_2 \implies x_1*x_2 | y_1*y_2$) and other conditions hold.

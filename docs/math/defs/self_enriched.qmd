@@ -1,0 +1,13 @@
+---
+title: "Self enrichment"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/self_enriched.yml
+---
+
+{{< include _self_enriched.md >}}

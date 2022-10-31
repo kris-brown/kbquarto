@@ -1,0 +1,13 @@
+---
+title: "**Bool** profunctors as feasibility relations"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_4_10.yml
+---
+
+{{< include _sketches_4_10.md >}}

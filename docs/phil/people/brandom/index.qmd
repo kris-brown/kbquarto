@@ -1,5 +1,6 @@
 ---
 title: Brandom
+categories: ⚪
 listing:
   id: backlinks
   type: table

@@ -1,5 +1,6 @@
 ---
 title: Pointing at a plate
+categories: 🟢
 listing:
   id: backlinks
   type: table

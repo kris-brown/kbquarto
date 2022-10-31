@@ -1,0 +1,13 @@
+---
+title: "Snake equations"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_4_66.yml
+---
+
+{{< include _sketches_4_66.md >}}

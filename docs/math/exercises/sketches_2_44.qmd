@@ -1,0 +1,13 @@
+---
+title: "Cost monoidal monotones"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_2_44.yml
+---
+
+{{< include _sketches_2_44.md >}}

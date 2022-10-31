@@ -1,5 +1,6 @@
 ---
 title: Epistemic vigilance
+categories: 🔴
 subtitle: Dan Sperber
 date: January 12, 2011
 ---

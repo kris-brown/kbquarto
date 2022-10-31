@@ -1,0 +1,13 @@
+---
+title: "Functors and natural transformations of preorders"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_3_58.yml
+---
+
+{{< include _sketches_3_58.md >}}

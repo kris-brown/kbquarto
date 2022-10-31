@@ -1,0 +1,13 @@
+---
+title: "Arrow table"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/arrtable.yml
+---
+
+{{< include _arrtable.md >}}

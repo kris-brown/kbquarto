@@ -1,5 +1,6 @@
 ---
 title: Non-monotonic logic
+categories: "⚪"
 listing:
   id: backlinks
   type: table

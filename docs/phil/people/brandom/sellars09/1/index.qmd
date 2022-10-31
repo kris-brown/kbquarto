@@ -1,5 +1,6 @@
 ---
 title: "01: Historical context and quotes"
+categories: 🟠
 date: September 2, 2009
 description: This lecture mainly talks about some ideas of Kant that influenced Sellars and introduces Sellars through a long series of quotes.
 ---

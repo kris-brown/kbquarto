@@ -1,0 +1,13 @@
+---
+title: "**Cost** is closed"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/cost_closed.yml
+---
+
+{{< include _cost_closed.md >}}

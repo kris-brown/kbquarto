@@ -1,5 +1,6 @@
 ---
 title: Disjunctivitis
+categories: 🟢
 listing:
   id: backlinks
   type: table

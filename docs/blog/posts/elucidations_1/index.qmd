@@ -1,0 +1,26 @@
+---
+title: Thoughts on Elucidations \#1
+categories: 🔴
+draft: true
+---
+
+- Some problems stem from representating a human state of mind as a static 
+  object, whereas our beliefs aren't constant w/r/t time spent in reflection.
+  - Every desire can be chained iteratively until you reach "the good", but 
+    almost never is that entire chain 'in register' for real human being. At 
+    instant $t$ in time, we are cognizant of a finite number of steps along 
+    that chain (we implicitly accept some goals as final, even with more 
+    thought power we would view them as instrumental).
+  - Therefore the eliminitivist is not susceptible to Collard's criticism. 
+    Whether the man's desire was satisfied would be dependent on his mental 
+    state while having the desire. If he did not invest enough effort into 
+    chaining the desire all the way to The Good, then it's possible for the 
+    desire to be satisfied but the person not (and more likely the fewer links 
+    along the chain are 'in register').
+- Collard's "object"/"aim" structure of a desire seems to be just considering 
+  two points along the chain - this is still more nuance than a one-point 
+  approximation, but it really is referring to a pair "naive desires" as a 
+  desire with bipartite structure.
+  - It is a reasonable strategy to salvage the "separatist" POV by giving an
+    account for the relation between different desired states of the world 
+    (they are not atomic anymore)

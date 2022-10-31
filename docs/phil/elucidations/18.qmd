@@ -1,5 +1,6 @@
 ---
 title: Language and power
+categories: 🔴
 subtitle: Mark Lance
 date: December 6, 2010
 ---

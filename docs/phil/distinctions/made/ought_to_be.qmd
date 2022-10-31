@@ -1,5 +1,6 @@
 ---
 title: Ought to be vs ought to do
+categories: 🔴
 listing:
   id: backlinks
   type: table

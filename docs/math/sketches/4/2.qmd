@@ -1,5 +1,6 @@
 ---
 title: "4.2: Enriched profunctors"
+categories: 🟣
 listing:
   id: backlinks
   type: table

@@ -1,5 +1,6 @@
 ---
 title: Justice
+categories: 🔴
 subtitle: Amartya Sen
 date: October 6, 2010
 ---

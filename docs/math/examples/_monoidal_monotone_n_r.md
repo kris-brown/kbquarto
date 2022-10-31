@@ -1,0 +1,4 @@
+- *Strict* monoidal monotone injection $i: (\mathbb{N},\leq, 0, +) \hookrightarrow (\mathbb{R},\leq,0,+)$
+- There is also a monoidal monotone $(\mathbb{R}^+,\leq, 0, +) \xrightarrow{\lfloor x \rfloor} (\mathbb{N},\leq,0,+)$
+    - Monotonic: $x \leq_\mathbb{R} y \implies \lfloor x \rfloor \leq \lfloor y \rfloor$
+    - But it is neither strict nor strong: $\lfloor 0.5 \rfloor + \lfloor 0.5 \rfloor \not \cong \lfloor 0.5+0.5 \rfloor$

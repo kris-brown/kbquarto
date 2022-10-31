@@ -1,0 +1,13 @@
+---
+title: "Symmetric monoidal preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/smp.yml
+---
+
+{{< include _smp.md >}}

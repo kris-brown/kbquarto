@@ -1,0 +1,13 @@
+---
+title: "Adjoint functor"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/adjoint.yml
+---
+
+{{< include _adjoint.md >}}

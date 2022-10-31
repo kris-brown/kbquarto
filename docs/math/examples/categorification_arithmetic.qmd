@@ -1,0 +1,13 @@
+---
+title: "Categorification of basic arithmetic"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/categorification_arithmetic.yml
+---
+
+{{< include _categorification_arithmetic.md >}}

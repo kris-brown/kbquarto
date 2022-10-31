@@ -1,0 +1,13 @@
+---
+title: "Monoidal unit for multiplication"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_2_31.yml
+---
+
+{{< include _sketches_2_31.md >}}

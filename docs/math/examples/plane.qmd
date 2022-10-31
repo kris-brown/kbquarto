@@ -1,0 +1,13 @@
+---
+title: "Plane ticket data migration"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/plane.yml
+---
+
+{{< include _plane.md >}}

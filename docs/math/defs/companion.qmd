@@ -1,0 +1,13 @@
+---
+title: "Companion and conjoint of V-profunctor"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/companion.yml
+---
+
+{{< include _companion.md >}}

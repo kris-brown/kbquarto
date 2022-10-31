@@ -1,5 +1,6 @@
 ---
 title: "6.2: Colimits and connection"
+categories: ⚪
 listing:
   id: backlinks
   type: table

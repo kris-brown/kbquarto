@@ -1,0 +1,13 @@
+---
+title: "Pulling back along a functor"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/pullalong.yml
+---
+
+{{< include _pullalong.md >}}

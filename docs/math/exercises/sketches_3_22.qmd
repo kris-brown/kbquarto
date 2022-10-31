@@ -1,0 +1,13 @@
+---
+title: "Natural numbers preorder reflection"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_3_22.yml
+---
+
+{{< include _sketches_3_22.md >}}

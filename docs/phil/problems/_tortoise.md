@@ -2,7 +2,7 @@ By Lewis Caroll in 1895. [-@carroll2021tortoise]
 
 ## Summary
 
-- The Tortoise assumes a proposition $p$ and a [material conditional](/docs/math/misc/material_conditional.qmd) $p \implies q$.
+- The Tortoise assumes a proposition $p$ and a [material conditional](/docs/math/defs/material_conditional.qmd) $p \implies q$.
   - The exact $p$ and $q$ aren't important to the moral of the story, though it's something like "If $A=B$ and $B=C$ ($p$), then $A=C$ ($q$)"
   - The Tortoise is playing a game: I'll do anything you tell me to do, *so long as you make explicit* the rule you're asking me to follow.
 - Achilles tries to convince the Tortoise to accept $q$.

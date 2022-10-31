@@ -1,0 +1,4 @@
+- Categorification of arithmetic using the category **FinSet**
+- Replace natural numbers with arbtirary sets of that cardinality.
+- Replace $+$ with coproduct.
+- This is good categorification because, with replacements, arithmatic truths are preserved: $\bar{5}\sqcup \bar{3} \cong \bar{8}$

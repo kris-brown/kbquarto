@@ -1,0 +1,13 @@
+---
+title: "Properties of compact closed categories"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/compact_closed_properties.yml
+---
+
+{{< include _compact_closed_properties.md >}}

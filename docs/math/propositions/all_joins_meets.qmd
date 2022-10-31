@@ -1,0 +1,13 @@
+---
+title: "All joins iff all meets"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/all_joins_meets.yml
+---
+
+{{< include _all_joins_meets.md >}}

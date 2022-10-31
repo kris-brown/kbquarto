@@ -1,0 +1,13 @@
+---
+title: "Terminal object in **Set**"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/terminal_set.yml
+---
+
+{{< include _terminal_set.md >}}

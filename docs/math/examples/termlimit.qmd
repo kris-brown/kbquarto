@@ -1,0 +1,13 @@
+---
+title: "Terminal object as limit"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/termlimit.yml
+---
+
+{{< include _termlimit.md >}}

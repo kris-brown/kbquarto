@@ -1,0 +1,13 @@
+---
+title: "Yoneda lemma for preorders"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_1_66.yml
+---
+
+{{< include _sketches_1_66.md >}}

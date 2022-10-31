@@ -1,5 +1,6 @@
 ---
 title: Regress of rules
+categories: 🟠
 listing:
   id: backlinks
   type: table

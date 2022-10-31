@@ -1,0 +1,13 @@
+---
+title: "Opposite Preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/opposite_preorder.yml
+---
+
+{{< include _opposite_preorder.md >}}

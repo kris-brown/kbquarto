@@ -1,0 +1,13 @@
+---
+title: "Preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/preorder.yml
+---
+
+{{< include _preorder.md >}}

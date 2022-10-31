@@ -1,0 +1,13 @@
+---
+title: "Matrix multiplication in **Bool**"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/matmul_bool.yml
+---
+
+{{< include _matmul_bool.md >}}

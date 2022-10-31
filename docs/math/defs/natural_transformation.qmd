@@ -1,0 +1,13 @@
+---
+title: "Natural transformation"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/natural_transformation.yml
+---
+
+{{< include _natural_transformation.md >}}

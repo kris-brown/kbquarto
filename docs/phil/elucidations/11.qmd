@@ -1,5 +1,6 @@
 ---
 title: Philosophical pictures
+categories: 🔴
 subtitle: Martin Gustafsson
 date: May 7, 2010
 ---

@@ -1,0 +1,13 @@
+---
+title: "Zero in a quantale"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_2_92.yml
+---
+
+{{< include _sketches_2_92.md >}}

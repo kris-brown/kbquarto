@@ -1,5 +1,6 @@
 ---
 title: A children's game
+categories: "🟢"
 listing:
   id: backlinks
   type: table

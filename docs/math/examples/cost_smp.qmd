@@ -1,0 +1,13 @@
+---
+title: "Cost symmetric monoidal preorder"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/cost_smp.yml
+---
+
+{{< include _cost_smp.md >}}

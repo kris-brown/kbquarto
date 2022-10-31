@@ -15,7 +15,7 @@ This is a view that members of the Vienna Circle flirted with. A permanent
 temptation of the empiricist tradition.
 
 The alternative is called *theoretical realism*. Sellars says this is a mistake 
-(an example of "nothing-but-ism", along with emotivism in ethics), originating 
+(an example of "nothing-but-ism", along with [emotivism](/docs/phil/definitions/emotivism.qmd) in ethics), originating 
 from thinking of the difference between observational vocabulary and theoretical 
 vocabulary as an ontological difference in the objects referred to by those 
 theories. But it's not an *ontological* distinction, it's a methodological 

@@ -70,7 +70,7 @@ function get_includes(root, fi)
   pth = "$root/$fi"
   rgx = r"{{< include (.*?).md >}}"
   return map(first.(eachmatch(rgx, read(pth, String)))) do x 
-    x[1] == '_' || error("included $x")
+    basename(x)[1] == '_' || error("included $x")
     return make_absolute(root, x)
   end 
 end
@@ -115,7 +115,8 @@ function render_links(links_in, title_dict)
     ndots = count(==('/'),k) - 1
     dotsbl = join(fill("..", ndots), "/") * "/" * kpth
     fname = "$(k[2:end]).qmd"
-    occursin(dotsbl, read(fname, String) ) || error("$k\n",show_listing(ndots,kpth))
+    estr = "$k\n $(show_listing(ndots,kpth))\nbecause of $vs"
+    occursin(dotsbl, read(fname, String)) || error(estr)
   end
   return links_in
 end
@@ -132,7 +133,7 @@ function get_links(root,fi)
   res = [] 
   for m in eachmatch(r"\[[^\]]+\]\(([^\)]+)\)", txt) 
     mstr = m.captures[1] 
-    if all(x->isnothing(match(x, mstr)), [r"http",r".jpeg", r".pdf", r"jpg", r"www."]) && first(m)!='#'
+    if all(x->isnothing(match(x, mstr)), [r"http",r".jpeg", r".pdf", r"jpg", r"www."])
       # if the path is a relative path, add the root 
       mstr = make_absolute(root, mstr) 
       # if the link refers to a specific section of a page, cut that off 
@@ -143,7 +144,7 @@ function get_links(root,fi)
       mstr = normpath("/"*mstr)
 
       # Sanity checks 
-      mstr[end - 3 : end] == ".qmd" || error("mstr $mstr")
+      mstr[end - 3 : end] == ".qmd" || error("mstr $mstr in $root/$fi")
 
       # clean up context
       prestr_ = clean(txt[1:m.offset-1])
@@ -199,5 +200,5 @@ end
 
 bash(str::String) = run(`bash -c $str`)
 
-bash("rm -r backlinks/docs") # clear old backlinks
+bash("touch backlinks/docs; rm -r backlinks/docs") # clear old backlinks
 links_out, title_dict, links_in, include_in = pipeline();

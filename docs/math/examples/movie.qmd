@@ -1,0 +1,13 @@
+---
+title: "Movie profunctor"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/movie.yml
+---
+
+{{< include _movie.md >}}

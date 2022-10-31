@@ -1,5 +1,6 @@
 ---
 title: Faith
+categories: 🔴
 subtitle: Simon Critchley
 date: February 8, 2011
 ---

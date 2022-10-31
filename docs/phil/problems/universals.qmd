@@ -1,5 +1,6 @@
 ---
 title: Universals
+categories: 🔴
 listing:
   id: backlinks
   type: table

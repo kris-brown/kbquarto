@@ -1,0 +1,2 @@
+- A subset $R \subseteq X \times Y$.
+- A *binary relation* on $X$ is a subset of $X \times X$

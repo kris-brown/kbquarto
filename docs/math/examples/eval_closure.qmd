@@ -1,0 +1,13 @@
+---
+title: "*Eval* as a closure operator"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/eval_closure.yml
+---
+
+{{< include _eval_closure.md >}}

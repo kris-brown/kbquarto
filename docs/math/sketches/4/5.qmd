@@ -1,5 +1,6 @@
 ---
 title: "4.5: Profunctors form compact closed categories"
+categories: 🟣
 listing:
   id: backlinks
   type: table

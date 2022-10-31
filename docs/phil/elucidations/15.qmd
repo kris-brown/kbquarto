@@ -1,5 +1,6 @@
 ---
 title: Religious toleration
+categories: 🔴
 subtitle: Brain Leiter
 date: September 8, 2010
 ---

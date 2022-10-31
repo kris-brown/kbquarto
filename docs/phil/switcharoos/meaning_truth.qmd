@@ -1,6 +1,6 @@
-
 ---
 title: Meaning and truth
+categories: 🔴
 listing:
   id: backlinks
   type: table

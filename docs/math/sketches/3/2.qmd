@@ -1,5 +1,6 @@
 ---
 title: "3.2: Categories"
+categories: 🟣
 listing:
   id: backlinks
   type: table

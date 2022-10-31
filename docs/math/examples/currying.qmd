@@ -1,0 +1,13 @@
+---
+title: "Currying"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/currying.yml
+---
+
+{{< include _currying.md >}}

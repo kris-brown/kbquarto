@@ -1,0 +1,13 @@
+---
+title: "**Bool** functors"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/bool_functor.yml
+---
+
+{{< include _bool_functor.md >}}

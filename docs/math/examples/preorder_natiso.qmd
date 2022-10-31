@@ -1,0 +1,13 @@
+---
+title: "Natural isomorphisms of preorders"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/preorder_natiso.yml
+---
+
+{{< include _preorder_natiso.md >}}

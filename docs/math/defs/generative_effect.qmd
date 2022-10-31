@@ -1,0 +1,13 @@
+---
+title: "Generative effects"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/generative_effect.yml
+---
+
+{{< include _generative_effect.md >}}

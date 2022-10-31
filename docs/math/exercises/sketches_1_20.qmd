@@ -1,0 +1,13 @@
+---
+title: "Partition / equivalence class bijection"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_1_20.yml
+---
+
+{{< include _sketches_1_20.md >}}

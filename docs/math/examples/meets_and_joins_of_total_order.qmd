@@ -1,0 +1,13 @@
+---
+title: "Meets and joins of a total order"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/meets_and_joins_of_total_order.yml
+---
+
+{{< include _meets_and_joins_of_total_order.md >}}

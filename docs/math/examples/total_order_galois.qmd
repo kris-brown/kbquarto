@@ -1,0 +1,13 @@
+---
+title: "Galois connection between total orders"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/total_order_galois.yml
+---
+
+{{< include _total_order_galois.md >}}

@@ -1,5 +1,6 @@
 ---
 title: Judgment aggregation
+categories: 🔴
 subtitle: Fabrizio Cariani
 date: July 9, 2010
 ---

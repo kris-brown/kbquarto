@@ -1,5 +1,6 @@
 ---
 title: Probability
+categories: 🔴
 subtitle: Anubav Vasudevan
 date: March 28, 2013.
 ---

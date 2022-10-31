@@ -1,0 +1,13 @@
+---
+title: "Natural numbers as SMP"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/nat_as_smp.yml
+---
+
+{{< include _nat_as_smp.md >}}

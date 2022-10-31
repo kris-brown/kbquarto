@@ -1,7 +1,9 @@
 ---
 title: Seven Sketches in Compositionality
+categories: 🟣
 subtitle: An invitation to applied category theory [-@fong2018seven]
 authors: David Spivak and Brendan Fong
+published: 2018
 ---
 
 This is a collection of notes (mostly just straight-up copied from the book) and exercises with solutions.

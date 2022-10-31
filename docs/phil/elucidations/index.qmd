@@ -1,5 +1,6 @@
 ---
 title: Elucidations
+categories: 🟣
 comments: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Wittgenstein
+categories: ⚪
 listing:
   id: backlinks
   type: table
@@ -21,7 +22,7 @@ An Austrian philosopher (1889-1951).
 A view attributed to Wittgenstein by Brandom: "Language has no downtown." / 
 "Language is a motley"
 
-- It's all suburbs. There's no part of it such that everything else is is 
+- It's all suburbs. There's no part of it such that everything else is
 arrayed around it as a suburb of it.
 - Sellars disagrees: thinks the downtown is giving and asking for reasons.
 

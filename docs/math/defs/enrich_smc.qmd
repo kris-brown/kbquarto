@@ -1,0 +1,13 @@
+---
+title: "Symmetric monoidal category (alternate)"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/enrich_smc.yml
+---
+
+{{< include _enrich_smc.md >}}

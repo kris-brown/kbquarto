@@ -1,0 +1,5 @@
+
+- \begin{tikzcd} \pagecolor{white}                                                                            &                                                                                &                                    & v\arrow[blue,r, "d"'] \arrow[green,dd, "c"] & w \arrow[rd, "h"] \arrow[green,dd,"g"'] &   \\1 \arrow[r, "f"] \arrow[blue,rrru, dashed, bend left] \arrow[red,rrrd,dashed, bend right] & 2 \arrow[blue,rrru, "F"', dashed, bend left=49]\arrow[red,rrrd, "G", dashed, bend right=49] & u \arrow[ru, "a"]\arrow[rd, "b"'] &                                  &                                    & z \\                                                                                &                                                                                    &                                    & x\arrow[red,r, "e"]                  & y \arrow[ru,"k"']                 &  \end{tikzcd}
+- The [natural transformation](/docs/math/defs/natural_transformation.qmd) requires us to choose morphisms in the 
+  righthand category for each object in the lefthand category
+- The only choices to satisfy the naturality condition are $c$ and $g$.

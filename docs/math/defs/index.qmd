@@ -1,0 +1,10 @@
+---
+title: Definitions 
+categories: 🟣
+listing: 
+  - id: math
+    type: table
+    categories: true
+    max-items: 100
+    fields: [title, categories, date]
+---

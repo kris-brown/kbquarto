@@ -30,7 +30,7 @@ beavers flee when they hear another beaver slap its tail.
       and incorrect use).
     - You have to draw the distinction in the way that's compatible with any 
       degree of badness of the participants actually following the rules.
-    - We look at a reproductive family, the normal explanation (a tehcnial term) 
+    - We look at a reproductive family, the normal explanation (a technical term) 
       of tail slapping is that, in the evolutionary history, lives were saved by 
       it.
     - When the explanation of the persistence of tail slapping turns on 

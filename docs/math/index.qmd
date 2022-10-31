@@ -2,12 +2,13 @@
 title: Math notes
 comments: false
 listing:
-  id: backlinks
-  type: table
-  filter-ui: true
-  template: "../../ejs/custom.ejs"
-  contents:
-    - ../../backlinks/docs/math/index.yml
+  - id: math #  ../../backlinks/docs/math/index.yml
+    type: table
+    categories: true
+    max-items: 100
+    fields: [title, categories, date]
 ---
 
 Various things jotted down while reading about math.
+
+{{< include ../_wip.md >}}

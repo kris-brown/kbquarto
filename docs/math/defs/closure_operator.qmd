@@ -1,0 +1,13 @@
+---
+title: "Closure operator"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/closure_operator.yml
+---
+
+{{< include _closure_operator.md >}}

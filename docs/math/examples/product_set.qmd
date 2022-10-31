@@ -1,0 +1,13 @@
+---
+title: "Product in **Set**"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/product_set.yml
+---
+
+{{< include _product_set.md >}}

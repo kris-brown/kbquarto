@@ -1,0 +1,13 @@
+---
+title: "Product categories"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_3_90.yml
+---
+
+{{< include _sketches_3_90.md >}}

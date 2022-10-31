@@ -1,0 +1,13 @@
+---
+title: "Naturals and integers monoidal monotones"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_2_45.yml
+---
+
+{{< include _sketches_2_45.md >}}

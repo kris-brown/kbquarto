@@ -1,0 +1,13 @@
+---
+title: "Quantales have all joins"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/quantale_all_joins.yml
+---
+
+{{< include _quantale_all_joins.md >}}

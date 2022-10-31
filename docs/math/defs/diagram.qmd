@@ -1,0 +1,13 @@
+---
+title: "Diagram"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/diagram.yml
+---
+
+{{< include _diagram.md >}}

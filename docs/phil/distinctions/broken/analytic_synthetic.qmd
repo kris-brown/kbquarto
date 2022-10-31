@@ -1,5 +1,6 @@
 ---
 title: The analytic / synthetic distinction
+categories: "🟢"
 listing:
   id: backlinks
   type: table

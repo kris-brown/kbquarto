@@ -1,6 +1,33 @@
 ---
 title: Notes
 comments: false
+listing: 
+  - id: math
+    contents: "math/**"
+    type: table
+    max-items: 100
+    fields: [title, categories, date]
+
+  - id: phil
+    contents: "phil/**"
+    type: table
+    categories: true
+    max-items: 100
+    fields: [title, categories, date]
+
+format: 
+  html:
+    page-layout: full
 ---
 
 I currently have uploaded some notes on [math](math/) and [philosophy](phil/).
+
+{{< include _wip.md >}}
+
+# [Phil notes](phil/)
+:::{#phil}
+:::
+
+# [Math notes](math/)
+:::{#math}
+:::

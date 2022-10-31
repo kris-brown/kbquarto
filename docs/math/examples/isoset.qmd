@@ -1,0 +1,13 @@
+---
+title: "Isomorphisms in **Set**"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/isoset.yml
+---
+
+{{< include _isoset.md >}}

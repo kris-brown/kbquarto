@@ -1,0 +1,13 @@
+---
+title: "Adjoints in **Set**"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/adjoints_in_set.yml
+---
+
+{{< include _adjoints_in_set.md >}}

@@ -1,0 +1,6 @@
+- We saw that **Cost** is monoidal closed above.
+- To check if **Cost** is a quantale, we take an arbitrary set of elements and ask if it has a [join](/docs/math/defs/join.qmd).
+- Because $\geq$ is a total order, we can take the *infimum* or greatest lower bound, as the join.
+    - $\bigvee\{2.5,2.05,2.005,...\} = 2$.
+- We need a $0$, which is something which is related to everything (the first join condition is vacuous). Because the preorder relation is $\geq$ in **Cost** we need something greater than everything, so $0 = \infty$.
+- Thus **Cost** is a quantale.

@@ -1,0 +1,13 @@
+---
+title: "Unital, commutative quantale"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/quantale.yml
+---
+
+{{< include _quantale.md >}}

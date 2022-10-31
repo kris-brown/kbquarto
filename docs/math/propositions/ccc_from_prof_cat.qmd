@@ -1,0 +1,13 @@
+---
+title: "Compact closed category from profunctor category"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/ccc_from_prof_cat.yml
+---
+
+{{< include _ccc_from_prof_cat.md >}}

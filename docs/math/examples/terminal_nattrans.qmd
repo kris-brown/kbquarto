@@ -1,0 +1,13 @@
+---
+title: "Natural transformation to unit"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/terminal_nattrans.yml
+---
+
+{{< include _terminal_nattrans.md >}}

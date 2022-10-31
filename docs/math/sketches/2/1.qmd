@@ -1,5 +1,6 @@
 ---
 title: "2.1: Getting from A to B"
+categories: 🟣
 listing:
   id: backlinks
   type: table

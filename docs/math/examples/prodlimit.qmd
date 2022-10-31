@@ -1,0 +1,13 @@
+---
+title: "Product as limit"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/prodlimit.yml
+---
+
+{{< include _prodlimit.md >}}

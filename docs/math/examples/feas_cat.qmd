@@ -1,0 +1,13 @@
+---
+title: "The category **Feas**"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/feas_cat.yml
+---
+
+{{< include _feas_cat.md >}}

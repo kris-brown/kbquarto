@@ -1,5 +1,6 @@
 ---
 title: Agrippan Trilemma
+categories: 🟠
 listing:
   id: backlinks
   type: table

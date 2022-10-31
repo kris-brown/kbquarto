@@ -1,0 +1,13 @@
+---
+title: "*V* category product"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/vcat_product.yml
+---
+
+{{< include _vcat_product.md >}}

@@ -1,5 +1,6 @@
 ---
 title: Distinctions made
+categories: 🟣
 ---
 
 Philosophy can make distinctions that feel good, like they 'cut reality at the 

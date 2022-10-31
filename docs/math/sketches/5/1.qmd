@@ -1,5 +1,6 @@
 ---
 title: "5.1: Comparing systems as interacting signal processors"
+categories: 🔴
 listing:
   id: backlinks
   type: table

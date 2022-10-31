@@ -1,0 +1,13 @@
+---
+title: "Companion and conjoint of addition"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/companion_addition.yml
+---
+
+{{< include _companion_addition.md >}}

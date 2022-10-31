@@ -1,0 +1,13 @@
+---
+title: "Preorder isomorphism"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/preorder_isomorphism.yml
+---
+
+{{< include _preorder_isomorphism.md >}}

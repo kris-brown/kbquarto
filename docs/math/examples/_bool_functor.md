@@ -1,0 +1,2 @@
+-  Monotone maps, considering the source and target preorders as $\mathbb{B}$-[categories](/docs/math/defs/vcat.qmd), are in fact $\mathbb{B}$-functors.
+- The [monotone map](/docs/math/defs/monotone_map.qmd) constraint, that $x_1\ \leq_X\ x_2 \implies F(x_1)\leq_Y F(x_2)$, translates to the enriched category functor constraint, that $\mathcal{X}(x_1,x_2) \leq \mathcal{Y}(F(x_1),F(x_2))$.

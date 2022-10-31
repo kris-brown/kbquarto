@@ -1,5 +1,6 @@
 ---
 title: "3.4: Adjunctions and data migration"
+categories: 🟣
 listing:
   id: backlinks
   type: table

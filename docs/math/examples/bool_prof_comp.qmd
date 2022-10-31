@@ -1,0 +1,13 @@
+---
+title: "**Bool** profunctor composition"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/bool_prof_comp.yml
+---
+
+{{< include _bool_prof_comp.md >}}

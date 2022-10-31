@@ -1,5 +1,6 @@
 ---
 title: Behaviorism
+categories: 🔴
 listing:
   id: backlinks
   type: table

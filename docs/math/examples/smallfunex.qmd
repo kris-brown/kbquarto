@@ -1,0 +1,13 @@
+---
+title: "Functor between small categories"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/smallfunex.yml
+---
+
+{{< include _smallfunex.md >}}

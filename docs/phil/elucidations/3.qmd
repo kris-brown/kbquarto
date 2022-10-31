@@ -1,5 +1,6 @@
 ---
 title: Nietzsche and Morality
+categories: 🔴
 subtitle: Brian Leiter
 date: September 1, 2009
 ---

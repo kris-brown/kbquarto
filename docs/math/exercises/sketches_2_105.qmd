@@ -1,0 +1,13 @@
+---
+title: "Quantale matrix multiplication computation"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_2_105.yml
+---
+
+{{< include _sketches_2_105.md >}}

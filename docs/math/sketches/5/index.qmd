@@ -1,5 +1,6 @@
 ---
-title: Signal flow graphs
+title: "5. Signal flow graphs"
+categories: 🟣
 listing:
   id: backlinks
   type: table

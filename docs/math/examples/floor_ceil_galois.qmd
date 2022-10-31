@@ -1,0 +1,13 @@
+---
+title: "Floor and ceiling as galois connection"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/examples/floor_ceil_galois.yml
+---
+
+{{< include _floor_ceil_galois.md >}}

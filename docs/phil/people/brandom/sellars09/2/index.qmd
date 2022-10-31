@@ -1,5 +1,6 @@
 ---
 title: "02: Inference and Meaning and Language Games"
+categories: 🔴
 date: September 9, 2009
 description: This lecture covers [-@sellars1954some] and [-@sellars1953inference]
 ---

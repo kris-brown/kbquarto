@@ -1,0 +1,13 @@
+---
+title: "Functor category"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/funcat.yml
+---
+
+{{< include _funcat.md >}}

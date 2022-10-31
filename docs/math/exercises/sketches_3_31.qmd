@@ -1,0 +1,13 @@
+---
+title: "Identities are isomorphisms"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_3_31.yml
+---
+
+{{< include _sketches_3_31.md >}}

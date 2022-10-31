@@ -1,0 +1,13 @@
+---
+title: "Unitality of unit profunctor"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/propositions/prof_unitality.yml
+---
+
+{{< include _prof_unitality.md >}}

@@ -1,5 +1,6 @@
 ---
 title: Material inference
+categories: 🟠
 listing:
   id: backlinks
   type: table

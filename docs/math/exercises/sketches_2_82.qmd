@@ -1,0 +1,13 @@
+---
+title: "Monoidal closed and adjoints"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/exercises/sketches_2_82.yml
+---
+
+{{< include _sketches_2_82.md >}}

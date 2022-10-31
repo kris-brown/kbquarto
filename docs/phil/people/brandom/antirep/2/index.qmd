@@ -1,5 +1,6 @@
 ---
 title: "02: Rorty’s Critique of Enlightenment Representationalism, and (so) of Analytic Philosophy"
+categories: 🔴
 ---
 
 # Rorty's basic idea

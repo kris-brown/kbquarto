@@ -1,0 +1,13 @@
+---
+title: "Limit"
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/math/defs/limit.yml
+---
+
+{{< include _limit.md >}}

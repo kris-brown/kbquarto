@@ -1,0 +1,14 @@
+---
+title: Nelson Goodman
+categories: ⚪
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/people/goodman/index.yml
+---
+
+TODO 

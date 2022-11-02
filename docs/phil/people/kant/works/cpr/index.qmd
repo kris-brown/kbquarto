@@ -1,0 +1,15 @@
+---
+title: Critique of Pure Reason
+categories: ⚪
+author: Immanuel Kant
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs/phil/people/kant/works/cpr/index.yml
+---
+
+[-@smith2011immanuel]

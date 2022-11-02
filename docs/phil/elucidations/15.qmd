@@ -2,7 +2,7 @@
 title: Religious toleration
 categories: 🔴
 subtitle: Brain Leiter
-date: September 8, 2010
+published: September 8, 2010
 ---
 
 # Why tolerate religion?

@@ -2,7 +2,7 @@
 title: Metaphor
 categories: 🔴
 subtitle: Ted Cohen
-date: March 4, 2010
+published: March 4, 2010
 ---
 
 # Examples of Metaphor

@@ -124,6 +124,7 @@ end
 function get_title(root,fi)
   txt = read("$root/$fi", String) 
   res = match(r"\-\-\-\ntitle:\s+([^\n]+)", txt)
+  if isnothing(res) error("empty $root/$fi") end 
   return only(res.captures)
 end
 """Find for a file all links and surrounding sentences"""
@@ -188,7 +189,7 @@ end
 
 function show_listing(ndots::Int,name::String)
   d = join(fill("..", ndots), "/")
-  """listing:
+  """\nlisting:
   id: backlinks
   type: table
   page-size: 100000

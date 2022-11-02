@@ -2,7 +2,7 @@
 title: Evolutionary ethics
 categories: 🔴
 subtitle: Robert Richards
-date: September 8, 2011
+published: September 8, 2011
 ---
 
 - What is altruism

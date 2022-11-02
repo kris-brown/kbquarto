@@ -2,7 +2,7 @@
 title: Justice
 categories: 🔴
 subtitle: Amartya Sen
-date: October 6, 2010
+published: October 6, 2010
 ---
 
 # Rawls' political philosophy

@@ -2,7 +2,7 @@
 title: Judgment aggregation
 categories: 🔴
 subtitle: Fabrizio Cariani
-date: July 9, 2010
+published: July 9, 2010
 ---
 
 # What is it?

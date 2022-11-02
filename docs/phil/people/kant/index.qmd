@@ -22,8 +22,9 @@ understanding." [^1]
 
 # Kantian problematic
 
-Kant transformed the Cartesian problematic from an *epistemic* one to a 
-*semantic* one [-@brandom2006kantian].
+Brandom [writes](/docs/phil/people/brandom/works/kantian_lessons/index.qmd) 
+that Kant transformed the Cartesian problematic from an *epistemic* one to a 
+*semantic* one.
 
 - He shifts the center of attention from *truth* and *justification* to the 
   nature of representation itself.
@@ -52,4 +53,5 @@ skeptic.
      - minded creatures are not distinguished by an ontological distinction but rather
        a *de*ontological one.
        
-[^1]: A 85-7 / B 117-9 [-@smith2011immanuel]
+[^1]: A 85-7 / B 117-9 (from the 
+      [Critique of Pure Reason](/docs/phil/people/kant/works/cpr/index.qmd))

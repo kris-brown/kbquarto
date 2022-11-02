@@ -2,7 +2,7 @@
 title: Evolutionary psychology
 categories: 🔴
 subtitle: Chris Haufe
-date: February 12, 2010
+published: February 12, 2010
 ---
 
 # What do they study

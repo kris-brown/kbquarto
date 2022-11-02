@@ -1,0 +1,15 @@
+---
+title: Experience and Nature
+categories: ⚪
+author: John Dewey 
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs/phil/people/dewey/works/experience_and_nature/index.yml
+---
+
+[-@dewey1958experience]

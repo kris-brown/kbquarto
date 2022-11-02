@@ -15,14 +15,17 @@ listing:
 
 # Counterfactuals and dispositions
 
-Uses Principia Mathematica notation which takes some time to learn.
+Uses [Principia Mathematica](/docs/phil/people/russell/works/principia/index.qmd) 
+notation, which takes some time to learn.
 
-Goodman has let the formalism of classical extensional logic mislead him in 
+[Goodman](/docs/phil/people/goodman/index.qmd) has let the formalism of classical 
+extensional logic mislead him in 
 thinking about counterfactuals. He thought we could build up to counterfactuals 
 from extensional logical vocabulary. The kind that can be built up by 
 extensional logical vocabulary Sellars calls subjunctive identicals.
 
-Goodman is impressed in *Fact, Fiction, and Forecast* [-@goodman1983fact], with 
+Goodman is impressed in 
+[*Fact, Fiction, and Forecast*](/docs/phil/people/goodman/works/fff/index.qmd), with 
 the difference between the claim 'All copper melts at 1084 °C' and 'all the 
 coins in my pocket are copper'. The first supports counterfactual reasoning 
 ("if this coin in my pocket *were* copper, it'd melt at 1084 °C") whereas if 
@@ -33,7 +36,8 @@ of my pocket, it would be copper". We can always rephrase such counterfactuals
 actual object. (The distinction is less sharp between genuine counterfactuals 
 and subjunctive identicals is less sharp than he thinks, according to Brandom).
 
-Makes [subjunctive vs counterfactual distinction](/docs/phil/distinctions/made/subjunctive_counterfactual.qmd).
+Sellars makes the 
+[subjunctive vs counterfactual distinction](/docs/phil/distinctions/made/subjunctive_counterfactual.qmd).
 
 
 # Dispositions
@@ -116,7 +120,7 @@ Sellars: "It's only because the expressions in terms of which we describe
 objects, locate those objects in a space of implications that they describe it 
 all rather than merely label."
 
-This is what a mere classifier have.
+This is what a mere classifier does.
 
 What's the difference between me and a parrot who has been trained to say 'red' 
 when presented a red object. The parrot isn't describing, but I am because my 
@@ -133,7 +137,7 @@ describe an element *as* is to say what follows from something having a blue or
 red dot (e.g. things labelled red are to be discarded). Now we have some 
 descriptive content associated with the label.
 
-Verificationism / classical american pragmatism focused purely on the 
+Verificationism / classical American pragmatism focused purely on the 
 *consequences* of application.
 
 To say we need both circumstances and consequences is to say that the inferences 
@@ -200,15 +204,19 @@ If we stick together labels, we get descriptions (not a primitive name bearer
 relation, but one we can understand in terms of name-bearer relations). That's 
 what language lets us do. Describe/classify things (as falling under languages).
 
-Sellars calls this *descriptivism*: what you do with language is describe things.
+Sellars calls this [*descriptivism*](/docs/phil/definitions/descriptivism.qmd): 
+what you do with language is describe things.
 
 You find this not only in anglophone tradition but also in a pure form in 
-Hussurl / semiotics. Derrida rejects Hussurl because there are some phenomena 
-that can't be related by sign-signified relations, but he addresses it by saying 
-it's all signs.
+[Hussurl](/docs/phil/people/hussurl/index.qmd) / semiotics. 
+[Derrida](/docs/phil/people/derrida/index.qmd) rejects Hussurl because there are 
+some phenomena that can't be related by sign-signified relations, but he 
+addresses it by saying it's all signs.
 
 Kant found sentences special: you don't describe things with them, you say 
-things with them. Theory of judgment. The Tractatus has no room for statements 
+things with them. Theory of judgment. The 
+[Tractatus](/docs/phil/people/wittgenstein/works/tractatus/index.qmd) has no 
+room for statements 
 of natural law. For normative statements, it retreats into mysticism.
 
 Semantic nominalism is atomistic - the relation of a name and its bearer 
@@ -221,7 +229,9 @@ doesn't turn on anything else.
 # Modal revolution in the 20th century
 Revolution in Anglophone philosophy, taking three phases:
 
-1. Kripke's possible-worlds semantics for modal logic (algebraic properties 
+1. Kripke's 
+   [possible-worlds semantics](/docs/phil/definitions/possible_worlds.qmd) 
+   for modal logic (algebraic properties 
    accessibility relation determine which modal system we're in)
     - Quine was a skeptic of modal talk, said that we didn't know what we really 
       meant when talking about it.
@@ -233,21 +243,10 @@ Revolution in Anglophone philosophy, taking three phases:
        modal concepts in terms of other modal concepts - what do we mean by 
        *possible world*? What do we mean by *accessibility*?
 2. The previous development is only for modal logic, but Montague, David Kaplan, 
-   David Lewis, Stalnaker, etc. extended it to work for non-logical semantics 
-   as well. For example:
-    - In Lewis' *General Semantics* [-@lewis1976general], if we decide to treat 
-      objects as semantic interpretant of our names, sets of possible worlds as 
-      the semantic interpretant of our sentences, then one-place predicates 
-      correspond to functions from objects to sets of possible worlds.
-    - 'walks' is a function from objects to the worlds in which that object is 
-       walking.
-    - adverbs, like 'slowly', is a function from one-place predicates to 
-      one-place predicates.
-    - This apparatus gives us a way to talk precisely about certain distinctions 
-      that come up in philosophy language. E.g. adverbs come in two flavors:
-        - Attributive: 'walked *slowly*' which implies one walked at all
-        - Non-attributive: 'walked *in one's imagination*'
-3. Kripke's *Naming and Necessity* [-@kripke1972naming]
+   [David Lewis](/docs/phil/people/lewis/index.qmd), Stalnaker, etc. extended 
+   it to work for non-logical semantics as well. See, for example, Lewis' 
+   [*General Semantics*](/docs/phil/people/lewis/works/general_semantics.qmd)
+3. Kripke's [*Naming and Necessity*](/docs/phil/people/kripke/works/naming_and_necessity/index.qmd)
   - Introduced us to contingent *a priori* and metaphysical necessity
 
 Brandom says: the second is the most important, but Quine's objection was not 
@@ -361,13 +360,17 @@ Brandom thinks Sellars could have a simpler/more satisfying conclusion to the
 essay, but Sellars' nominalism (denial of existence for abstract 
 objects/properties) prevents him from doing so.
 
-In Brandom's view, material inferences are *not* monotonic. The job of some 
+In Brandom's view, 
+[material inferences](/docs/phil/distinctions/made/material_inference.qmd) 
+are *not* 
+[monotonic](/docs/phil/definitions/nonmonotonic_logic.qmd). The job of some 
 scientific languages is to find concepts where we can state monotonic 
 consequence relations. We can do that in fundamental physics, but hardly ever 
 in the special sciences.
 
 # Relation to Hegel
-Hegel says, "By conceptual, I mean, what's articulated by relations of 
+[Hegel](/docs/phil/people/hegel/index.qmd) says, "By conceptual, I mean, what's 
+articulated by relations of 
 determinant negation [^1] and mediation [^2]".[^3] He says, the objective world, 
 as it is, independently of our activities, is conceptually articulated. It has 
 a conceptual structure because he's a modal realist about it.
@@ -385,8 +388,8 @@ compatibility, but the world, just as it comes, is already in conceptual shape.
 
 [^1]: i.e. material incompatibility
 [^2]: i.e. material consequence
-[^3]: Brandom says this is expressed, beginning in the section on Perception of 
-[-@hegel2007phenomenology].
+[^3]: Brandom says this is expressed, beginning in the section on perception of 
+[Phenomenology of Spirit](/docs/phil/people/hegel/works/spirit/index.qmd).
 
 # Utility of possible worlds semantics
 
@@ -398,7 +401,8 @@ So we can express (in the language of possible worlds) the fact that it follows
 from (as a consequence) something's being copper that it melts at 1084 °C, for 
 example.
 
-David Lewis is presented as an example of misusing possible world semantics. He 
+[David Lewis](/docs/phil/people/lewis/index.qmd) is presented as an example of 
+misusing possible world semantics. He 
 discards the connection between inference and the possible worlds. He takes the 
 descriptivist position that all one can do is describe with language, but then 
 says he is not an actualist (you can describe non-actual worlds in the same 

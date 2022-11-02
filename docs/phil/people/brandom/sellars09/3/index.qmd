@@ -52,14 +52,16 @@ the behavior)
 
 ##  Digressions
 1. *Semantics* is a field with instrumentalist vs theoretical realist views. 
-Michael Dummett is instrumentalist by observing the fact that meaning something 
+[Michael Dummett](/docs/phil/people/dummett/index.qmd) is an instrumentalist 
+by observing the fact that meaning something 
 is only understood through verbal behavior and concluding that any theory of 
 meaning must be definable in terms of behavior.
     - (A theoretical realist might postulate meanings as theoretical entities to 
       explain verbal behavior and say our access to meanings is inferential and, 
       if they are good theories, then verbal behavior gives us inferential 
       access to something (meanings) that exist.)
-2. MacDowell and Sellars agree (and disagree with almost all others) that what 
+2. [MacDowell](/docs/phil/people/macdowell/index.qmd) and Sellars agree 
+   (and disagree with almost all others) that what 
    you hear when someone talks to you is the words themselves, rather than 
    hearing noises and (by some inferential process) constructing the words. 
    You have to actually actively do some work to hear that mere noises. This is 
@@ -92,7 +94,8 @@ understand the relationship between implicit practical abilities and explicit
 representations of rules.
 
 The question of whether meaning is a normative concept was brought to 
-philosophical attention by Kripkenstein [-@kripke1982wittgenstein]. In present 
+philosophical attention by 
+[Kripkenstein](/docs/phil/people/kripke/works/kripkenstein/index.qmd). In present 
 literature, Hattiangadi and Katherin Glüer have pushed back upon the idea that 
 it is a normative concept, advanced by Brandom and MacDowell. Brandom feels it 
 is because they haven't learned lessons from Sellars, in particular thinking of
@@ -104,7 +107,8 @@ is because they haven't learned lessons from Sellars, in particular thinking of
 wisdom to think of defining *not* in terms of the relationship between 
 *possibility* and *necessity*, but I'm the only human being who thinks that.
 
-Grice on non-natural meaning: reduces what a linguistic expression $P$ means in 
+[Grice](/docs/phil/people/grice/index.qmd) on non-natural meaning: reduces what 
+a linguistic expression $P$ means in 
 terms of the meanings of thoughts and beliefs of those uttering $P$. Sellars 
 isn't satisfied with this: the puzzling phenomena of meaning are common to both 
 thought and language.
@@ -123,7 +127,8 @@ ought-to-be's (can be social but the conditioners need not be doing so intention
 
 We can deliberate making a distinction between ought-to-be's in the context of 
 humans vs nonliving/nonsentient beings (e.g. "plants ought to get enough water").
- Ruth Millikan's work relevant. Connects to the Aristotelian account.
+[Ruth Millikan](/docs/phil/people/millikan/index.qmd)'s work relevant. 
+Connects to the [Aristotelian](/docs/phil/people/aristotle/index.qmd) account.
 
 Consider ought to be's in the context of training animals: These rats ought to 
 be in state $\phi$ whenever $\psi$.

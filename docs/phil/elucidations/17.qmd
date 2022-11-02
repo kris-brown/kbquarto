@@ -2,7 +2,7 @@
 title: Mechanism and causation
 categories: 🔴
 subtitle: Brandon Fogel
-date: November 8, 2010
+published: November 8, 2010
 ---
 
 # Action at a distance

@@ -2,6 +2,12 @@
 title: Elucidations
 categories: 🟣
 comments: false
+listing:
+  type: table
+  sort: "categories desc"
+  categories: true
+  fields: ["title", "subtitle", "categories", "published"]
+
 ---
 
 [Matt Teichman](https://home.uchicago.edu/~teichman/about.html) hosts a great 

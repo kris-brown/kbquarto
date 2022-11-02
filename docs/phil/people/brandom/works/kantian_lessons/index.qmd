@@ -1,0 +1,15 @@
+---
+title: Kantian Lessons about Mind, Meaning, and Rationality
+categories: ⚪
+author: Robert Brandom
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs/phil/people/brandom/works/kantian_lessons/index.yml
+---
+
+[-@brandom2006kantian]

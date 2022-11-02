@@ -2,7 +2,7 @@
 title: Transcendental arguments
 categories: 🔴
 subtitle: Quassim Cassam
-date: May 17, 2011
+published: May 17, 2011
 ---
 
 - "How possible" questions

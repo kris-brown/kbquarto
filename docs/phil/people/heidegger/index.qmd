@@ -1,6 +1,14 @@
 ---
 title: Heidegger
 categories: ⚪
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/people/heidegger/index.yml
 ---
 
 Martin Heidegger was a German philosopher (1889-1976).

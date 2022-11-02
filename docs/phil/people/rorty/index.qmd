@@ -1,6 +1,14 @@
 ---
 title: Rorty
 categories: ⚪
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/people/rorty/index.yml
 ---
 
 An American philosopher, 1931-2007.

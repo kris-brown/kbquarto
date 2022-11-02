@@ -2,7 +2,6 @@
 title: Minimize ontology talk
 description: Trying to remove one unnecssary source of friction in life.
 categories: 🔴
-author: Kristopher Brown
 date: 2/24/2022
 draft: true
 ---

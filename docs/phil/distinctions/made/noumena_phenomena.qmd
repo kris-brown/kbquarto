@@ -1,0 +1,31 @@
+---
+title: Noumena and phenomena
+categories: 🔴
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/distinctions/made/noumena_phenomena.yml
+---
+
+[Kant](/docs/phil/people/kant/index.qmd) radicalized the distinction between:
+
+- primary qualities (properties that are truly there)
+- secondary qualities (properties that are due to us).
+
+He challenges us to divide the labor:
+
+- what features is the *world responsible for*?
+- what features are *we responsible for*?
+  - E.g. the fact our theories are expressed in German/English
+
+This distinction lives in [Sellars](/docs/phil/people/sellars/index.qmd) as 
+the difference between:
+
+-  the world *in the narrow sense*
+-  the world *in the wider sense*
+    - E.g. which includes norms that are only accessible from a 
+      participant's perspective.

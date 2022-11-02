@@ -2,7 +2,15 @@
 title: Perception of music
 categories: 🔴
 subtitle: Christopher Peacoke
-date: June 21, 2011
+published: June 21, 2011
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/phil/elucidations/24.yml
 ---
 
 
@@ -42,7 +50,7 @@ date: June 21, 2011
     - Phenomologically distinct from actually thinking the pots are people or 
       even depictions of people.
   - Explanation of this
-    - "isomorphism" (Kris: actually should just be (homo)morphism)
+    - "isomorphism" 
     - Basically an analogy.
       - Changes in pitch and speed map onto changes in speed of the wind.
     - There are tons of these that are possible, but not all are 

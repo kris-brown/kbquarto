@@ -1,0 +1,15 @@
+---
+title: Pragmatism, Relativism, and Irrationalism
+categories: ⚪
+author: Richard Rorty
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs/phil/people/rorty/works/pri/index.yml
+---
+[-@rorty2020pragmatism]
+

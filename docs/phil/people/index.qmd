@@ -3,7 +3,8 @@ title: People
 categories: 🟣
 comments: false
 listing:
-  contents: /*/*.qmd
+  contents: /*/index.qmd
+  page-size: 100000
   type: grid
 ---
 

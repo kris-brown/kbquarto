@@ -2,7 +2,7 @@
 title: Sexuality and Law
 categories: 🔴
 subtitle: Martha Nussbaum
-date: October 1, 2009
+published: October 1, 2009
 ---
 
 There has been historical precedent to place legal restrictions on human 

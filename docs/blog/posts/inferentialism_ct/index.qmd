@@ -4,7 +4,6 @@ description: |
     Connections between the two.
 categories:
   - philosophy
-author: Kristopher Brown
 date: 3/20/2022
 draft: true
 ---

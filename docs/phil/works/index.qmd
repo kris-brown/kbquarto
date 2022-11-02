@@ -3,7 +3,8 @@ title: Philosophical works
 categories: 🟣
 comments: false
 listing:
-  contents: /*/*.qmd
+  contents: 
+    - ../people/*/works/*/index.qmd
   type: table
   page-size: 100000
   fields: ["title", "author", "published"]

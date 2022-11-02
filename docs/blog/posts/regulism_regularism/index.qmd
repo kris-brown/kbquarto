@@ -1,0 +1,7 @@
+---
+title: Regulism, regularism
+draft: true
+---
+I also see prescriptivism and descriptivism (in linguistics) in Sellars' 
+distinction in [Some Reflections on Language Games](/docs/phil/people/sellars/works/some_reflections/index.qmd) 
+between [regulism vs regularism](/docs/phil/people/brandom/sellars09/2/index.qmd).

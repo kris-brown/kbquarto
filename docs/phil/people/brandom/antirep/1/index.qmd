@@ -8,7 +8,8 @@ categories: 🟠
 
 - Does 'representation' have a *nature* or a *history*?
     - Does it belong with "electrons" and "sulfur" or with "freedom" and "love"?
-- Brandom, being a Hegelian, thinks philosophy belongs in the latter category  
+- Brandom, being a Hegelian, thinks 
+  philosophy belongs in the latter category  
   and proceeds to give a historical overview of 'representation'.
 
 ## Premodern
@@ -39,7 +40,8 @@ relationships between algebra (representation) and geometry
   nonrepresentationally (to avoid infinite regress)
     - Representationalism gives rise to choice between epistemological 
       skepticism vs foundationalism.
-    - A Kantian insight: the *real* problem is *semantic* skepticism.
+    - A [Kantian](/docs/phil/people/kant/index.qmd) insight: the *real* problem 
+      is *semantic* skepticism.
         - He doesn't take it for granted that we can 'represent' reality and 
           merely have to worry about whether or not that representation is true.
         - It might be unintelligible that our mental states even purport to 
@@ -58,13 +60,15 @@ Descartes himself.
     - He saw both as different ends of a spectrum, while empiricists tried to 
       reduce thoughts to pictures and rationalists vice-versa.
 - Spinoza's interpretation of Descartes gives another view: within a 
-  representational picture, empiricists are atomists whereas rationalists are 
+  representational picture, empiricists are atomists whereas 
+  [rationalists](/docs/phil/definitions/rationalism.qmd) are 
   holists.
 - Brandom's interpretation using orders of explanation: empiricists treat 
   representation as a primitive and infer reason-relations in terms of it. 
   Rationalists treat reason relations as primitive, explain representational 
   content in terms of inferential relations.
-    - Rationalist Leibniz would have us understand the content of the map as the 
+    - Rationalist [Leibniz](/docs/phil/people/leibniz/index.qmd) would have us 
+      understand the content of the map as the 
       inferences that someone who treats it as a map could make about terrain 
       facts (e.g. a river) from map-facts (wavy-blue line).
 - Sellars identifies both camps as descriptivists (to be conceptually contentful 
@@ -80,7 +84,7 @@ Descartes himself.
     - Representation is a wider concept than description - Brandom thinks that 
       Sellars' anti-descriptivism is a form of anti-representationalism.
         - E.g. proper names represent without being descriptions, in 
-          *Naming and Necessity*.
+          [*Naming and Necessity*](/docs/phil/people/kripke/works/naming_and_necessity/index.qmd).
 
 ## Lessons
 
@@ -90,12 +94,14 @@ Descartes himself.
     representings and representeds.
     - Considering the inferences of map facts to terrain facts, we also must 
       accept that if the terrain were different, the map fact would be different.
-    - Related to Fodor's account of representation in terms of "one-way 
+    - Related to [Fodor](/docs/phil/people/fodor/index.qmd)'s account of 
+      representation in terms of "one-way 
       counterfactual dependencies of 'horses' on horses".
   - Representation has a normative dimension
     - To treat representation as concerning what inferences we can make is a 
       normative order.
-    - Hegel appreciated this: to count as representing something is to be 
+    - [Hegel](/docs/phil/people/hegel/index.qmd) appreciated this: to count as 
+      representing something is to be 
       responsible to the represented thing (what is represented provides the 
       normative standard for correctness of representing). What is represented 
       has an authority over what is representing.
@@ -111,15 +117,8 @@ Descartes himself.
   Expressivism is one way of negating this (by declaring "X is good", one is 
   commending rather than fact stating).
   - Intuition: the question of truth can be raised for whatever is expressed by 
-    declarative sentences.
-  - Geach's 1960 embedding argument: "If X is good, then ..." a hallmark of 
-    fact-stating (if we had close the door or praise god, it wouldn't make 
-    grammatical sense)
-    - We can embed moral statements that 1st wave expressivists said were not 
-      fact-stating.
-    - QUESTION: are there any grammatically declarative sentences which cannot 
-      be embedded? Would a counterexample have to be a non-truth-apt, 
-      declarative sentence?
+    declarative sentences 
+    ([Geach's 1960 embedding argument](/docs/phil/problems/fregegeach.qmd)).
   - Declarative sentences that may not fit into the fact-stating mold of "the 
     frog is on the log":
     - Logical (e.g. negative/conditional facts), modal (e.g. necessity), 
@@ -149,7 +148,9 @@ Descartes himself.
         approach to meaning
     - Investigations = anti-representationalism.
       - Anthropological tradition focuses on natural languages, in tradition of 
-        Dewey. Rorty claims Heidegger also in this tradition, which both sides 
+        [Dewey](/docs/phil/people/dewey/index.qmd). Rorty claims 
+        [Heidegger](/docs/phil/people/heidegger/index.qmd) also in this 
+        tradition, which both sides 
         (pragmatists and Heidegger allies)  don't like. Focus is not on meaning 
         but on use.
   - Arguments:

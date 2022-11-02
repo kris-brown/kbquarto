@@ -11,4 +11,4 @@ listing:
     - ../../../backlinks/docs/phil/definitions/ontology.yml
 ---
 
-The theory of what really is, or the what is there 'objectively'
+The theory of what really is, or the what is there 'objectively'.

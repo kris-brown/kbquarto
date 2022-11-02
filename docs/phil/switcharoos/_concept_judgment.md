@@ -7,7 +7,7 @@ We normally think that the content of judgments are dictated by the content of t
 
 However, Kant turned this around (see [here](/docs/phil/people/kant/index.qmd)). In this view, judgments are prior (in the order of understanding) to concepts.
 
-This is also related to a switch of priority made by Sellars: we normally think of logically-valid inferences (e.g. $A \land B \implies B \lor C$) as something we understand *prior* to particular inferences (e.g. "If it's red and triangular, then it's triangular or heavy"). Sellars calls these particular inferences [material_inferences](/docs/phil/people/brandom/sellars09/2/material_inference.qmd) and argues that it is only through understanding them that we could understand logically-valid inferences.
+This is also related to a switch of priority made by Sellars: we normally think of logically-valid inferences (e.g. $A \land B \implies B \lor C$) as something we understand *prior* to particular inferences (e.g. "If it's red and triangular, then it's triangular or heavy"). Sellars calls these particular inferences [material_inferences](/docs/phil/distinctions/made/material_inference.qmd) and argues that it is only through understanding them that we could understand logically-valid inferences.
 
 One argument for our initial intuition is that the logically-valid inferences are *a priori*, whereas the particular inferences are *a posteriori*.[^1] However, [Achilles and the Tortoise](/docs/phil/problems/tortoise.qmd) feels relevant for arguing against this point of view: the logically-valid inferences exist *a priori* as abstract mathematical/syntactical objects, but without any practical experience of actually making inferential moves, we don't have access to them *qua* inferences.
 

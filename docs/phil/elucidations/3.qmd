@@ -2,7 +2,7 @@
 title: Nietzsche and Morality
 categories: 🔴
 subtitle: Brian Leiter
-date: September 1, 2009
+published: September 1, 2009
 ---
 
 # What does Nietzsche mean by morality?
@@ -102,7 +102,8 @@ Nietzsche means something different from ethics when using the term morality
   had empircal content are not psychological facts, but Leitner thinks after a 
   century of psychological research that Nietzsche was right often.
   - E.g. he centred the role of the subconscious
-  - Among the three dominant paradigms of moral psychology, Aristotle / Kant / 
+  - Among the three dominant paradigms of moral psychology, 
+    [Aristotle](/docs/phil/people/aristotle/index.qmd) / Kant / 
     Nietzsche, Nietzsche has the most plausible underlying assumptions given 
     what we now know about psychology.
     

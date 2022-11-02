@@ -2,7 +2,7 @@
 title: Collective action
 categories: 🔴
 subtitle: Ben Laurence
-date: April 6, 2011
+published: April 6, 2011
 ---
 
 

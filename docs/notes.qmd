@@ -3,6 +3,8 @@ title: Notes
 comments: false
 listing: 
   type: table
+  sort-ui: false
+  filter-ui: false
   sort: "title desc"
   fields: [title]
   contents: 
@@ -15,4 +17,3 @@ make it all public as a discussion starter for friends + to give me pressure
 to make them less trash.
 
 {{< include _wip.md >}}
-

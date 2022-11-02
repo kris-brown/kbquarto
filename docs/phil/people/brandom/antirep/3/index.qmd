@@ -14,8 +14,10 @@ categories: 🔴
              namely not describing the claimable, but endorsing it
            - underwriting a global antirepresentationalism because of special 
              properties of the vocabulary of truth
-   - *together* underwrite a Jamesean understanding of truth-talk.
-   - This role for an expressivist move in a pragmatist argument forges an 
+   - *together* underwrite a [Jamesean](/docs/phil/people/james/index.qmd) 
+     understanding of truth-talk.
+   - This role for an [expressivist](/docs/phil/definitions/expressivism.qmd) 
+     move in a pragmatist argument forges an 
      important link between the first and the second halves of this course.
 2. (From the discussion of representation):
    - What is really at stake in the battle between a representational model of 
@@ -23,7 +25,8 @@ categories: 🔴
      explanation (a way of thinking about conceptual priority) between 
      representational relations and reason relations (of implication and 
      incompatibility).
-  - Davidson teaches us that and how taking reason relations as primary (the 
+  - [Davidson](/docs/phil/people/davidson/index.qmd) teaches us that and how 
+    taking reason relations as primary (the 
     pragmatists says, because giving and assessing reasons, implicitly and 
     practically appealing to justificatory reason relations, specifiable in a 
     deontic normative vocabulary of “commitment” and “entitlement”) holistically 
@@ -34,7 +37,8 @@ categories: 🔴
 
 # Introduction to pragmatism
 ## Platonist / Pragmatist distinction
-Rorty takes for granted a distinction of Dewey:
+Rorty takes for granted a distinction of 
+[Dewey](/docs/phil/people/dewey/index.qmd):
 
 | Platonism      | pragmatism |
 | ----------- | ----------- |
@@ -46,7 +50,8 @@ Rorty takes for granted a distinction of Dewey:
 - Platonists look for a principle or rule, something explicit or that could be 
   made explicit, behind every implicit propriety of practice.
 
-- Pragmatists argue that explicit principles or theories float on a vast sea of 
+- [Pragmatists](/docs/phil/definitions/pragmatism.qmd) argue that explicit 
+  principles or theories float on a vast sea of 
   implicit practical skills.
 
 For example, a cobbler can make good shoes. The Platonist looks for what form is 
@@ -59,18 +64,21 @@ principle.
 Rorty sees representationalism as the distinctly modern form of Platonism as 
 described above.
 
-Kant is the avatar of this form of representationalism: representations and 
+[Kant](/docs/phil/people/kant/index.qmd) is the avatar of this form of 
+representationalism: representations and 
 rules are two sides of the same coin. He puts principle over practice (opposed 
-by Dewey, who was followed by Heidegger and Wittgenstein in this respect).
+by Dewey, who was followed by [Heidegger](/docs/phil/people/heidegger/index.qmd) 
+and [Wittgenstein](/docs/phil/people/wittgenstein/index.qmd) in this respect).
 
 ## Vocabulary vocabulary
 This is Rorty's way of talking about language games. Or paradigms (in the 
-Kuhnian sense - Kuhn was writing just down the hall from Rorty). Vocabularies 
+[Kuhnian](/docs/phil/people/kuhn/index.qmd) sense - 
+Kuhn was writing just down the hall from Rorty). Vocabularies 
 are what we deploy in discursive practice.
 
 He thinks is needed as a successor notion to the idea of languages and theories, 
-which was rightfully taken apart by Quine's Two Dogmas of Empiricism 
-[-@orman1976two].
+which was rightfully taken apart by Quine's 
+[Two Dogmas of Empiricism](/docs/phil/people/quine/works/two_dogmas/index.qmd).
 
 Examples, how big are they?
 - on the one hand, the vocabulary of 16th century theology
@@ -83,17 +91,20 @@ Examples, how big are they?
   vocabulary when really their question is better framed as trying to pick the 
   right vocabulary (important to realize this, since it changes how we compare 
   arguments).
-    - This point appears to be accepting the Carnappian distinction of theory 
+    - This point appears to be accepting the 
+      [Carnappian](/docs/phil/people/carnap/index.qmd) distinction of theory 
       and language
 - Rorty makes fun of representational realists as being committed to the idea 
   that there is a thing such as "nature's own language" / "nature's own 
   vocabulary"
-   - He sees Lewis as committed to this as the language which determines what 
+   - He sees [Lewis](/docs/phil/people/lewis/index.qmd) as committed to this 
+     as the language which determines what 
      the 'natural properties' are.
 
 - Rorty doesn't draw a line between speaking in a vocabulary and changing your 
   vocabulary (he thinks almost all speech acts change it).
-   - Duhem point: if we acknowledge that your meanings at least partially 
+   - [Duhem point](/docs/phil/people/quine/duhem_quine.qmd): if we 
+     acknowledge that your meanings at least partially 
      determine what inferences are good. What follows a given sentence depends 
      on what auxiliary hypotheses you're allowed to use as collateral premises 
      for
@@ -109,7 +120,8 @@ Examples, how big are they?
       concept changes
     - But it would be a serious mistake to take this extreme, artificial case to 
       be the paradigm on the basis of which we understand the use of language in 
-      general. (Here we might think of Heidegger on the effort it takes to 
+      general. (Here we might think of 
+      [Heidegger](/docs/phil/people/heidegger/index.qmd) on the effort it takes to 
       precipitate Vorhandenheit out of Zuhandenheit.
 
 
@@ -142,7 +154,8 @@ descriptions in advance.
   or “reconceptualization.”
 
 ## Conversation
-> Pragmatists follow [Plato](/docs/phil/people/plato/index.qmd) in striving for an escape from conversation to 
+> Pragmatists follow [Plato](/docs/phil/people/plato/index.qmd) in striving 
+  for an escape from conversation to 
   something atemporal which lies in the background of all possible conversations
 
 Conversation is about redescribing our vocabulary as much as using it. It is the 
@@ -152,18 +165,19 @@ Quantifying over all possible vocabularies is a temptation and something you
 would only attempt to do if you are trying to end all conversation. This is a 
 fundamental mistake.
 
-- This is something the early Wittgenstein did in the Tractatus
+- This is something the early Wittgenstein did in the 
+  [Tractatus](/docs/phil/people/wittgenstein/works/tractatus/index.qmd)
 - He then learned not to do this. It's related to his later view that language 
   is a motley.
 
-Dummett's interpretation of Wittgenstein:
+[Dummett](/docs/phil/people/dummett/index.qmd)'s interpretation of Wittgenstein:
 
 - Wittgenstein would think that if there were any use for a philosophical notion 
   of meaning, the point of having a notion of meaning would be to codify 
   proprieties of use.
 - But there is no limit of things one can use language for, so we cannot 
   systematically find all meanings of all expressions.
-- Wittgentstein tool analogy:
+- Wittgenstein tool analogy:
    - you would think that you could describe the different ways of using things 
      in terms of what you do with them in the way you could tools, so that you 
      could think of hammer and nails, screw and screwdriver, glue and glue brush, 
@@ -208,10 +222,10 @@ Rorty concludes if it doesn't make sense to quantify over all possible
 vocabularies, then it doesn't make sense to quantify over all possible facts
 (a new vocabulary is going to make it possible to state new facts)
 
-
 # Radical bifurcationism
 
-Rorty rejects the [objective/subjective](/docs/phil/distinctions/broken/objective_subjective.qmd)
+Rorty rejects the 
+[objective/subjective](/docs/phil/distinctions/broken/objective_subjective.qmd)
  of objective and subjective facts.
 
 :::{.callout-warning}

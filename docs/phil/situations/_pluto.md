@@ -1,4 +1,4 @@
-Example from [Brandom writing about Sellars](/docs/phil/works/two_ply/index.qmd).
+Example from [Brandom writing about Sellars](/docs/phil/people/brandom/works/two_ply/index.qmd).
 
 Pluto was first postulated in order to explain perturbations in the orbit of 
 Neptune (by inference from Newton's laws). At that point, Pluto was a purely 

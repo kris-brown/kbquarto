@@ -2,7 +2,7 @@
 title: Faith
 categories: 🔴
 subtitle: Simon Critchley
-date: February 8, 2011
+published: February 8, 2011
 ---
 
 - Belief when you don't have overwhelming evidence.
@@ -47,6 +47,7 @@ date: February 8, 2011
       Kantian morality.
 - Friendship and Love
   - These require trust/faith (Othello example)
-  - Friendship: Aristotelian vs Christian views
+  - Friendship: [Aristotelian](/docs/phil/people/aristotle/index.qmd) vs 
+    Christian views
 - A liberal society based on reason would require a private/public separation
   - Anarchism has a variety of alternatives of new forms of order.

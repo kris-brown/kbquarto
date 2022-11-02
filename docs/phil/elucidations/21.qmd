@@ -2,7 +2,7 @@
 title: Political liberalism
 categories: 🔴
 subtitle: Raymond Geuss
-date: March 7, 2011
+published: March 7, 2011
 ---
 
 - What does "liberalism" refer to?

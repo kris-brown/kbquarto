@@ -2,7 +2,7 @@
 title: Contextualism
 categories: 🔴
 subtitle: Jason Bridges
-date: June 3, 2010
+published: June 3, 2010
 ---
 
 - *Contexualism* concerns the truth of an utterance of depending on factors 

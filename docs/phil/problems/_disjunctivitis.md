@@ -11,7 +11,7 @@ via *dispositions* of the $P$-speaker. *Disjunctivitis* is a thought experiment
 that says this is *not* a sufficient tool for us to distinguish $\phi$'s and 
 $\psi$'s generally. [^1] 
 
-[^1]: This is a [Kripkensteinian](/docs/phil/works/kripkenstein/index.qmd) problem.
+[^1]: This is a [Kripkensteinian](/docs/phil/people/kripke/works/kripkenstein/index.qmd) problem.
 
 We're worried about whether the word 'porcupine' really means *porcupine*, or 
 whether it means *porcupine or echidna*. Because most of us porcupine users 

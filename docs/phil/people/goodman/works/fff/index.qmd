@@ -1,0 +1,16 @@
+---
+title: Fact, Fiction, and Forecast
+categories: ⚪
+author: Nelson Goodman
+published: 1983
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs/phil/people/goodman/works/fff/index.yml
+---
+
+[-@goodman1983fact]

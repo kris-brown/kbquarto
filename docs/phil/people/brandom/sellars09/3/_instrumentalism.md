@@ -1,4 +1,3 @@
-
 All of our evidence in science comes from empirical observation, so all of our 
 concepts (and claims) must be translatable without remainder into observational 
 vocabulary.
@@ -12,10 +11,11 @@ observational language are simply true or false, whereas statements in
 theoretical language are merely more or less useful.
 
 This is a view that members of the Vienna Circle flirted with. A permanent 
-temptation of the empiricist tradition.
+temptation of the [empiricist](/docs/phil/definitions/empiricism.qmd) tradition.
 
 The alternative is called *theoretical realism*. Sellars says this is a mistake 
-(an example of "nothing-but-ism", along with [emotivism](/docs/phil/definitions/emotivism.qmd) in ethics), originating 
+(an example of "nothing-but-ism", along with 
+[emotivism](/docs/phil/definitions/emotivism.qmd) in ethics), originating 
 from thinking of the difference between observational vocabulary and theoretical 
 vocabulary as an ontological difference in the objects referred to by those 
 theories. But it's not an *ontological* distinction, it's a methodological 

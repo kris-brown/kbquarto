@@ -2,7 +2,7 @@
 title: Language and power
 categories: 🔴
 subtitle: Mark Lance
-date: December 6, 2010
+published: December 6, 2010
 ---
 
 - This concerns the pragmatics of language

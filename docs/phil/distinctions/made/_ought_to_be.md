@@ -11,7 +11,9 @@
 |  The person subject to the rule is the one following the rule  |  There may be no particular agent at all |
 |  Examples? [TODO]{style="color: red; background-color: yellow;"}  |   "One ought to feel sympathy for the bereaved''<br>"All clocks should strike midnight at the same time.''<br>"Plants ought to get enough water to flower.'' |
 
-- A distinction fundamental for both 'must' in the alethic and doxastic modal 
+- A distinction fundamental for both 'must' in the 
+  [alethic](/docs/phil/definitions/alethic.qmd) and 
+  [doxastic](/docs/phil/definitions/alethic.qmd) modal 
   senses.
 
 - Sellars: You can't understand either of these kinds of oughts without 
@@ -26,8 +28,9 @@
       Regress of rules without ought-to-be's.
 
 - This is important because natural way to think of rules is exlusively in terms 
-  of Ought to Do (Sellars himself advocated this earlier: "A rule is always a 
-  rule for doing something"[-@sellars1954some]).
+  of Ought to Do (Sellars himself advocated this 
+  [earlier](/docs/phil/people/sellars/works/some_reflections/index.qmd): "A rule is always a 
+  rule for doing something").
 
 - There is also an analogous distinction involving permission, rather than 
   obligation.
@@ -35,7 +38,8 @@
 
 
 ## Upshots
-This lets us avoid the [rule obeying regress](/docs/phil/problems/ruleregress.qmd).
+This lets us avoid the 
+[rule obeying regress](/docs/phil/problems/ruleregress.qmd).
 
 This distinction also can be used to avoid paradoxes of "ought" for things we 
 don't have control over, e.g. I ought to believe such-and-such but I do not have 

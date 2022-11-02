@@ -1,7 +1,7 @@
 This intuitive distinction is explained 
 [here](/docs/phil/distinctions/made/analytic_synthetic.qmd) 
 but is broken in [Quine](/docs/phil/people/quine/index.qmd)'s 
-[Two Dogmas of Empiricism](/docs/phil/works/two_dogmas/index.qmd).
+[Two Dogmas of Empiricism](/docs/phil/people/quine/works/two_dogmas/index.qmd).
 What is challenged is the very notion of analyticity, 
 i.e. that the analytic-synthetic distinction can be made at all.
 

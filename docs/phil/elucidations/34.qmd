@@ -2,7 +2,7 @@
 title: Moral disagreement
 categories: 🔴
 subtitle: Kieran Setiya
-date: April 9, 2012
+published: April 9, 2012
 ---
 
 - Moral realism - moral claims are objectively true or false

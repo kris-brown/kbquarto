@@ -1,7 +1,7 @@
 > So, a second characterization of pragmatism might go like this: there is no 
 > epistemological difference between truth about what ought to be and truth 
 > about what is, nor any metaphysical difference between facts and values, nor 
-> any methodological difference between morality and science. [-@rorty2020pragmatism]
+> any methodological difference between morality and science. - [Pragmatism, Relativism, and Irrationalism](/docs/phil/people/rorty/works/pri/index.qmd)
 
 These are all just statements in vocabularies. Without privileging a "*nature*'s 
 own vocabulary."

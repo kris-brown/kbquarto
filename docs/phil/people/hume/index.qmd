@@ -33,8 +33,10 @@ The facts don't settle which of the things that actually happened *had to
 happen*, nor which of the things that didn't happen *were still possible*, i.e.
 not ruled out by laws concerning what did happen.
 
-So, Hume, and following him, Quine took it that epistemologically (but mostly 
+So, Hume (and [Quine](/docs/phil/people/quine/index.qmd)) took it that 
+epistemologically (but mostly 
 semantically) fastidious philosophers faced a stark choice, either:
+
 - show how to explain what's expressed by modal vocabulary in non modal terms
 - learn to live without it: Show how you can do what you need to do without talk 
 about laws and possibility and necessity and so on.
@@ -43,7 +45,8 @@ Hume saw that there was nothing that you could be labeling (or in his sense,
 describing) by these statements of laws. This is why Hume woke 
 [Kant](/docs/phil/people/kant/index.qmd) from his dogmatic slumbers.
 
-This stems from a kind of [semantic nominalism](/docs/phil/people/brandom/sellars09/4/#semantic-nominalism) 
+This stems from a kind of 
+[semantic nominalism](/docs/phil/people/brandom/sellars09/4/#semantic-nominalism) 
 that drew sharp lines around what you couldn't describe. Hume understood 
 saying/thinking something *as* describing something. It falls out of this that 
 saying how things might have been (or how things had to be) isn't describing 

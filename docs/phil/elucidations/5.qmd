@@ -2,7 +2,7 @@
 title: Perception
 categories: 🔴
 subtitle: Jocelyn Benoist
-date: November 2, 2009.
+published: November 2, 2009.
 ---
 
 What is interesting about perception for philosophers (distinct from 

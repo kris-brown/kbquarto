@@ -2,7 +2,7 @@
 title: Coversational context
 categories: 🔴
 subtitle: Robert Stalnaker
-date: July 18, 2011
+published: July 18, 2011
 ---
 
 

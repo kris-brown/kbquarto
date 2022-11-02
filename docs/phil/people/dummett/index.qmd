@@ -1,6 +1,14 @@
 ---
 title: Dummett
 categories: ⚪
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/people/dummett/index.yml
 ---
 
 Michael Dummett was an English philosopher of logic (1925-2011).

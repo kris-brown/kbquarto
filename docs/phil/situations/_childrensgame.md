@@ -1,5 +1,5 @@
 
-From [Philosophical Investigations](/docs/phil/works/pi/index.qmd#aphorism-69):
+From [Philosophical Investigations](/docs/phil/people/wittgenstein/works/pi/index.qmd#aphorism-69):
 
 A mother lets me watch her kids and says to me: Show the children a game. When 
 she returns, she sees me teaching them to gamble with

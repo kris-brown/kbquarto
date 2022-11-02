@@ -1,52 +1,51 @@
 ---
 title: Skepticism
-categories: 🔴
+categories: "🟢"
 subtitle: Ed Witherspoon
-date: August 2, 2010
+published: August 2, 2010
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/phil/elucidations/14.yml
 ---
 
 # What is radical skepticism advocating?
-  - Example: I know there is a table in front of me (both sides agree: if I know 
-    anything, I at least know that)
-  - Skeptic rejects that, and therefore rejects that you know anything
+  - Example: I know there is a table in front of me.
+    - (both sides agree that, *if* I know anything, I at least know that)
+  - However, the skeptic rejects that I know there is a table in front of me 
+    and therefore rejects that I know anything.
   - Many different skeptical arguments, often of the form "There exists a 
     scenario in which you are having the same phenomenological experience yet 
     there is no table, so how can you know whether you are in that scenario vs 
     the genuine experience scenario?"
-    - Examples: dreaming, evil genius, 
-      [brain in a vat](/docs/phil/problems/skepticism.qmd) (Putnam)
+    - Examples: dreaming, [evil genius](/docs/phil/people/descartes/index.qmd), 
+      [brain in a vat](/docs/phil/problems/skepticism.qmd) (from 
+      [Putnam](/docs/phil/people/putnam/index.qmd))
 
 # Argument against brain in a vat skepticism
 - These are not a general anti-skeptic arguments, but other skeptical tactics 
   might be addressable by similar reasoning.
-- Thus, Edward is proposing bottom up anti-skepticism, rather than some top-down 
-  "reason for knowing that the table is there"
+- Thus, Edward is proposing *bottom up* anti-skepticism, rather than some 
+  *top-down* "reason for knowing that the table is there"
 
-## No reason to believe brains in vats can think
-1. Logical priority of conventional methods of determining thoughts over brain 
-   scanner
-      - There is a causal dependence between brain activity and experience, but 
-        it is a leap to suggest that we can identify brain activity with 
-        experience.
-      - Even if we found an incredible empirical correlation between brain 
-        activity and experience, if we suddenly had a conflict one day (brain 
-        scanner says that the subject thinks he's drinking coffee, but we see 
-        him eating ice cream and he assures us he knows/believes he is eating 
-        ice cream), then we would conclude the brain scanner is wrong, not the
-        person.
-2. What it means to be a thought is not the same thing as what it means to be a 
-   brain state
-      - Brain states connected by casual relationships. Cannot be 'correct' or 
-        incorrect.
-      - Mental states occupy the space of reasons - the meaning of certain 
-        thought is identified by its relationships to other thoughts. Structured 
-        by normative relationships (can be correct or incorrect).
-      - If brain scanner with amazing correlation says that someone is telling a 
-        lie by analyzing brain states, they may be lying 100% of the time that 
-        brain scanner says they're lying, but it is not the brain state itself 
-        that makes them lying or not.
+## [No reason to believe brains in vats can think](/docs/phil/distinctions/broken/brainstate_experience.qmd) 
+
+The power of the skeptic's thought experiment comes from us easily imagining the 
+possibility of a brain being subjected to various brain states. One tactic 
+involves denying the skeptic's implicit claim that these brain states are 
+tantamount to experience.
+
+{{< include /docs/phil/distinctions/broken/_brainstate_experience.md >}}
+
+
 ## There are reasons to believe brains in vats cannot think
-Drawing from thoughts of John MacDowell ("Mind and World")
+Drawing from thoughts of 
+[John MacDowell](/docs/phil/people/macdowell/index.qmd)'s 
+[Mind and World](/docs/phil/people/macdowell/works/mind_and_world/index.qmd):
 
 - For a thought to be 'about' an object (world-directed, with empirical 
   content) - it's necessary that the correctness of the thought to be answerable 
@@ -58,53 +57,8 @@ Drawing from thoughts of John MacDowell ("Mind and World")
 
 # Why even bother thinking about skeptic challenges?
 - [Stanley Cavell](/docs/phil/people/cavell/index.qmd) has written well about 
-  how skeptical lines of thought arise.
+  how skeptical lines of thought arise
   naturally (i.e. they are not purely the product of academic philosophy).
 - Skepticism shows up in lots of fields/subfields of philosophy, and it's 
   important to prevent the confusion that arises here from spreading. (e.g. 
   brain scanner is relevant in legal topics)
-
-# Response at the time (2018)
-- 1A: Logical priority of conventional methods of determining thoughts over 
-  brain scanner
-    - Is this related to the fact that the brain scanner is purely correlation, 
-      rather than based on some fundamental theory?
-      - If we had a more fundamental theory that the brain scanner's workings 
-        fit in with (e.g. quantum mechanics), then we would be more likely to 
-        embrace the absurd scenario of the subject being insane (and/or we 
-        failed to identify his environment) rather than saying quantum 
-        mechanics is wrong.
-      - Surely there are historical examples where X is a ground for some 
-        technique Y, but for various reasons eventually Y becomes ground for X?
-      - Logically-prior = closer to the 'center' of the web-of-beliefs.
-    - Furthermore, this example only works if it is possible that there is a 
-      conflict (in the world where there is perfect correlation, then we can 
-      identify brain activity with thoughts)
-- 1B: "To be a brain state is one kind of thing, to have a thought is a 
-  different kind of thing"
-    - This is a good point towards saying they are not 'literally' identical, 
-      in the sense of "My dad's wife" and "My mom" being literally 'different' 
-      (they have different truth conditions) but may be equivalent given some 
-      state of affairs.
-      - This is perhaps sufficient to say "no reason to think brains in vats can 
-        think" ... but at least it's sufficient for "there is a reason to think 
-        brains in vats cannot think".
-    - What this argument does not show (which maybe Ed is advocating) is that it 
-      is incoherent to identify brain states with mental states. If we can 
-      identify them, then they both are both kinds of things and there are no
-    - There may be an isomorphism between the "logical space of reasons" and the 
-      space of brain states related by physical causality.
-      - If brain states (and their relations) were in bijective corrspondance to 
-        thoughts, then we can refer to a brain state by its thought and 
-        vice-versa. Whether or not this is the case is precisely the debate at 
-        hand, but bringing this point up does not advance the argument one way 
-        or another.
-    - How to decide whether to believe such an isomorphism likely exists is 
-      complicated.
-- 2:
-    - The belief that there is a table in front of me (even in brain-in-vat 
-      scenario) IS answerable to reality (and the the belief is false). Likewise 
-      for intentions (the intention will be unfulfilled, unless one is desiring 
-      to be a brain in a vat)
-    - How does this bear on the legality of killing comatose people (they are in 
-      an analogous situation)?

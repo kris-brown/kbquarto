@@ -2,7 +2,7 @@
 title: Goodness
 categories: 🔴
 subtitle: Richard Kraut
-date: April 5, 2010
+published: April 5, 2010
 ---
 
 # Two notions of good

@@ -1,6 +1,6 @@
 ---
 title: Bee Waggle
-categories: 🟠
+categories: 🟢
 listing:
   id: backlinks
   type: table

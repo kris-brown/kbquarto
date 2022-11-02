@@ -1,8 +1,17 @@
 ---
 title: Leibniz
 categories: ⚪
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/people/leibniz/index.yml
 ---
 
-A German metaphysical rationalist (1646-1716).
+A German metaphysical [rationalist](/docs/phil/definitions/rationalism.qmd) 
+(1646-1716).
 
 ![](/images/headshots/leibniz.jpeg)

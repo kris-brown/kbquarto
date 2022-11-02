@@ -1,0 +1,55 @@
+---
+title: Teleosemantics
+categories: 🟠
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/phil/definitions/teleosemantics.yml
+---
+
+Developed by [Ruth Millikan](/docs/phil/people/millikan/works/language_other_biological/index.qmd).
+
+A simple example: imagine that beavers slap their tail when there's danger, and 
+beavers flee when they hear another beaver slap its tail.
+
+The idea of teleosemantics is an evolutionary sort of semantics.
+
+  - Acknowledge language use is normative (make distinction between correct 
+    and incorrect use).
+  - You have to draw the distinction in the way that's compatible with any 
+    degree of badness of the participants actually following the rules.
+  - We look at a reproductive family, the normal explanation (a technical term) 
+    of tail slapping is that, in the evolutionary history, lives were saved by 
+    it.
+  - When the explanation of the persistence of tail slapping turns on 
+    particular events in the past where things worked well that way (expressed 
+    in terms of counterfactuals - no tail slap, then species dies out), then 
+    we can say its part of the proper function (technical term) to perform 
+    that behavior.
+  - This solves some puzzle cases: it allows us to say the proper function of 
+    sperm is to fertilize eggs even if a vanishingly small fraction of them 
+    actually do (because if they hadn't fertilized eggs in the past, there 
+    wouldn't be sperm now).
+
+This is the form of explanation for semantics in general. Because the 
+same thing can happen when the reproductive families are uses of words.
+
+  - You can explain why we use the word 'Aristotle', as we do, if has having a 
+    proper function of, in the end, referring to Aristotle, because if people 
+    in the past had not used it, in particular ways, we wouldn't be using it 
+    today.
+  - And similarly, for predicates, and so on.
+  - These are not biological norms. But we can understand words as having 
+    proper functions in the same sense in which even in the merely biological 
+    case, we can understand things as having proper functions. And we can 
+    understand them as having proper signaling functions.
+  - So, there's a proper function for producing these things and a proper 
+    function for receiving them.
+      - There, the analogy of the of the tail slaps is a good one.
+
+In order to understand semantic content, we don't need to use any principles 
+of explanation that aren't already intelligible.

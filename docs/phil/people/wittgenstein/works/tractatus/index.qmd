@@ -1,0 +1,15 @@
+---
+title: Tractatus Logico-Philosophicus
+categories: ⚪
+author: Ludwig Wittgenstein
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs/phil/people/wittgenstein/works/tractatus/index.yml
+---
+
+TODO

@@ -2,7 +2,7 @@
 title: Experimental philosophy
 categories: 🔴
 subtitle: Jesse Prinz
-date: December 1, 2009
+published: December 1, 2009
 ---
 # What is it?
 It's an alternative source of evidence towards philosophical theses. It's not 
@@ -52,9 +52,12 @@ say rather than what really is?
 
 # Empiricism vs rationalism
   - Do we have faculties that trancend experience?
-  - Empiricists see a continuity between what we observe and how we reason
-    - Hume argues that we "think in pictures" and arrives at this conclusion by 
+  - [Empiricists](/docs/phil/definitions/empiricism.qmd) see a continuity 
+    between what we observe and how we reason
+    - [Hume](/docs/phil/people/hume/index.qmd) argues that we "think in 
+      pictures" and arrives at this conclusion by 
       personal reflection.
-    - Rationalists like Descartes says we can conceive of distinct figures of 
+    - [Rationalists](/docs/phil/definitions/rationalism.qmd) like Descartes 
+      says we can conceive of distinct figures of 
       1000 vs 999 sides, even if they are visually indistinguishable.
   - This point could be resolved by traditional psychology.

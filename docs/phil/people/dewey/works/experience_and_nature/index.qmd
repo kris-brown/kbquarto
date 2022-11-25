@@ -1,6 +1,6 @@
 ---
 title: Experience and Nature
-categories: ⚪
+categories: [⚪, work]
 author: John Dewey 
 listing:
   id: backlinks

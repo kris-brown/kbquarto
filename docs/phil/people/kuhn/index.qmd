@@ -1,6 +1,6 @@
 ---
 title: Thomas Kuhn
-categories: ⚪
+categories: [⚪, person]
 listing:
   id: backlinks
   type: table

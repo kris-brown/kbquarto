@@ -1,6 +1,6 @@
 ---
 title: Hilary Putnam
-categories: ⚪
+categories: [⚪, person]
 listing:
   id: backlinks
   type: table

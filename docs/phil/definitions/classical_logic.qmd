@@ -12,3 +12,5 @@ listing:
 ---
 
 TODO 
+
+[Law of the excluded middle](/docs/phil/definitions/excluded.qmd)

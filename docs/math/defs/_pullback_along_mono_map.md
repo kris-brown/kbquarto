@@ -1,4 +1,4 @@
-To construct a pullback along a monotone map $P \xrightarrow{f} Q$:
+To construct a *pullback along a monotone map* $P \xrightarrow{f} Q$:
 
 - We take the preimage of $f$, but not for a single element of $Q$ but rather 
   an [upper set](/docs/math/defs/upper_set.qmd) of $Q$.

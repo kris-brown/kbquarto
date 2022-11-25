@@ -1,5 +1,5 @@
 The *composite* $\mathcal{X}\overset{\phi;\psi}\nrightarrow \mathcal{Z}$ of two 
-$\mathcal{V}$ [profunctors](/docs/math/defs/vprof.qmd), 
+[$\mathcal{V}$ profunctors](/docs/math/defs/vprof.qmd), 
 $\mathcal{X}\overset{\phi}\nrightarrow\mathcal{Y}$ and 
 $\mathcal{Y}\overset{\psi}\nrightarrow\mathcal{Z}$
 

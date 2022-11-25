@@ -15,7 +15,7 @@ listing:
 
 # Counterfactuals and dispositions
 
-Uses [Principia Mathematica](/docs/phil/people/russell/works/principia/index.qmd) 
+Uses [Principia Mathematica](/docs/phil/people/russell/works/principia) 
 notation, which takes some time to learn.
 
 [Goodman](/docs/phil/people/goodman/index.qmd) has let the formalism of classical 
@@ -116,9 +116,7 @@ still not have a description.
 Suppose I'm trying to give you the concept of gleeb. I give you an infalliable 
 gleebness tester. Do you have a description?
 
-Sellars: "It's only because the expressions in terms of which we describe 
-objects, locate those objects in a space of implications that they describe it 
-all rather than merely label."
+{{< include /docs/phil/people/sellars/works/cdcm/_labels_descriptions.md >}}
 
 This is what a mere classifier does.
 

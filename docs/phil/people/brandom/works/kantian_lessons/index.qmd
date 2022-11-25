@@ -1,6 +1,6 @@
 ---
 title: Kantian Lessons about Mind, Meaning, and Rationality
-categories: ⚪
+categories: [⚪, work]
 author: Robert Brandom
 listing:
   id: backlinks

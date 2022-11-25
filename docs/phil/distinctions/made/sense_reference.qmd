@@ -1,0 +1,13 @@
+---
+title: Sense vs reference
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/distinctions/made/sense_reference.yml
+---
+
+{{< include /docs/phil/distinctions/made/_sense_reference.md >}}

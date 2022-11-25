@@ -1,0 +1,18 @@
+---
+title: Semantics 
+categories: ⚪
+subtitle: the theory of the *meaning* or *content* of expressions
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/docs/phil/definitions/semantics.yml
+---
+
+An empiricist approach to semantics wants to give semantics of an expression 
+in terms of its 
+[sense dependence](/docs/phil/distinctions/made/sense_dependence_reference.qmd) 
+rather than its reference dependence.

@@ -1,5 +1,6 @@
 ---
 title: Regulism, regularism
+categories: phil
 draft: true
 ---
 I also see prescriptivism and descriptivism (in linguistics) in Sellars' 

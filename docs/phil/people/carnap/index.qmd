@@ -1,6 +1,6 @@
 ---
 title: Carnap
-categories: ⚪
+categories: [⚪, person]
 listing:
   id: backlinks
   type: table

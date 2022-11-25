@@ -1,0 +1,41 @@
+---
+title: Lecture 1
+---
+
+Sellars is a *great* philospher:
+
+- work being transformative 
+  - when you understand it, you then view many other central problems in 
+    philosophy differently) 
+  - deep as in radical, going to the roots
+  - Not necessary influential (e.g. Quine) 
+- work is rich / inexhaustible
+  - every time you go back to it you find something new
+
+# Quotes on describing, justifying, explaining
+
+Sellars is taking the notions of "describing", "justifying", "explaining" as 
+they are in practice rather than inventing an artifical formal meaning.
+
+- [Scientium mensura](/docs/phil/people/sellars/works/epm/scientia.qmd)
+- [Space of reasons](/docs/phil/people/sellars/works/epm/space_of_reasons.qmd)
+- [Labeling vs describing](/docs/phil/people/sellars/works/cdcm/labels_describing.qmd)
+- [Describing/explaining](/docs/phil/people/sellars/works/cdcm/describing_explaining.qmd)
+- [Explanation and justification](/docs/phil/people/sellars/works/cdcm/expressions_explanations.qmd)
+- [Nondescriptive concepts](/docs/phil/people/sellars/works/cdcm/nondescriptive_concepts.qmd)
+
+In an autobiographical work, Sellars noted that, already when he was in Oxford 
+as a grad student, he knew he wanted a functional theory of concepts 
+(especially alethic/normative modalities), which would make their role in 
+reasoning, rather than their supposed origin and experience their primary
+feature. Sellars takes modal expressions to be inference licenses.
+
+- [Kant switcharoo](/docs/phil/people/sellars/works/im/judgment_order.qmd)
+- [Importance of subjunctive conditionals](/docs/phil/people/sellars/works/im/subjunctive_conditionals.qmd)
+- [Describing without modality](/docs/phil/people/sellars/works/cdcm/describing_wo_modality.qmd)
+- [Transposed language of norms](/docs/phil/people/sellars/works/im/transposed.qmd)
+- [Man as rational animal](/docs/phil/people/sellars/works/lrb/rational_animal.qmd)
+- [Rule is in behavior](/docs/phil/people/sellars/works/lrb/rules_lived.qmd)
+- [Against phenomalism](/docs/phil/people/sellars/works/phenomenalism/against_phenomenalism.qmd)
+- [Transitioning into language](/docs/phil/people/sellars/works/psim/transition.qmd)
+

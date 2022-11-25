@@ -1,0 +1,21 @@
+---
+title: Transition to conceptual thinking
+categories: [quote]
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs/phil/people/sellars/works/psim/transition.yml
+---
+
+{{< include /docs/phil/people/sellars/works/psim/_transition.md >}}
+
+
+- Constrast with Wittgensteinian image of "light dawning slowly on the whole". 
+  Sellars is worried about the mechanism of how this happens.
+- The idea of language as something that is necessarily (rather than 
+  accidentally) criticizable is close to the 
+  [private language argument](/docs/phil/people/wittgenstein/works/pi).

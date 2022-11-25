@@ -1,6 +1,6 @@
 ---
 title: John MacDowell
-categories: ⚪
+categories: [⚪, person]
 listing:
   id: backlinks
   type: table

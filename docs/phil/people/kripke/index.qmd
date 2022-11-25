@@ -1,4 +1,13 @@
 ---
 title: Saul Kripke
-categories: ⚪
+categories: [⚪, person]
+listing:
+  - id: content
+    type: table 
+    categories: false
+    page-size: 100000
+    filter-ui: true
+    fields: ["title"]
 ---
+
+TODO

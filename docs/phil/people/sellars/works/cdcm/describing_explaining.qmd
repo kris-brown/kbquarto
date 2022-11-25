@@ -1,0 +1,26 @@
+---
+title: Describing and explaining
+categories: [quote]
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs/phil/people/sellars/works/cdcm/describing_explaining.yml
+---
+
+{{< include /docs/phil/people/sellars/works/cdcm/_describing_explaining.md >}}
+
+- These two kinds of discursive activity; one can be describing in a
+  particular act and not explaining (and vice-versa).
+- Globally, they're only intelligible in terms of their relation to
+  each other. 
+  - ([describing is placing in a space of implications](/docs/phil/people/sellars/works/epm/space_of_reasons.qmd),
+     which is relevant for explanation.
+- The claim that matters: you couldn't have an
+  [language](/docs/phil/definitions/autonomous_discursive_practice.qmd) 
+  in use that had one and not the other.
+- The reason is at least that in order to describe something you have
+  to place it in a space of implications (i.e. the above quote)

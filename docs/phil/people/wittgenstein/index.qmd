@@ -1,14 +1,21 @@
 ---
 title: Wittgenstein
-categories: ⚪
+categories: [⚪, person]
 listing:
-  id: backlinks
-  type: table
-  page-size: 100000
-  filter-ui: true
-  template: "../../../../ejs/custom.ejs"
-  contents:
-    - ../../../../backlinks/docs/phil/people/wittgenstein/index.yml
+  - id: content
+    type: table 
+    categories: false
+    page-size: 100000
+    filter-ui: true
+    fields: ["title"]
+
+  - id: backlinks
+    type: table
+    page-size: 100000
+    filter-ui: true
+    template: "../../../../ejs/custom.ejs"
+    contents:
+      - ../../../../backlinks/docs/phil/people/wittgenstein/index.yml
 ---
 
 An Austrian philosopher (1889-1951).
@@ -27,17 +34,3 @@ A view attributed to Wittgenstein by Brandom: "Language has no downtown." /
 arrayed around it as a suburb of it.
 - Sellars disagrees: thinks the downtown is giving and asking for reasons.
 
-## What is ... questions
-
-The questions:
-
- - "What is length?"
- - "What is meaning?"
- - "What is the number one?"
- - etc.
-
-produce in us a mental cramp. We feel that we can't point to anything in reply 
-to them and yet ought to point to something. [-@wittgenstein1958blue]
-
-- We are up against one of the great sources of philosophical bewilderment: we 
-  try to find a substance for a substantive.

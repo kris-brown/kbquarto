@@ -1,6 +1,6 @@
 ---
 title: Must We Mean What We Say 
-categories: ⚪
+categories: [⚪, work]
 author: Stanley Cavell
 published: 1958
 ---

@@ -1,6 +1,6 @@
 ---
 title: Critique of Pure Reason
-categories: ⚪
+categories: [⚪, work]
 author: Immanuel Kant
 listing:
   id: backlinks

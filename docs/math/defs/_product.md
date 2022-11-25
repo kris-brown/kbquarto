@@ -1,4 +1,5 @@
-Given two objects $X,Y \in \mathcal{C}$, the *product* $X \times Y$ is another 
+Given two objects in a [category](/docs/math/defs/cat.qmd) 
+$X,Y \in \mathcal{C}$, the *product* $X \times Y$ is another 
 object in $\mathcal{C}$ with morphisms 
 $X \xleftarrow{p_x}X\times Y\xrightarrow{p_y}Y$
 

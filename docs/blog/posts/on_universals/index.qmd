@@ -1,7 +1,7 @@
 ---
 title: On universals
 description: Connecting "tooth pain" anecdote to a historical problem.
-categories: 🟠
+categories: [🟠, phil]
 date: 2/24/2022
 draft: false
 ---

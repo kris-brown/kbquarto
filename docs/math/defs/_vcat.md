@@ -1,4 +1,5 @@
-A $\mathcal{V}$-*category*, requires a [symmetric monoidal preorder](/docs/math/defs/smp.qmd) 
+A $\mathcal{V}$-*category*, requires a 
+[symmetric monoidal preorder](/docs/math/defs/smp.qmd) 
 $\mathcal{V}=(V,\leq,I,\otimes)$
 
 To provide the data for such a category, $\mathcal{X}$, one specifies:

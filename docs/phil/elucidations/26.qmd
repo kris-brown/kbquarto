@@ -5,10 +5,11 @@ subtitle: Robert Richards
 published: September 8, 2011
 ---
 
-- What is altruism
+# What is altruism?
   - "pure altruism" Help to someone else at some cost to self
   - (distinct from reciprocal altruism: done with expectation of return)
-- Is the tendency to behave altrusitically was evolved?
+
+# Was the tendency to behave altrusitically evolved?
   - Other animals act in benefit for kin
     - E.g. bird lures predator away from nest to protect her offspring
     - We have genetic disposition to protect our genes (even if not done on 
@@ -22,7 +23,8 @@ published: September 8, 2011
         as moral behavior)
       - It's your neighbor - you call the fire department (societally judged as 
         moral behavior)
-      - This is very distinct from \ref{kant|Kantian|} moral behavior which 
+      - This is very distinct from [Kantian](/docs/phil/people/kant) 
+        moral behavior which 
         would judge the scenarios as roughly equal.
         - (this is not a good model of how we actually behave)
     - Evidence that this behavior can be explained via evolution

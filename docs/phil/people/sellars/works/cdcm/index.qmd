@@ -1,34 +1,21 @@
 ---
 title: Counterfactuals, Dispositions, and the Causal Modalities
-categories: ⚪
+categories: [🟣, work]
 listing:
-  id: backlinks
-  type: table
-  page-size: 100000
-  filter-ui: true
-  template: "../../../../../../ejs/custom.ejs"
-  contents:
-    - ../../../../../../backlinks/docs/phil/people/sellars/works/cdcm/index.yml
+  - id: content
+    type: table 
+    categories: false
+    page-size: 100000
+    filter-ui: true
+    fields: ["title"]
+
+  - id: backlinks
+    type: table
+    page-size: 100000
+    filter-ui: true
+    template: "../../../../../../ejs/custom.ejs"
+    contents:
+      - ../../../../../../backlinks/docs/phil/people/sellars/works/cdcm/index.yml
 ---
 
 [-@sellars1958counterfactuals]
-
-# Quotes 
-
-## Describing the world without modality
-
-> The idea that the world can in principle be so described that the description
-contains no modal expressions is of a piece with the idea that world can in
-principle be so described such that the description contains no prescriptive
-expressions. 
-
-- He doesn't explicitly say whether it's a bad idea or not.
-- He wants to say modal expressions and normative expression belong in a box.
-
-## Modal expressions as explanations
-> To make firsthand use of modal expressions / subjunctive conditionals, is to
-be about the business of explaining a state of affairs or justifying an
-assertion. 
-
-- Note: we *explain* an (actual) state of affairs. We *justify* an assertion
-(non-actual, in the space of reasons).

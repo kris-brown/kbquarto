@@ -1,6 +1,6 @@
 ---
 title: Husserl
-categories: ⚪
+categories: [⚪, person]
 listing:
   id: backlinks
   type: table

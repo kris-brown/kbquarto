@@ -1,6 +1,6 @@
 ---
 title: Ruth Millikan
-categories: ⚪
+categories: [⚪, person]
 listing:
   id: backlinks
   type: table
@@ -11,4 +11,4 @@ listing:
     - ../../../../backlinks/docs/phil/people/millikan/index.yml
 ---
 
-TODO
+An example of a ["right-wing" Sellarsian](/docs/phil/people/sellars/wings.qmd).

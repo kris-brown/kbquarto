@@ -43,7 +43,7 @@ function get_links()
   title_dict = Dict{String,String}()
   for (root, _, files) in walkdir("docs") 
     for file in sort(collect(filter(x -> is_qmd(x) || is_md(x), files)))
-      finame = normpath("/$root/$(file[1:end-4])")
+      finame = replace(normpath("/$root/$(file[1:end-4])"), r"/index$"=>"")
       if is_qmd(file) 
         if !haskey(links_out, finame)
           links_out[finame] = get_links(root,file) 
@@ -79,7 +79,7 @@ function get_links_in(links_out)
   # ld is the links out; we want the links *in* 
   links_in = Dict{String,Vector{Pair{String,String}}}([ 
     fi => Pair{String,String}[] for fi in keys(links_out)])
-
+  println.(keys(links_in))
   for (fi, outlinks) in collect(links_out) 
     for (out_fi, ctx) in outlinks 
       out_fi = occursin("#", out_fi) ? out_fi[1:findlast("#", out_fi).start-1] : out_fi 
@@ -101,7 +101,9 @@ end
 function render_links(links_in, title_dict)
   filter!(x->!isempty(x[2]),links_in)
 
-  for (k,vs) in collect(links_in) 
+  for (k_,vs) in collect(links_in) 
+    k = isfile("$(k_[2:end]).qmd") ? k_ : "$k_/index"
+
     kpth = "backlinks$k.yml"
     mkpath(dirname(kpth))
     open(kpth, "w") do io
@@ -113,8 +115,9 @@ function render_links(links_in, title_dict)
     end
     # sanity check
     ndots = count(==('/'),k) - 1
-    dotsbl = join(fill("..", ndots), "/") * "/" * kpth
     fname = "$(k[2:end]).qmd"
+    isfile(fname) || error("$fname")
+    dotsbl = join(fill("..", ndots), "/") * "/" * kpth
     estr = "$k\n $(show_listing(ndots,kpth))\nbecause of $vs"
     occursin(dotsbl, read(fname, String)) || error(estr)
   end
@@ -139,24 +142,34 @@ function get_links(root,fi)
       mstr = make_absolute(root, mstr) 
       # if the link refers to a specific section of a page, cut that off 
       mstr = occursin("#", mstr) ? mstr[1:findlast("#", mstr).start-1] : mstr 
+
       # if the link points to just a folder, add a index.qmd 
-      mstr = occursin(".", last(split(mstr,"/"))) ? mstr : "$(mstr)/index.qmd" 
+      # mstr = occursin(".", last(split(mstr,"/"))) ? mstr : "$(mstr)/index.qmd" 
+
+      # remove index.qmd
+      mstr = replace(mstr, "index.qmd"=>"") 
+
       # normalize the filepath 
       mstr = normpath("/"*mstr)
 
       # Sanity checks 
-      mstr[end - 3 : end] == ".qmd" || error("mstr $mstr in $root/$fi")
+      if mstr[end - 3 : end] ∈ [".pdf", ".png", ".jpg"] continue end 
+      if occursin(".",mstr) 
+        mstr[end - 3 : end] == ".qmd" || error("mstr $mstr in $root/$fi")
+        mstr = mstr[1:end-4]
+      end
 
       # clean up context
       prestr_ = clean(txt[1:m.offset-1])
       poststr_ = clean(txt[m.offset+length(m.match) : end])
       prestr  = prestr_[max(1, length(prestr_) - WIDTH) : end]
       poststr = poststr_[1 : min(length(poststr_),WIDTH)]
+      length(prestr) > 0 && length(poststr) > 0 || error("$root/$fi")
       prestr = prestr[1] == '"' ? '\\'*prestr : prestr
       poststr = poststr[end] == '\\' ? poststr[1:end-1] : poststr
       ctx = prestr * "<b>" * clean(rm_link(m.match)) * "</b>" * poststr 
       
-      push!(res,mstr[1:end-4] => ctx) 
+      push!(res,mstr => ctx) 
     end 
   end 
  return res

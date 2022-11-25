@@ -5,3 +5,4 @@ $\mathcal{V}=(V,\leq,I,\otimes,\multimap)$ that has all
 
 - $\bigvee A$ exists for all $A \subseteq V$
 - Denote the empty join as $0 := \bigvee \varnothing$
+- 

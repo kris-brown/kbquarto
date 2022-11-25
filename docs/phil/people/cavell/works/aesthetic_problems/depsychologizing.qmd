@@ -1,0 +1,14 @@
+---
+title: Depsychologizing
+categories: [quote]
+listing:
+  - id: backlinks
+    type: table
+    page-size: 100000
+    filter-ui: true
+    template: "../../../../../../ejs/custom.ejs"
+    contents:
+      - ../../../../../../backlinks/docs/phil/people/cavell/works/aesthetic_problems/depsychologizing.yml
+---
+
+{{< include /docs/phil/people/cavell/works/aesthetic_problems/_depsychologizing.md >}}

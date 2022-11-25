@@ -2,7 +2,7 @@
 title: Language, Thought, and Other Biological Categories
 author: Ruth Milliken
 published: 1987
-categories: ⚪
+categories: [⚪, work]
 listing:
   id: backlinks
   type: table

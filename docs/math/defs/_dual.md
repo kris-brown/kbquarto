@@ -1,5 +1,6 @@
 The *dual* for an object $c \in Ob(\mathcal{C})$, which is part of a 
-symmetric monoidal category $(\mathcal{C},I,\otimes)$ has three consituents:
+[symmetric monoidal category](/docs/math/defs/smc.qmd) 
+$(\mathcal{C},I,\otimes)$ has three constituents:
 
 1. An object $c^* \in Ob(\mathcal{C})$ called the *dual of c*
 2. A morphism $I\xrightarrow{\eta_c}c^* \otimes c$ called the *unit for c*

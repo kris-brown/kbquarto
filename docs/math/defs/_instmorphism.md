@@ -1,4 +1,5 @@
-An *instance homomorphism* between two database instances, 
+An *instance homomorphism* between two 
+[database instances](/docs/math/defs/db_instance.qmd), 
 $\mathcal{C}\xrightarrow{I,J}\mathbf{Set}$ is a 
 [natural transformation](/docs/math/defs/natural_transformation.qmd) between the 
 two [functors](/docs/math/defs/functor.qmd) representing the instances.

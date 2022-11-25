@@ -1,6 +1,6 @@
 ---
 title: Thoughts on Elucidations \#1
-categories: 🔴
+categories: [🔴, phil]
 draft: true
 ---
 

@@ -2,6 +2,8 @@
 title: Skepticism
 categories: "🟢"
 subtitle: Ed Witherspoon
+filters:
+  - ../../../filters/newpagelink.lua
 published: August 2, 2010
 listing:
   id: backlinks
@@ -12,6 +14,9 @@ listing:
   contents:
     - ../../../backlinks/docs/phil/elucidations/14.yml
 ---
+
+[link](https://example.com){target="_blank"}
+
 
 # What is radical skepticism advocating?
   - Example: I know there is a table in front of me.

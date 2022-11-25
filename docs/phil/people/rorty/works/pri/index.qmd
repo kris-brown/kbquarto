@@ -1,7 +1,6 @@
 ---
 title: Pragmatism, Relativism, and Irrationalism
-categories: ⚪
-author: Richard Rorty
+categories: [⚪, work]
 listing:
   id: backlinks
   type: table

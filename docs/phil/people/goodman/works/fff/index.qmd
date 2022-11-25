@@ -1,6 +1,6 @@
 ---
 title: Fact, Fiction, and Forecast
-categories: ⚪
+categories: [⚪, work]
 author: Nelson Goodman
 published: 1983
 listing:

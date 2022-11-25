@@ -1,6 +1,6 @@
 ---
 title: Principia Mathematica
-categories: ⚪
+categories: [⚪, work]
 author: Bertrand Russell and Albert Whitehead
 listing:
   id: backlinks
@@ -11,3 +11,5 @@ listing:
   contents:
     - ../../../../../../backlinks/docs/phil/people/russell/works/principia/index.yml
 ---
+
+TODO

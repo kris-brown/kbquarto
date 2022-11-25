@@ -1,7 +1,6 @@
 ---
 title: Philosophical Investigations
 categories: ⚪
-author: Ludwig Wittgenstein
 published: 1953
 listing:
   id: backlinks
@@ -14,6 +13,14 @@ listing:
 ---
 
 [-@wittgenstein2010philosophical]
+
+# Private language argument 
+
+See [SEP](/https://plato.stanford.edu/entries/private-language)
+
+# Quotes about 
+{{< include /docs/phil/people/cavell/works/aesthetic_problems/_depsychologizing.md >}}
+- [stanley cavell](/docs/phil/people/cavell/works/aesthetic_problems/index.qmd) 
 
 # Quotes 
 

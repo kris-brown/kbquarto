@@ -1,6 +1,6 @@
 ---
 title: Plato
-categories: ⚪
+categories: [⚪, person]
 comments: false
 listing:
   id: backlinks

@@ -11,4 +11,11 @@ listing:
     - ../../../backlinks/docs/phil/definitions/pragmatism.yml
 ---
 
+# Overview 
 TODO 
+
+## Example semantics
+What does it *mean* that "All $A$'s are necessarily $B$'s"? A pragmatist answer 
+is that it is a license to infer statements like "$x$ is a $B$" from statements 
+like "$x$ is an $A$".
+

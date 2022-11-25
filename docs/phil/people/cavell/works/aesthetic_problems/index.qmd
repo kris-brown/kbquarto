@@ -1,0 +1,23 @@
+---
+title: Aesthetic Problems of Modern Philosophy
+categories: [work]
+published: 1965
+listing:
+  - id: content
+    type: table 
+    categories: false
+    page-size: 100000
+    filter-ui: true
+    fields: ["title"]
+
+  - id: backlinks
+    type: table
+    page-size: 100000
+    filter-ui: true
+    template: "../../../../../../ejs/custom.ejs"
+    contents:
+      - ../../../../../../backlinks/docs/phil/people/cavell/works/aesthetic_problems/index.yml
+---
+
+# Quotes 
+

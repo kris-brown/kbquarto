@@ -1,14 +1,21 @@
 ---
 title: Brandom
-categories: ⚪
+categories: [⚪, person]
 listing:
-  id: backlinks
-  type: table
-  page-size: 100000
-  filter-ui: true
-  template: "../../../../ejs/custom.ejs"
-  contents:
-    - ../../../../backlinks/docs/phil/people/brandom/index.yml
+  - id: content
+    type: table 
+    categories: false
+    page-size: 100000
+    filter-ui: true
+    fields: ["title"]
+
+  - id: backlinks
+    type: table
+    page-size: 100000
+    filter-ui: true
+    template: "../../../../ejs/custom.ejs"
+    contents:
+      - ../../../../backlinks/docs/phil/people/brandom/index.yml
 ---
 
 An American philosopher, born in 1950. 
@@ -37,3 +44,12 @@ of Kant)
 
 ### Sapience
 > It's not what's between your ears, it's what's between you and your peers.
+
+## Jokes
+### On Gil Harmon
+My teacher Gil Harmon said you should never really read anything that was 
+written more than five years ago because, if it was important, people would 
+have written about it. My classmates thought at the time that Gil was the 
+*non plus ultra* of an ahistorical philosopher, but came to realize they were 
+wrong. He was steeped in the history of philosophy - everything he did came out 
+of his understanding of it ... it's just that he thought it started with Quine. 

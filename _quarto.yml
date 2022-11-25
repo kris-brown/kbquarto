@@ -70,19 +70,25 @@ format:
     code-overflow: wrap
     css: styles.css
     include-after-body: js.html
+    code-fold: show
 
 filters:
   - filters/include-files.lua
   - filters/tikz-to-png.lua
+  - filters/newpagelink.lua
   - quarto
 
-freeze: auto
+execute:
+  freeze: auto
+  cache: true
 
 date: last-modified
 date-format: short
 title-block-published: "Updated"
 title-block-categories: true
 editor: visual
+page-layout: full
+jupyter: julia-1.8
 
 comments:
   utterances:

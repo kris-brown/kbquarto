@@ -1,4 +1,4 @@
-A preorder such that
+A [preorder](/docs/math/defs/preorder.qmd) such that
 
 $$q \leq p \iff p \leq q$$
 

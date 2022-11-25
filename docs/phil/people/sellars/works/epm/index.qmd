@@ -1,49 +1,24 @@
 ---
 title: Empiricism and the Philosophy of Mind
-categories: ⚪
+categories: [⚪, work]
 published: 1956
 listing:
-  id: backlinks
-  type: table
-  page-size: 100000
-  filter-ui: true
-  template: "../../../../../../ejs/custom.ejs"
-  contents:
-    - ../../../../../../backlinks/docs/phil/people/sellars/works/epm/index.yml
+  - id: content
+    type: table 
+    categories: false
+    page-size: 100000
+    filter-ui: true
+    fields: ["title"]
+
+  - id: backlinks
+    type: table
+    page-size: 100000
+    filter-ui: true
+    template: "../../../../../../ejs/custom.ejs"
+    contents:
+      - ../../../../../../backlinks/docs/phil/people/sellars/works/epm/index.yml
 ---
 
 [-@sellars1956empiricism]
 
-# Quotes 
 
-## Scientium mensura {#scientium}
-> In the dimension of describing and explaining the world, science is the measure
-of all of things. Of what is that it is, and of what is not that it is not.
-
-- Unfortunately, the opening qualification is important but usually left out.
-
-## Space of reasons
-> In characterizing an episode or a state as *knowing*, we are not giving an
- empirical description of it. We are placing it in the logical space of reasons, 
- of justifying and being able to justify what one says. [-@sellars1956empiricism]
-
-- Note, there's nothing too special about *knowing*. He could also have said *believing*.
-- We're *doing* something, an act that's not *describing* something.
-- Relates to the scientium mensura quote - we have an example of something 
-  (describing knowledge) as something that science is not the measure of all 
-  things about.
-- [Rorty](/docs/phil/people/rorty/index.qmd) characterized Sellars 
-  readership as "right wing" (ones who felt the 
-  greatest philosophical illumination from "scientium mensura") vs "left wing" 
-  (who rally behind the "space of reasons").
-- The Vienna circle, too, had two wings (the 
-  [naturalist](/docs/phil/definitions/naturalism.qmd) wing (Neurath) and the 
-  [empiricist](/docs/phil/definitions/empiricism.qmd) wing (Schlict)) in 
-  tension (e.g. empiricists making sense of modal 
-  statements). [Carnap](/docs/phil/people/carnap/index.qmd) struggled to 
-  hold them together.
-- Joke: [Rorty](/docs/phil/people/rorty/index.qmd) says "I hope the left and 
-  right wing Sellarsians can sort their 
-  differences out in the end more peacefully than the left and right wing 
-  Hegelians did, who settled it once and for all at a 6 month seminar called 
-  The Battle of Stalingrad."

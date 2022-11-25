@@ -1,0 +1,30 @@
+---
+title: Value of extreme examples
+draft: true
+---
+
+Sometimes extreme examples are not appropriate, e.g. when an 
+emotionally-triggering example is used where an ordinary one would suffice. [^1]
+
+
+[^1]: Furthermore, when you take an opponent's argument to unintended extremes, it 
+can be easily miscontrued that you actually think the opponent holds the
+extreme view (that you fail to have the basic social skill of recognizing that 
+a lot of communication is *implicit*). 
+
+But if you can avoid that miscontrual, then an extreme example can efficiently 
+cut to the heart of matters by getting the opponent to be *more explicit*. For 
+example there is an argument as to whether it is unethical for a company that 
+makes a mini magnet toy (which has hundreds of tiny ball magnets) to report 
+its injuries in terms of injuries per magnet (1 in 22 million) instead of 
+1 injury per 100,000 sets.
+
+Arguing against someone who says the first statistic is not inherently wrong, 
+one could say "Is it wrong to report injuries per atom sold?" It would be 
+cleaner to phrase this as "Why is it the case that you draw the line between 
+injury per magnet and injury per atom?" to avoid a misconception[^1]. 
+
+The fact that the atoms are inseparable from each other might be an explanation.
+This could be pushed to be that the atoms all come at once together makes it 
+deceptive to split them up for the purposes of the injury denominator. This can
+inform the injury per set vs injury per magnet debate. 

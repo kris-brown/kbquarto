@@ -2,7 +2,7 @@ The *pullback* of [functor](/docs/math/defs/functor.qmd)
 $\mathcal{D}\xrightarrow{I}\mathbf{Set}$ *along* functor 
 $\mathcal{C}\xrightarrow{F}\mathcal{D}$.
 
-- The composite [functor](/docs/math/defs/functor.qmd) 
+- The composite functor
   $\mathcal{C}\xrightarrow{F;I}\mathbf{Set}$
 - Given a natural transformation $I \overset{\alpha}\Rightarrow J$, there is a 
   natural transformation $\alpha_F$ whose components (morphisms in **Set** from 

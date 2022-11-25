@@ -1,4 +1,6 @@
-A functor $\mathcal{C}\xrightarrow{L}\mathcal{D}$ is *left adjoint* to a functor  $\mathcal{D}\xrightarrow{R}\mathcal{C}$
+A [functor](/docs/math/defs/functor.qmd) 
+$\mathcal{C}\xrightarrow{L}\mathcal{D}$ is *left adjoint* to a 
+functor  $\mathcal{D}\xrightarrow{R}\mathcal{C}$
 
 - For any $c \in C$ and $d \in D$, there is an 
   [isomorphism](/docs/math/defs/iso.qmd) of hom-sets: 

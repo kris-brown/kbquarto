@@ -35,7 +35,8 @@ and
   \end{tikzpicture}
 
 
-This also allows us to use the following snake equations in wiring diagrams without reservation:
+This also allows us to use the following snake equations in wiring 
+diagrams without reservation:
 
 
 \begin{tikzpicture}

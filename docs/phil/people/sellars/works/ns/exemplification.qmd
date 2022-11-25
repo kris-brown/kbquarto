@@ -1,0 +1,20 @@
+---
+title: Exemplification
+categories: [quote]
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs/phil/people/sellars/works/ns/exemplification.yml
+---
+
+{{< include /docs/phil/people/sellars/works/ns/_exemplification.md >}}
+
+- This plays off [Carnap](/docs/phil/people/carnap/index.qmd)'s notion of 
+  'quasi-syntactical'.
+- There's the narrow view of 'the world', that's the world that science is the 
+  measure of all things. And the broader view of the world.
+

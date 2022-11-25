@@ -1,9 +1,7 @@
 ---
 title: Inferentialism and category theory
-description: |
-    Connections between the two.
-categories:
-  - philosophy
+description: Connections between the two.
+categories: phil
 date: 3/20/2022
 draft: true
 ---
@@ -41,7 +39,10 @@ intelligent is about as useful as debating whether a drone is a bird.") urged a
 refocusing of the discussion on specific capabilities of AI rather than the 
 labelling it as 'intelligent' or not.
 
-(Of course some labelling is necessary to get a grip on things with words: I called it "AI", which put it in a box. And the capabilities themselves are labels. The buck must stop somewhere, and where regress stops is something that is socially negotiated)
+(Of course some labelling is necessary to get a grip on things with words: I 
+called it "AI", which put it in a box. And the capabilities themselves are 
+labels. The buck must stop somewhere, and where regress stops is something that 
+is socially negotiated)
 
 Antirepresentationalism lecture 6 (1:08). Davidsonian interpretism: for Bob to 
 believe X is not something we discover by interpreting his behavior, but rather 

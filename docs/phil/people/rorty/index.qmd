@@ -1,6 +1,6 @@
 ---
 title: Rorty
-categories: ⚪
+categories: [⚪, person]
 listing:
   id: backlinks
   type: table
@@ -14,3 +14,8 @@ listing:
 An American philosopher, 1931-2007.
 
 ![](/images/headshots/rorty.jpeg)
+
+
+## Remark (in conversation)
+> Nothing of any philosophical significance has ever happened within 6 feet in 
+  any direction of a quantifier symbol

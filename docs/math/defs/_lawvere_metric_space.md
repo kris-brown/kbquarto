@@ -1,6 +1,7 @@
 A *Lawvere metric space* is a 
-[**Cost**](/docs/math/examples/cost_smp.qmd)-category, i.e. a category 
-enriched in the [symmetric monoidal preorder](/docs/math/defs/smp.qmd) 
+[**Cost**](/docs/math/examples/cost_smp.qmd)-category, i.e. a 
+[category enriched](/docs/math/defs/vcat.qmd) 
+in the [symmetric monoidal preorder](/docs/math/defs/smp.qmd) 
 $\mathbf{Cost}=([0,\infty],\geq,0,+)$.
 
 - $X$ is given as $Ob(\mathcal{X})$

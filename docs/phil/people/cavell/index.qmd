@@ -2,13 +2,20 @@
 title: Cavell
 categories: ⚪
 listing:
-  id: backlinks
-  type: table
-  page-size: 100000
-  filter-ui: true
-  template: "../../../../ejs/custom.ejs"
-  contents:
-    - ../../../../backlinks/docs/phil/people/cavell/index.yml
+  - id: content
+    type: table 
+    categories: false
+    page-size: 100000
+    filter-ui: true
+    fields: ["title"]
+
+  - id: backlinks
+    type: table
+    page-size: 100000
+    filter-ui: true
+    template: "../../../../ejs/custom.ejs"
+    contents:
+      - ../../../../backlinks/docs/phil/people/cavell/index.yml
 ---
 
 Stanley Cavell was an American philosopher (1926-2018).

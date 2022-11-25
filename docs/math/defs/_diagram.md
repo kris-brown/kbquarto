@@ -5,4 +5,4 @@ from any [category](/docs/math/defs/cat.qmd) $\mathcal{J}$ called the
 *indexing category* (or *shape*) of the diagram $D$.
 
 We say $D$ *commutes* if $D(f)=D(f')$ for every parallel pair of morphisms 
-  $f,f'$ in $\mathcal{J}$
+$f,f'$ in $\mathcal{J}$

@@ -17,3 +17,4 @@ format:
 
 In addition to info about me and my research, I also use the site to organize 
 thoughts and notes.
+

@@ -1,0 +1,23 @@
+---
+title: Labels vs descriptions
+categories: [quote]
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../../../backlinks/docs/phil/people/sellars/works/cdcm/labels_describing.yml
+---
+
+{{< include /docs/phil/people/sellars/works/cdcm/_labels_descriptions.md >}}
+
+- Describing is what science is the measure of all things. But it's more than 
+  classifying things.
+
+- Sellars is raising the issue "what is description?".
+
+Sellars says "concepts as classifiers" is 
+[not enough](/docs/phil/switcharoos/concept_judgment.qmd) to get to 
+descriptions. 

@@ -1,6 +1,6 @@
 ---
 title: Wittgenstein on Rules and Private Language
-categories: ⚪
+categories: [⚪, work]
 author: Saul Kripke
 published: 1982
 listing:

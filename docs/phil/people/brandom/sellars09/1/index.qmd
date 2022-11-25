@@ -2,9 +2,136 @@
 title: "01: Historical context and quotes"
 categories: 🟠
 date: September 2, 2009
-description: This lecture mainly talks about some ideas of Kant that influenced Sellars and introduces Sellars through a long series of quotes.
 ---
 
+# Introduction
+Brandom believes Sellars to be the most important American philosopher of the 
+20th century. Some ways in which Sellars was remarkable:
+
+- Sellars had a systematic / synoptic vision, which was rare for 
+  analytic philosophers (who largely preferred to write 'gem-like' articles). 
+  - This makes it also hard to read Sellars - it's hard to get a hold of one piece 
+    of it without getting the whole. 
+- Sellars had an almost unique knowledge of and 
+  appreciation for the significance of the *history* of philosophy 
+  - (not just a subdiscipline, but rather as the language in which philosophy is pursued).[^world]
+- Sellars' overall aim was to move analytic philosophy from its Humean phase to its Kantian phase.
+  - Epitomizes his views towards empiricism/naturalism (which had characterized 
+    analytic philosophy). 
+  - That Kant was worth respecting a radical view at the time - he had been 
+    written out of the canon due to his connection to 
+    [Hegel](/docs/phil/people/brandom/#on-kant-and-hegel).[^1]
+  - Rawls on the practical side and Strawson/Bennett on the practical side 
+    brough Kant back into respectability in Anglaphone circles, but Sellars was 
+    way out in front of this (and appreciated the significance of Kant deeper). 
+  - This is also why Sellars wasn't so influential - people didn't understand 
+    the Kant needed to appreciate him.
+
+## Kant's influence on Sellars
+Kant's big idea:
+
+What is sapience? (what distinguishes *knowers* and mere responders to an environment?)
+
+- It's not some presence of "mind-stuff" (i.e. Cartesian dualism)
+- It's that judgments and intentional doings are things that knowers and agents 
+    are in a distinctive sense *responsible for*.
+- Judgments express commitments of those subjects / their exercises of authority 
+- The difference between mind minded things and 
+unmined and things isn't an ontological one, but a *de*ontological one.
+
+*Judgment* is important for Kant 
+
+- it is the minimal thing that we can 
+be held accountable for (the smallest unit of consciousness)
+- The form of the judgment has two parts:
+  - Subjective: the "I think ..." that can accompany any judgment 
+    - *Who* is responsible
+  - Objective: "object = x" 
+    - what you make yourself responsible *to* by taking the judgment
+    - what you need to consult in order to determine the correctness
+
+Cartesian questions are about our grip on concepts. Thinking about concepts as 
+rules for making judgments, Kantian questions are about the concepts' grip on us.
+
+- A concept is the rule you bind yourself to by calling the coin 'copper'. (You 
+commit yourself, whether you know it or not, to it's being an electrical
+conductor, melting at a particular temperature, etc.).
+
+- Rather than a Cartesian mind-body problem, it's a norm-fact problem. The relationship 
+  between prescription and description - that's what is special about *us*.
+
+Hegel took this Kantian question and observed that normative status are 
+socially instituted statuses - we have to look at social practices to understand 
+what responsibility / authority are. (this idea was reintroduced indepenently 
+by the later Wittgenstein - for example his 
+[children's game](/docs/phil/situations/childrensgame.qmd) investigates the 
+normative significance of beliefs/desires/intentions).
+
+
+Sellars on what is philosophy: "the attempt to say how things, in the largest sense of that term, hang together, in the largest sense of that term." 
+
+
+[^world]: This is one dimension along which the world spirit has caught up with 
+          Sellars.
+
+
+# Core programs of analytical philosophy
+Analytic philosophy held together as being a *semantic* project. 
+
+- Understand the meanings of potentially-problematic target vocabularies in 
+  terms of the meanings of putatively-unproblematic base vocabularies. 
+  - Some debate over what the relation between target and base vocabularies needs to be:
+    - definability
+    - translatability
+    - paraphrasability
+    - "analyzable in terms of"
+    - reducibility
+    - supervenience
+- Examples:
+  - *On denoting*: problematic vocabulary is definite descriptions, translated 
+    into the unproblematic vocabulary of FOL with identity.
+  - Frege's problematic vocabulary was arithmatic statements, which were made 
+    sense of in quantificational logic with identity.
+- Things like intentional, normative, metaphysical vocabularies were typically 
+  problematic.
+  - Core programs of empiricism and naturalism can be understood as having 
+    different choice of base vocabularies
+    - Empiricism: base language is sensory experience (e.g. a language of sense 
+      data, language of how things seem or appear)
+    - Naturalism: language of natural science (possibly just fundamental 
+      physics or broader)
+    - The Vienna Circle was divided into two wings. Schlict (empiricist) and Neurath 
+      (naturalist), and Carnap in between. Prime source of tension between them was 
+      modality / lawlikeness. 
+  - *Functionalism*: Unproblematic vocabulary is talking about how something 
+    plays a role in a larger system. (paradigmatically shows up in the 
+    philosophy of mind.)
+      - Sellars was the first functionalist. broader than the sense that it 
+        comes up in the philosophy of mind: Sellars is a *semantic* functionalist.
+
+Another reason why Sellars is important is his distinctive views about 
+empiricism, naturalism, and functionalism.
+
+## Role of logic 
+
+Logic as developed in the early 20th century is a powerful tool for giving us 
+inferential control. Logical empiricists found this tool indispensible. 
+They viewed the early empiricists (e.g. Locke, Hume) as 
+having the right building blocks, but "association" was too weak of a mortar to 
+hold them together and build the edifice of knowledge of the objective world.
+Although Sellars isn't a logical empiricist, he also found logic to be a useful
+tool and can be thought of as a logical Kantian. After Kant, the nextmost 
+important philosopher for Sellars was Carnap. (despite Carnap's empiricism.)
+
+# Summary of views
+
+It is debated whether or not Sellars was an empiricist, but Brandom does not 
+think so.
+
+{{< include /docs/phil/people/sellars/works/epm/_space_of_reasons.md >}}
+
+- This is a powerful weapon against empiricist reductionisms of all sorts, 
+  according to Brandom.
 
 # Historical Kant Context
 
@@ -105,8 +232,7 @@ center around the normative significance of beliefs/desires/intentions.
 # Sellars quotes
 
 The lecture finishes with some 
-[Sellars quotes](/docs/phil/people/sellars/index.qmd#quotes) on describing, 
-explaining, and justifying.
+[Sellars](/docs/phil/people/sellars) quotes on describing, explaining, and justifying.
 
 He doesn't begin with philosophically elaborated definition of describing, 
 explaining, justifying. He takes these concepts as they come. He wants to do 

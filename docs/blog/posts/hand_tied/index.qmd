@@ -1,0 +1,257 @@
+---
+title: Reasoning with one hand tied behind your back
+subtitle: Four examples where hard work pays off
+categories: [🔴, phil, math, DRAFT]
+draft: false
+---
+
+Here are four potentially-unrelated examples with a common structure:
+
+- there are (at least) two ways to achieve some goal
+- one is harder than the other 
+- there is a deeper kind of payoff to taking the harder route 
+
+# 1. Constructive mathematics
+
+Many things in math can be proven without relying on the 
+[law of the excluded middle](/docs/phil/definitions/excluded.qmd). Using this 
+additional axiom can make things easier; however, proofs using it will not be
+*constructive*. For example: 
+
+- a constructive 
+  [proof](https://en.wikipedia.org/wiki/Square_root_of_2#Constructive_proof) 
+  that $\sqrt{2}$ is irrational is a mechanism which, 
+  for any rational number $q \in \mathbb{Q}$ it is fed, constructs the nonzero 
+  difference $q - \sqrt{2}$. A non-constructive proof (e.g. assuming 
+  $\sqrt{2}$ is rational,
+  then proving a contradiction, then concluding $\sqrt{2}$ is irrational) 
+  says that $\sqrt{2}$ 
+  is irrational but cannot be used to automatically derive a contradiction from
+  someone asserting that, say, $\frac{99}{70}$ is equal to $\sqrt{2}$.
+
+![](omni/construct.png)
+
+- A constructive proof of the infinitude of prime numbers will take a purported 
+  set of all prime numbers (call it $P$) and produce a number $p\prime$ outside 
+  that set
+  that is prime ${(p\prime = 1+\underset{p \in P}{\prod} p)}$. 
+  A non-constructive proof would 
+  tell you that $P$ is infinite without giving you any concrete witness of 
+  this fact.
+
+
+
+One might argue that a constructive proof is a stronger form of evidence than 
+a non-constructive proof. Not just definitionally, by using fewer axioms, 
+but in a practical sense: constructive proofs 
+have computational content that witnesses the proof in a concrete way and 
+can be excecuted by a computer.
+
+# 2. Universal properties
+
+Here, we take aim at a particular attitude towards mathematics:
+
+- to understand an object is to understand its constituent parts, i.e. how it is 
+constructed. 
+
+An alternative viewpoint is motivated by category theory: 
+
+- to understand 
+an object is to understand how it relates to everything else
+
+The latter approach makes it more work to understand something, for example:
+
+- Suppose we have two sets of things, $A$ and $B$. The cartesian product of sets, 
+  $A \times B$ can be *defined* as the set of 
+  pairs $(a,b)$ for all $a$ in $A$ and for all $b$ in $B$. 
+  This is very straightforward. In 
+  constrast, the category-theoretic 
+  [characterization of a product](https://en.wikipedia.org/wiki/Product_(category_theory)) 
+  describes how $A \times B$ relates to everything else rather 
+  than describing what $A \times B$ is *in itself*, the details of which are 
+  left to a footnote.[^1] 
+
+[^1]: You can pick whatever representation you want for $A \times B$, but for it to act as a 
+  product, it must be able to take *any* pair of functions like in the figure 
+  below and derive a *unique* function which first maps into it and then applies
+  the projection maps (e.g. *get rank* or *get suit*) to recover the original 
+  pair of functions. In the case of the $(a,b)$ encoding, this unique map sends 
+  "low" to $(1, \spadesuit)$ and "high" to $(A, \clubsuit)$.
+
+![](omni/ct.png)
+
+- The set of natural numbers $\mathbb{N}$ can be *defined* as the set 
+  $\{0, 1, 2, ...\}$. This is very straightforward. In contrast, the category-
+  theoretic [characterization of the natural numbers](https://en.wikipedia.org/wiki/Natural_numbers_object)
+  is very involved because we aren't allowed to say "what is *in* the set", only 
+  how the "natural numbers" (whatever that may be) must relate to other things 
+  in a given context if it is worthy of being called the "natural numbers" of 
+  that context. 
+
+What are the upshots of the categorical approach, which forbids us from talking 
+about the constituent parts of the thing we're trying to describe? Here are two:
+
+- **Generality**: we define *product* once and then realize that tons of things 
+  that appear in many different contexts are actually the exact categorical 
+  definition of product, but specialized to different categories (e.g. multiplying 
+  numbers, intersections of sets, the greatest common divisor, logical **AND**, etc.). 
+- **Essence**: the definition of $\mathbb{N}$ given set-theoretic foundations 
+  might mean that it literally is the set 
+  $\{\varnothing, \{\varnothing\},\ \{\{\varnothing\}\},\ ...\}$. Though 
+  one could also encode the natural numbers as 
+  $\{\varnothing,\ \{\varnothing\},\ \{\varnothing,\{\varnothing\}\},\ ...\}$ 
+  or a very different way, e.g.
+  the number $3$ defined as the set of all sets with three elements. These 
+  can have very different properties that we morally ought to ignore, such as 
+  whether or not $a \subseteq b$ (in their encoding) iff $a \leq b$ as naturals,
+  because these are "implementation details". The category-theoretic 
+  characterization forbids us from looking at implementation details, which is 
+  an advantage in the long run even if it makes things more complicated at the 
+  start.[^2] 
+  
+[^2]: When programming, we can also take advantage of implementation details 
+      to do some things easier - it is likewise not a good idea to do 
+      this, in the long run.
+
+# 3. Pragmatist semantics 
+
+It's often important that we clarify the meaning of our statements, such as
+"The robot is not conscious" or "There do not exist any ghosts." A 
+theory of semantics is helpful to make explicit how to do this clarification.
+
+We could adopt the "view from nowhere": 
+we imagine there is a "true model" of the world as it is in itself. Perhaps this lists out 
+all the primitive objects and primitive relationships between them. If one could analyze 
+this "true model", one could say the *meaning* of "conscious" is a predicate 
+which holds over objects in the model.[^5] This is called 
+*representatationalism* - an ideology that says the meaning of 
+thought and talk should be understood principally in terms of the 
+representational relations that thinkings and sayings stand in to what they 
+(purport to) represent. It gives us an easy template 
+for saying, for any $\phi$, what $\phi$ 
+means: namely, that $\phi$ is only true if the objective world is 
+configured in such-and-such way. It's so pervasive that it might 
+feel ridiculous to consider any alternative. However, there are issues: 
+
+- How are we supposed to achieve the "view from nowhere" in practice? What good 
+  is this semantic account if that is in principle impossible?
+- We must imagine the "objective model of the world" to be specified in *some* 
+  vocabulary, but it's not any of our vocabularies (even our scientific ones), 
+  so how could our predicates actually hook up to the objects of the objective 
+  world?
+- Many meaningful concepts (such as mathematics, possibility/necessity, ethics)
+  evade a satisfying descriptive account. This sometimes leads people to
+  conclude those concepts are not what we originally thought (e.g. "evil" turns 
+  out to be just a way we talk about things we *really* dislike, or "necessity" 
+  turns out to be just how we feel about stuff that happens *really* regularly) 
+  rather than questioning the  semantic model of descriptivism.
+- Descriptivism would make it seem like every statement we make crucially hinges on
+  whether or not things 'actually exist'. Yet many everyday examples (e.g. 
+  [witches](/docs/phil/situations/witches.qmd),
+  [Pluto](/docs/phil/situations/pluto.qmd),
+  [beauty](/docs/phil/distinctions/made/sense_dependence_reference.qmd), and
+  [sour acid](/docs/phil/situations/souracid.qmd)) show that 
+  ordinary statements are not like this.
+
+The philosophical school of pragmatism offers an alternative target vocabulary 
+for explaining semantics, one that does not have to resort to the 
+"view from nowhere." Rather, one explains meanings in terms of social practices 
+(sometimes thought of as "language games"), rather than some sort of direct 
+relationship between the expression 
+and the world. 
+
+- Think of the difference between: "*Rojo* in Spanish and *rot* in 
+  German mean the same thing because they pick out the same objects in the world"
+  *versus* "...because *rojo* plays the same role in Spanish that *rot* plays in 
+  German."
+
+One pragmatist analysis of 'sentience' might conclude that sentience is 
+not a property of agents (nor the presence of "mind stuff"). Rather, a sentient
+agent is (to first approximation) one whose verbal noises can be given the 
+social significance of being *judgments*.
+
+- Making a judgment both makes us *responsible* for something as well as *entitles* 
+  us to making other inferences.
+- Think of the difference of a parrot squacking "The building is on fire" and 
+  an adult saying the same. Our difference in how we initially react (and how 
+  we treat the speaker if it turns out to be false) reflects the different 
+  social status of the parrot and human (the difference between mere words and a 
+  judgment).
+- Sentience can be explained in terms of this social status by pragmatists, without 
+  referring to some "true model" of the world 
+  (beyond the ordinary and accessible world of speakers and talking).
+
+![](omni/view_nowhere.png)
+
+
+[^5]: Think of a 'predicate' as a function which takes in the 
+      identity of the object and evaluates it to tell you whether the property 
+      holds or not.
+
+# 4. Anti-authoritarianism 
+
+We have opinions on how the world should work. For example, the world might 
+be better if everyone stopped drinking sugary soda, or spanking their kids,
+or eating meat. Politics involves 
+proposing ways to bring the world closer to how it should work, and the 
+dead-simple way to characterize a system where people don't do X is to say: 
+"X is illegal". *Any* alternative, i.e. working towards a system where people 
+do X less yet X is still not *illegal*, takes more creativity and likely more 
+work. For example, in the case of reducing meat eating:
+
+- We could subsidize meat alternatives or urban agriculture.
+- We can create public educational resources (e.g. inform people of the 
+  environmental consequences, show visceral imagery of the slaughterhouse, 
+  health benefits of vegetarianism, teach high schoolers how to cook)
+- We could fund fundamental research about how to grow artificial meat.
+
+What are the upshots in this scenario? For some, there are only practical 
+reasons to not use coercion: it's hard to get the bill passed, or it will cost 
+one's political party too much political capital, or it would be hard 
+to enforce. For others, it feels like there is something immediately 
+negative about coercion, and while it may be good to use coercion to stop
+something even worse, it's still a case of picking the lesser of two evils. 
+In the past, people were coercive for (what they thought) were the 
+right reasons, but in retrospect they were wrong. This gives us pause when 
+considering the use of force, to the extent that 
+we are not absolutely sure that we are right in our belief of how the world 
+should work.
+
+# Conclusion
+
+I started writing this without knowing what the common theme would be, but now I 
+think of it as a cautionary tale about adopting a "God's-eye view", even 
+hypothetically, because it is such a seductive idea that we inadvertently buy 
+into it to some extent.
+
+1. A God's-eye view can see whether a statement is true or false. 
+    - there is no further need for a mechanism that (in a finite amount of time)
+      demonstrates *why*.
+    - The favoring of constructive over non-constructive proofs mirrors the 
+      pragmatist tendency to have more interest in *justification* over truth.
+
+2. A God's-eye view is does not have to observe things by observation but can 
+  simply know objects *directly*. 
+    - There is no worry that one has picked an 
+      arbitrary encoding that might not cohere with other design choices and need 
+      to be changed.
+    - Our implementation details may be imperfect, while God's are and thus are 
+      immutable (so we alone need to worry about depending on implementation 
+      details which may change)
+
+3. A God's-eye view in semantics ignores the 
+    - ...
+
+4. A God's-eye view of politics would allow one to use one's omnipotence to 
+  alter anything as one sees fit to achieve greater good. 
+    - There is no worry about this good actually being mistaken or an 
+      illusion, thus, without any humility, the ends will always justify the means.
+
+Although it can feel like one is reasoning with one hand tied behind one's back 
+when one refuses to invoke a God's-eye view, the short-term advantages of invoking it are 
+outweighed by longer-term friction from the fact that we are not actually 
+omniscient and omnipotent. Phrased another way, I believe there are pragmatic and 
+moral benefits to showing this kind of restraint.[^mot]
+
+[^mot]: This is also a theme of [minimizing ontology talk](/docs/blog/posts/minimize_ontology_talk).
+

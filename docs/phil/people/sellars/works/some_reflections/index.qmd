@@ -1,18 +1,26 @@
 ---
 title: Some reflections on language games
-author: Wilfrid Sellars
 published: 1954
-categories: ⚪
+categories: [⚪, work]
 listing:
-  id: backlinks
-  type: table
-  page-size: 100000
-  filter-ui: true
-  template: "../../../../../../ejs/custom.ejs"
-  contents:
-    - ../../../../../../backlinks/docs/phil/people/sellars/works/some_reflections/index.yml
+  - id: content
+    type: table 
+    categories: false
+    page-size: 100000
+    filter-ui: true
+    fields: ["title"]
+
+  - id: backlinks
+    type: table
+    page-size: 100000
+    filter-ui: true
+    template: "../../../../../../ejs/custom.ejs"
+    contents:
+      - ../../../../../../backlinks/docs/phil/people/sellars/works/some_reflections/index.yml
 ---
 
 [-@sellars1954some]
+
+# Quotes 
 
 > A rule is always a rule for doing something.

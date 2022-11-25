@@ -1,7 +1,6 @@
 ---
 title: Tractatus Logico-Philosophicus
 categories: ⚪
-author: Ludwig Wittgenstein
 listing:
   id: backlinks
   type: table

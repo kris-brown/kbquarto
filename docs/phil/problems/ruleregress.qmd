@@ -11,4 +11,19 @@ listing:
     - ../../../backlinks/docs/phil/problems/ruleregress.yml
 ---
 
-{{< include _ruleregress.md >}}
+To follow a rule (e.g. 'under circumstances $C$, do $A$', or 'Whenever you 
+  see a cat, raise your arm'), we have to understand the concepts that are 
+  involved within (i.e. $C$ or *cat*, or *raising one's arm*).
+  
+- However, to grasp a concept (such that the original rule can be followed) 
+  requires a further rule.
+- Put another way, because rules have many interpretations, for any rule $R$ we 
+  need another rule which tells us whether or not we correctly applied $R$.
+- If a law says 'Every man must serve in the army', then it will naturally 
+  require a law for determining who qualifies as 'man'. That law (say, 'A man is 
+  whatever the scientific experts label with the word *man*') will naturally 
+  require a law for determining who qualifies as 'scientific expert'... the 
+  regress will continue if we try to adjudicate 'scientific expert' with another 
+  rule.
+- This skepticism about rules is really a skepticism about a certain theory of 
+  *meaning* (i.e. semantic skepticism).

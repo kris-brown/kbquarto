@@ -1,14 +1,21 @@
 ---
 title: Quine
-categories: ⚪
+categories: [⚪, person]
 listing:
-  id: backlinks
-  type: table
-  page-size: 100000
-  filter-ui: true
-  template: "../../../../ejs/custom.ejs"
-  contents:
-    - ../../../../backlinks/docs/phil/people/quine/index.yml
+  - id: content
+    type: table 
+    categories: false
+    page-size: 100000
+    filter-ui: true
+    fields: ["title"]
+
+  - id: backlinks
+    type: table
+    page-size: 100000
+    filter-ui: true
+    template: "../../../../ejs/custom.ejs"
+    contents:
+      - ../../../../backlinks/docs/phil/people/quine/index.yml
 ---
 
 W.O. Quine was an American philosopher (1908–2000).

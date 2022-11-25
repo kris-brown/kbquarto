@@ -2,25 +2,20 @@
 title: Switcharoos
 categories: 🟣
 listing:
-  id: backlinks
-  type: table
-  page-size: 100000
-  filter-ui: true
-  template: "../../../ejs/custom.ejs"
-  contents:
-    - ../../../backlinks/docs/phil/switcharoos/index.yml
+  - id: content
+    categories: true
+    type: table
+    page-size: 100000
+    fields: [title, categories, date]
+
+  - id: backlinks
+    type: table
+    page-size: 100000
+    filter-ui: true
+    template: "../../../ejs/custom.ejs"
+    contents:
+      - ../../../backlinks/docs/phil/switcharoos/index.yml
 ---
 
 Often there are ideas that are closely related, and it becomes ambiguous which idea is 'first', if any.
 
-# [Concepts and judgment](concept_judgment.qmd)
-
-{{< include _concept_judgment.md >}}
-
-# [Meaning and truth](meaning_truth.qmd)
-
-{{< include _meaning_truth.md >}}
-
-# [Sense data and concepts](sensedata_concepts.qmd)
-
-{{< include _sensedata_concepts.md >}}

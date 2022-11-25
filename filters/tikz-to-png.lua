@@ -14,7 +14,7 @@ function RawBlock(el)
     local f = io.open(tmp .. ".tex", 'w')
     f:write("\\documentclass{standalone}\n")
     -- include all packages needed to compile your images
-    f:write("\\usepackage{tikz}\n\\usepackage{tikz-cd}\n\\usepackage{amsmath}\n\\usepackage{amssymb}\n\\usepackage{mathrsfs}\n\\usepackage{mathtools}\n\\usepackage{stanli}\n")
+    f:write("\\usepackage{tikz}\n\\usepackage{tikz-cd}\n\\usepackage{amsmath}\n\\usepackage{/Users/kristopherbrown/code/kbquarto/quiver}\n\\usepackage{amssymb}\n\\usepackage{mathrsfs}\n\\usepackage{mathtools}\n\\usepackage{stanli}\n")
     f:write([[\usetikzlibrary{arrows}
     \usetikzlibrary{backgrounds}
     \usetikzlibrary{shapes,shapes.geometric,shapes.misc}

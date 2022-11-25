@@ -18,3 +18,7 @@ _extensions/
 backlinks/
 
 /.luarc.json
+
+.jupyter_cache/
+
+Manifest.toml

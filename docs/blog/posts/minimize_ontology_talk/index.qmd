@@ -1,42 +1,57 @@
 ---
 title: Minimize ontology talk
 description: Trying to remove one unnecssary source of friction in life.
-categories: 🔴
+categories: [🔴, phil]
 date: 2/24/2022
-draft: true
+draft: false
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/blog/posts/minimize_ontology_talk/index.yml
 ---
 
-This is essentially a rehash of various bits of Rorty that were floating in my 
-head, sort of put into my own words.
+*This is essentially a rehash of various bits of [Rorty](/docs/phil/people/rorty) that were floating in my head, sort of put into my own words.*
 
-[Ontology](/docs/phil/definitions/ontology.qmd) (the theory of what really is, or the what is there 'objectively') 
-makes conflict possible: e.g. without further auxillary hypotheses, there is no 
+[Ontology](/docs/phil/definitions/ontology.qmd) (the theory of what really is, 
+or the what is there 'objectively') 
+makes conflict between things we say possible.
+
+- For example, the idea of objectivity needs to be invoked for there to be
 incompatibility between "Alice thinks there is a saber-toothed tiger coming" and 
-"Bob thinks there is no such tiger coming." We can think of the *social 
-function* of the whole concept of objectivity as serving this purpose.
+"Bob thinks there is no such tiger coming." 
+
+We can think of the *social function* of the whole concept of objectivity as 
+serving this purpose.
 
 Clearly it's useful in some situations, especially 'ordinary empirical 
-descriptive' (OED) language ('the frog is on the log'). So, we would lose the 
+descriptive' (OED) language (e.g. "the frog is on the log"). So, we would lose the 
 ability to cope with the world in important ways if we were to adopt a 
 thoroughgoing idealism.
 
 However, outside of the 'home language-game' of OED vocabulary, do we really 
-need it? Could it be causing *unnecessary* conflict when pulled outside of its 
-original motivating context, such as the 
-[tooth pain](/docs/phil/situations/toothpain.qmd) example?
+need it? Could it be causing *unnecessary* conflict and confusion when pulled outside of its 
+original motivating context, much like the 
+[tooth pain](/docs/phil/situations/toothpain.qmd) anecdote?
 
-For whatever sociohistorical reasons (which would be interesting to think 
-about), objectivity-talk is incredibly pervasive. It takes serious work to 
-unlearn it, to show one can coherently grapple with non-OED concepts without 
-it. One example of this: we're primed to think of sentience as some objective 
-phenomenon (because we're primed to be 
-[descriptivists](/docs/phil/people/brandom/sellars09/4/index.qmd#semantic-nominalism)), 
-but this is entirely unnecessary. We can completely sidestep talk of the 
-ontological nature of sentience and get along perfectly fine. In fact, given a 
-real world problem that depends on this issue (e.g. "Is this AI a sentient 
-being?") it is a net positive because we can focus our attention on relevant 
-things (our social practices relating to the AI, rather than some feature purely 
-of the source code).
+For whatever sociohistorical reasons, objectivity-talk is incredibly pervasive
+in almost all domains of discourse. It takes serious work to 
+wean ourselves off of it, to show one can coherently and self-respectingly 
+grapple with non-OED concepts without it. 
+
+- For example: we're primed to think of *sentience* as some objective 
+  phenomenon (because we're primed to be 
+  [descriptivists](/docs/phil/people/brandom/sellars09/4/index.qmd#semantic-nominalism)), 
+  but this is entirely unnecessary. 
+- We can completely sidestep talk of the ontological nature of sentience and 
+  get along perfectly fine.
+- Given a real world problem that depends on this issue (e.g. "Is this AI a sentient 
+  being?") this paradigm shift is a net positive because we can focus our a
+  ttention on relevant things (our social practices relating to the AI, rather 
+  than some feature purely of the source code).
 
 However, if you want *power* over others, couching your beliefs in objectivity 
 talk is useful for gaining authority.

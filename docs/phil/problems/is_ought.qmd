@@ -11,4 +11,6 @@ listing:
     - ../../../backlinks/docs/phil/problems/is_ought.yml
 ---
 
-{{< include _is_ought.md >}}
+The is-ought problem. [Hume](/docs/phil/people/hume). 
+
+TODO

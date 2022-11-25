@@ -1,0 +1,32 @@
+---
+title: -ing/-ed distinction
+---
+
+Observed by Sellars to be responsible for a lot of philosophical confusion.
+
+Most interesting philosophical concepts come with a "-ing"/ "-ed"
+distinction that's crucial to understand the nature of. 
+
+## Description
+
+Do you mean the describing or the describable when you say "description"?
+
+We need to distinguish the fact and the content.
+
+
+## Justification 
+
+The [Agrippan trilemma](/docs/phil/problems/agrippan.qmd) can be thought of as 
+caused by conflating act of justifying vs the state of being justified.
+  
+## Experience
+
+Is an experience an act of act of experiencing vs what's experienced. 
+Sellars thinks [Berkeley](/docs/phil/people/berkeley) was confused by this.
+
+## Representation
+
+The representings and the represented.
+
+## ???
+- You can't be inside the rules and outside talking about them at the same time.

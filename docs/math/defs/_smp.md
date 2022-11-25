@@ -1,4 +1,5 @@
-A *symmetric monoidal structure* on a preorder $(X, \leq)$ adds 
+A *symmetric monoidal structure* on a [preorder](/docs/math/defs/preorder.qmd) 
+$(X, \leq)$ adds 
 two additional constituents:
 
 - A *monoidal unit* $I \in X$

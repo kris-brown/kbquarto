@@ -1,6 +1,6 @@
 ---
 title: Nelson Goodman
-categories: ⚪
+categories: [⚪, person]
 listing:
   id: backlinks
   type: table

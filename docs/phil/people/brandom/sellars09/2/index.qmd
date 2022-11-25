@@ -95,7 +95,8 @@ logic: materially good inferences.
     - There have to be some practical moves you're just allowed to make without 
       them having to take the form of explicit premises (see 
       [Tortoise and Achilles](/docs/phil/problems/tortoise.qmd).
-    - Sellars touches upon this in Reflections on Language Games.
+    - Sellars touches upon this in 
+      [Reflections on Language Games](/docs/phil/people/sellars/works/some_reflections).
         - He talks about free/auxillary positions that you're always allowed to 
           occupy.
         - We could have the auxillary position $\forall x, \psi(x)\vdash \phi(x)$ 

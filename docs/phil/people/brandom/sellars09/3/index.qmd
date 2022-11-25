@@ -14,7 +14,7 @@ Def: the view that one can analyze without remainder intentional vocabulary /
 intentional concepts into purely behavior characterizations / dispositions to 
 publicly observable behavior (specified in a non-intentional vocabulary).
 
-Introduced in *Empiricism in the Philosophy of Mind* (9 years earlier), distinct 
+Introduced in [*Empiricism and the Philosophy of Mind*](/docs/phil/people/sellars/works/epm/index.qmd) (9 years earlier), distinct 
 from what he here calls logical behaviorism. *Logical behaviorism* refers to a 
 view he attributes to Ryle. JB Watson and BF Skinner promoted this in psychology. 
 Sellars never endorsed this because he saw this as being an application of 
@@ -26,12 +26,8 @@ mistakes. Not just "I thought it was a fox but it was a dog", but categorical
 observational mistakes. We can give some concept an observational role (e.g. 
 declare that we can observe X's) yet no X's exist, i.e. no thing has such no 
 thing with such circumstances of application and consequences of application. 
-E.g. we can have a theory of acids. "Anything that's sour is an acid. And 
-anything that's an acid will turn litmus paper red." Well, then we have 
-observational access to acids. If we eventually find something that tastes sour 
-that turns litmus paper blue, then it turns out there are no acids, even though 
-we could observe them (or: had every reason to believe we could). Likewise: 
-being a witch was observable (even though there are no such things).
+E.g. [sour acid](/docs/phil/situations/souracid.qmd) and 
+[witch](/docs/phil/situations/witches.qmd) examples.
 
 _The Plasticity of Mind_ is about bad theories incorporating observational 
 practices, i.e. "What do you mean there are no K's. I can *see* K's, there's one 
@@ -51,7 +47,7 @@ states are less real, just that we aren't in a position to observe anything but
 the behavior)
 
 ##  Digressions
-1. *Semantics* is a field with instrumentalist vs theoretical realist views. 
+1. [*Semantics*](/docs/phil/definitions/semantics.qmd) is a field with instrumentalist vs theoretical realist views. 
 [Michael Dummett](/docs/phil/people/dummett/index.qmd) is an instrumentalist 
 by observing the fact that meaning something 
 is only understood through verbal behavior and concluding that any theory of 

@@ -1,6 +1,6 @@
 ---
 title: Kant
-categories: ⚪
+categories: [⚪, person]
 listing:
   id: backlinks
   type: table

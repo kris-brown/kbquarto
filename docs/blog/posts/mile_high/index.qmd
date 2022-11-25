@@ -1,0 +1,178 @@
+---
+title: Returning from the mile-high view
+subtitle: Some intuition for how applied category theory works
+categories: [🟠, math]
+---
+
+# What abstraction looks like
+
+Category theory allows one to talk about things in a sort of "universal" 
+language, by which I mean one which is not specific about 
+*what you are talking about*. This seems weird - how could we talk about a car 
+without knowing that it's something that has four wheels? Or talk about 
+justice and government without making reference to what a human is?
+
+Although the stuff you care about certainly does 
+have its own internal structure and properties, category theory tries to get 
+away with saying as much as it can *despite* treating your rich, intricate object as a 
+mere dot (i.e. a point without internal structure). Remember, a *category* is a 
+mathematical construction that only has *objects* and *morphisms* (informally 
+called *arrows*) between those objects, as well as a notion of composing 
+morphisms together. 
+
+Let's stress this point with some examples:
+
+- A configuration of a Rubik's cube has a lot of data: there are six faces each 
+  with a 3x3 grid of colors. One way of relating these is by the possible moves you
+  can make by rotating one of the faces:
+
+![](omni/cube_commute.png)
+ 
+  - The category-theoretic picture of the above faces looks like the below, which 
+  makes us feel like we've lost information.
+
+ \begin{tikzcd} \pagecolor{white} \bullet \arrow[d, "m_1"'] \arrow[r, "m_2"] & \bullet \arrow[d, "m_3"] \\\bullet \arrow[r, "m_4"']                                         & \bullet               \end{tikzcd} 
+
+
+- Graphs are another example of something that has a potentially complicated 
+  internal structure. In mathematics, a *graph* has vertices (also called 
+  nodes) as well as edges connecting them. We'll draw graphs as having grey 
+  vertices and black edges, in order to keep them visually distinct from 
+  "mile-high" view diagrams in some category, such as the square one drawn 
+  above. Here are three graphs.
+
+![](omni/graph_commute.png)
+
+- The connections between the graphs (given by the grey dashed lines) above 
+  are called *graph homomorphisms*.[^0] 
+- Now the category theory perspective of the above might look like this:
+
+\begin{tikzcd} \pagecolor{white} \bullet\arrow[r, "m_1"] & \bullet \arrow[r, "m_2"] & \bullet    \end{tikzcd} 
+
+
+[^0]: One way of thinking of a graph homomorphism from a graph 
+  $G$ into a graph $H$ is that it answers the question "where can I find a copy 
+  of $G$ hiding within $H$?" You'd need to find a corresponding set of vertices 
+  and edges in $H$ that have the same connectivity as the ones in $G$. 
+
+# One way applied category theory is useful
+
+One of the value propositions of applied category theory is that it's possible for you to take
+your concrete domain of expertise (be it Rubik's cube solving, delivery routes, psychology,
+etc.) and massage it into the language of a category. Once you do this, you are
+viewing it from the mile-high view, where everything is just dots and arrows.
+
+The general story of the usefulness of abstracting your subject matter into 
+these dots and arrows is that category theorists have spent decades thinking about 
+categories and special configurations of dots and arrows that have special 
+importance and deserve special names. This lets you inherit a large menu of 
+tools for doing operations/constructions at that level of abstraction. 
+
+For example, the following configuration highlighted in red is called a *coproduct*. The diagram 
+is saying that, for any dot (call it $X$), if you have arrows $A\xrightarrow{f} X$ 
+and $B \xrightarrow{g} X$ then there exists a unique arrow $A+B \xrightarrow{!} X$
+(for which the path $A \xrightarrow{\iota_1,\ !} X$ is the same as $f$ and 
+$B \xrightarrow{\iota_2,\ !} X$ is the same as $g$). 
+
+\begin{tikzcd}
+	& \textcolor{rgb,255:red,214;green,92;blue,92}{A+B} \\
+	\textcolor{rgb,255:red,214;green,92;blue,92}{A} && \textcolor{rgb,255:red,214;green,92;blue,92}{B} \\
+	& X
+	\arrow["f"', from=2-1, to=3-2]
+	\arrow["g", from=2-3, to=3-2]
+	\arrow["{!}", dashed, from=1-2, to=3-2]
+	\arrow["{\iota_1}", color={rgb,255:red,214;green,92;blue,92}, from=2-1, to=1-2]
+	\arrow["{\iota_2}"', color={rgb,255:red,214;green,92;blue,92}, from=2-3, to=1-2]
+\end{tikzcd}
+
+The symbol $A+B$ is evocative of what this abstract definition 
+cashes out to when we instantiate this pattern in various categories. For 
+example, it can correspond to adding numbers together, or taking the union of a 
+Venn diagram, or getting the most recent common ancestor from a geneology chart,
+or, in the case of graphs, obtaining the graph that places graphs $A$ and $B$ 
+side-by-side. With [Catlab.jl](/https://algebraicjulia.github.io/Catlab.jl/latest/),
+one can write programs at this level of abstraction, which has many practical 
+advantages, such as being able to reuse the same code in radically different 
+contexts as well as not needing to change one's code even when the underlying data 
+model changes.
+
+![](omni/coprod.png)
+
+Beyond things to do within a single category, the category theorists think 
+a lot about how different categories relate to each other, meaning you can 
+relate things in your domain of expertise to *other* domains (or other perspectives 
+on your own domain) if the other ones 
+are likewise able to be viewed as dots and arrows. 
+
+Critical to this value proposition is that you then can take these 
+high-level insights back to the ground level, i.e. specialize them in your domain of 
+interest. 
+
+# How to go back in the other direction
+
+There is nothing magic about category theory,[^1] but there seems at first like 
+some magic is needed to take ideas from the mile-high view, where we seemed to 
+have had thrown away so much information, and concretize them on the ground level. 
+The resolution to this riddle is that there wasn't actually
+information loss when we moved to the mile-high view.[^2]
+
+[^1]: In many ways it's more like plumbing than magic, as David Spivak puts it.
+[^2]: This is true "up to isomorphism". The moment we turn our set of objects 
+      into a category by 
+      *picking* what it means to be a morphism, we are choosing what information 
+      we are going to lose when going to the mile-high view: objects which are 
+      indistinguishable by their morphisms, i.e. how they relate to other objects,
+      will appear identical from the mile-high view.
+
+Let's consider a concrete example from graphs. Let's say we wanted to recover 
+the following graph, $T$, from the mile-high view.
+
+![](omni/term.png)
+
+It turns out that this graph has a very special quirk. We want to know "How 
+many graph homomorphisms 
+are there from $G$ into $T$?" for *any* other graph $G$.  It turns out, no 
+matter how many vertices and 
+edges $G$ has, and no matter how those edges are connected, there is exactly 
+**one** graph homomorphism $G \rightarrow T$, because all of the vertices are mapped onto 
+the single vertex and all of the edges are mapped onto the single edge. This means 
+we can actually pick out which dot is actually $T$ from the mile-high view, 
+a subset of which is visualized below. Can you find it?
+
+[//]: # (% https://q.uiver.app/?q=WzAsMTAsWzIsMCwiXFxidWxsZXQiXSxbMSwxLCJcXGJ1bGxldCJdLFswLDEsIlxcYnVsbGV0Il0sWzEsMiwiXFxidWxsZXQiXSxbMywxLCJcXGJ1bGxldCJdLFsyLDMsIlxcYnVsbGV0Il0sWzQsMiwiXFxidWxsZXQiXSxbMywyLCJcXGJ1bGxldCJdLFswLDIsIlxcYnVsbGV0Il0sWzAsMywiXFxidWxsZXQiXSxbMyw1XSxbMiw1LCIiLDIseyJjdXJ2ZSI6MX1dLFsxLDVdLFszLDFdLFsyLDMsIiIsMix7ImN1cnZlIjotMX1dLFsxLDIsIiIsMix7ImN1cnZlIjoxfV0sWzEsMl0sWzAsMiwiIiwxLHsiY3VydmUiOjF9XSxbMCwxXSxbMCw0XSxbMCw1XSxbNCw1XSxbNCwwLCIiLDEseyJjdXJ2ZSI6MX1dLFswLDQsIiIsMSx7ImN1cnZlIjoxfV0sWzEsNF0sWzMsNF0sWzYsNV0sWzcsNV0sWzgsNSwiIiwxLHsiY3VydmUiOjF9XSxbOSw1XSxbOSwzXSxbNyw2XV0=)
+
+\begin{tikzcd}
+	&& \bullet \\
+	\bullet & \bullet && \bullet \\
+	\bullet & \bullet && \bullet & \bullet \\
+	\bullet && \bullet
+	\arrow[from=3-2, to=4-3]
+	\arrow[curve={height=6pt}, from=2-1, to=4-3]
+	\arrow[from=2-2, to=4-3]
+	\arrow[from=3-2, to=2-2]
+	\arrow[curve={height=-6pt}, from=2-1, to=3-2]
+	\arrow[curve={height=6pt}, from=2-2, to=2-1]
+	\arrow[from=2-2, to=2-1]
+	\arrow[curve={height=6pt}, from=1-3, to=2-1]
+	\arrow[from=1-3, to=2-2]
+	\arrow[from=1-3, to=2-4]
+	\arrow[from=1-3, to=4-3]
+	\arrow[from=2-4, to=4-3]
+	\arrow[curve={height=6pt}, from=2-4, to=1-3]
+	\arrow[curve={height=6pt}, from=1-3, to=2-4]
+	\arrow[from=2-2, to=2-4]
+	\arrow[from=3-2, to=2-4]
+	\arrow[from=3-5, to=4-3]
+	\arrow[from=3-4, to=4-3]
+	\arrow[curve={height=6pt}, from=3-1, to=4-3]
+	\arrow[from=4-1, to=4-3]
+	\arrow[from=4-1, to=3-2]
+	\arrow[from=3-4, to=3-5]
+\end{tikzcd}
+
+In category theory lingo, this is called a *universal property*. Likewise, the 
+*coproduct* pattern described by the diagram in the previous section was also a 
+universal property. Category theory 
+tries to talk about things (being $T$, being the "sum" of two other things) 
+purely based on these properties, which is why it 
+can do powerful reasoning in a subject-matter-agnostic way.

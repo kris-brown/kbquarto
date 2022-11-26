@@ -44,7 +44,7 @@ grapple with non-OED concepts without it.
 
 - For example: we're primed to think of *sentience* as some objective 
   phenomenon (because we're primed to be 
-  [descriptivists](/docs/phil/people/brandom/sellars09/4/index.qmd#semantic-nominalism)), 
+  [descriptivists](/docs/phil/definitions/descriptivism.qmd)), 
   but this is entirely unnecessary. 
 - We can completely sidestep talk of the ontological nature of sentience and 
   get along perfectly fine.

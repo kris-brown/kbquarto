@@ -21,6 +21,6 @@ and provide meanings.
 
 While this is a [distinction](/docs/phil/distinctions/broken/objective_subjective.qmd) 
 that Rorty, too, wishes to undermine, Rorty criticizes Dewey (in [Experience and 
-Nature](/docs/phil/people/dewey/works/experience_and_nature/index.qmd)) 
+Nature](/docs/phil/people/dewey/works/experience_and_nature)) 
 as wanting to "use the term 'experience' as an 
 incantatory device to blur every conceivable distinction."

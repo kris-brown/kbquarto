@@ -11,7 +11,7 @@ listing:
     - ../../../backlinks/docs/phil/definitions/teleosemantics.yml
 ---
 
-Developed by [Ruth Millikan](/docs/phil/people/millikan/works/language_other_biological/index.qmd).
+Developed by [Ruth Millikan](/docs/phil/people/millikan/works/language_other_biological).
 
 A simple example: imagine that beavers slap their tail when there's danger, and 
 beavers flee when they hear another beaver slap its tail.

@@ -45,7 +45,7 @@ Seven tenants, according to [-@soames2005reference]:
 7. The aim of philosophy is conceptual analysis
 
 # Wittgenstein
-- The [Tractatus](/docs/phil/people/wittgenstein/works/tractatus/index.qmd) 
+- The [Tractatus](/docs/phil/people/wittgenstein/works/tractatus) 
   was supremely descriptivist.
 - Yet it made a key advance by
   noting that logical expressions play a different kind of role 

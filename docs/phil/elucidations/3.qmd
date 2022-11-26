@@ -103,7 +103,7 @@ Nietzsche means something different from ethics when using the term morality
   century of psychological research that Nietzsche was right often.
   - E.g. he centred the role of the subconscious
   - Among the three dominant paradigms of moral psychology, 
-    [Aristotle](/docs/phil/people/aristotle/index.qmd) / Kant / 
+    [Aristotle](/docs/phil/people/aristotle) / Kant / 
     Nietzsche, Nietzsche has the most plausible underlying assumptions given 
     what we now know about psychology.
     

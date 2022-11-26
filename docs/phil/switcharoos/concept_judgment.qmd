@@ -24,7 +24,7 @@ languages:
   it's a good a judgment, whereas $Q \mapsto {\rm rectangular\ thing}$ would no 
   longer be a good judgment.
 
-However, [Kant](/docs/phil/people/kant/index.qmd) turned this around. 
+However, [Kant](/docs/phil/people/kant) turned this around. 
 In this view, judgments are prior (in the order of understanding) to concepts.
 
 # The prior tradition 

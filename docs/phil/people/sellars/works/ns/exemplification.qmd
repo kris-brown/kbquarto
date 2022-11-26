@@ -13,8 +13,8 @@ listing:
 
 {{< include /docs/phil/people/sellars/works/ns/_exemplification.md >}}
 
-- This plays off [Carnap](/docs/phil/people/carnap/index.qmd)'s notion of 
+- This plays off [Carnap](/docs/phil/people/carnap)'s notion of 
   'quasi-syntactical'.
 - There's the narrow view of 'the world', that's the world that science is the 
-  measure of all things. And the broader view of the world.
+  measure of all things. And the broader view of the world that has things like rules.
 

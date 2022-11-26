@@ -108,8 +108,9 @@ function render_links(links_in, title_dict)
     mkpath(dirname(kpth))
     open(kpth, "w") do io
       for (v1,v2) in vs 
+        html = isfile("$v1.qmd") ? ".html" : ""
         println(io,"- name: $(title_dict[v1])")
-        println(io,"  href: $v1.html")
+        println(io,"  href: $v1" * html)
         println(io,"  custom-field: \"...$v2...\"")
       end
     end

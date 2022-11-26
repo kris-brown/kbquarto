@@ -1,8 +1,9 @@
 > To say that a person desired to do A, thought it his duty to do B, but was 
 forced to do C, is not to describe him as one might describe a scientific 
-specimin. One does indeed describe him, but one does something more. And it's 
+specimen. One does indeed describe him, but one does something more. And it's 
 this 'something more' which is the irreducible core of the framework of persons. 
-In what does this 'something more' consist? To think of a featherless bird as a 
+
+> In what does this 'something more' consist? To think of a featherless bird as a 
 person is to think of it as a being with which  one is bound up in a network of 
 duties. From this point of view, the irreducibility of the personal is the 
 irreducibility of the *ought* or the *is*. But even more basic than this to 

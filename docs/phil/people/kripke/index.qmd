@@ -8,6 +8,13 @@ listing:
     page-size: 100000
     filter-ui: true
     fields: ["title"]
+  - id: backlinks
+    type: table
+    page-size: 100000
+    filter-ui: true
+    template: "../../../../ejs/custom.ejs"
+    contents:
+      - ../../../../backlinks/docs/phil/people/kripke/index.yml
 ---
 
 TODO

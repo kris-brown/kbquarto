@@ -11,7 +11,7 @@ listing:
     - ../../../../backlinks/docs/phil/distinctions/made/noumena_phenomena.yml
 ---
 
-[Kant](/docs/phil/people/kant/index.qmd) radicalized the distinction between:
+[Kant](/docs/phil/people/kant) radicalized the distinction between:
 
 - primary qualities (properties that are truly there)
 - secondary qualities (properties that are due to us).
@@ -22,7 +22,7 @@ He challenges us to divide the labor:
 - what features are *we responsible for*?
   - E.g. the fact our theories are expressed in German/English
 
-This distinction lives in [Sellars](/docs/phil/people/sellars/index.qmd) as 
+This distinction lives in [Sellars](/docs/phil/people/sellars) as 
 the difference between:
 
 -  the world *in the narrow sense*

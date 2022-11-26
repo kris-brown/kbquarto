@@ -16,7 +16,7 @@ listing:
 - Related to [this quote](/docs/phil/people/sellars/works/cdcm/describing_wo_modality.qmd).
 - What is the connection between the ([alethic](/docs/phil/definitions/alethic.qmd)) 
   modal sense of *must* and the normative sense of *must*?
-- [Carnap](/docs/phil/people/carnap/index.qmd) uses 'transposed' to talk about 
+- [Carnap](/docs/phil/people/carnap) uses 'transposed' to talk about 
   an unquoted word used in a sentence as a
   transposed mode of speech (about use of a quoted-word).
   - Examples:

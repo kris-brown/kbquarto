@@ -56,4 +56,4 @@ By Lewis Caroll in 1895. [-@carroll2021tortoise]
   would be put in a logical system, not in the forms of axioms, but in the form 
   of rules.
 
-(This is from one of his [Sellars lectures](/docs/phil/people/brandom/sellars09/index.qmd))
+(This is from one of his [Sellars lectures](/docs/phil/people/brandom/sellars09))

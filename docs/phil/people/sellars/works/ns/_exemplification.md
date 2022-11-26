@@ -3,4 +3,4 @@
   linguistic norms and roles viewed (thus in translating) from the standpoint 
   of a fellow participant.
 
-  [^1]: e.g. redness, lionhood
+[^1]: e.g. redness, lionhood

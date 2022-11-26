@@ -14,7 +14,7 @@ Def: the view that one can analyze without remainder intentional vocabulary /
 intentional concepts into purely behavior characterizations / dispositions to 
 publicly observable behavior (specified in a non-intentional vocabulary).
 
-Introduced in [*Empiricism and the Philosophy of Mind*](/docs/phil/people/sellars/works/epm/index.qmd) (9 years earlier), distinct 
+Introduced in [*Empiricism and the Philosophy of Mind*](/docs/phil/people/sellars/works/epm) (9 years earlier), distinct 
 from what he here calls logical behaviorism. *Logical behaviorism* refers to a 
 view he attributes to Ryle. JB Watson and BF Skinner promoted this in psychology. 
 Sellars never endorsed this because he saw this as being an application of 
@@ -48,7 +48,7 @@ the behavior)
 
 ##  Digressions
 1. [*Semantics*](/docs/phil/definitions/semantics.qmd) is a field with instrumentalist vs theoretical realist views. 
-[Michael Dummett](/docs/phil/people/dummett/index.qmd) is an instrumentalist 
+[Michael Dummett](/docs/phil/people/dummett) is an instrumentalist 
 by observing the fact that meaning something 
 is only understood through verbal behavior and concluding that any theory of 
 meaning must be definable in terms of behavior.
@@ -56,7 +56,7 @@ meaning must be definable in terms of behavior.
       explain verbal behavior and say our access to meanings is inferential and, 
       if they are good theories, then verbal behavior gives us inferential 
       access to something (meanings) that exist.)
-2. [MacDowell](/docs/phil/people/macdowell/index.qmd) and Sellars agree 
+2. [MacDowell](/docs/phil/people/macdowell) and Sellars agree 
    (and disagree with almost all others) that what 
    you hear when someone talks to you is the words themselves, rather than 
    hearing noises and (by some inferential process) constructing the words. 
@@ -91,7 +91,7 @@ representations of rules.
 
 The question of whether meaning is a normative concept was brought to 
 philosophical attention by 
-[Kripkenstein](/docs/phil/people/kripke/works/kripkenstein/index.qmd). In present 
+[Kripkenstein](/docs/phil/people/kripke/works/kripkenstein). In present 
 literature, Hattiangadi and Katherin Glüer have pushed back upon the idea that 
 it is a normative concept, advanced by Brandom and MacDowell. Brandom feels it 
 is because they haven't learned lessons from Sellars, in particular thinking of
@@ -103,7 +103,7 @@ is because they haven't learned lessons from Sellars, in particular thinking of
 wisdom to think of defining *not* in terms of the relationship between 
 *possibility* and *necessity*, but I'm the only human being who thinks that.
 
-[Grice](/docs/phil/people/grice/index.qmd) on non-natural meaning: reduces what 
+[Grice](/docs/phil/people/grice) on non-natural meaning: reduces what 
 a linguistic expression $P$ means in 
 terms of the meanings of thoughts and beliefs of those uttering $P$. Sellars 
 isn't satisfied with this: the puzzling phenomena of meaning are common to both 
@@ -123,8 +123,8 @@ ought-to-be's (can be social but the conditioners need not be doing so intention
 
 We can deliberate making a distinction between ought-to-be's in the context of 
 humans vs nonliving/nonsentient beings (e.g. "plants ought to get enough water").
-[Ruth Millikan](/docs/phil/people/millikan/index.qmd)'s work relevant. 
-Connects to the [Aristotelian](/docs/phil/people/aristotle/index.qmd) account.
+[Ruth Millikan](/docs/phil/people/millikan)'s work relevant. 
+Connects to the [Aristotelian](/docs/phil/people/aristotle) account.
 
 Consider ought to be's in the context of training animals: These rats ought to 
 be in state $\phi$ whenever $\psi$.
@@ -178,9 +178,9 @@ See distinction [here](/docs/phil/distinctions/made/ought_to_be.qmd)
 See distinction [here](/docs/phil/distinctions/made/sense_dependence_reference.qmd)
 
 # Romantic views of language
-People with romantic views of language: [Derrida](/docs/phil/people/derrida/index.qmd) 
-and [Nietzsche](/docs/phil/people/nietzsche/index.qmd). These are compatible 
-with Wittgenstein [believing language has no downtown](/docs/phil/people/wittgenstein/index.qmd#downtown).
+People with romantic views of language: [Derrida](/docs/phil/people/derrida) 
+and [Nietzsche](/docs/phil/people/nietzsche). These are compatible 
+with Wittgenstein [believing language has no downtown](/docs/phil/people/wittgenstein#downtown).
 
 Sellars disagrees: the language-language inferential transitions are of the 
 first importance among those because what makes the entries and exits 
@@ -227,7 +227,7 @@ should we be doing? What follows if the house is on fire? What should we be
 doing?" You take her to have claimed this to have undertaken a commitment and 
 you hold her responsible for it. The difference is not some light that's going 
 on. It's a difference in normative status, ultimately a difference in 
-[social status](/docs/phil/people/brandom/index.qmd#sapience).
+[social status](/docs/phil/people/brandom#sapience).
 
 This is the difference between just conforming to the pattern, and actually 
 making claims. The radically anti-Cartesian aspect of Sellars is that this is 

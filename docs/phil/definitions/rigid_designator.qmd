@@ -2,8 +2,8 @@
 title: Rigid designator
 ---
 
-[Kripke](/docs/phil/people/Kripke)'s theory of the meaning of names 
-(from [Naming and Necessity](/docs/phil/people/Kripke/works/naming_and_necessity/)) 
+[Kripke](/docs/phil/people/kripke)'s theory of the meaning of names 
+(from [Naming and Necessity](/docs/phil/people/kripke/works/naming_and_necessity)) 
 that is alternative to 
 [descriptivism](/docs/phil/definitions/descriptivism.qmd):
 

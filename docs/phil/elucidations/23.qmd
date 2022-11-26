@@ -32,7 +32,7 @@ published: May 17, 2011
   - Sherlock Holmes meets you for the first time and says "ah I see you're from 
     NJ". "how did sherlock holmes know this?"
     - X = "given that I didn't do anything to reveal my origin"
-- [Kant](/docs/phil/people/kant/index.qmd) 'grandfather of how possible 
+- [Kant](/docs/phil/people/kant) 'grandfather of how possible 
   questions' and inventor of trancendental arguments
   - How is mathematical knowledge possible? How is pure science possible?
     - For the former, Kant answers by drawing attention to how diagramatic 

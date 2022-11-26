@@ -20,7 +20,7 @@ See [SEP](/https://plato.stanford.edu/entries/private-language)
 
 # Quotes about 
 {{< include /docs/phil/people/cavell/works/aesthetic_problems/_depsychologizing.md >}}
-- [stanley cavell](/docs/phil/people/cavell/works/aesthetic_problems/index.qmd) 
+- [stanley cavell](/docs/phil/people/cavell/works/aesthetic_problems) 
 
 # Quotes 
 

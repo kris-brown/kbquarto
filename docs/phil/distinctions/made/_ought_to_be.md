@@ -29,7 +29,7 @@
 
 - This is important because natural way to think of rules is exlusively in terms 
   of Ought to Do (Sellars himself advocated this 
-  [earlier](/docs/phil/people/sellars/works/some_reflections/index.qmd): "A rule is always a 
+  [earlier](/docs/phil/people/sellars/works/some_reflections): "A rule is always a 
   rule for doing something").
 
 - There is also an analogous distinction involving permission, rather than 

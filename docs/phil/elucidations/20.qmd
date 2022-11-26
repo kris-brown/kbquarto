@@ -47,7 +47,7 @@ published: February 8, 2011
       Kantian morality.
 - Friendship and Love
   - These require trust/faith (Othello example)
-  - Friendship: [Aristotelian](/docs/phil/people/aristotle/index.qmd) vs 
+  - Friendship: [Aristotelian](/docs/phil/people/aristotle) vs 
     Christian views
 - A liberal society based on reason would require a private/public separation
   - Anarchism has a variety of alternatives of new forms of order.

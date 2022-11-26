@@ -18,14 +18,14 @@ listing:
 Uses [Principia Mathematica](/docs/phil/people/russell/works/principia) 
 notation, which takes some time to learn.
 
-[Goodman](/docs/phil/people/goodman/index.qmd) has let the formalism of classical 
+[Goodman](/docs/phil/people/goodman) has let the formalism of classical 
 extensional logic mislead him in 
 thinking about counterfactuals. He thought we could build up to counterfactuals 
 from extensional logical vocabulary. The kind that can be built up by 
 extensional logical vocabulary Sellars calls subjunctive identicals.
 
 Goodman is impressed in 
-[*Fact, Fiction, and Forecast*](/docs/phil/people/goodman/works/fff/index.qmd), with 
+[*Fact, Fiction, and Forecast*](/docs/phil/people/goodman/works/fff), with 
 the difference between the claim 'All copper melts at 1084 °C' and 'all the 
 coins in my pocket are copper'. The first supports counterfactual reasoning 
 ("if this coin in my pocket *were* copper, it'd melt at 1084 °C") whereas if 
@@ -68,7 +68,7 @@ Jerry Fodor's theory of semantic content in terms of nomological locking: can't
 directly say anything about modality directly. Not alone: Dretske and other 
 teleosemantic literature. Sellars wants to argue this program will never work.
 
-An axial idea of [Kant](/docs/phil/people/kant/index.qmd): the framework that 
+An axial idea of [Kant](/docs/phil/people/kant): the framework that 
 makes description possible has features which we can express with words (words 
 whose job is not to describe [^5] anything, but rather to make explicit features 
 of the framework within which we can describe things).
@@ -76,7 +76,7 @@ of the framework within which we can describe things).
 The framework is often characterized with laws. With alethic modal vocabulary on 
 the object side, normative vocabulary on the subject side.
 
-[Kant](/docs/phil/people/kant/index.qmd) is concerned with features that are 
+[Kant](/docs/phil/people/kant) is concerned with features that are 
 necessary conditions of the possibility of applying descriptive contents. How 
 are statements like that sensibly thought of as true or false? (where the home 
 language game is ordinary descriptive language) Kant says yes, in a sense, but 
@@ -188,8 +188,8 @@ count them (they're pro-sortals, placeholders for sortals). If we supply one
 counterfactually robust inferences). If you don't supply one, you haven't 
 thought about it. Related to Wittgenstein's [plate example](/docs/phil/situations/platepoint.qmd).
 
-[Kant](/docs/phil/people/kant/index.qmd) says concepts are rules for judgment we 
-[bind ourselves by](/docs/phil/people/brandom/#concepts). That doesn't settle
+[Kant](/docs/phil/people/kant) says concepts are rules for judgment we 
+[bind ourselves by](/docs/phil/people/brandom#concepts). That doesn't settle
 the question of how much of the law we need to know in order to bind ourselves 
 by it. I don't have to know much about molybdenum to refer to molybdenum.
 
@@ -206,14 +206,14 @@ Sellars calls this [*descriptivism*](/docs/phil/definitions/descriptivism.qmd):
 what you do with language is describe things.
 
 You find this not only in anglophone tradition but also in a pure form in 
-[Hussurl](/docs/phil/people/hussurl/index.qmd) / semiotics. 
-[Derrida](/docs/phil/people/derrida/index.qmd) rejects Hussurl because there are 
+[Hussurl](/docs/phil/people/hussurl) / semiotics. 
+[Derrida](/docs/phil/people/derrida) rejects Hussurl because there are 
 some phenomena that can't be related by sign-signified relations, but he 
 addresses it by saying it's all signs.
 
 Kant found sentences special: you don't describe things with them, you say 
 things with them. Theory of judgment. The 
-[Tractatus](/docs/phil/people/wittgenstein/works/tractatus/index.qmd) has no 
+[Tractatus](/docs/phil/people/wittgenstein/works/tractatus) has no 
 room for statements 
 of natural law. For normative statements, it retreats into mysticism.
 
@@ -241,10 +241,10 @@ Revolution in Anglophone philosophy, taking three phases:
        modal concepts in terms of other modal concepts - what do we mean by 
        *possible world*? What do we mean by *accessibility*?
 2. The previous development is only for modal logic, but Montague, David Kaplan, 
-   [David Lewis](/docs/phil/people/lewis/index.qmd), Stalnaker, etc. extended 
+   [David Lewis](/docs/phil/people/lewis), Stalnaker, etc. extended 
    it to work for non-logical semantics as well. See, for example, Lewis' 
    [*General Semantics*](/docs/phil/people/lewis/works/general_semantics.qmd)
-3. Kripke's [*Naming and Necessity*](/docs/phil/people/kripke/works/naming_and_necessity/index.qmd)
+3. Kripke's [*Naming and Necessity*](/docs/phil/people/kripke/works/naming_and_necessity)
   - Introduced us to contingent *a priori* and metaphysical necessity
 
 Brandom says: the second is the most important, but Quine's objection was not 
@@ -295,7 +295,7 @@ That some inference is ok is something that is *conveyed* by a modal claim, but
 it is not what is *said*. (Analogy: John *says/asserts/means* "The weather is 
 good today", but John *conveys* "John thinks the weather is good today" and John 
 *does not say* "John thinks the weather is good today."). Related to this 
-[quote](/docs/phil/people/sellars/#transpose).
+[quote](/docs/phil/people/sellars/works/im/transposed.qmd).
 
 
 What Sellars' conclusion ought to be: what one is *doing* in making a modal 
@@ -367,7 +367,7 @@ consequence relations. We can do that in fundamental physics, but hardly ever
 in the special sciences.
 
 # Relation to Hegel
-[Hegel](/docs/phil/people/hegel/index.qmd) says, "By conceptual, I mean, what's 
+[Hegel](/docs/phil/people/hegel) says, "By conceptual, I mean, what's 
 articulated by relations of 
 determinant negation [^1] and mediation [^2]".[^3] He says, the objective world, 
 as it is, independently of our activities, is conceptually articulated. It has 
@@ -387,7 +387,7 @@ compatibility, but the world, just as it comes, is already in conceptual shape.
 [^1]: i.e. material incompatibility
 [^2]: i.e. material consequence
 [^3]: Brandom says this is expressed, beginning in the section on perception of 
-[Phenomenology of Spirit](/docs/phil/people/hegel/works/spirit/index.qmd).
+[Phenomenology of Spirit](/docs/phil/people/hegel/works/spirit).
 
 # Utility of possible worlds semantics
 
@@ -399,7 +399,7 @@ So we can express (in the language of possible worlds) the fact that it follows
 from (as a consequence) something's being copper that it melts at 1084 °C, for 
 example.
 
-[David Lewis](/docs/phil/people/lewis/index.qmd) is presented as an example of 
+[David Lewis](/docs/phil/people/lewis) is presented as an example of 
 misusing possible world semantics. He 
 discards the connection between inference and the possible worlds. He takes the 
 descriptivist position that all one can do is describe with language, but then 

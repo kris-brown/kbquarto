@@ -20,11 +20,11 @@ but what of triangularity and whiteness?
 Realism asserts that universals are real things, that *triangularity* does refer 
 to something in the world, although perhaps some metaphysical realm.
 
-[Plato](/docs/phil/people/plato/index.qmd) is an example.
+[Plato](/docs/phil/people/plato) is an example.
 
 ### Nominalism
 
-[Berkeley](/docs/phil/people/berkeley/index.qmd) rejected Locke's view of 
+[Berkeley](/docs/phil/people/berkeley) rejected Locke's view of 
 abstract ideas on [empiricist](/docs/phil/definitions/empiricism.qmd) grounds. 
 For him 
 *triangularity* is just a name that refers to all triangles, rather than 
@@ -36,7 +36,7 @@ There are no abstract ideas, just particulars.
 
 One can accept that universals refer to things in the world but be clear that 
 they are mental things (concepts). 
-[Locke](/docs/phil/people/locke/index.qmd) is an example.
+[Locke](/docs/phil/people/locke) is an example.
 
 ## Other resources 
 - [IEP](https://iep.utm.edu/universa/)

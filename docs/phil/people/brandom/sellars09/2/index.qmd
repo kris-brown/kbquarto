@@ -44,7 +44,7 @@ Aside: It took a while in the 20th century to realize that logic was not about
 logical truth but rather about validity of inference. In classical logic can
 you treat these interchangably, but not all (rough logics vs smooth logics -
 whether the consequence relation can be determined by the set of all theorems).
-[Dummett](/docs/phil/people/dummett/index.qmd) has written about this issue.
+[Dummett](/docs/phil/people/dummett) has written about this issue.
 
 What if we picked some other vocabulary (other than logical) to hold fixed? E.g.
 substituting non-theological vocabulary for non-theological vocabulary.

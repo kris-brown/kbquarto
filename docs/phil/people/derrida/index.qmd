@@ -21,7 +21,7 @@ we hardly ever actually reason with each other or argue or infer; look at all
 the playful things we can do with language.
 
 So Derrida will write an essay where his interpretation of 
-[Hegel](/docs/phil/people/hegel/index.qmd) *crucially* 
+[Hegel](/docs/phil/people/hegel) *crucially* 
 turns on the fact that his name in French rhymes with 'eagle' [-@derrida1986proverb]. 
 For another essay, what's really important in interpreting it is how wide the 
 margins were in the first edition of it.

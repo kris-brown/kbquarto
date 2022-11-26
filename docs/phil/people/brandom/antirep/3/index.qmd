@@ -14,7 +14,7 @@ categories: 🔴
              namely not describing the claimable, but endorsing it
            - underwriting a global antirepresentationalism because of special 
              properties of the vocabulary of truth
-   - *together* underwrite a [Jamesean](/docs/phil/people/james/index.qmd) 
+   - *together* underwrite a [Jamesean](/docs/phil/people/james) 
      understanding of truth-talk.
    - This role for an [expressivist](/docs/phil/definitions/expressivism.qmd) 
      move in a pragmatist argument forges an 
@@ -25,7 +25,7 @@ categories: 🔴
      explanation (a way of thinking about conceptual priority) between 
      representational relations and reason relations (of implication and 
      incompatibility).
-  - [Davidson](/docs/phil/people/davidson/index.qmd) teaches us that and how 
+  - [Davidson](/docs/phil/people/davidson) teaches us that and how 
     taking reason relations as primary (the 
     pragmatists says, because giving and assessing reasons, implicitly and 
     practically appealing to justificatory reason relations, specifiable in a 
@@ -38,7 +38,7 @@ categories: 🔴
 # Introduction to pragmatism
 ## Platonist / Pragmatist distinction
 Rorty takes for granted a distinction of 
-[Dewey](/docs/phil/people/dewey/index.qmd):
+[Dewey](/docs/phil/people/dewey):
 
 | Platonism      | pragmatism |
 | ----------- | ----------- |
@@ -64,21 +64,21 @@ principle.
 Rorty sees representationalism as the distinctly modern form of Platonism as 
 described above.
 
-[Kant](/docs/phil/people/kant/index.qmd) is the avatar of this form of 
+[Kant](/docs/phil/people/kant) is the avatar of this form of 
 representationalism: representations and 
 rules are two sides of the same coin. He puts principle over practice (opposed 
-by Dewey, who was followed by [Heidegger](/docs/phil/people/heidegger/index.qmd) 
-and [Wittgenstein](/docs/phil/people/wittgenstein/index.qmd) in this respect).
+by Dewey, who was followed by [Heidegger](/docs/phil/people/heidegger) 
+and [Wittgenstein](/docs/phil/people/wittgenstein) in this respect).
 
 ## Vocabulary vocabulary
 This is Rorty's way of talking about language games. Or paradigms (in the 
-[Kuhnian](/docs/phil/people/kuhn/index.qmd) sense - 
+[Kuhnian](/docs/phil/people/kuhn) sense - 
 Kuhn was writing just down the hall from Rorty). Vocabularies 
 are what we deploy in discursive practice.
 
 He thinks is needed as a successor notion to the idea of languages and theories, 
 which was rightfully taken apart by Quine's 
-[Two Dogmas of Empiricism](/docs/phil/people/quine/works/two_dogmas/index.qmd).
+[Two Dogmas of Empiricism](/docs/phil/people/quine/works/two_dogmas).
 
 Examples, how big are they?
 - on the one hand, the vocabulary of 16th century theology
@@ -92,12 +92,12 @@ Examples, how big are they?
   right vocabulary (important to realize this, since it changes how we compare 
   arguments).
     - This point appears to be accepting the 
-      [Carnappian](/docs/phil/people/carnap/index.qmd) distinction of theory 
+      [Carnappian](/docs/phil/people/carnap) distinction of theory 
       and language
 - Rorty makes fun of representational realists as being committed to the idea 
   that there is a thing such as "nature's own language" / "nature's own 
   vocabulary"
-   - He sees [Lewis](/docs/phil/people/lewis/index.qmd) as committed to this 
+   - He sees [Lewis](/docs/phil/people/lewis) as committed to this 
      as the language which determines what 
      the 'natural properties' are.
 
@@ -121,7 +121,7 @@ Examples, how big are they?
     - But it would be a serious mistake to take this extreme, artificial case to 
       be the paradigm on the basis of which we understand the use of language in 
       general. (Here we might think of 
-      [Heidegger](/docs/phil/people/heidegger/index.qmd) on the effort it takes to 
+      [Heidegger](/docs/phil/people/heidegger) on the effort it takes to 
       precipitate Vorhandenheit out of Zuhandenheit.
 
 
@@ -154,7 +154,7 @@ descriptions in advance.
   or “reconceptualization.”
 
 ## Conversation
-> Pragmatists follow [Plato](/docs/phil/people/plato/index.qmd) in striving 
+> Pragmatists follow [Plato](/docs/phil/people/plato) in striving 
   for an escape from conversation to 
   something atemporal which lies in the background of all possible conversations
 
@@ -166,11 +166,11 @@ would only attempt to do if you are trying to end all conversation. This is a
 fundamental mistake.
 
 - This is something the early Wittgenstein did in the 
-  [Tractatus](/docs/phil/people/wittgenstein/works/tractatus/index.qmd)
+  [Tractatus](/docs/phil/people/wittgenstein/works/tractatus)
 - He then learned not to do this. It's related to his later view that language 
   is a motley.
 
-[Dummett](/docs/phil/people/dummett/index.qmd)'s interpretation of Wittgenstein:
+[Dummett](/docs/phil/people/dummett)'s interpretation of Wittgenstein:
 
 - Wittgenstein would think that if there were any use for a philosophical notion 
   of meaning, the point of having a notion of meaning would be to codify 

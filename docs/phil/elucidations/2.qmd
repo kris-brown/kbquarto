@@ -7,7 +7,7 @@ published: August 3, 2009
 
 
 # What do we mean by poetry
-- Clarification: "poetry" to [Plato](/docs/phil/people/plato/index.qmd) is more similar to what we call theatre
+- Clarification: "poetry" to [Plato](/docs/phil/people/plato) is more similar to what we call theatre
   (performative context).
 - Plato thought he innovated the distinction between style and content:
   - Distinguishing the story from the way the poet tells the story
@@ -17,7 +17,7 @@ published: August 3, 2009
 # Effect of poetry
 - The effect of being exposed to poetry: one tries to be many things, instead of 
   one thing.
-  - Background: Plato + [Aristotle](/docs/phil/people/aristotle/index.qmd) 
+  - Background: Plato + [Aristotle](/docs/phil/people/aristotle) 
     both believed a good human life is unified
     - A single goal, so you could say what it was about
       - (they happened to think the best goal was contemplation of eternal 

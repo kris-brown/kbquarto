@@ -15,7 +15,7 @@ Sellars is a *great* philospher:
 # Quotes on describing, justifying, explaining
 
 Sellars is taking the notions of "describing", "justifying", "explaining" as 
-they are in practice rather than inventing an artifical formal meaning.
+they are in practice rather than inventing an artifical formal meaning / invoking technical jargon.
 
 - [Scientium mensura](/docs/phil/people/sellars/works/epm/scientia.qmd)
 - [Space of reasons](/docs/phil/people/sellars/works/epm/space_of_reasons.qmd)
@@ -38,4 +38,13 @@ feature. Sellars takes modal expressions to be inference licenses.
 - [Rule is in behavior](/docs/phil/people/sellars/works/lrb/rules_lived.qmd)
 - [Against phenomalism](/docs/phil/people/sellars/works/phenomenalism/against_phenomenalism.qmd)
 - [Transitioning into language](/docs/phil/people/sellars/works/psim/transition.qmd)
+- [Community](/docs/phil/people/sellars/works/psim/community.qmd)
+- [Exemplification](/docs/phil/people/sellars/works/ns/exemplification.qmd)
 
+# Overview
+Sellars' goal: to usher philosophy from its Humean phase to its Kantian phase. 
+He thought Kant had not been understood; it was not until the end of his life 
+that Kant was brought back into mainstream respectability in the Anglophone 
+tradition. This changed in the late 60's (due to Strawson/Rawls). 
+
+Four of his ideas mattered a lot to Kant.

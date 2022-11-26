@@ -33,7 +33,7 @@ An American philosopher, born in 1950.
 ### Concepts
 > It's not about our grip on concepts[^1]; it's about the concept's grip on us.
 
-- this could also go in [Switcharoos](/docs/phil/switcharoos/index.qmd)
+- this could also go in [Switcharoos](/docs/phil/switcharoos)
 
 [^1]: this characterizes the pre-Kantian tradition
 
@@ -47,9 +47,11 @@ of Kant)
 
 ## Jokes
 ### On Gil Harmon
-My teacher Gil Harmon said you should never really read anything that was 
+My teacher [Gil Harmon](https://en.wikipedia.org/wiki/Gilbert_Harman) 
+said you should never really read anything that was 
 written more than five years ago because, if it was important, people would 
 have written about it. My classmates thought at the time that Gil was the 
 *non plus ultra* of an ahistorical philosopher, but came to realize they were 
 wrong. He was steeped in the history of philosophy - everything he did came out 
-of his understanding of it ... it's just that he thought it started with Quine. 
+of his understanding of it ... it's just that he thought it started with 
+[Quine](/docs/phil/people/quine). 

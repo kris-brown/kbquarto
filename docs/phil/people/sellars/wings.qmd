@@ -11,17 +11,16 @@ listing:
 ---
 
 Rorty characterized the followers of Sellars as being left or right wing 
-depending on whether the 
-[space of reasons](/docs/phil/people/sellars/works/epm/space_of_reasons.qmd) passage or the 
-[scientium mensura](/docs/phil/people/sellars/works/epm/scientia.qmd) 
+depending on which 
 passage was found to be more insightful/fundamental to 
 Sellars' thought.
 
-Right:
-- Millikan, Jay Rosenberg
-
-Left:
-- Rorty, Brandom, MacDowell
+- Right-wing:
+  - Passage: [scientium mensura](/docs/phil/people/sellars/works/epm/scientia.qmd) 
+  - Examples: [Millikan](/docs/phil/people/millikan), Jay Rosenberg
+- Left-wing:
+  - Passage: [space of reasons](/docs/phil/people/sellars/works/epm/space_of_reasons.qmd)
+  - Examples: Rorty, Brandom, MacDowell
 
 Sellars saw both aspects of his philosophy as essential.
 

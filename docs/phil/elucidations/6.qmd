@@ -54,7 +54,7 @@ say rather than what really is?
   - Do we have faculties that trancend experience?
   - [Empiricists](/docs/phil/definitions/empiricism.qmd) see a continuity 
     between what we observe and how we reason
-    - [Hume](/docs/phil/people/hume/index.qmd) argues that we "think in 
+    - [Hume](/docs/phil/people/hume) argues that we "think in 
       pictures" and arrives at this conclusion by 
       personal reflection.
     - [Rationalists](/docs/phil/definitions/rationalism.qmd) like Descartes 

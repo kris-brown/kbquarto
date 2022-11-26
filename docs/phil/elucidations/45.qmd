@@ -72,7 +72,7 @@ published: March 28, 2013.
 # Upshots
   - Theoretical study of objective probabilities is back on the table.
   - relationship between inductive and deductive logic
-    - E.g. [Carnap](/docs/phil/people/carnap/index.qmd)'s inductive logics have 
+    - E.g. [Carnap](/docs/phil/people/carnap)'s inductive logics have 
       a language with play a role of setting 
       up a procedural context in which it makes sense to ask for probabilities.
     - Language does not take such a role in deductive contexts.

@@ -10,14 +10,14 @@ categories: 🔴
   the 20th century
   - Neokantianism (Marburg / Freiburg to CI Lewis and Carnap). Philosophy has 
     sovereign authority.
-    - Idea originates with [Plato](/docs/phil/people/plato/index.qmd), but 
+    - Idea originates with [Plato](/docs/phil/people/plato), but 
       Descartes/Kant/representationalism are 
       modern versions.
-  - Neohegelianism ([Hegel](/docs/phil/people/hegel/index.qmd) socialized 
+  - Neohegelianism ([Hegel](/docs/phil/people/hegel) socialized 
     philosophy, Marx naturalized it). 
     Philosophy brought 'down to Earth'.
-- [Bertrand Russell](/docs/phil/people/russell/index.qmd) and 
-  [Husserl](/docs/phil/people/hussurl/index.qmd) found things for 
+- [Bertrand Russell](/docs/phil/people/russell) and 
+  [Husserl](/docs/phil/people/hussurl) found things for 
   philosophy to be apodictic 
   about. Basis of Rorty's 'astonishing' claim that analytic philosophy is just a 
   phase of neokantianism
@@ -29,13 +29,13 @@ categories: 🔴
     understanding knowledge epistemologically.
   - Husserl subject to Sellars' critique of the 
     [Myth of the Given](/docs/phil/people/sellars/myth.qmd), 
-    [Russell](/docs/phil/people/russell/index.qmd) 
-    subject to [Quine](/docs/phil/people/quine/index.qmd)'s critique of the
+    [Russell](/docs/phil/people/russell) 
+    subject to [Quine](/docs/phil/people/quine)'s critique of the
     [Myth of the Museum](/docs/phil/people/quine/myth.qmd). 
-    ([Carnap](/docs/phil/people/carnap/index.qmd) is subject to both myths).
+    ([Carnap](/docs/phil/people/carnap) is subject to both myths).
     - These are both (semantic) holist arguments.
 - Rorty regards the pragmatist/holist Quine+Sellars rebuttals as bringing us 
-  back to [Dewey](/docs/phil/people/dewey/index.qmd)'s 
+  back to [Dewey](/docs/phil/people/dewey)'s 
   socialized/historicized/naturalized philosophy, with the 20th 
   century being a pointless, big detour (despite increase in technical advances 
   in logic/language).
@@ -72,8 +72,8 @@ categories: 🔴
 Holist/pragmatic arguments of Sellars (against sense-givenness) and Quine 
 (against meaning-givenness) that connect epistemology and semantics:
 
-- Sellars in [EPM](/docs/phil/people/sellars/works/epm/index.qmd) 
-  - [Locke](/docs/phil/people/locke/index.qmd) got confused by conflating the 
+- Sellars in [EPM](/docs/phil/people/sellars/works/epm) 
+  - [Locke](/docs/phil/people/locke) got confused by conflating the 
     causation of a belief from its 
     justification.
   - Sense data may be causally prerequisite to knowledge, but it cannot justify 
@@ -87,7 +87,7 @@ Holist/pragmatic arguments of Sellars (against sense-givenness) and Quine
         dawns slowly over the whole" We need to get good enough at making the 
         'right' moves (as judged by 'competent speakers' before counting as a 
         'competent speaker'.
-- Quine in [TDE](/docs/phil/people/quine/works/two_dogmas/index.qmd) 
+- Quine in [TDE](/docs/phil/people/quine/works/two_dogmas) 
   - Target: analytic truths, e.g. "cats are mammals" supposedly not depending on 
     any other commitments but rather immediately from the meanings of the words.
   - What is the practical difference between these truths and very general facts, 
@@ -97,7 +97,7 @@ Holist/pragmatic arguments of Sellars (against sense-givenness) and Quine
       beliefs we have.
 - The unit of meaning must be the web-of-belief rather than the concept or the 
   sentence.
-- [Fodor](/docs/phil/people/fodor/index.qmd) argues against this, considers 
+- [Fodor](/docs/phil/people/fodor) argues against this, considers 
   mixing epistemology and semantics to be a 
   big philosophical mistake initiated by Quine.
 
@@ -115,7 +115,7 @@ popular now:
     representationalist
 - Naturalism + representationalism remains unchallenged.
   - picking an ontologically privileged base vocabulary
-- So Rorty and [Price](/docs/phil/people/price/index.qmd) need to do one or 
+- So Rorty and [Price](/docs/phil/people/price) need to do one or 
   both of:
   1. Argue independently for [pragmatism](/docs/phil/definitions/pragmatism.qmd), 
      then use that to attack 

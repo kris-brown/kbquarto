@@ -22,7 +22,7 @@ understanding." [^1]
 
 # Kantian problematic
 
-Brandom [writes](/docs/phil/people/brandom/works/kantian_lessons/index.qmd) 
+Brandom [writes](/docs/phil/people/brandom/works/kantian_lessons) 
 that Kant transformed the Cartesian problematic from an *epistemic* one to a 
 *semantic* one.
 
@@ -54,4 +54,4 @@ skeptic.
        a *de*ontological one.
        
 [^1]: A 85-7 / B 117-9 (from the 
-      [Critique of Pure Reason](/docs/phil/people/kant/works/cpr/index.qmd))
+      [Critique of Pure Reason](/docs/phil/people/kant/works/cpr))

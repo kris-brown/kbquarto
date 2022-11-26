@@ -24,7 +24,7 @@ via *dispositions* of the $P$-speaker. *Disjunctivitis* is a thought experiment
 that says this is *not* a sufficient tool for us to distinguish $\phi$'s and 
 $\psi$'s generally. [^1] 
 
-[^1]: This is a [Kripkensteinian](/docs/phil/people/kripke/works/kripkenstein/index.qmd) problem.
+[^1]: This is a [Kripkensteinian](/docs/phil/people/kripke/works/kripkenstein) problem.
 
 We're worried about whether the word 'porcupine' really means *porcupine*, or 
 whether it means *porcupine or echidna*. Because most of us porcupine users 
@@ -41,7 +41,7 @@ all I know, they all happened to have been been male porcupines, in which
 case we have to worry that my word 'porcupine' means *male porcupines*, and, 
 again, I can't tell them from the female ones.)
 
-Solution from [Sellars](/docs/phil/people/sellars/index.qmd): the people who 
+Solution from [Sellars](/docs/phil/people/sellars): the people who 
 taught you the word 'porcupine', what 
 pattern were they trying to inculcate in you? Was it to say 'porcupine' when 
 confronted with a *porcupine or echidna*? This is a crucial piece of how the 

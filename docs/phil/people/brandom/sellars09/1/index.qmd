@@ -20,7 +20,7 @@ Brandom believes Sellars to be the most important American philosopher of the
     analytic philosophy). 
   - That Kant was worth respecting a radical view at the time - he had been 
     written out of the canon due to his connection to 
-    [Hegel](/docs/phil/people/brandom/#on-kant-and-hegel).[^1]
+    [Hegel](/docs/phil/people/brandom#on-kant-and-hegel).[^1]
   - Rawls on the practical side and Strawson/Bennett on the practical side 
     brough Kant back into respectability in Anglaphone circles, but Sellars was 
     way out in front of this (and appreciated the significance of Kant deeper). 
@@ -135,19 +135,19 @@ think so.
 
 # Historical Kant Context
 
-[Kant](/docs/phil/people/kant/index.qmd) was not in favor within 
+[Kant](/docs/phil/people/kant) was not in favor within 
 [analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy) when 
 Sellars began, due to Kant's connection to 
-[Hegel](/docs/phil/people/brandom/#on-kant-and-hegel)[^1]. However, this is 
+[Hegel](/docs/phil/people/brandom#on-kant-and-hegel)[^1]. However, this is 
 ironic because Kant is incredibly analytical and science-driven.
 
-[^1]: [Hegel](/docs/phil/people/hegel/works/spirit/index.qmd) was the 'Great Bad' 
+[^1]: [Hegel](/docs/phil/people/hegel/works/spirit) was the 'Great Bad' 
       of Anglophone philosophy
 
 Three ideas of Kant that mattered to Sellars:
 
 ## Freedom
-- [Rousseau](/docs/phil/people/rousseau/index.qmd) said 
+- [Rousseau](/docs/phil/people/rousseau) said 
   "Obedience to a law that one has laid oneself is freedom."
 - Kant turned this around to distinguish *constraint by norms* from *constraint 
   by power*.
@@ -206,7 +206,7 @@ center around the normative significance of beliefs/desires/intentions.
   empirical goings-on, there are concepts whose principle expressive job it is 
   to make explicit the framework that makes description possible.
     - These are known *a priori* framework-explicating concepts.
-    - This is Kant's response to [Hume](/docs/phil/people/hume/index.qmd), 
+    - This is Kant's response to [Hume](/docs/phil/people/hume), 
       for how we can understand the modal force 
       of laws in virtue of their non-modal description.
         - The answer is in the description framework itself.

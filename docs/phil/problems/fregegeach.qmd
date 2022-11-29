@@ -14,7 +14,7 @@ listing:
 
 
 A problem for people who subscribe to 
-[emotivism](/docs/phil/definitions/emotivism.qmd). 
+[emotivism](/docs/phil/schools/emotivism.qmd). 
 Also sometimes called the *embedding problem*.
 
 Theories in the noncognitivist tradition share the view that the distinctive 

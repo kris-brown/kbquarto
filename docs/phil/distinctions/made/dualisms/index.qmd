@@ -1,0 +1,12 @@
+---
+title: Dualisms
+listing: 
+  categories: true
+  type: table
+  page-size: 100000
+  fields: [title, categories, date]
+---
+
+One way of characterizing dualisms is that they are distinctions which are
+drawn in such terms that the relation between the distinguished terms becomes 
+unintelligible. 

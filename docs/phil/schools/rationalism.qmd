@@ -1,5 +1,5 @@
 ---
-title: Naturalism
+title: Rationalism
 categories: ⚪
 listing:
   id: backlinks
@@ -8,7 +8,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs/phil/definitions/naturalism.yml
+    - ../../../backlinks/docs/phil/schools/rationalism.yml
 ---
 
-TODO 
+Often contrasted with [empiricism](/docs/phil/schools/empiricism.qmd).

@@ -8,7 +8,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs/phil/definitions/pragmatism.yml
+    - ../../../backlinks/docs/phil/schools/pragmatism.yml
 ---
 
 # Overview 

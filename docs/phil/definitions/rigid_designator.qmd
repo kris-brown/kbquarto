@@ -5,7 +5,7 @@ title: Rigid designator
 [Kripke](/docs/phil/people/kripke)'s theory of the meaning of names 
 (from [Naming and Necessity](/docs/phil/people/kripke/works/naming_and_necessity)) 
 that is alternative to 
-[descriptivism](/docs/phil/definitions/descriptivism.qmd):
+[descriptivism](/docs/phil/schools/descriptivism.qmd):
 
 A name refers to the *same* object in all possible 
 worlds in which that object exists, and the name never refers to anything else. 

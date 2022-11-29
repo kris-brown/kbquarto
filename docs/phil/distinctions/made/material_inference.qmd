@@ -11,5 +11,5 @@ listing:
     - ../../../../../../backlinks/docs/phil/distinctions/made/material_inference.yml
 ---
 
-{{< include _material_inference.md >}}
+{{< include /docs/phil/distinctions/made/_material_inference.md >}}
 

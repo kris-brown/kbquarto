@@ -1,6 +1,7 @@
 ---
 title: A children's game
 categories: "🟢"
+description: "A story about the normative character of intention"
 listing:
   id: backlinks
   type: table
@@ -14,16 +15,25 @@ listing:
 
 From [Philosophical Investigations](/docs/phil/people/wittgenstein/works/pi#aphorism-69):
 
-A mother lets me watch her kids and says to me: Show the children a game. When 
+A mother lets me watch her kids and says to me: "Show the children a game." When 
 she returns, she sees me teaching them to gamble with
-dice. She angrily exclaims I didn't mean that sort of game! Must the exclusion
-of the game with dice have come before his mind when he gave me the order?
+dice. She angrily exclaims "I didn't mean that sort of game!"
 
-It's true that she did mean not that sort of game. but she need not have had the 
+It's true that she did mean not that sort of game. But what fact about the 
+matter is what makes this true? She need not have had a 
 conscious thought at the time of the request. Somehow her request made a 
-normative division of proper responses.
+normative division of proper responses, between those that would satisfy it 
+and those that wouldn't, and gambling was sorted as unsatisfactory, despite 
+in a literal sense satisfying the request.
 
-Brandom's commentary: if you find this puzzling that, nonetheless, what you did 
+## Brandom's commentary
+If you find this puzzling that, nonetheless, what you did 
 was an inappropriate 
-response to her request, then you are trapped in a possibly Cartesian trap. 
-You're missing what distinguishes a sign from a piece of wood.
+response to her request, then you are falling for a Cartesian trap.
+  
+  - you believe that the "mental" is something within the brain, 
+  - you believe that intentional "meaning" is something that occurs on a 
+    personal, rather than community, level
+  - you're missing what distinguishes a sign from a piece of wood (namely, how 
+    its meaning is not in the wood but rather in how it is treated by 
+    community institutions).

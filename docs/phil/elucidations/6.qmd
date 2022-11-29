@@ -52,12 +52,12 @@ say rather than what really is?
 
 # Empiricism vs rationalism
   - Do we have faculties that trancend experience?
-  - [Empiricists](/docs/phil/definitions/empiricism.qmd) see a continuity 
+  - [Empiricists](/docs/phil/schools/empiricism.qmd) see a continuity 
     between what we observe and how we reason
     - [Hume](/docs/phil/people/hume) argues that we "think in 
       pictures" and arrives at this conclusion by 
       personal reflection.
-    - [Rationalists](/docs/phil/definitions/rationalism.qmd) like Descartes 
+    - [Rationalists](/docs/phil/schools/rationalism.qmd) like Descartes 
       says we can conceive of distinct figures of 
       1000 vs 999 sides, even if they are visually indistinguishable.
   - This point could be resolved by traditional psychology.

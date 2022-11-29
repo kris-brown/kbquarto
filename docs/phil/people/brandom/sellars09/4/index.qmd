@@ -202,7 +202,7 @@ If we stick together labels, we get descriptions (not a primitive name bearer
 relation, but one we can understand in terms of name-bearer relations). That's 
 what language lets us do. Describe/classify things (as falling under languages).
 
-Sellars calls this [*descriptivism*](/docs/phil/definitions/descriptivism.qmd): 
+Sellars calls this [*descriptivism*](/docs/phil/schools/descriptivism.qmd): 
 what you do with language is describe things.
 
 You find this not only in anglophone tradition but also in a pure form in 

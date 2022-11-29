@@ -8,9 +8,9 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs/phil/definitions/empiricism.yml
+    - ../../../backlinks/docs/phil/schools/empiricism.yml
 ---
 
-Often contrasted with [rationalism](/docs/phil/definitions/rationalism.qmd) 
+Often contrasted with [rationalism](/docs/phil/schools/rationalism.qmd) 
 and naturalism.
 

@@ -11,7 +11,7 @@ listing:
     - ../../../../backlinks/docs/phil/people/leibniz/index.yml
 ---
 
-A German metaphysical [rationalist](/docs/phil/definitions/rationalism.qmd) 
+A German metaphysical [rationalist](/docs/phil/schools/rationalism.qmd) 
 (1646-1716).
 
 ![](/images/headshots/leibniz.jpeg)

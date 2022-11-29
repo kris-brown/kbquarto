@@ -1,14 +1,13 @@
 ---
-title: Skepticism
-categories: 🟢
+title: Epistemological skepticism
 listing:
   id: backlinks
   type: table
   page-size: 100000
   filter-ui: true
-  template: "../../../ejs/custom.ejs"
+  template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs/phil/problems/skepticism.yml
+    - ../../../../backlinks/docs/phil/problems/skepticism/epistemological.yml
 ---
 
 There are many flavors, but consider the *brain in a vat* 

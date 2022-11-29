@@ -1,6 +1,5 @@
 ---
-title: Expressivism
-categories: ⚪
+title: Deontology
 listing:
   id: backlinks
   type: table
@@ -8,7 +7,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs/phil/definitions/expressivism.yml
+    - ../../../backlinks/docs/phil/definitions/deontology.yml
 ---
 
 TODO

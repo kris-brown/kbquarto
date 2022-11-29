@@ -117,7 +117,7 @@ popular now:
   - picking an ontologically privileged base vocabulary
 - So Rorty and [Price](/docs/phil/people/price) need to do one or 
   both of:
-  1. Argue independently for [pragmatism](/docs/phil/definitions/pragmatism.qmd), 
+  1. Argue independently for [pragmatism](/docs/phil/schools/pragmatism.qmd), 
      then use that to attack 
      representationalism without passing through foundationalism
   2. Argue independently against representationalism and propose pragmatism as 

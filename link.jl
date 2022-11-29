@@ -79,11 +79,11 @@ function get_links_in(links_out)
   # ld is the links out; we want the links *in* 
   links_in = Dict{String,Vector{Pair{String,String}}}([ 
     fi => Pair{String,String}[] for fi in keys(links_out)])
-  println.(keys(links_in))
+
   for (fi, outlinks) in collect(links_out) 
     for (out_fi, ctx) in outlinks 
       out_fi = occursin("#", out_fi) ? out_fi[1:findlast("#", out_fi).start-1] : out_fi 
-      if !haskey(links_in, "$out_fi") println("\tcan't find $out_fi in links_in. \n\t\tfi=$fi\n\nctx $ctx") 
+      if !haskey(links_in, "$out_fi") println("\n***\n\ncan't find $out_fi in links_in. \n\t\tfi=$fi\n\nctx $ctx") 
       else 
         push!(links_in[out_fi], fi=>ctx) 
       end 
@@ -165,7 +165,7 @@ function get_links(root,fi)
       poststr_ = clean(txt[m.offset+length(m.match) : end])
       prestr  = prestr_[max(1, length(prestr_) - WIDTH) : end]
       poststr = poststr_[1 : min(length(poststr_),WIDTH)]
-      length(prestr) > 0 && length(poststr) > 0 || error("$root/$fi")
+      length(prestr) > 0 && length(poststr) > 0 || error("$(m.match) in $root/$fi")
       prestr = prestr[1] == '"' ? '\\'*prestr : prestr
       poststr = poststr[end] == '\\' ? poststr[1:end-1] : poststr
       ctx = prestr * "<b>" * clean(rm_link(m.match)) * "</b>" * poststr 

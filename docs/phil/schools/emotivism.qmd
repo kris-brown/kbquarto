@@ -8,7 +8,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs/phil/definitions/emotivism.yml
+    - ../../../backlinks/docs/phil/schools/emotivism.yml
 ---
 
 How can we, in our modern scientific world, come to know *moral* facts? This is 

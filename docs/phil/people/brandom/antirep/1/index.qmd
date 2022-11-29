@@ -60,8 +60,8 @@ Descartes himself.
     - He saw both as different ends of a spectrum, while empiricists tried to 
       reduce thoughts to pictures and rationalists vice-versa.
 - Spinoza's interpretation of Descartes gives another view: within a 
-  representational picture, empiricists are atomists whereas 
-  [rationalists](/docs/phil/definitions/rationalism.qmd) are 
+  representational picture, [empiricists](/docs/phil/schools/empiricism.qmd) are atomists whereas 
+  [rationalists](/docs/phil/schools/rationalism.qmd) are 
   holists.
 - Brandom's interpretation using orders of explanation: empiricists treat 
   representation as a primitive and infer reason-relations in terms of it. 
@@ -71,7 +71,7 @@ Descartes himself.
       understand the content of the map as the 
       inferences that someone who treats it as a map could make about terrain 
       facts (e.g. a river) from map-facts (wavy-blue line).
-- Sellars identifies both camps as descriptivists (to be conceptually contentful 
+- Sellars identifies both camps as [descriptivists](/docs/phil/schools/descriptivism.qmd) (to be conceptually contentful 
   is just to describe / represent how things are).
     - Empiricists start with narrow postulate about what representing is and 
       exclude a lot of genuinely contentful thought due to not meeting this 
@@ -89,7 +89,7 @@ Descartes himself.
 ## Lessons
 
   - Representation is a holistic conception, so rationalists were right about 
-    that (think: categories, relationships over properties)
+    that.
   - Representation/description involve subjunctively robust relations between 
     representings and representeds.
     - Considering the inferences of map facts to terrain facts, we also must 
@@ -100,12 +100,12 @@ Descartes himself.
   - Representation has a normative dimension
     - To treat representation as concerning what inferences we can make is a 
       normative order.
-    - [Hegel](/docs/phil/people/hegel) appreciated this: to count as 
-      representing something is to be 
+    - [Hegel](/docs/phil/people/hegel) appreciated 
+      [this](/docs/phil/situations/shoppinglist.qmd): to count as 
+      representing something is to be
       responsible to the represented thing (what is represented provides the 
       normative standard for correctness of representing). What is represented 
       has an authority over what is representing.
-
 
 # Representationalism
 
@@ -161,7 +161,7 @@ Descartes himself.
     3. Anti-authoritarianism argument (completing the emancipatory project of  
        the Enlightenment)
 
-## Expressivism
+## [Expressivism](/docs/phil/schools/expressivism.qmd)
 
 - Simon Blackburn applies local expressivism in order to get a distinctive 
   flavor of antirepresentationalism.
@@ -184,7 +184,7 @@ Descartes himself.
       this cannot be done without embracing declarativism which the local 
       expressivists wanted to avoid.
   - He reads into later Wittgenstein to unite global expressivism with Rorty
-    - involves distinction between traditional object naturalism (how can we 
+    - involves distinction between traditional [object naturalism](/docs/phil/schools/naturalism.qmd) (how can we 
       reduce facts in terms of natural science truth-makers) and the 
       pragmatist's subject naturalism (only seeks that reduction for the 
       discursive practices consisting of use of language).

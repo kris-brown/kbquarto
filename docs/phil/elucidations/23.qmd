@@ -14,7 +14,7 @@ published: May 17, 2011
   - "how is knowledge of the external world possible?"
     - X = skepticism "How do you know you're not dreaming / in the Matrix?"
       - you don't independently know that you're not in the Matrix /
-        [brain in the vat](/docs/phil/problems/skepticism.qmd), so how could you 
+        [brain in the vat](/docs/phil/problems/skepticism/epistemological.qmd), so how could you 
         know that your hand is in front of you?
       - The skeptic has put an insuperable requirement for knowledge of the 
         external world

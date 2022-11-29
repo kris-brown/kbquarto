@@ -25,7 +25,7 @@ to something in the world, although perhaps some metaphysical realm.
 ### Nominalism
 
 [Berkeley](/docs/phil/people/berkeley) rejected Locke's view of 
-abstract ideas on [empiricist](/docs/phil/definitions/empiricism.qmd) grounds. 
+abstract ideas on [empiricist](/docs/phil/schools/empiricism.qmd) grounds. 
 For him 
 *triangularity* is just a name that refers to all triangles, rather than 
 referring to something in particular.

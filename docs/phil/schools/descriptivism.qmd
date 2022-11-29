@@ -8,7 +8,7 @@ listing:
   filter-ui: true
   template: "../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs/phil/definitions/descriptivism.yml
+    - ../../../backlinks/docs/phil/schools/descriptivism.yml
 ---
 
 The belief that what you do with language is describe things.

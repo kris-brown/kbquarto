@@ -15,14 +15,14 @@ listing:
 
 
 - *Descriptive* concepts are not the only kinds of concepts. There
-  is a temptation of [empiricists](/docs/phil/definitions/empiricism.qmd) 
+  is a temptation of [empiricists](/docs/phil/schools/empiricism.qmd) 
   in assimilating all expressions to
   descriptive expressions (such that anything not intelligible as
   descriptive is defective).
 - The negation of this is called 
-  [*decriptivism*](/docs/phil/definitions/descriptivism.qmd).
+  [*decriptivism*](/docs/phil/schools/descriptivism.qmd).
 
 - The "non-logical" qualifier is there because Sellars assumes everyone has 
   already accepted the 
-  [Tractarian](/docs/phil/definitions/descriptivism.qmd#wittgenstein) lesson 
+  [Tractarian](/docs/phil/schools/descriptivism.qmd#wittgenstein) lesson 
   that logical expressions do not describe.

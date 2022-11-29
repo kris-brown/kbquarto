@@ -15,5 +15,3 @@ listing:
 Organizing / interconnecting my notes helps me make sense of them. Also, I 
 make it all public as a discussion starter for friends + to give me pressure 
 to make them less trash.
-
-{{< include _wip.md >}}

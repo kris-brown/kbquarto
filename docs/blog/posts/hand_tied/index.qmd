@@ -239,13 +239,18 @@ into it to some extent.
       immutable (so we alone need to worry about depending on implementation 
       details which may change)
 
-3. A God's-eye view in semantics ignores the 
-    - ...
+3. A God's-eye view in semantics ignores the inherent subjectivity of our 
+   concepts. It forces one to engage in ontology and metaphysics. 
+    - Category theory is filtering out the ontology.
 
 4. A God's-eye view of politics would allow one to use one's omnipotence to 
   alter anything as one sees fit to achieve greater good. 
     - There is no worry about this good actually being mistaken or an 
-      illusion, thus, without any humility, the ends will always justify the means.
+      illusion, thus, without any humility, the ends will always justify the 
+      means.
+    - Rorty phrases Platonists (which he uses to characterize the god's-eye-view)
+      as seeking to end the conversation, while pragmatism seeks to continue the 
+      conversation. The former is more useful in practice for authoritarians.
 
 Although it can feel like one is reasoning with one hand tied behind one's back 
 when one refuses to invoke a God's-eye view, the short-term advantages of invoking it are 

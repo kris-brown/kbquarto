@@ -14,5 +14,5 @@ listing:
 {{< include /docs/phil/distinctions/broken/_brainstate_experience.md >}}
 
 This argument is used by [Ed Witherspoon](/docs/phil/elucidations/14.qmd) to 
-deny the [brain in a vat](/docs/phil/problems/skepticism.qmd) 
+deny the [brain in a vat](/docs/phil/problems/skepticism/epistemological.qmd) 
 skeptical thought experiment.

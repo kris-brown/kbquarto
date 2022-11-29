@@ -16,7 +16,7 @@ categories: 🔴
              properties of the vocabulary of truth
    - *together* underwrite a [Jamesean](/docs/phil/people/james) 
      understanding of truth-talk.
-   - This role for an [expressivist](/docs/phil/definitions/expressivism.qmd) 
+   - This role for an [expressivist](/docs/phil/schools/expressivism.qmd) 
      move in a pragmatist argument forges an 
      important link between the first and the second halves of this course.
 2. (From the discussion of representation):
@@ -50,7 +50,7 @@ Rorty takes for granted a distinction of
 - Platonists look for a principle or rule, something explicit or that could be 
   made explicit, behind every implicit propriety of practice.
 
-- [Pragmatists](/docs/phil/definitions/pragmatism.qmd) argue that explicit 
+- [Pragmatists](/docs/phil/schools/pragmatism.qmd) argue that explicit 
   principles or theories float on a vast sea of 
   implicit practical skills.
 

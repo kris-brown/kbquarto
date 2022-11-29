@@ -68,7 +68,8 @@ by the later Wittgenstein - for example his
 normative significance of beliefs/desires/intentions).
 
 
-Sellars on what is philosophy: "the attempt to say how things, in the largest sense of that term, hang together, in the largest sense of that term." 
+Sellars on what is philosophy: "the attempt to say how things, in the largest 
+sense of that term, hang together, in the largest sense of that term." 
 
 
 [^world]: This is one dimension along which the world spirit has caught up with 
@@ -80,7 +81,8 @@ Analytic philosophy held together as being a *semantic* project.
 
 - Understand the meanings of potentially-problematic target vocabularies in 
   terms of the meanings of putatively-unproblematic base vocabularies. 
-  - Some debate over what the relation between target and base vocabularies needs to be:
+  - Some debate over what the relation between target and base vocabularies 
+    needs to be:
     - definability
     - translatability
     - paraphrasability
@@ -125,7 +127,7 @@ important philosopher for Sellars was Carnap. (despite Carnap's empiricism.)
 
 # Summary of views
 
-It is debated whether or not Sellars was an empiricist, but Brandom does not 
+It is debated whether or not Sellars was an reductive naturalist, but Brandom does not 
 think so.
 
 {{< include /docs/phil/people/sellars/works/epm/_space_of_reasons.md >}}
@@ -133,107 +135,124 @@ think so.
 - This is a powerful weapon against empiricist reductionisms of all sorts, 
   according to Brandom.
 
-# Historical Kant Context
 
-[Kant](/docs/phil/people/kant) was not in favor within 
-[analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy) when 
-Sellars began, due to Kant's connection to 
-[Hegel](/docs/phil/people/brandom#on-kant-and-hegel)[^1]. However, this is 
-ironic because Kant is incredibly analytical and science-driven.
+There is a Cartesian dualism threatening the tradition that Kant is overcoming.
+Is Sellars replacing this with a norm-fact dualism? 
 
-[^1]: [Hegel](/docs/phil/people/hegel/works/spirit) was the 'Great Bad' 
-      of Anglophone philosophy
+What is a dualism? What a distinction becomes when it is drawn in such terms 
+that the relation between the distinguished terms becomes unintelligible. 
+Complaint about Cartesian dualism:
 
-Three ideas of Kant that mattered to Sellars:
+- if you're committed to "mind stuff" being non-extended.
+- and to the physical world being extended.
+- throw in some general claims about causation (e.g. it occurs in a place)
+- then perception and agency become unintelligble (how is the mind affected by real stuff / how can the mind cause something?)
 
-## Freedom
-- [Rousseau](/docs/phil/people/rousseau) said 
-  "Obedience to a law that one has laid oneself is freedom."
-- Kant turned this around to distinguish *constraint by norms* from *constraint 
-  by power*.
+For norm fact distinction. 
+- Epistemological questions: 
+   - How can we know about norm stuff? in the way we know about mass? 
+   - Does it causally affect us? 
+- Ontological questions: 
+   - Where in the world of natural science do we find these things?
 
+A reductive naturalist doesn't have to face this threat of a dualism. But one 
+loses the meaning.
 
-## Normativity
-Kant's *normative* understanding of discursive practice[^2]
+## A Kantian idea that sellars never lost sight of: the transcendental move
 
-[^2]: i.e. practice relating to *concepts*.
+The conceptual framework that makes it possible to give matter-of-factual 
+descriptions of how things actually are - that framework has essential features 
+which can also be put into words - but those words will not be playing the role 
+of describing things how they are. For example: alethic modal vocabulary.
 
-How do we understand the difference between concept-using, sapient beings from 
-mere responders to the natural environment? Here are two possible ways to 
-think of it:
+To *describe* things you have to commit yourself to inferential relations that are 
+counterfactually robust (otherwise you're merely labeling).
 
-- $O$: An *ontological* distintion: knowers are an actually different kind 
-  of thing (perhaps there is a presence of 'mind stuff' or 'spirit stuff').
-- $D$: A *deontological* distinction: we *treat* knowers differently from 
-  objects. There are things that the agents are in a distinctive sense 
-  *responsible* for [^3].
-- Both sides treat $D$ as true, but Team $O$ furthermore believes $O$ is true 
-  and that the order of explanation is $O \implies D$. However, Team $D$ takes 
-  $D$ as essential and needs not make any claim about ontology.
+Hume thought he could understand what means for the cat to be on the mat but not 
+that it is impossible for the cat to be weightless or as big as the sun. Sellars 
+says that, unless you make *some* distinction about what is possible/necessary for cats 
+and what is not (note you don't have to get it *right*), you can't count as 
+applying the  concept *cat* to describe something. So you can't be in the 
+predicament Hume thought he was in. The argument is seen in 
+[Counterfactuals, Dispositions, and the Causal Modalities](/docs/phil/people/sellars/works/cdcm).
 
-Downstream of this are many of Kant's innovations.
+A 'master idea' that Sellars never explicitly says at this level of generality:
 
-- The minimum unit of awareness/experience is the *judgment*
-    - this comes from taking $D$ to be fundmental: it is the smallest thing 
-      we can be held responsible for
-    - Everything else (particular concepts like *Fido the dog*, universal 
-      concepts like *triangularity*, logical concepts) has to be understood 
-      in terms of the function it plays with respect to judgment.
-- The *subjective* form of judgment (the "I think..." that can accompany all 
-  judgments)
-    - Because it can accompany all representations, this is the emptiest 
-      form of judgment.
-    - The mark of "who is responsible for the judgment".
-    - To say "*I think* it is raining now." is to emphasize that *I* am 
-      responsible (e.g. subject to criticism if you go outside and don't 
-      get wet).
-- The *objective* form of judgment (the "$x$ is ..." or "$x$ = ..." for some 
-  object $x$).
-    - Mark of what you've made yourself responsible to.
-    - When saying "That stone is 50 pounds.", the stone has a certain 
-      authority over me (one looks to the stone to see whether I am right or 
-      wrong; it sets the standards of correctness). See the 
-      [shopping list scenario](/docs/phil/situations/shoppinglist.qmd).
+every philosophically interesting/problematic vocabulary turns out metalinguistic:
 
-[^3]: This point is shared by the later 
-[Wittgenstein](/docs/phil/people/wittgenstein). The 
-[puzzles](/docs/phil/situations/childrensgame.qmd) that Wittgenstein offers us 
-(along the way to trying to dissolve the presuppositions that make it puzzling) 
-center around the normative significance of beliefs/desires/intentions.
+- logical vocabulary:
+  - "if ... then ..." does not describe something in the world but makes explicit inferential commitments that articulate the contents of concepts that do (in the narrow sense) describe thing
+- alethetic modal vocabulary 
+  - Makes what you are doing with subjunctives explicit
+- normative vocabulray
+- semantic vocabulary
+  - because it's true of normative and modal vocabulary
+- intentional vocabulary
+  - because it's true of semantic vocabulary
+- ontological vocabulary
+  - e.g. universals
 
-## Concepts
-- In addition to concepts whose principle expressive job is to describe/explain 
-  empirical goings-on, there are concepts whose principle expressive job it is 
-  to make explicit the framework that makes description possible.
-    - These are known *a priori* framework-explicating concepts.
-    - This is Kant's response to [Hume](/docs/phil/people/hume), 
-      for how we can understand the modal force 
-      of laws in virtue of their non-modal description.
-        - The answer is in the description framework itself.
-        - The fact that there are necessarily relations that concepts have among 
-          another makes description possible (a concept being contentful at all 
-          requires it to have some necessary relations to other concepts).
-- What Sellars means by 'ushering philosophy from its Humean phase to its Kantian 
-  phase' is putting categories front and center.
-    - Trying to *describe* the modal structure of the world or describe the 
-      space of possible worlds is to try to assimilate modal language into 
-      descriptivism, rather than seeing them as playing a different expressive 
-      role
-    - Sellars saw Kant as putting this other option on the table.
+His strategy for dealing with problematic vocabulary is to treat as metalinguistic.
 
-## More ideas
-- A difference between Humean thinking and Kantian thinking: for Kant, laws of 
-  nature are not 'super-facts' - they are not 'describing the world'. Rather, 
-  they make explicit a rule of inference.
+His notion of metalinguistic isn't made explicit anywhere. It's more flexible 
+than for Carnap. One attempt at explaining it: what metalinguistic discourses 
+do is functionally classify bits of vocabulary. He thinks of it as transcendental
+grammar.
 
-- Another Kantian idea: the distinction between 
-  [*phenomena* and *noumena*](/docs/phil/distinctions/made/noumena_phenomena.qmd).
+Pragmatic dependencies make explicit conceptual dependencies. 
 
-# Sellars quotes
+- E.g. "Looks $\phi$" talk depends on "Is $\phi$" talk. ([EPM](/docs/phil/people/sellars/works/epm))
 
-The lecture finishes with some 
-[Sellars](/docs/phil/people/sellars) quotes on describing, explaining, and justifying.
+## Cautionary tale about saying things aren't descriptive
+First-wave metaethical expressivists said that the role ethical vocabulary played was not 
+to *describe* but rather to express attitudes (e.g. approval, disapproval). But 
+Geach showed that there exist *some* descriptive content due to the intelligibility 
+of "If he ought to do X, then he has reason to do X" (one is not expressing 
+approval of doing X).
 
-He doesn't begin with philosophically elaborated definition of describing, 
-explaining, justifying. He takes these concepts as they come. He wants to do 
-philosophy in a neutral / as close-to-practice way as possible.
+# Conclusion
+Kant is a empirical realist, transcendental idealist. Sellars is an empirical 
+naturalist, but a trancendental non-naturalist. This gives Sellars his unique 
+perspective on the problems of philosophy.
+
+- the empricial naturalism is epitomized by 
+  [Scientium mensura](/docs/phil/people/sellars/works/epm/scientia.qmd)
+- the transcendental non-naturalism comes from the ineliminble expressive role 
+  that is played by metalinguistic expressions 
+  - There is no prospect of getting rid of that in our discourse
+  - Yet it is also not in the jurisdiction of science.
+
+Despite Sellars is concerned with transposing things into a linguistic key 
+and sees the significance of conceptual change, he is still a Kantian rather than 
+a Hegelian. 
+
+- He wants to figure out what was happening around the time of Newton and Locke.
+- He does not see that there's one phenomenon of which the scientific revolution is one manifestation. And the French Revolution is another. 
+  - Hegel saw that there was such a thing as modernity
+  - Brandom says you don't get to count as a Hegelian unless you're concerned 
+    with that whole thing, rather than just the scientific revolution.
+
+# Personal note
+When Brandom joined the department in '76, Sellars was a bitter, grumpy old man, aged 65.
+This surprised Brandom in his youthful innocence (how could you be unhappy when
+you've been so philosophically accomplished? just think about your accomplishments!).
+
+1. It's taken until Kant's death until now for anybody (i.e. Sellars) to figure out  
+   what he was on about. He thought he'd get the same fate.
+2. He felt he'd been treated badly by the profession.
+  - He hadn't written anything until he was age 35.
+  - In 1956 he had three lectures in London which were a stunning success.
+  - In 1960, more dissertations were written on Sellars than any other living 
+    philosopher.
+  - But that was the same year _Word and Object_ came out. It was a tidal wave.
+  - Only thing that interrupted that wave, if anything, in the next decade was 
+    _Naming and Necessity_.
+  - Sellars' Locke lectures in 1963 were utterly disasterous. Sellars never 
+    recovered from this. On his deathbed he said it was the worst experience of 
+    his life.
+  - He had the view, admirable but disasterous, to only deliver unfinished work 
+    at seminars (let's work out these ideas together, I don't want to tell you 
+    something that I have no chance of changing my mind about - that's what 
+    written publishing is for).
+  - At age 45 he was finally getting the respect he deserved and 9 years later 
+    it was all over.

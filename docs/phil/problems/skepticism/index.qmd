@@ -1,0 +1,20 @@
+---
+title: Skepticism
+categories: 🟢
+listing:
+  - id: stuff 
+    categories: true
+    type: table
+    page-size: 100000
+    fields: [title, categories, date]
+
+  - id: backlinks
+    type: table
+    page-size: 100000
+    filter-ui: true
+    template: "../../../../ejs/custom.ejs"
+    contents:
+      - ../../../../backlinks/docs/phil/problems/skepticism.yml
+---
+
+Skepticism comes in many flavors.

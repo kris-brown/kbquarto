@@ -3,7 +3,7 @@ title: Anti-descriptivism
 references: 
 ---
 
-Opposition to [descriptivism](/docs/phil/definitions/descriptivism.qmd).
+Opposition to [descriptivism](/docs/phil/schools/descriptivism.qmd).
 
 [-@@scharp2012wilfrid]
 

@@ -28,7 +28,7 @@ listing:
     there is no table, so how can you know whether you are in that scenario vs 
     the genuine experience scenario?"
     - Examples: dreaming, [evil genius](/docs/phil/people/descartes), 
-      [brain in a vat](/docs/phil/problems/skepticism.qmd) (from 
+      [brain in a vat](/docs/phil/problems/skepticism/epistemological.qmd) (from 
       [Putnam](/docs/phil/people/putnam))
 
 # Argument against brain in a vat skepticism

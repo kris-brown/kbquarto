@@ -1,5 +1,6 @@
 ---
 title: Analytic philosophy
+categories: [⚪]
 ---
 
 Often the task of analytic philosophy is to take statements in some 

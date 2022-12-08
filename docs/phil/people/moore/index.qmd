@@ -1,5 +1,7 @@
 ---
 title: G.E. Moore
+categories: [⚪, person]
+
 ---
 
 to do

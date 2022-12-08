@@ -1,5 +1,6 @@
 ---
 title: -ing/-ed distinction
+categories: ⚪
 ---
 
 Observed by Sellars to be responsible for a lot of philosophical confusion.

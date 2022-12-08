@@ -1,3 +1,11 @@
+- caption: "Mom's day (1995)"
+  image: "/images/memorylane/momsday.jpg"
+  link: ""
+
+- caption: "It's a me (1998)"
+  image: "/images/memorylane/halloween.jpg"
+  link: ""
+
 - caption: "Childhood (2000)"
   image: "/images/memorylane/bush.jpg"
   link: "https://en.wikipedia.org/wiki/George_W._Bush"
@@ -22,6 +30,14 @@
   image: "/images/memorylane/freshman.jpg"
   link: "https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game)"
 
+- caption: "Just a social fencer (2011)"
+  image: "/images/memorylane/fence.jpg"
+  link: "https://en.wikipedia.org/wiki/Foil_(fencing)"
+
+- caption: "Precursor to fashion exposé (2013)"
+  image: "/images/memorylane/golfcourse.jpg"
+  link: ""
+
 - caption: "Fashion exposé (2014)"
   image: "/images/memorylane/fashion.jpg"
   link: "https://dartmouthfashioncouncildotcom.wordpress.com/2014/05/06/street-style-ft-kris-brown-14/"
@@ -30,10 +46,182 @@
   image: "/images/memorylane/bab.jpg"
   link: "https://en.wikipedia.org/wiki/Boredat"
 
-
 - caption: "At America's first karaoke bar (Dimples) shortly before it shut down (2014)"
   image: "/images/memorylane/karaoke.jpg"
   link: "https://en.wikipedia.org/wiki/Rocky_Raccoon"
 
+- caption: "Icy (2014)"
+  image: "/images/memorylane/icy.jpg"
+  link: "https://en.wikipedia.org/wiki/Ice"
+
+- caption: "Last day working at Bayer Cropscience in Davis, CA (2014)"
+  image: "/images/memorylane/last_bayer_day.jpg"
+  link: "https://cropscience.bayer.co.uk/blog/articles/2012/07/bayer-buys-agraquest-press-release/"
+
+- caption: "Reunion one year later at the lodge (2015)"
+  image: "/images/memorylane/lodge.jpg"
+  link: "https://en.wikipedia.org/wiki/Moosilauke_Ravine_Lodge"
+
+- caption: "Best German professor (2015)"
+  image: "/images/memorylane/millerquiz.jpg"
+  link: "https://german.dartmouth.edu/people/eric-miller"
+
+- caption: "Summer in Hamburg (German not needed) (2015)"
+  image: "/images/memorylane/germany.jpg"
+  link: "https://en.wikipedia.org/wiki/Helmut_Schmidt_University"
+
+- caption: "Swiss year (2015-2016)"
+  image: "/images/memorylane/lausanne.jpg"
+  link: "https://en.wikipedia.org/wiki/Saint-Prex"
+
+- caption: "Discovering whether or not I am capable of doing wet lab work  (2015-2016)"
+  image: "/images/memorylane/wetlab.jpg"
+  link: "https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne"
+
+- caption: "Snowshoeing at least one of the alps (2016)"
+  image: "/images/memorylane/snoeshoe.jpg"
+  link: ""
+
+- caption: "The reason to go to Trieste, Italy (2016)"
+  image: "/images/memorylane/svevo.jpg"
+  link: "https://en.wikipedia.org/wiki/Italo_Svevo"
+
+- caption: "The other reason to go to Trieste, Italy (2016)"
+  image: "/images/memorylane/rilke.png"
+  link: "https://en.wikipedia.org/wiki/Duino_Elegies"
+
+- caption: "Back in the US with new-Zach and baingan (2016)"
+  image: "/images/memorylane/baingen.jpg"
+  link: "https://en.wikipedia.org/wiki/Baingan_bharta"
+
+- caption: "Celebrating one Stanford quarter completed with Tom (2016)"
+  image: "/images/memorylane/tomhike.jpg"
+  link: "https://en.wikipedia.org/wiki/Big_Basin_Redwoods_State_Park"
+
+- caption: "First poster (2017)"
+  image: "/images/memorylane/jcap.jpeg"
+  link: "https://en.wikipedia.org/wiki/Joint_Center_for_Artificial_Photosynthesis"
+
+- caption: "Great birthday present from brother (2017)"
+  image: "/images/memorylane/smooth.jpg"
+  link: ""
+
+- caption: "Pair programming through grad school (2018)"
+  image: "/images/memorylane/pair.jpg"
+  link: ""
+
+- caption: "Mom revisits Cuba for the first time (2018)"
+  image: "/images/memorylane/cuba.jpg"
+  link: ""
+
+- caption: "Second poster (2018)"
+  image: "/images/memorylane/camd.jpg"
+  link: "https://en.wikipedia.org/wiki/Density_functional_theory"
+
+- caption: "Month in Denmark to see PhD advisor (2018)"
+  image: "/images/memorylane/denmark.jpg"
+  link: "https://en.wikipedia.org/wiki/Jens_N%C3%B8rskov"
+
+- caption: "Closing deals for our startup (2018)"
+  image: "/images/memorylane/modelyst.jpg"
+  link: "https://www.modelyst.com/"
+
+- caption: "I didn't realize it was saffron that people added to rice to make it yellow (2018)"
+  image: "/images/memorylane/rice.jpg"
+  link: ""
+
+- caption: "Hackathon (2019)"
+  image: "/images/memorylane/hackathon.jpg"
+  link: ""
+
+- caption: "Poster #3 (2019)"
+  image: "/images/memorylane/ndseg.jpg"
+  link: "https://en.wikipedia.org/wiki/DoD_NDSEG_Fellowship"
+
+- caption: "Best ramen (2019)"
+  image: "/images/memorylane/ramen.jpg"
+  link: "https://ramennagiusa.com/about-us"
+
+- caption: "The intern crew at the company's Indian restaurant (2019)"
+  image: "/images/memorylane/interns.jpg"
+  link: ""
+
+- caption: "Failing to make dosa (2019)"
+  image: "/images/memorylane/dosa.jpg"
+  link: ""
+
+- caption: "Favorite board game (2019)"
+  image: "/images/memorylane/dixit.jpg"
+  link: "https://en.wikipedia.org/wiki/Dixit_(card_game)"
 
 
+- caption: "Gurdwara lunch (2019)"
+  image: "/images/memorylane/gurdwara.jpg"
+  link: "https://en.wikipedia.org/wiki/Gurdwara_Sahib_of_San_Jose"
+
+
+- caption: "Forming a bond with Cosmo (2019)"
+  image: "/images/memorylane/cosmo.jpg"
+  link: ""
+
+
+- caption: "Thanksgiving tradition in Huntington Beach (2019)"
+  image: "/images/memorylane/beachbike.jpg"
+  link: ""
+
+
+- caption: "Food tourism conclusion (2020)"
+  image: "/images/memorylane/nikhilbday.jpg"
+  link: ""
+
+
+- caption: "Exercise + social distance (2020)"
+  image: "/images/memorylane/distance.jpg"
+  link: ""
+
+
+- caption: "Working on pushup form in Moab (2020)"
+  image: "/images/memorylane/pushup.jpg"
+  link: ""
+
+
+- caption: "Canyonlands crew (2020)"
+  image: "/images/memorylane/canyonlands.jpg"
+  link: ""
+
+
+- caption: "Street food (2020)"
+  image: "/images/memorylane/street.jpg"
+  link: ""
+
+- caption: "Failed Thanksgiving dessert: (oreo-based) gulab jamun (2020)"
+  image: "/images/memorylane/gulab.jpg"
+  link: "https://cookpad.com/us/recipes/14043613-oreo-gulab-jamun"
+
+- caption: "Failed Thanksgiving Sherlock: Consulting Detective mission (2020)"
+  image: "/images/memorylane/sherlock.jpg"
+  link: "https://en.wikipedia.org/wiki/Sherlock_Holmes:_Consulting_Detective_(gamebook)"
+
+- caption: "Hanabi with Liars Club crew (2020)"
+  image: "/images/memorylane/hanabi.jpg"
+  link: ""
+
+- caption: "Graduated! (2021)"
+  image: "/images/memorylane/graduated.png"
+  link: "https://en.wikipedia.org/wiki/Jens_N%C3%B8rskov#Books"
+
+- caption: "Pani puri night (2021)"
+  image: "/images/memorylane/panipuri.jpg"
+  link: ""
+
+- caption: "Vintage synthesize museum (2021)"
+  image: "/images/memorylane/synth.jpg"
+  link: ""
+
+- caption: "First blog post and people checking in on me, having just moved to FL (2021)"
+  image: "/images/memorylane/checkin.png"
+  link: "https://www.algebraicjulia.org/blog/post/2022/01/cset-automorphisms/"
+
+- caption: "Best paper award in Nantes, France (2022)"
+  image: "/images/memorylane/bestpaper.jpeg"
+  link: ""

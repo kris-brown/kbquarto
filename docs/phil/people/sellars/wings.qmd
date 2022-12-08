@@ -1,5 +1,6 @@
 ---
 title: Left and right wing Sellarsians
+categories: [🟠]
 listing:
   id: backlinks
   type: table

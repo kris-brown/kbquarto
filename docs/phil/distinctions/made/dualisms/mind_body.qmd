@@ -1,5 +1,6 @@
 ---
 title: Mind body dualism
+categories: ⚪
 ---
 
 Complaint about Cartesian dualism:

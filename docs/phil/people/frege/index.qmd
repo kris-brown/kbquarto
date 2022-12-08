@@ -1,5 +1,6 @@
 ---
 title: Frege 
+categories: [⚪, person]
 listing:
   id: backlinks
   type: table

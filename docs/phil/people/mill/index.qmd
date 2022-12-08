@@ -1,5 +1,6 @@
 ---
 title: Mill
+categories: [⚪, person]
 listing:
   id: backlinks
   type: table

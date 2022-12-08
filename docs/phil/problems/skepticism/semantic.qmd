@@ -1,5 +1,6 @@
 ---
 title: Semantic skepticism
+categories: ⚪
 ---
 
 A [Kantian](/docs/phil/people/kant) insight: the *real* problematic skepticism 

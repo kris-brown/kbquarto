@@ -1,5 +1,6 @@
 ---
 title: Dualisms
+categories: [🟣]
 listing: 
   categories: true
   type: table

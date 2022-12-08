@@ -1,5 +1,6 @@
 ---
 title: Ontological and deontological matters
+categories: [🔴]
 ---
 
 Ordinarily we think of the [ontological](/docs/phil/definitions/ontology.qmd) 

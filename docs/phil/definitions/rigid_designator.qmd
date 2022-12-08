@@ -1,5 +1,6 @@
 ---
 title: Rigid designator
+categories: "⚪"
 ---
 
 [Kripke](/docs/phil/people/kripke)'s theory of the meaning of names 

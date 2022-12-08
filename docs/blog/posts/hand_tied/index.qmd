@@ -14,7 +14,8 @@ Here are four potentially-unrelated examples with a common structure:
 # 1. Constructive mathematics
 
 Many things in math can be proven without relying on the 
-[law of the excluded middle](/docs/phil/definitions/excluded.qmd). Using this 
+[law of the excluded middle](/docs/phil/definitions/excluded.qmd), which says, 
+for any claim $P$, you can assert that $P$ or not-$P$ is true. Using this 
 additional axiom can make things easier; however, proofs using it will not be
 *constructive*. For example: 
 
@@ -220,8 +221,8 @@ should work.
 # Conclusion
 
 I started writing this without knowing what the common theme would be, but now I 
-think of it as a cautionary tale about adopting a "God's-eye view", even 
-hypothetically, because it is such a seductive idea that we inadvertently buy 
+think of it as a cautionary tale about adopting a "God's-eye view" (even 
+hypothetically!) because it is such a seductive idea that we inadvertently buy 
 into it to some extent.
 
 1. A God's-eye view can see whether a statement is true or false. 
@@ -258,5 +259,6 @@ outweighed by longer-term friction from the fact that we are not actually
 omniscient and omnipotent. Phrased another way, I believe there are pragmatic and 
 moral benefits to showing this kind of restraint.[^mot]
 
-[^mot]: This is also a theme of [minimizing ontology talk](/docs/blog/posts/minimize_ontology_talk).
+[^mot]: This is also a theme of 
+        [minimizing ontology talk](/docs/blog/posts/minimize_ontology_talk).
 

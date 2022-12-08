@@ -1,5 +1,6 @@
 ---
 title: Sense vs reference
+categories: ⚪
 listing:
   id: backlinks
   type: table

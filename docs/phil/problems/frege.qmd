@@ -1,5 +1,6 @@
 ---
 title: Hesperus and Phosphorus
+categories: "⚪"
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Frege%27s_puzzles)

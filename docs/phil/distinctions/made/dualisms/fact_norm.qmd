@@ -1,5 +1,6 @@
 ---
 title: Norm fact dualism 
+categories: ⚪
 ---
 
 A problem for those who try to address the problem of Cartesian dualism by 

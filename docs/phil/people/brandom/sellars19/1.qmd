@@ -1,5 +1,6 @@
 ---
 title: Lecture 1
+categories: ⚪
 ---
 
 Sellars is a *great* philosopher. This is what that means to Brandom:

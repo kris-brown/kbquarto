@@ -1,5 +1,6 @@
 ---
 title: The Blue and Brown books
+categories: [⚪, work]
 ---
 
 [-@wittgenstein1958blue]

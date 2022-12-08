@@ -22,3 +22,5 @@ backlinks/
 .jupyter_cache/
 
 Manifest.toml
+
+docs/personal/index_cache/html/__packages

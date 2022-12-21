@@ -3,19 +3,27 @@ title: "01: The Concept of Representation"
 categories: 🟠
 ---
 
-
 # History of representation
 
-- Does 'representation' have a *nature* or a *history*?
-    - Does it belong with "electrons" and "sulfur" or with "freedom" and "love"?
-- Brandom, being a Hegelian, thinks 
-  philosophy belongs in the latter category  
-  and proceeds to give a historical overview of 'representation'.
+Does '[representation](/docs/phil/definitions/representation.qmd)' have a 
+[*nature* or a *history*](/docs/phil/distinctions/made/nature_history.qmd)?
+    
+- Does it belong with "electrons" and "sulfur" or with "freedom" and 
+  "the right to vote"?
+
+Brandom, being a Hegelian, thinks 
+philosophy belongs in the latter category  
+and proceeds to give a historical overview of 'representation'.
 
 ## Premodern
-- Representation a *modern* concept.
+- Representation[^ing] is a *modern* concept.
 - Premodern theories understood relation between appearance and reality in terms 
   of **resemblance** (sharing properties)
+    - The paradigm example is that of a picture and what is pictured (e.g.
+      appearance of the portrait is veridical to the extent that shape of the 
+      ears, the color of the eyes, etc., match the person the portrait is of).
+    - Plato and Aristotle shared this picture though had different stories 
+      about what was shared (the forms or the ideas, respectively).
 - The rise of science made this untenable:
     - Copernicus: reality behind stationary Earth and revolving Sun is a 
       revolving Earth and stationary Sun.
@@ -23,11 +31,15 @@ categories: 🟠
       acceleration as triangles ... not easily understood in terms of shared 
       properties.
 
+[^ing]: Caveat: this suffers from the 
+        [ing-ed ambiguity](/docs/phil/distinctions/made/ing_ed.qmd#Representation).
+
 ## The invention of representation
 
 [Descartes](/docs/phil/people/descartes) invents representation with 
 relationships between algebra (representation) and geometry 
-(represented/reality).
+(represented/reality). Everything in western philosophy is downstream of this 
+move which brought philosophy into its modern age.
 
 - [Spinoza](/docs/phil/people/spinoza) saw Descartes' philosophy as being 
   understood in terms of his innovations of relating algebra to geometry. [^1]
@@ -37,31 +49,38 @@ relationships between algebra (representation) and geometry
       What's relevant is that there is a mapping between the relations in each 
       world.
 - If any things are known representationally, then some things must be known 
-  nonrepresentationally (to avoid infinite regress)
+  *non*representationally (to avoid 
+  [infinite regress](/docs/phil/problems/regress/representation.qmd))
     - Representationalism gives rise to choice between epistemological 
       skepticism vs foundationalism.
-    - A [Kantian](/docs/phil/people/kant) insight: the *real* problem 
-      is *semantic* skepticism.
-        - He doesn't take it for granted that we can 'represent' reality and 
-          merely have to worry about whether or not that representation is true.
-        - It might be unintelligible that our mental states even purport to 
-          specify how things are out there.
-        - This is a prior question to whether or not those purported claims are 
-          true.
 
-[^1]: Spinoza talks better about how Descartes used representation than 
-Descartes himself. 
+Kant introduces the terminology of representation (Vorstellung) to the center
+of the philosophical stage.
+
+- A [Kantian](/docs/phil/people/kant) insight: the *real* problem 
+  is [*semantic* skepticism](/docs/phil/problems/skepticism/semantic.qmd).
+    - He doesn't take it for granted that we can 'represent' reality and 
+      merely have to worry about whether or not that representation is true.
+    - It might be unintelligible that our mental states even purport to 
+      specify how things are out there.
+    - This is a prior question to whether or not those purported claims are 
+      true.
+
+[^1]: Because Descrates was still holding onto some Scholastic beliefs, e.g. 
+      "The idea of the sun is the sun itself existing in the intellect",
+      Spinoza talks better about how Descartes used representation than 
+      Descartes himself. 
 
 ## Rationalists vs empiricists
 
 - Kant says Descartes was right to think in terms of representation but that he 
-  didn't distinguish two different kinds: picture like images/sensations vs 
-  sentence-like thoughts.
+  didn't distinguish two different kinds of representings: picture like 
+  images/sensations vs sentence-like thoughts.
     - He saw both as different ends of a spectrum, while empiricists tried to 
       reduce thoughts to pictures and rationalists vice-versa.
 - Spinoza's interpretation of Descartes gives another view: within a 
-  representational picture, [empiricists](/docs/phil/schools/empiricism.qmd) are atomists whereas 
-  [rationalists](/docs/phil/schools/rationalism.qmd) are 
+  representational picture, [empiricists](/docs/phil/schools/empiricism.qmd) 
+  are atomists whereas [rationalists](/docs/phil/schools/rationalism.qmd) are 
   holists.
 - Brandom's interpretation using orders of explanation: empiricists treat 
   representation as a primitive and infer reason-relations in terms of it. 

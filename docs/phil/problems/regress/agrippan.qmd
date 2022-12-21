@@ -6,9 +6,9 @@ listing:
   type: table
   page-size: 100000
   filter-ui: true
-  template: "../../../ejs/custom.ejs"
+  template: "../../../../ejs/custom.ejs" 
   contents:
-    - ../../../backlinks/docs/phil/problems/agrippan.yml
+    - ../../../../backlinks/docs/phil/problems/regress/agrippan.yml
 ---
 
 It seems like there are only three ways of completing a proof:

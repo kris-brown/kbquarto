@@ -1,6 +1,6 @@
 ---
 title: Skepticism
-categories: 🟢
+categories: 🟣
 listing:
   - id: stuff 
     categories: true

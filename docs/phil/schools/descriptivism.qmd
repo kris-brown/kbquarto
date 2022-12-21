@@ -14,7 +14,7 @@ listing:
 The belief that what you do with language is describe things.
 
 An improvement in the philosophy of language which allowed us to avoid the 
-[Hesperus Phosphorus puzzle]().
+[Hesperus Phosphorus puzzle](/docs/phil/problems/frege.qmd).
 
 Seven tenants, according to [-@soames2005reference]:
 

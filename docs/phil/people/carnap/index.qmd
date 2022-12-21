@@ -14,3 +14,5 @@ listing:
 Rudolf Carnap was a German philosopher, 1891-1970.
 
 ![](/images/headshots/carnap.jpeg)
+
+- Called an atomist about representation by Brandom.

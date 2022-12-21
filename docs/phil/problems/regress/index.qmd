@@ -1,0 +1,13 @@
+---
+title: Infinite regresses
+categories: 🟣
+listing:
+  - id: stuff 
+    categories: true
+    type: table
+    page-size: 100000
+    fields: [title, categories, date]
+
+---
+
+A common kind of problem.

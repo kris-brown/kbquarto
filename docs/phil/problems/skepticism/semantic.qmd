@@ -1,6 +1,14 @@
 ---
 title: Semantic skepticism
 categories: ⚪
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../../ejs/custom.ejs"
+  contents:
+    - ../../../../backlinks/docs/phil/problems/skepticism/semantic.yml
 ---
 
 A [Kantian](/docs/phil/people/kant) insight: the *real* problematic skepticism 

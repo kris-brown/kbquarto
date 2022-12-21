@@ -18,7 +18,8 @@ namely, Venus. Consider the two sentences:
 2. Hesperus is Phosphorus.
 
 The first is just a matter of *a priori* logic, whereas the second is a 
-nontrivial empirical truth. However, given the existing semantics (attributed 
+nontrivial empirical truth. However, given the existing 
+[semantics](/docs/phil/definitions/semantics.qmd) (attributed 
 to [Mill](/docs/phil/people/mill)), names have no meaning beyond their 
 reference, meaning the second sentence *means* "Venus is Venus".
 

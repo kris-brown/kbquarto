@@ -1,6 +1,6 @@
 ---
 title: Epistemological skepticism
-categories: 🟣
+categories: 🟢
 listing:
   id: backlinks
   type: table

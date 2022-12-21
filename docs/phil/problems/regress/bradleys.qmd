@@ -6,9 +6,9 @@ listing:
   type: table
   page-size: 100000
   filter-ui: true
-  template: "../../../ejs/custom.ejs"
+  template: "../../../../ejs/custom.ejs"
   contents:
-    - ../../../backlinks/docs/phil/problems/bradleys.yml
+    - ../../../../backlinks/docs/phil/problems/regress/bradleys.yml
 ---
 
 

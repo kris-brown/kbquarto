@@ -49,7 +49,7 @@ categories: 🔴
 - common origin: role as infinite regress stoppers for the two types of 
   representations, sensuous intuitions and inference-licensing concepts, that 
   Kant distinguished (which each have these relations of privilege/authority).
-  - [Agrippan trilema](/docs/phil/problems/agrippan.qmd) of alternatives to 
+  - [Agrippan trilema](/docs/phil/problems/regress/agrippan.qmd) of alternatives to 
     skepticism
     - justification always in reference to other claims which require 
       justification (this can be circular or 
@@ -108,7 +108,7 @@ Is Rorty attacking a strawman? Empiricism / Epistemic foundationalism is not
 popular now:
 
 - "Default and challenge" structure a way of avoiding 
-  [Agrippan trilemma](/docs/phil/problems/agrippan.qmd).
+  [Agrippan trilemma](/docs/phil/problems/regress/agrippan.qmd).
 - Bayesianism sees all justification as comparative (never have to justify 
   one's prior commitments).
   - though the problem of semantics is still open if it is to not be 

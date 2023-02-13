@@ -1,0 +1,29 @@
+---
+title: John Dewey
+aliases: [Dewey]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/john dewey.yml
+---
+John Dewey was an American pragmatist philosopher, 1959-1952.
+
+![](/images/headshots/dewey.jpg)
+
+# Rorty on Dewey
+Dewey wants the distinctions between science and philosophy to be rubbed out and 
+replaced with an uncontroversial notion of intelligence trying to solve problems 
+and provide meanings.
+
+While this is a [distinction](/docs/phil/Objective and subjective facts.html) 
+that Rorty, too, wishes to undermine, Rorty criticizes Dewey (in [Experience and Nature](/docs/phil/Experience and Nature.html)) as wanting to "use the term 'experience' as an incantatory device to blur every conceivable distinction."
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/dewey/)

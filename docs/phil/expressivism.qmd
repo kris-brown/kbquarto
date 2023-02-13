@@ -1,0 +1,30 @@
+---
+title: Expressivism
+tags:
+ - school
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/expressivism.yml
+---
+
+Expressivism is a broad family of views claiming some areas of discourse are 'in the business' of giving expression to sentiments / commitments / non-cognitive or non-representational mental states or attitudes.
+  
+German tradition began with Herder (1744-1803, a student of [Kant](/docs/phil/Immanuel Kant.html)) who advocated global [anti-representationalism](/docs/phil/Anti-representationalism.html): all language is (primarily) expressive, rather than representational. 
+
+Another tradition is 20th century meta-ethical expressivism. *Some* vocabularies (e.g. moral) for which the representational model is not appropriate. *First-wave* expressivists were A. J. Ayer. Geach's [argument](/docs/phil/Frege-Geach argument.html) created a new criterion of adequacy for expressivists, and the ones who responded to this (e.g. [Simon Blackburn](/docs/phil/Simon Blackburn.html) and Gibbard) are *second-wave* expressivists.
+
+## About truth 
+Expressivism about truth is to say one is not describing a statement when one says it is true - one is doing something else (endorsing it). Combining this with universal [declarativism](/docs/phil/Declarativism.html) about truth leads to global [anti-representationalism](/docs/phil/Anti-representationalism.html) / [anti-bifurcationism](/docs/phil/Objective and subjective facts.html)
+
+Expressivists who want to equate the semantics "$\phi$" and "It is true that $\phi$" are only considering free-standing uses of $\phi$.  The [Frege-Geach argument](/docs/phil/Frege-Geach argument.html) demands emotivists to also consider embedded uses of $\phi$,[^ex] thus disquotationalism / prosentential theories are required to show how embedded uses of $\phi$ derive their meaning from free-standing uses of it.[^md]
+
+[^ex]: "Well if that's true, then you should publish it!"
+
+[^md]: For more details see Brandom's *Explanatory vs. Expressive Deflationationism about Truth*.

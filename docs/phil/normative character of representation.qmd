@@ -1,0 +1,26 @@
+---
+title: Normative character of representation
+tags:
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/normative character of representation.yml
+---
+
+To count as representing something is to be *responsible* to the represented thing 
+ 
+What is represented provides the normative standard for correctness of representing. 
+
+What is represented has an *authority* over what is representing.
+
+See the [Shopping list](/docs/phil/Shopping list.html) example.
+
+An idea introduced by [Kant](/docs/phil/Immanuel Kant.html) and explicitly developed by [Hegel](/docs/phil/Georg Wilhelm Friedrich Hegel.html). 
+
+Applied by [Rorty](/docs/phil/Richard Rorty.html) to argue for [pragmatism](/docs/phil/Pragmatism.html).

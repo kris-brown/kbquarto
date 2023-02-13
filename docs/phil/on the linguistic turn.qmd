@@ -1,0 +1,11 @@
+---
+title: On the linguistic turn
+tags:
+ - quote
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> This last point amounts to saying that what Gustav Bergmann called "the linguistic turn" should not be seen as the logical positivists saw it - as enabling us to ask Kantian questions without having to trespass on the psychologists' turf by talking, with Kant, about "experience" or "consciousness." That was, indeed, the initial motive for the "turn," but (thanks to the holism and pragmatism of the authors I have cited) analytic philosophy of language was able to transcend this Kantian motive and adopt a naturalistic, behaviouristic attitude toward language.
+
+— [Consequences of Pragmatism](/docs/phil/Consequences of Pragmatism.html), Introduction

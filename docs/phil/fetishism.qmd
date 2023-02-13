@@ -1,0 +1,26 @@
+---
+title: Fetishism
+tags:
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/fetishism.yml
+---
+
+A Marxist concept: mistaking the products of our own practices and practical attitudes for features of the objective world.
+
+## Example
+
+Brandom alleges that, during a period of hyperinflation, Billy Graham led a prayer for the interest rates to lower. This is fetishistic insofar as it treats our natural human practices as part of the natural world.
+
+Another example is the debates that used to be held over whether gold was truly (in itself) more valuable than silver. They saw the exchange rates as attempts to get at this true ratio of value.
+
+## Relation to [representationalism](/docs/phil/Representationalism.html)
+
+Rorty views representationalism to be fetishistic. The idea of objective [truth](/docs/phil/Truth.html) is the fetishizing of social practices of giving and asking for reasons. This is hypostatizing / reifying the normative constraint on our claiming+reasoning practices, projecting it onto something nonhuman with ultimate authority over our cognitive practices.

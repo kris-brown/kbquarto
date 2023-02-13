@@ -1,0 +1,32 @@
+---
+title: Lincoln's horse
+tags:
+ - example
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/lincoln's horse.yml
+---
+
+Lincoln: How many legs does a horse have?
+
+Witness: Four.
+
+Lincoln: If we call a tail a leg, then how many legs does a horse have?
+
+Witness: Well, I suppose the horse would have five legs.
+
+Lincoln: Absolutely not, that’s wrong. Calling a tail a leg doesn’t make it a leg!
+
+
+# Lessons
+- When you specify counterfactuals, you still have to do this in your actual language.[^2d] 
+- This correctly asserts that changing one's way of talking does not affect the order of *being* (this is one way of characterizing the order of being), though it can affect the order of *explanation*.
+
+
+[^2d]: Two-dimensional modal logic is supposed to be a technical tool to allow us to specify counterfactuals in other languages.

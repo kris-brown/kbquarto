@@ -1,0 +1,80 @@
+---
+title: 25. Coversational context
+tags: 
+ - podcast
+ - RED
+subtitle: Robert Stalnaker
+published: July 18, 2011
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/25. coversational context.yml
+---
+
+[Elucidations](/docs/phil/Elucidations.html): [Prev](/docs/phil/24. Perception of music.html) [Next](/docs/phil/26. Evolutionary ethics.html)
+
+- What does "conversational context" mean?
+  - The situation in which a discourse takes place. Not just surrounding 
+    material but also the attitudes of the speakers, their interests, the point 
+    of what they're trying to say, etc.
+  - E.g. "everyone has arrived" or "there's no beer"
+    - The context constrains "everyone who was invited" / "no beer in the 
+      fridge"
+- Can we make everything explicit?
+  - To make things explicit you draw from the context you are in
+  - It's an illusion to think we can speak "purely"
+    - It's essential for us to draw on info that is salient to the person we 
+      talk to
+- A big question for theorists: how is what is said in a statement dependent on 
+  context?
+  - Under what possible worlds / conditions is what you say true?
+  - Information conveyed by a statement is the exclusion of possible worlds.
+    - "The cup is on the table" rules out the set of worlds in which the cup is 
+      under the table, etc.
+    - If the cup gets moved, the three people in the room know both that it was 
+      moved and that the three people all know this fact, so it can then be 
+      taken for granted / it becomes part of the context.
+  - If I respond to "everyone's here" with "really? the queen is here?" that 
+    means I have included a possible world that the speaker had already ruled 
+    out.
+    - A defective  / mismatched context
+  - So the possible worlds are used in multiple places
+    - I say "he is over there" and you need to know what possible worlds are 
+      available as context to know who I refer to (suppose it's John), but also 
+      now that you know that it affects the meaning what I'm saying (it rules 
+      out worlds wheree John is somewhere else)
+    - The information content of the sentence is not just contained in the 
+      sentence itself. We can't just isolate the context-dependent components 
+      by picking out indexicals.
+      - Set of problems in philosophy: "essentially indexical belief"
+        - Know objective facts but can't locate oneself w/r/t to those facts
+        - "I know I'm here" but I don't know where here is.
+        - There are thoughts that we can only have using indexicals (meaning 
+          changes when substituted).
+      - "Frege problems"
+        - When the same thing is named in two different ways. E.g. Hespherus 
+          and Phosphorus.
+        - It was an empirical discovery that these two names named the same 
+          thing. Knowing that fact changes the meanings of sentences, even 
+          without indexicals.
+- Science gives you language for talking about a way for talking about the world 
+  in a fairly objective way, but there are still named terms that get their 
+  reference via naming processes.
+- Worry about realism. Is there something anti-realist about this kind of 
+  contextualism?
+  - We can talk about the world only by connecting ourselves to it.
+  - That's no threat to the fact we are stating objective truths/falsehoods.
+  - We can distinguish between the possible worlds with our contexts and be 
+    objectively right or wrong.
+- Use case of contextualism
+  - Contextual theories can be used to address skeptical claims ("to know" is 
+    context dependent)
+  - In politically contested discourse, context can be deliberately exploited to 
+    manipulate / control the discourse.
+    - Radical contextualism gives us a means of knowing how to gain 
+      clarification in these situations.

@@ -1,0 +1,18 @@
+---
+title: What is Enlightenment
+tags:
+ - work 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/what is enlightenment.yml
+---
+
+[Author](/docs/phil/Immanuel Kant.html)
+
+[Kant](/docs/phil/Immanuel Kant.html) describes the Enlightenment as the emancipation of human beings from their adolesence when we looked outside ourselves for guidance in our conduct.

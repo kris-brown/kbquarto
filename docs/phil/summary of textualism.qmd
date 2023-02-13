@@ -1,0 +1,21 @@
+---
+title: Summary of textualism
+tags:
+ - quote 
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> I can summarize what I've been saying as follows:
+> 
+> - Metaphysical idealism was a momentary, though important, stage in the emergence of romanticism.
+> - The notion that philosophy might replace science as a secular substitute for religion was a  momentary, though important, stage in the replacement of science by literature as the presiding cultural discipline.
+> - Romanticism was *aufgehoben* in pragmatism, the claim that the significance of new vocabularies was not their ability to decode but their mere utility.
+> - Pragmatism is the philosophical counterpart of literary modernism, the kind of literature which prides itself on its autonomy and novelty rather than its truthfulness to experience or its discovery of pre-existing significance.
+> - Strong textualism draws the moral of modernist literature and creates genuinely modernist criticism.
+>
+> This summary puts me in a position to return to the somewhat artificial parallel I drew at the beginning of this paper—between the claim that there are only ideas and the claim that there are only texts. The only textualists who make the latter, metaphysical-sounding sort of claim, are the weak ones—the critics who think that they have now found the true method for analyzing literary works because they have now found the fundamental problematic with which these works deal. This sort of claim gets made because such critics have not grasped that, from a full-fledged pragmatist point of view, there is no interesting difference between tables and texts, between protons and poems. To a pragmatist, these are all just permanent possibilities for use, and thus for redescription, reinterpretation, manipulation.
+> 
+> But the weak textualist thinks, with Dilthey and Gadamer, that there is a great difference between what scientists do and what critics do. He thinks that the fact that the former often agree and the latter usually don't shows something about the natures of their respective subject-matters...
+
+— [Nineteenth Century Idealism and Twentieth Century Textualism](/docs/phil/Nineteenth Century Idealism and Twentieth Century Textualism.html)

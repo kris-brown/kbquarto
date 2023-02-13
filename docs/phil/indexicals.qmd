@@ -1,0 +1,28 @@
+---
+title: Indexicals
+tags:
+ - concept
+ - grammar
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/indexicals.yml
+---
+
+A grammatical construct in natural languages which is explicitly context-sensitive. 
+
+Examples:
+ - pronouns, such as "I" and "he"
+ - "here"
+ - "today"
+
+These are an important case for any general [semantic](/docs/phil/Semantics.html) theory to address.
+
+## External resources
+- [SEP](https://plato.stanford.edu/entries/indexicals/)

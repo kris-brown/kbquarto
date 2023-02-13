@@ -1,0 +1,23 @@
+---
+title: Making sense of an objective vocabulary
+draft: true
+---
+
+Laypeople think of language as representing the objective world. They usually 
+don't think whether this means *some* language represents the world or *all* 
+language represents the world. A classic example:
+
+- the frog is on the log
+
+
+Upon reflection, commonsense says that some things one says are *nonsense* and 
+we don't need to explain the meaning of nonsense in terms of what in the world 
+it is representing.
+
+One pragmatist-friendly way of characterizing what someone means by saying 
+"this vocabulary represents the world objectively" is to say that, 
+for any possible aim/goal, 
+
+Rorty talks about this as the idea of language as a tool. This requires 
+the goal to be specified *independently* of a particular tool 
+for it (e.g. language). But goals aren't like that - they are only statable in language.

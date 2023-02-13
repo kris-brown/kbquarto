@@ -4,5 +4,5 @@ categories: phil
 draft: true
 ---
 I also see prescriptivism and descriptivism (in linguistics) in Sellars' 
-distinction in [Some Reflections on Language Games](/docs/phil/people/sellars/works/some_reflections) 
-between [regulism vs regularism](/docs/phil/people/brandom/sellars09/2).
+distinction in [Some Reflections on Language Games](/docs/phil/Some reflections on language games.html) 
+between [regulism vs regularism](/docs/phil/02 - inference and meaning and language games (2009).html#some-reflections-on-language-games).

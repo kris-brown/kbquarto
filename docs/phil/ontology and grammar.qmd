@@ -1,0 +1,12 @@
+---
+title: Ontology and grammar
+tags:
+ - quote
+---
+
+[Author](/docs/phil/Wilfrid Sellars.html)
+
+> Ontological categories are the material mode of speech for syntactical 
+  categories.
+
+— [Grammar and Existence](/docs/phil/Grammar and Existence.html)

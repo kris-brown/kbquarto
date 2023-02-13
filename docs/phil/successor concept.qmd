@@ -1,0 +1,19 @@
+---
+title: Successor concept
+tags:
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/successor concept.yml
+---
+A relationship between concepts across vocabularies. The successor concept does the work the old concept did, yet it is improved in some way.
+
+Examples:
+- Languages and theories $\rightarrow$ the 'vocabulary' vocabulary.
+- Resemblance model $\rightarrow$ representation

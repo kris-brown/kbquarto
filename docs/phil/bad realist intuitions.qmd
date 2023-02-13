@@ -1,0 +1,22 @@
+---
+title: Bad realist intuitions
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/bad realist intuitions.yml
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+
+> What really needs debate between the pragmatist and the intuitive realist is not whether we have intuitions to the effect that "truth is more than assertibility" or "there is more to pains than brain- states" or "there is a clash between modem physics and our sense of moral responsibility." Of course we have such intuitions. How could we escape having them? We have been educated within an intellectual tradition built around such claims-just as we used to be educated within an intellectual tradition built around such claims as "If God does not exist, everything is permitted," "Man's dignity consists in his link with a supernatural order," and "One must not mock holy things." But it begs the question between pragmatist and realist to say that we must find a philosophical view which "captures" such intuitions. The pragmatist is urging that we do our best to *stop having* such intuitions, that we develop a new intellectual tradition.
+
+— [Consequences of Pragmatism](/docs/phil/Consequences of Pragmatism.html), Introduction
+

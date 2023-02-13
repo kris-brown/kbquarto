@@ -1,0 +1,18 @@
+---
+title: 08 - Anti-Representationalism, Pragmatism, and Expressivism
+aliases: [rorty08]
+tags:  
+- lecture
+- STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/08 - anti-representationalism, pragmatism, and expressivism.yml
+---
+
+[Author](/docs/phil/Robert Brandom.html) [Prev](/docs/phil/07 - Assessing Rorty's Pragmatism as Anti-Representationalism.html) [Next](/docs/phil/09 - Huw Price on Representationalism, Rorty, and Expressivism.html)

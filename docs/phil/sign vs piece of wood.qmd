@@ -1,0 +1,27 @@
+---
+title: Sign vs piece of wood
+tags: 
+ - distinction
+ - example
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/sign vs piece of wood.yml
+---
+
+An example of the social/normative character of [representation](/docs/phil/Representation.html):
+
+What is the difference between a wooden sign a piece of wood?
+
+It is how the sign is *treated*, not an intrinsic property of the wood that can be understood in isolation from social practices.
+
+# Consequences
+This can movitvate pragmatist understanding of consciousness as not a property of a brain-like thing but rather how a social community relates to such a thing. Or the meaning of what someone says not being private to the speaker but, rather, the best interpretation of what a community can give.
+
+# Alternatives
+- One can give an alternative, causal story for how the piece of wood became a sign, when a conscious being shaped it with a representation in mind. This allows an atomistic, materialist, asocial distinction between wood and a sign.

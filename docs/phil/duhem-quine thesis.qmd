@@ -1,0 +1,19 @@
+---
+title: Duhem-Quine thesis
+tags: 
+ - concept
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/duhem-quine thesis.yml
+---
+
+Named after Pierre Duhem and [Quine](/docs/phil/W.O. Quine.html):
+
+It is impossible to test a scientific hypothesis in isolation, because an empirical test of the hypothesis requires one or more background assumptions.

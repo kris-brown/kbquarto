@@ -1,0 +1,21 @@
+---
+title: Object naturalism and subjective naturalism
+tags:
+ - distinction
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/object naturalism and subjective naturalism.yml
+---
+
+A distinction about [naturalism](/docs/phil/Naturalism.html) made by [Huw Price](/docs/phil/Huw Price.html).
+
+# Priority thesis
+
+Huw argues that object naturalists must accept subject naturalists, but not vice-versa. 

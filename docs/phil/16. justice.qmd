@@ -1,0 +1,66 @@
+---
+title: 16. Justice
+tags: 
+ - podcast
+ - RED
+subtitle: Amartya Sen
+published: October 6, 2010
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/16. justice.yml
+---
+
+[Elucidations](/docs/phil/Elucidations.html): [Prev](/docs/phil/15. Religious toleration.html) [Next](/docs/phil/17. Mechanism and causation.html)
+
+# Rawls' political philosophy
+- "Completing" the contract theory of justice started by Hobbes, developed by 
+  Locke / Rousseau / Kant.
+- Most influential modern political philosopher.
+
+# Non-contractural theory
+Most theories are contractural but not Sen's.
+
+- Don't think pursuit of justice involves looking for the perfectly just world.
+  - Issues of injustice:
+    - people who need medicine that can be cheaply produced
+    - children not being educaiton
+    - tons of other ways. Addressing these individually won't create a perfectly 
+      just world
+- We can aspire to a perfectly just institution without guaranteeing a 
+  perfectly just world
+  - The latter also depends on people's behavior/natures.
+    - E.g. if people are incorruptable, then more socially trusting institutions 
+      become feasible.
+- Seeking a perfect world will not help us rank all of the imperfect worlds we 
+  have as more promixate options.
+  - Neither necessary nor sufficient to have a particular target.
+    - Do we have no basis for saying something is unjust?
+      - Example: you're in a sauna and the temperature keeps going up. Once you 
+        feel in danger, you try to leave but the door is locked. Someone outside 
+        sees but can't open the door either. But he does have access to the 
+        temperature control. You ask him to lower and he says "what is the ideal 
+        temperature you want" which you don't know. He could object that without 
+        a principled goal, all there is arbitrary gut reaction (the point: gut 
+        reaction is important)
+
+# Many kinds of Justice
+There are many kinds of justice, not a single scale:
+
+- Liberty, fairness, reducing inequality, removing poverty
+- For Rawls, these all matter but he strictly orders them in importance like 
+  above
+  - More natural to trade off, like a small concession in liberty could be worth 
+    a huge reduction in poverty
+
+# Response at the time
+
+Concern of advocating societal change without a goal:
+- E.g. "reduce inequality", but if there is no stopping point, then this could 
+  head towards a situation worse than the current one (even when the current one 
+  has too much inequality).

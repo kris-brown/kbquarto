@@ -1,0 +1,28 @@
+---
+title: Incorrigibility as the mark of the mental
+tags: 
+ - work
+published: 1970
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/incorrigibility as the mark of the mental.yml
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+Descrates redescribed the mind in epistemic terms and drew the boundary around the mental based on *incorribility*. 
+
+
+This assimilated what the ancients and scholastics never would have: conceptually articulated thoughts[^at] and raw feels.[^rf] 
+
+That's a normative status: they have a unique role in social reasoning: social practices now are such that no one can override them. So we can change that (e.g. Freudian grounds or by developing cerebroscopes). Eliminative materials says: we brought Cartesian minds into existence (we really do have them) but we could change our practices and then there would be no Cartesian minds.
+
+
+[^at]: e.g. "the cathedral of learning is 500 ft tall"
+[^rf]: e.g. a red afterimage / sensation of pain

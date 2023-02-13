@@ -1,0 +1,22 @@
+---
+title: Possible worlds semantics
+tags: 
+ - concept 
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/possible worlds semantics.yml
+---
+
+Possible worlds semantics is a semantics for [Modal logic](/docs/phil/Modal logic.html).
+
+John Etchemendy warns us to not confuse possible models in [Tarski](/docs/phil/Alfred Tarski.html) model theory with possible worlds in his _The Concept of Logical Consequence_. At the root of it is where the [Sortals](/docs/phil/Sortals.html) come from (which individuate individuals in the possible worlds).
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/possible-worlds/)

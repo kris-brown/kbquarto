@@ -1,0 +1,23 @@
+---
+title: Coping
+tags:
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/coping.yml
+---
+
+
+{{< include "Language as coping.qmd" >}}
+
+It is crucial that standards of whether vocabulary helps us cope with the world better than another is *internal* to a given vocabulary. The external reading (which sometimes one gets the impression that Rorty is using) is that coping talk comes from a biologically reductionist notion of "what is good in the way of belief", e.g. the mention of [Darwin](/docs/phil/Beliefs as adaptations.html). But the invokation of Davidson in the above quote is important: his interpretivism is that the content of your beliefs *are*  what my (as a fellow user of a similar vocabulary) best interpretation of what your behavior is. This is inherently internal to our language practice, not something that can be directly held up against biological selection pressures.
+
+We can invoke representations as part of a *causal explanation* of how a certain coping strategy works, and why it is as effective as it is (and no more).
+
+For Rorty, coping, conversation, and [redescription](/docs/phil/Redescription.html) are three ways of talking about the same thing. Coping is deploying reason-relations in a practice of giving and assessing reasons.

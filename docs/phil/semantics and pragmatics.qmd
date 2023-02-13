@@ -1,0 +1,23 @@
+---
+title: Semantics and pragmatics
+tags: 
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/semantics and pragmatics.yml
+---
+
+# Order of explanation 
+
+- Should reason relations be explained in terms of social practices[^rr]
+- Should the reason relations determine *proper* social practices? 
+
+Brandom's Hegel tells a story of how *both* actual practice and pre-existing norms exercise authority and are each responsible to each other.
+
+[^rr]: Rorty: "[Truth](/docs/phil/Truth.html) is what your contemporaries let you get away with saying"

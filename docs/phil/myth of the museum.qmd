@@ -1,0 +1,26 @@
+---
+title: Myth of the Museum
+tags: 
+ - concept
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/myth of the museum.yml
+---
+
+
+> Uncritical semantics is the myth of a museum in which the exhibits are 
+meanings and the words are labels. To switch languages is to change the 
+labels.
+
+Against the museum myth, [Quine](/docs/phil/W.O. Quine.html) argues here for the indeterminacy 
+of "meaning" and translation.
+
+A (semantic) holist argument against meaning-givenness, like Sellars' 
+[Myth of the Given](/docs/phil/Myth of the Given.html) against sense-givenness.

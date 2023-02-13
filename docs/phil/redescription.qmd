@@ -1,0 +1,25 @@
+---
+title: Redescription
+tags:
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/redescription.yml
+---
+
+Redescription is what produces new [vocabularies](/docs/phil/Vocabulary.html).
+
+The process that produces redescriptions is *conversation*. [Conversation](/docs/phil/Pragmatism not atemporal.html) is about redescribing our vocabulary as much as using it. This is the same conversation that [platonists](/docs/phil/Pragmatism and platonism.html) try to end and pragmatists try to continue.
+
+# Examples
+
+- [Tooth pain](/docs/phil/Tooth pain.html)
+
+# Caveat
+"Redescription" is a bit of a misnomer since one can do other things with language than just describe (Rorty is no [descriptivist](/docs/phil/Descriptivism.html)). Better would be "recharacterization" or "reconceptualization".

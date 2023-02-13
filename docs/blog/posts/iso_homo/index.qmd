@@ -7,5 +7,5 @@ Philosophers incorrectly say "isomorphism" when they mean "homomorphism".
 
 Places I've noticed this:
 
-- [Peacoke](/docs/phil/elucidations/24.qmd)
+- [Peacoke](/docs/phil/24. Perception of music.html)
 - Brandom (on many occasions)

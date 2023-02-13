@@ -1,0 +1,74 @@
+---
+title: 23. Transcendental arguments
+tags: 
+ - podcast
+ - RED
+subtitle: Quassim Cassam
+published: May 17, 2011
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/23. transcendental arguments.yml
+---
+
+[Elucidations](/docs/phil/Elucidations.html):  [Prev](/docs/phil/22. Collective action.html) [Next](/docs/phil/24. Perception of music.html)
+
+- "How possible" questions
+  - General form: X makes Y seem impossible, yet nevertheless Y is possible.
+    - Can't we just reject X because we take Y to be possible, which contradicts 
+      taking X seriously?
+  - Y="how is freedom possible?"
+    - X = "we are chemical/physical beings"
+  - "how is knowledge of the external world possible?"
+    - X = skepticism "How do you know you're not dreaming / in the Matrix?"
+      - you don't independently know that you're not in the Matrix /
+        [brain in the vat](/docs/phil/Epistemological skepticism.html), so how could you 
+        know that your hand is in front of you?
+      - The skeptic has put an insuperable requirement for knowledge of the 
+        external world
+        - Two possible replies:
+          - Say the requirement is not genuine
+            - More promising since requirements are usually designed to be 
+              unfulfillable (though they still are very compelling)
+          - Challenge the word "independently"
+            - challenging skeptic's assumed notions of epistemic priority 
+              because you are accused of question begging if you say "I know I 
+              have a hand, so therefore I'm not a handless brain in a vat"
+            - GE Moore strategy: argue from knowledge to knowledge rather from 
+              ignorance to ignorance.
+          - Say we can satisfy the requirement
+  - Sherlock Holmes meets you for the first time and says "ah I see you're from 
+    NJ". "how did sherlock holmes know this?"
+    - X = "given that I didn't do anything to reveal my origin"
+- [Immanuel Kant](/docs/phil/Immanuel Kant.html) 'grandfather of how possible questions' and inventor of trancendental arguments
+  - How is mathematical knowledge possible? How is pure science possible?
+    - For the former, Kant answers by drawing attention to how diagramatic 
+      reasoning is crucial.
+    - One can respond to how diagrams (with, say, specific triangles) could 
+      prove general properties (e.g. about triangles in general) and Kant has a 
+      response.
+  - He's not asking from an epistemological perspective.
+  - These are interesting b/c they are examples of synthetic a priori
+    - How is that kind of knowledge possible? (given that it must be possible in 
+      virtue of mathematical knowledge existing)
+    - X = "where does the knowledge come from if not experience nor analysis of 
+      concepts?"
+  - Trancendental argument:
+    - start off with assumption we have a certain experience, then try to find 
+      necessary conditions for us to have that experience
+    - E.g. external world skeptics believe we have inner experience. Kant argues 
+      that outer experience is a necessary precondition for inner experience. 
+      Therefore we have knowledge of the external world.
+      - This doesn't answer the 'how possible' question. It shows that Y is true 
+        but does not dissolve the obstacle X. So again we have something that 
+        seems necessarily true that asserts something that's possible is 
+        impossible. The skeptic has the upper hand since their arguments aren't 
+        as abstract / untrustworthy.
+      - But it's not like Kant thinks his trancendental arguments were designed 
+        to answer his 'how possible' questions (some commentators make the 
+        mistake of assuming this).

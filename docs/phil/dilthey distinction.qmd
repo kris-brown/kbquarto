@@ -1,0 +1,12 @@
+---
+title: Dilthey distinction
+tags:
+ - distinction
+---
+
+| naturwissenschaften | geisteswissenschaften | 
+|-----|----|
+| stuff that isn't text / can't talk | things that are text |
+| dry bits whizzing about in space | discursive stuff |
+
+A contentious issue is whether our understanding in each column is different in kind. Rorty denies this distinction, saying there are only sociological differences (differences in the giving and asking of reasons). 

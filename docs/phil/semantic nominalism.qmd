@@ -1,0 +1,16 @@
+---
+title: Semantic nominalism
+tag:
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/semantic nominalism.yml
+---
+
+A [semantic](/docs/phil/Semantics.html) ideology.

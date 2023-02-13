@@ -1,0 +1,22 @@
+---
+title: Absolute conception of the world
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/absolute conception of the world.yml
+---
+
+[Author](/docs/phil/Bernard Williams.html)
+
+>In reflecting on the world that is there _anyway_, independent of our experience, we must concentrate not in the first instance on what our beliefs are about, but on how they represent what they are about. We can select among our beliefs and features of our world pictures some that we can reasonably claim to represent the world in a way to the maximum degree independent of our perspective and its peculiarities. The resultant picture of things, if we can carry through this task, can be called the “absolute conception” of the world. In terms of that conception, we may hope to explain the possibility of attaining the conception itself, and also the possibility of other, perspectival, conceptions.
+> 
+> The notion of an absolute conception can serve to make effective a distinction between “the world as it is independent of our experience” and “the world as it seems to us.” It does this by understanding “the world as it seems to us” as “the world as it seems peculiarly to us”; the absolute conception will, correspondingly, be a conception of the world that might be arrived at by any investigators, even if they were very different from us … The aim is to outline the possibility of a convergence characteristic of science, one that could meaningfully be said to be a convergence on how things (anyway) are.
+
+— [Ethics and the Limits of Philosophy](/docs/phil/Ethics and the Limits of Philosophy.html)

@@ -5,7 +5,7 @@ draft: true
 ---
 
 I think of the last sentence of 
-[this](/docs/phil/people/sellars/works/im/transposed.qmd)
+[this](/docs/phil/transposed language of norms.qmd)
 in the following way: the $\square$ operator can be applied to
 statements to make them *modal* (which could be alethic, deontic, or many other
 things like "Jones thinks that ..."). 
@@ -14,5 +14,5 @@ One such $\square$ is "Semantically, ...". (or, "Literally, ...").
 
 Ordinary statements made in practical life
 could be interpreted as having an implicit "Pragmatically, ..." (in fact,
-could we define [*pragmatics*](/docs/phil/definitions/pragmatics.qmd) 
+could we define [*pragmatics*](/docs/phil/pragmatics.qmd) 
 to be that which plays this role?)

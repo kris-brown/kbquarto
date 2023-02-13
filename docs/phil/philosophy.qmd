@@ -1,0 +1,45 @@
+---
+title: Philosophy
+tags: 
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/philosophy.yml
+---
+
+# Historical eras
+
+## Premodern
+[Ancient philosophy](/docs/phil/Ancient philosophy.html)
+
+[Medieval philosophy](/docs/phil/Medieval philosophy.html)
+
+## Early modern
+[Enlightenment philosophy](/docs/phil/Enlightenment philosophy.html)
+
+[Post-kantian philosophy](/docs/phil/Post-kantian philosophy.html)
+
+[Pragmatism](/docs/phil/Pragmatism.html)
+
+## Modern
+
+[Analytic philosophy](/docs/phil/Analytic philosophy.html)
+
+[Continental philosophy](/docs/phil/Continental philosophy.html)
+
+
+# Goal 
+- Sellars' view: [Goal of philosophy](/docs/phil/Goal of philosophy.html)
+	- He describes the major problem of his time as reconciling the "clash" between "the 'manifest' image of man-in-the-world" and "the scientific image".
+
+# Relation to other disciplines
+
+Philosophy "with a capital P" is the "queen of the sciences". All scientific knowledge is representational or concerned with knowledge, so if philosophy has a special insight into representation or knowledge, then the other disciplines must answer to it. 
+
+This style and status of philosophy is challenged by [Rorty](/docs/phil/Richard Rorty.html).

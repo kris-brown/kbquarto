@@ -1,0 +1,18 @@
+---
+title: Modality
+tags:
+ - logic 
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/modality.yml
+---
+
+
+According to the [Kant-Sellars thesis](/docs/phil/Kant-Sellars thesis.html), the distinctive expressive job of modal vocabulary is to articulate the inferential connections among descriptive concepts in virtue of which they have the content that they do.

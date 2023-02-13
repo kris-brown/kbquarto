@@ -1,0 +1,21 @@
+---
+title: Disciplines sociologically different not epistemologically
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/disciplines sociologically different not epistemologically.yml
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+
+> By an antirepresentationalist account, I mean one which does not view knowledge as a matter of getting reality right, but rather as a matter of acquiring habits of action for coping with reality. These papers argue that such an account makes it unnecessary to draw Dilthey-like distinctions between explaining "hard" phenomena and interpreting "soft" ones. They offer an account of inquiry which recognizes sociological, but not epistemological, differences between such disciplinary matrices as theoretical physics and literary criticism.
+
+— [Antirepresentationalism, Ethnocentrism, and Liberalism](/docs/phil/Antirepresentationalism, Ethnocentrism, and Liberalism.html)

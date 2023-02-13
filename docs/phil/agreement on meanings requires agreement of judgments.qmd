@@ -1,0 +1,22 @@
+---
+title: Agreement on meanings requires agreement of judgments
+tags: 
+- quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/agreement on meanings requires agreement of judgments.yml
+---
+
+[Author](/docs/phil/Ludwig Wittgenstein.html)
+ 
+> It is not only agreement in definitions but also (odd as it may sound) in judgments that is required [for language to function... This is] agreement, not in opinions, but rather in form of life.
+
+— [Philosophical Investigations](/docs/phil/Philosophical Investigations.html) § 241-242
+
+- 

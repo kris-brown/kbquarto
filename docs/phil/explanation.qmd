@@ -1,0 +1,17 @@
+---
+title: Explanation
+tags:
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/explanation.yml
+---
+
+A coordinate concept with [Understanding](/docs/phil/Understanding.html). Explanation is a kind of saying: making claims that render something intelligible. It is a way of engendering understanding by essentially discursive means.
+

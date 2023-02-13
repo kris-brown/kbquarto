@@ -1,0 +1,18 @@
+---
+title: Rules 
+tags:
+ - concept 
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/rules.yml
+---
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/rule-following/)

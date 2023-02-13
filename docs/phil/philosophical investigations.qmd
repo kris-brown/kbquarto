@@ -1,0 +1,34 @@
+---
+title: Philosophical Investigations
+tags: 
+ - work
+published: 1953
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/philosophical investigations.yml
+---
+
+[Author](/docs/phil/Ludwig Wittgenstein.html)
+
+[-@wittgenstein2010philosophical]
+
+# Private language argument 
+
+See [SEP](/https://plato.stanford.edu/entries/private-language)
+
+# Quotes about 
+{{< include "Depsychologizing.qmd" >}}
+
+# Quotes 
+
+## Aphorism 69
+
+> Someone says to me: "Shew the children a game." I teach them gaming with dice, 
+and the other says "I didn't mean that sort of game." Must the exclusion of the 
+game with dice have come before his mind when he gave me the order?

@@ -1,0 +1,11 @@
+---
+title: On contingency
+tags:
+ - quote
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> I prefer this [third way](/docs/phil/Pragmatism as lack of constraint.html) of characterizing pragmatism because it seems to me to focus on a fundamental choice which con- fronts the reflective mind: that between accepting the contingent character of starting points, and attempting to evade this contingency. To accept the contingency of starting-points is to accept our inheritance from, and our conversation with, our fellow- humans as our only source of guidance.
+
+ — [Pragmatism, Relativism, and Irrationalism](/docs/phil/Pragmatism, Relativism, and Irrationalism.html)

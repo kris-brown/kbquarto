@@ -1,0 +1,16 @@
+---
+title: Contingency, Irony, and Solidarity
+tags:
+ - work
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/contingency, irony, and solidarity.yml
+---
+
+[Author](/docs/phil/Richard Rorty.html)

@@ -1,0 +1,31 @@
+---
+title: Romanticism and textualism
+tags:
+ - interaction
+---
+
+According to Rorty:
+
+```{mermaid}
+graph TD;
+
+Romanticism --> Idealism
+
+Romanticism --> Pragmatism
+
+  
+
+subgraph Textualism
+
+Weak
+
+Strong
+
+end
+
+  
+
+Idealism --> Weak
+
+Pragmatism --> Strong
+```

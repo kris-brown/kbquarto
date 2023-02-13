@@ -1,0 +1,27 @@
+---
+title: Strong and weak textualists
+tags:
+ - quote 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/strong and weak textualists.yml
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> The first sort of textualists—the weak textualist—thinks that each work has its own vocabulary, its own secret code, which may not be commensurable with that of any other.  
+> 
+> The second sort of textualist—the strong textualist—has his own vocabulary and doesn't worry about whether anybody shares it...
+>
+> It is the strong textualist who is the true heir of Nietzsche and James, and thus of Kant and Hegel. The weak textualist—the decoder—is just one more victim of realism, of the "metaphysics of presence."
+
+> The strong textualist is trying to live without that comfort. He recognizes what Nietzsche and James recognized, that the idea of method presupposes that of a privileged vocabulary, the vocabulary which gets to the essence of the object, the one which expresses the properties which it has in itself as opposed to those which read into it. Nietzsche and James said that the notion of such a vocabulary was a myth — that even in science, not to mention philosophy, we simply cast around for a vocabulary which lets us get what we want.
+
+— [Nineteenth Century Idealism and Twentieth Century Textualism](/docs/phil/Nineteenth Century Idealism and Twentieth Century Textualism.html)
+

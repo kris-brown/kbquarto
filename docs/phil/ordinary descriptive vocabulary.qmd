@@ -1,0 +1,16 @@
+---
+title: Ordinary descriptive vocabulary
+tags:
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/ordinary descriptive vocabulary.yml
+---
+
+Ordinary (empirical) descriptive vocabulary is a particular [vocabulary](/docs/phil/Vocabulary.html).

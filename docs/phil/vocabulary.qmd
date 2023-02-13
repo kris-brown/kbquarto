@@ -1,0 +1,59 @@
+---
+title: Vocabulary
+tags: 
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/vocabulary.yml
+---
+
+A [successor concept](/docs/phil/Successor concept.html) to a notion of languages and theories. A vocabulary is a way of talking /  what we deploy in discursive practice.
+
+# Examples
+- the vocabulary of 16th century theology
+- also, the vocabulary of *modernity*
+  - where that's presumably an [autonomous discursive practice](/docs/phil/Autonomous discursive practice.html)
+# Changing vocabularies
+
+Rorty doesn't draw a line between speaking in a vocabulary and changing your vocabulary (he thinks almost all speech acts change it due to the  [Duhem point](/docs/phil/Duhem-Quine thesis.html))[^du].
+
+[^du]:  each time we add a new belief we change the meanings in the rest of our vocabulary, since we have changed the inferential relations.  
+
+In mature sciences, a lot of work is taken to allow for discourse to proceed as if the vocabulary were fixed:
+
+- The discursive equivalent of "clean rooms", maintained through heroic social disciplinary measures
+ - This is for *mature* sciencies: if you think of the history of temperature,  every single time a new way of measuring temperature was discovered, the concept changed.
+
+But it would be a serious mistake to take this extreme, artificial case to  be the paradigm on the basis of which we understand the use of language in general. 
+
+*Sometimes* we want to prevent the vocabulary from changing, [but not always](/docs/phil/Criteria as regress stopping.html).
+
+Rorty calls this process [Redescription](/docs/phil/Redescription.html).
+
+# Quantifying over all vocabularies
+
+This is a central fallacy of [platonists](/docs/phil/Pragmatism and platonism.html): this is not a determinate or determinable domain. (discursive practice is fundamentally plastic, as Wittgenstein [describes](/docs/phil/Tooth pain.html), so *at best* you'll get a snapshot of the current moment).
+
+One doesn't try to do this unless they are trying to permanently [end some philosophical conversation](/docs/phil/Pragmatism not atemporal.html) (by finding the final vocabulary).
+
+Because each vocabulary gives rise to characteristic sorts of facts (e.g. physical facts, culinary facts, theological facts...) we also cannot quantify over all facts.[^tr]
+
+[^tr]: Contrast with [Tractatus](/docs/phil/Tractatus Logico-Philosophicus.html) 1.11: "The world is determined by the facts, and by these being *all* the facts."
+
+Rorty does quantify over all vocabularies insofar as he is a [declarativist](/docs/phil/Declarativism.html) - all vocabularies have something that plays the role of declarative sentences and thus can be interpreted as purportively fact-stating.
+
+# Comparing different vocabularies
+
+If you are a representationalist, then you get for free a notion of one vocabulary being better than another.
+Rorty's notion of [coping](/docs/phil/Coping.html) is a pragmatist-friendly subsitute for this. 
+
+The vocabulary vocabulary leads Rorty to questioning the distinction of [Real properties vs Cambridge properties](/docs/phil/Real properties vs Cambridge properties.html).
+
+# Related 
+- [Language game](/docs/phil/Language game.html)

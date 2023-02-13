@@ -1,0 +1,19 @@
+---
+title: Declarative sentences
+tag:
+ - concept
+ - grammar
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/declarative sentences.yml
+---
+
+# Examples
+
+The frog is on the log.

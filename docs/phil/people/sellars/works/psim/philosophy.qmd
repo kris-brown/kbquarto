@@ -1,6 +1,0 @@
----
-title: Goal of philosophy
-categories: [quote]
----
-
-{{< include /docs/phil/people/sellars/works/psim/_philosophy.md >}}

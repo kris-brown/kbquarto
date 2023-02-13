@@ -1,0 +1,11 @@
+---
+title: Ahistorical philosophy
+tags:
+ - quote
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> ...the attempt (which has defined traditional philosophy) to explicate "rationality" and "objectivity" in terms of conditions of accurate representation is a self-deceptive effort to eternalize the normal discourse of the day, and that, since the Greeks, philosophy's self-image has been dominated by this attempt.
+
+ — [Philosophy and the Mirror of Nature](/docs/phil/Philosophy and the Mirror of Nature.html), Introduction

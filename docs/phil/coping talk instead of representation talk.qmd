@@ -1,0 +1,12 @@
+---
+title: Coping talk instead of representation talk
+tags:
+ - quote
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+
+> On an antirepresentationalist view, it is one thing to say that a prehensile thumb, or an ability to use the word "atom" as physicists do, is useful for coping with the environment. It is another thing to attempt to *explain* this utility by reference to representationalist notions, such as the notion that the reality referred to by "quark" was "determinate" before the word "quark" came along (whereas that referred to by, for example, "foundation grant" only jelled once the relevant social practices emerged).
+
+— [Antirepresentationalism, Ethnocentrism, and Liberalism](/docs/phil/Antirepresentationalism, Ethnocentrism, and Liberalism.html)

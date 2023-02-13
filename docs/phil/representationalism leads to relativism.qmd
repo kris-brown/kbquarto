@@ -1,0 +1,20 @@
+---
+title: Representationalism leads to relativism
+tags:
+ - quote 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/representationalism leads to relativism.yml
+---
+
+[Author](/docs/phil/Donald Davidson.html)
+
+> Beliefs are true or false, but they represent nothing. It is good to be rid of representations, and with them the correspondence theory of truth, for it is thinking that there are representations that engenders thoughts of relativism.
+
+— [The Myth of the Subjective](/docs/phil/The Myth of the Subjective.html)

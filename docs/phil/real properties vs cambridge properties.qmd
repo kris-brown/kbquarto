@@ -1,0 +1,31 @@
+---
+title: Real properties vs Cambridge properties
+tags:
+ - distinction
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/real properties vs cambridge properties.yml
+---
+
+A distinction coined by Geach and employed by realists like [David Lewis](/docs/phil/David Lewis.html).
+
+If one is committed to there being an ontologically-privileged vocabulary (i.e. the world really comes in terms of objects and properties, and there is something like Nature's own vocabulary which lists the real objects and real properties), then it is important to contrast this with made-up properties dreamt up by philophers in Cambridge.
+
+An example gerrymandered, Cambridge property:
+ - having the same eye color as the oldest resident of Provo, Utah.
+
+When that person dies causing one to lose that property, one has experienced a "Cambridge" change, not a real change. (note the Cambridge changes can act at a spooky distance - no causal interaction needed).
+
+Nicking your finger and changing your state from "having an uninjured finger" to "having an injured finger" is a *real* change. Because the property of having an injured finger is a real property.
+
+# Skepticism about the distinction
+
+Rorty denies the intelligibility of this distinction, which is why he can be mislabelled as denying objective reality. 
+
+Relative to a fixed vocabulary,

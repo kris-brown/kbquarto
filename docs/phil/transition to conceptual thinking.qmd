@@ -1,0 +1,37 @@
+---
+title: Transition to conceptual thinking
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/transition to conceptual thinking.yml
+---
+
+[Author](/docs/phil/Wilfrid Sellars.html)
+
+> Anything which can properly be called 'conceptual thinking' can occur only 
+within a framework of conceptual thinking in terms of which it can be criticized, 
+supported, refuted (in short, evaluated). To be able to think is to be able to 
+measure one's thoughts by standards of correctness, of relevance, of evidence 
+[^2]. In this sense the diversified conceptual framework is a whole which 
+(however sketchy) is prior to its parts, and cannot be construed as a coming to 
+gether of parts which are conceptual in character. The conclusion is difficult 
+to avoid that the transition from preconceptual patterns of behavior to 
+conceptual thinking is a holistic one, a jump to a level of awareness that is 
+irreducibly new. A jump which was the coming of the being of man.
+
+— [Philosophy and the Scientific Image of Man](/docs/phil/Philosophy and the Scientific Image of Man.html)
+
+[^2]: NB: in the space of justification
+
+
+- Constrast with Wittgensteinian image of "light dawning slowly on the whole". 
+  Sellars is worried about the mechanism of how this happens.
+- The idea of language as something that is necessarily (rather than 
+  accidentally) criticizable is close to the [private language argument](/docs/phil/Philosophical Investigations.html).

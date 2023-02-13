@@ -1,0 +1,11 @@
+---
+title: Propositions not made true one-by-one
+tags: 
+ - quote
+---
+
+[Author](/docs/phil/W.O. Quine.html)
+
+> Our statements about the external world face the tribunal of sense experience not individually, but only as a corporate body.
+
+— [Two Dogmas of Empiricism](/docs/phil/Two Dogmas of Empiricism.html)

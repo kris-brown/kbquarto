@@ -1,0 +1,20 @@
+---
+title: Truth not interesting
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/truth not interesting.yml
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> The essays in this book are attempts to draw consequences from a pragmatist theory about truth. This theory says that truth is not the sort of thing one should expect to have a philosophically interesting theory about. For pragmatists, "truth" is just the name of a property which all true statements share. Pragmatists doubt that there is much to be said about this common feature.
+
+— [Consequences of Pragmatism](/docs/phil/Consequences of Pragmatism.html), Introduction

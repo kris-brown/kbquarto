@@ -1,0 +1,14 @@
+
+---
+title: Threatening Philosophy
+tags:
+ - quote
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> One reason why professional philosophers recoil from the claim that knowledge may not have foundations, or rights and duties an ontological ground, is that the kind of behaviorism which dispenses with foundations is in a fair way toward dispensing with philosophy. ...
+> 
+> It threatens the neoKantian image of philosophy's relation to science and to culture. The urge to say that assertions and actions must not only cohere with other assertions and actions but "correspond" to something apart from what people are saying and doing has some claim to be called the philosophical urge.
+
+ — [Philosophy and the Mirror of Nature](/docs/phil/Philosophy and the Mirror of Nature.html), Chapter 4

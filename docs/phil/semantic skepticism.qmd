@@ -1,0 +1,21 @@
+---
+title: Semantic skepticism
+tags: 
+ - concept
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/semantic skepticism.yml
+---
+
+A [Kantian](/docs/phil/Immanuel Kant.html) insight: the *real* problematic [skepticism](/docs/phil/Skepticism.html) is *semantic* skepticism.
+
+- He doesn't take it for granted that we can 'represent' reality and merely have to worry about whether or not that representation is true.
+- It might be unintelligible that our mental states even purport to specify how things are out there.
+- This is a prior question to whether or not those purported claims are true.

@@ -1,0 +1,25 @@
+---
+title: Left and right wing Sellarsians
+tags: 
+ - YELLOW
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/left and right wing sellarsians.yml
+---
+
+[Rorty](/docs/phil/Richard Rorty.html) characterized the followers of [Sellars](/docs/phil/Wilfrid Sellars.html) as being left or right wing depending on which passage was found to be more insightful/fundamental to Sellars' thought.
+
+| Wing      | Left | Right |
+|:-----------:|:-----------:|:---:|
+| Key passage      | [Scienta mensura](/docs/phil/Scienta mensura.html)        | [Space of reasons](/docs/phil/Space of reasons.html) | 
+| Examples | [Ruth Millikan](/docs/phil/Ruth Millikan.html), Jay Rosenberg | [Richard Rorty](/docs/phil/Richard Rorty.html), [Robert Brandom](/docs/phil/Robert Brandom.html) [John MacDowell](/docs/phil/John MacDowell.html) |
+
+Sellars saw both aspects of his philosophy as essential.
+
+Rorty joked that he hoped that they would settle their differences more peacefully than the right and left wing Hegelians, who did so during a long conference called the "Battle of Stalingrad".

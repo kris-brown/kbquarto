@@ -1,0 +1,26 @@
+---
+title: Meaning and truth
+tags: 
+ - switcharoo
+ - RED
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/meaning and truth.yml
+---
+
+
+[Alfred Tarski](/docs/phil/Alfred Tarski.html)'s theory of truth says: if you take meanings for granted, I can give you a truth predicate.
+
+[Davidson](/docs/phil/Donald Davidson.html) flipped this on its head, saying: Tarski provided the meanings of a class of terms given how they interact with other propositions.
+
+This leads to a conflict with traditional representationalist, atomistic, bottom-up interpretations. These begin with objective atomistic representation relations between objects and singular terms and properties and predicates. These are “objective” in being independent of and settled antecedently to the attitudes (e.g. beliefs) of the practitioners, and the reason-relations they take to hold among their claimables. Those reference (representation) relations provide a standard for normative assessment of the attempts at justification undertaken by the practitioners themselves. This picture is what Rorty is most concerned to reject.
+
+Davison's top-down approach starts iwth reason relations, moves (partly via trangulation) to assignments of referents to singular terms and extensions to properties, and then  assignments are then tested by using them recursively, to generate referents for all the utterables that have not been uttered (this is where the Tarski-flipping is used).
+
+*Both* ends of this process are holistic attributions of systems of reason-relations (material implications and incompatibilities) that say *in detail* just how the ones interpreted are [coping](/docs/phil/Coping.html) with their non-discursive environment and each other. It is that holistic system of reason-relations that provides both the raw materials and the ultimate criteria of adequacy for the assessment of the imputed representational relations that are postulated along the way in constructing the recursive truth-theory.

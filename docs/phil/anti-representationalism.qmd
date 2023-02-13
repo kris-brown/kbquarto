@@ -1,0 +1,26 @@
+---
+title: Anti-representationalism
+tags:
+ - school
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/anti-representationalism.yml
+---
+
+Rejection of [Representationalism](/docs/phil/Representationalism.html)
+
+# Flavors
+Can be *local* or *global* depending on whether one wishes merely to reject the representational thesis that *all* legitimate discourse is to be thought of representationally (i.e. claim that *some* discourse is primarily non-representational) vs claiming that *no* discourse should be thought of representationally.
+
+# Casual vs explanatory / justificatory usage
+Even global-antirepresentationalists like Rorty are ok[^x] with representational vocabulary being used by cognitive scientists in our *causal* stories about sub-personal cognitive mechanisms. The problem is when representation is invoked in explaining concepts, justification, entitlement, authority.
+
+This is the Kantian distinction of *quid factus* and *quid juris*, or the Sellarsian scientific image and manifest image.
+
+[^x]: Exception: Hubert Dreyfus

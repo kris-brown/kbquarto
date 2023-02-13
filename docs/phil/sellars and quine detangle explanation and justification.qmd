@@ -1,0 +1,12 @@
+---
+title: Sellars and Quine detangle explanation and justification
+tags:
+ - quote
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+
+> When Sellars's and Quine's doctrines are purified, they appear as complementary expressions of a single claim: that no "account of the nature of knowledge" can rely on a theory of representations which stand in privileged relations to reality. The work of these two philosophers enables us to unravel, at long last, Locke's confusion between explanation and justification, and to make clear why an "account of the nature of knowledge" can be, at most, a description of human behavior.
+
+ — [Philosophy and the Mirror of Nature](/docs/phil/Philosophy and the Mirror of Nature.html), Chapter 4

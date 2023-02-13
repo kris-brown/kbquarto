@@ -1,0 +1,35 @@
+---
+title: Anti-descriptivism
+tags:
+ - school
+ - STUB
+references: 
+---
+
+Opposition to [descriptivism](/docs/phil/Descriptivism.html).
+
+[-@@scharp2012wilfrid]
+
+Relevant figures:
+
+- [Saul Kripke](/docs/phil/Saul Kripke.html)
+- [Hilary Putnam](/docs/phil/Hilary Putnam.html)
+- [David Kaplan](/docs/phil/David Kaplan.html)
+- [Wilfrid Sellars](/docs/phil/Wilfrid Sellars.html)
+
+Topics:
+
+- semantic externalism
+- epistemological externalism
+- functionalism
+- direct reference
+- the relation between conceivability and possibility
+
+
+Consequences:
+
+- Names, indexicals, and naturalkind terms are not synonymous with definite descriptions, and definite descriptions do not determine the referents of these linguistic expressions. 
+- Understanding a name, an indexical, or a natural-kind term is not simply a matter of mentally grasping its meaning and associating this meaning with it. 
+- One can understand two synonymous expressions without knowing that they are synonymous; hence, meaning is not transparent. 
+- The meanings of many linguistic expressions and the contents of many mental states are determined in part by the physical or social environment in which they are used or occur.
+- Epistemic modality and metaphysical [modality](/docs/phil/Modality.html) diverge in certain cases

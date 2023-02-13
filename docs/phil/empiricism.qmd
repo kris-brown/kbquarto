@@ -1,0 +1,18 @@
+---
+title: Empiricism
+tags:
+ - school
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/empiricism.yml
+---
+
+Often contrasted with [rationalism](/docs/phil/Rationalism.html) and naturalism.
+

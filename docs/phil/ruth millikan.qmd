@@ -1,0 +1,17 @@
+---
+title: Ruth Millikan
+aliases: [Millikan]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/ruth millikan.yml
+---
+
+An example of a [right-wing Sellarsian](/docs/phil/Left and right wing Sellarsians.html).

@@ -1,0 +1,27 @@
+---
+title: Scienta mensura
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/scienta mensura.yml
+---
+
+[Author](/docs/phil/Wilfrid Sellars.html)
+
+> In the dimension of describing and explaining the world, science is the measure
+of all of things. Of what is that it is, and of what is not that it is not. 
+
+— [Empiricism and the Philosophy of Mind](/docs/phil/Empiricism and the Philosophy of Mind.html) §41
+
+
+- This is a play on a famous Protagoras quote.
+- Unfortunately, the opening qualification is important but usually left out.
+- The qualification implies that there is more than just describing.
+  - E.g. placing something in the [Space of reasons](/docs/phil/Space of reasons.html).

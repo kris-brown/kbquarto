@@ -1,0 +1,20 @@
+---
+title: Pragmatism denying different kinds of truths
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/pragmatism denying different kinds of truths.yml
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> Pragmatism cuts across this transcendental / empirical distinction by questioning the common presupposition that ther eis an invidious distinction to be drawn between kinds of truths. For the pragmatist, true sentences are not true because they correspond to reality, and so there is no need to worry what sort of reality, if any, a given sentence corresponds to -no need to worry about what "makes" it true.
+
+— [Consequences of Pragmatism](/docs/phil/Consequences of Pragmatism.html), Introduction

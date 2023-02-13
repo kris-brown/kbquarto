@@ -1,0 +1,19 @@
+---
+title: Proper names
+tags:
+ - concept
+ - grammar
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/proper names.yml
+---
+
+## External resources
+[SEP](https://plato.stanford.edu/entries/names/)

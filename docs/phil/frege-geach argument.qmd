@@ -1,0 +1,32 @@
+---
+title: Frege-Geach argument
+tags:
+ - stub
+ - argument
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/frege-geach argument.yml
+---
+
+See Geach's article: Ascriptivism and [The Frege-Geach problem](/docs/phil/The Frege-Geach problem.html).
+
+What are the limits of ascribing to a speech act a different role than describing?
+-  By reintroducing the archaic word "macarize", we can claim that declarations that "John is happy" are not descriptions, after all, but rather just macarizing.
+- What if saying that the frog is on the log isn't describing the frog but rather is performing a froggy speech act?
+
+Unlike imperative vocabulary, normative vocabulary *can* be embedded as the antecedent to a conditional.
+
+"if john is happy, then I am happy for him" is *not* macarizing John, because we haven't asserted the antecedent. All that's left is the descriptive content.
+
+Premises:
+- 
+
+Conclusion: 
+-  meta-ethical expressivism is wrong
+

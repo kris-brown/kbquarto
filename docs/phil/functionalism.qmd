@@ -1,0 +1,27 @@
+---
+title: Functionalism
+tags:
+ - school
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/functionalism.yml
+---
+
+In the philosophy of mind, ...
+
+In [semantics](/docs/phil/Semantics.html), this means that the meaning of a word is the role it plays in inferential reason relations.
+
+# Flavors
+## Causal functionalism
+
+## Normative functionalism
+
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/functionalism/)

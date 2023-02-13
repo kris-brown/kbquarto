@@ -1,0 +1,13 @@
+---
+title: Empiricism and naturalism
+tags:
+ - concept
+---
+ 
+[Empiricism](/docs/phil/Empiricism.html) and [naturalism](/docs/phil/Naturalism.html) are historically allied ideologies, but there are times which they conflict with each other.
+
+Natural laws are something that we cannot empirically ground.
+
+As programs of [Analytic philosophy](/docs/phil/Analytic philosophy.html), empiricism picks an epistemologically-privileged base vocabulary to explain problematic vocabularies, while naturalism picks an ontologically-privileged base vocabulary.
+
+Of the two of these, by the time of the late 20th century empiricism was largely abandoned, while naturalism still has followers. This can be attributed to empiricism's close ties to [foundationalism in epistemology](/docs/phil/Foundationalism.html).

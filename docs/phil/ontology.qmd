@@ -1,0 +1,17 @@
+---
+title: Ontology
+tags: 
+ - concept
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/ontology.yml
+---
+
+The theory of what really is, or the what is there 'objectively'.

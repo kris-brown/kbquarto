@@ -9,7 +9,7 @@ listing:
   fields: [title]
   contents: 
     - "phil/index.qmd"
-    - "math/index.qmd" # ../backlinks/docs/notes.yml
+    - "math/index.qmd"
 ---
 
 Organizing / interconnecting my notes helps me make sense of them. Also, I 
@@ -18,12 +18,13 @@ to make them less trash.
 
 :::{.callout-warning}
 I tried making [Quarto](https://quarto.org/docs/websites/) into a 
-"personal wiki" but many features were difficult 
-for me to add personally[^1]. 
+"personal wiki", but many features were difficult 
+for me to add personally. [^1]
 
 I'm in the process of moving notes 
 [**here**](https://kris-brown.github.io/), generated from 
-[Obsidian](https://obsidian.md/) and [Quartz](https://quartz.jzhao.xyz/).
+[Obsidian](https://obsidian.md/) and [Quartz](https://quartz.jzhao.xyz/). But 
+there are lots of bugs, so the best place to read is still on this site.
 :::
 
 [^1]: hover over link for preview, backlinks, linking by name, ...

@@ -1,0 +1,37 @@
+---
+title: Romanticism as vocabulary over truth
+tags:
+ - quote 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/romanticism as vocabulary over truth.yml
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> This way of separating science and literature has at least the merit of focusing attention on a distinction which is relevant to both idealism and textualism — the distinction between finding out whether a proposition is true and finding out whether a vocabulary is good.
+>
+>Let me call "romanticism" the thesis that what is most important for human life is not what propositions we believe but what vocabulary we use.
+>
+> Then I can say that romanticism is what unites metaphysical idealism and literary textualism. Both, as I said earlier, remind us that scientists do not bring a naked eye to nature, that propositions of science are not simple transcriptions of what is present to the senses. Both draw the corollary that the current scientific vocabulary is one vocabulary among others, and that there is no need to give it primacy, nor to reduce other vocabularies to it. Both see the scientists' claim to discover the ways things really are as needing qualification, as a pretension which needs to be curbed.
+
+— [Nineteenth Century Idealism and Twentieth Century Textualism](/docs/phil/Nineteenth Century Idealism and Twentieth Century Textualism.html)
+
+
+
+
+
+
+
+
+
+
+
+
+

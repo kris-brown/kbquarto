@@ -1,0 +1,21 @@
+---
+title: Goal of philosophy
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/goal of philosophy.yml
+---
+
+[Author](/docs/phil/Wilfrid Sellars.html)
+
+> The aim of philosophy is to understand how things, in the broadest possible 
+> sense of the term, hang together, in the broadest possible sense of the term.  
+
+— [Philosophy and the Scientific Image of Man](/docs/phil/Philosophy and the Scientific Image of Man.html) §37

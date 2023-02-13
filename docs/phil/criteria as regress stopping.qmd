@@ -1,0 +1,20 @@
+---
+title: Criteria as regress stopping
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/criteria as regress stopping.yml
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> On the pragmatist account, a criterion (what follows from the axioms, what the needle points to, what the statute says) is a criterion because some particular social practice needs to block the road of inquiry, halt the regress of interpretations, in order to get something done." So rigorous argumentation-the practice which is made-possible by agreement on criteria, on stopping-places - is no more generally desirable than blocking the road of inquiry is generally desirable." It is something which it is convenient to have if you can get it. if the purposes you are engaged in fulfilling can be specified pretty clearly in advance (e.g., finding out how an enzyme functions, preventing violence in the streets, proving theorems), then you can get it. If they are not (as in the search for a just society, the resolution of a moral dilemma, the choice of a symbol of ultimate concern, the quest for a "postmodernist" sensibility), then you probably cannot, and you should not try for it. If what you are interested in *philosophy, you certainly* will not get it - for one of the things which the various vocabularies for describing things differ about is the purpose for defining things. The philosopher will not want to beg the question between these various descriptions in advance.
+
+— [Consequences of Pragmatism](/docs/phil/Consequences of Pragmatism.html), Introduction

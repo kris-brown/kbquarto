@@ -1,0 +1,36 @@
+---
+title: General Semantics
+tags:  
+ - work
+published: 1976
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/general semantics.yml
+---
+
+[Author](/docs/phil/David Lewis.html)
+
+[-@lewis1976general]
+
+# Takeaway 
+
+If we decide to treat objects as semantic interpretant of our names, sets of possible worlds as 
+the semantic interpretant of our sentences, then: 
+
+- one-place predicates correspond to *functions* from objects to sets of possible worlds.
+- 'walks' is a function from objects to the worlds in which that object is 
+    walking.
+- adverbs, like 'slowly', is a function from one-place predicates to 
+  one-place predicates.
+
+This apparatus gives us a way to talk *precisely* about certain distinctions that come up in philosophy language. E.g. adverbs come in two flavors:
+    - Attributive: 'walked *slowly*' which implies one walked at all
+    - Non-attributive: 'walked *in one's imagination*'
+
+We can now say what this distinction is, set-theoretically.

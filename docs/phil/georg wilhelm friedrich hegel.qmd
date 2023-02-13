@@ -1,0 +1,22 @@
+---
+title: Georg Wilhelm Friedrich Hegel
+aliases: [Hegel]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/georg wilhelm friedrich hegel.yml
+---
+
+(1770–1831)
+
+Brandom reads Hegel as reading Kant as having given a normative account of representation. An account in terms of authority / responsibility. (Kant talks about this in terms of necessity). Hegel talks about this as independence (i.e. authority) and dependence (i.e. responsibility). 
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/hegel/)

@@ -1,0 +1,18 @@
+---
+title: Demonstratives
+tags: 
+ - concept
+ - grammar
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/demonstratives.yml
+---
+
+These are an important case for any general [semantic](/docs/phil/Semantics.html) theory to address.

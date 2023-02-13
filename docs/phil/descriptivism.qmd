@@ -1,0 +1,62 @@
+---
+title: Descriptivism
+tags:
+ - school
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/descriptivism.yml
+---
+
+Descriptivism is a [semantic](/docs/phil/Semantics.html) theory: the belief that what you do with language is describe things.
+
+It was an improvement in the philosophy of language which allowed us to avoid the 
+[Hesperus Phosphorus puzzle](/docs/phil/Hesperus and Phosphorus.html).
+
+A criticism of it is that it is too narrow of a box: many genuine uses of language are not descriptive (in the narrow sense), while descriptivism would make these uses second-class citizens. (For this reason, Sellars calls descriptivism "nothing-but-ism").
+
+Seven tenants, according to [-@soames2005reference]:
+
+1. One must distinguish between the meaning of a linguistic expression and its 
+   referent; for most any linguistic expression (including proper names), its 
+   meaning is given by a description, which determines its referent.
+2. Understanding a linguistic expression consists in mentally grasping its
+   meaning and associating this meaning with the expression.
+3. Meaning is transparent; that is, if two linguistic expressions have the same 
+   meaning, then anyone who understands them can tell that this is the case. 
+   (Because anyone who understands an expression mentally grasps its meaning 
+   and associates that meaning with the expression, a person who understands 
+   two expressions can tell whether he has mentally grasped the same meaning 
+   and associated it with each of them.)
+4. The meaning of a linguistic expression and the content of a mental state it 
+   expresses are determined entirely by internal features of the person in 
+   question. (Because the meaning of an expression is something that is mentally 
+   grasped by someone who comprehends the language in question, a person’s 
+   physical and social environments have no direct impact on the meanings of 
+   her expressions.)
+5. A proposition is *a priori* if and only if it is necessary; both *a priority* and 
+   necessity are explained in terms of meaning. (Because the meaning of an 
+   expression is something that is mentally grasped by someone who comprehends 
+   the language in question, simply comprehending a language enables one to 
+   know certain truths that are grounded in the meanings of the expressions of
+   that language.)
+6. Anti-essentialism
+7. The aim of philosophy is conceptual analysis
+
+# Wittgenstein
+- The [Tractatus Logico-Philosophicus](/docs/phil/Tractatus Logico-Philosophicus.html) was supremely descriptivist.
+- Yet it made a key advance by noting that logical expressions play a different kind of role 
+    - Prior to the Tractatus, Russell would be looking into the world to try to 
+      see what distinguishes positive from negative facts, when he should not have
+      been looking to the world.
+    - After the Tractatus, even descriptivists accepted that logical vocabulary 
+      does not describe.
+- Sellars extends this even further. Also the later Wittgenstein recoiled from   
+  descriptivism and saw language as playing an unsurveyable variety of roles.
+  

@@ -1,0 +1,12 @@
+---
+title: Theoretical and practical
+tags:
+ - distinction
+ - STUB
+---
+
+This is a Kantian distinction. e.g. theoretical vs practical reason, theoretical vs practical necessity.
+
+
+- theoretical necessity: rules of nature
+- practical necessity: rules of thought

@@ -1,0 +1,16 @@
+---
+title: Understanding
+tags:
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/understanding.yml
+---
+
+A coordinate concept with [Explanation](/docs/phil/Explanation.html).

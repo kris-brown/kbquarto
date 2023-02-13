@@ -1,0 +1,18 @@
+---
+title: 11 - Price on Sellars and McDowell, Blackburn on Brandom and McDowell
+aliases: [rorty11]
+tags:  
+- lecture
+- STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/11 - price on sellars and mcdowell, blackburn on brandom and mcdowell.yml
+---
+
+[Author](/docs/phil/Robert Brandom.html) [Prev](/docs/phil/10 - Simon Blackburn on Expressivism and Pragmatism.html) [Next](/docs/phil/12 - Price's Pragmatist Philosophy of Language.html)

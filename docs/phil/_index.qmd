@@ -1,0 +1,22 @@
+---
+title: Notes
+---
+
+Notes on various lectures. An ontology is needed to organize these notes. Tags will be used for this purpose.
+
+
+```{mermaid}
+erDiagram 
+Quote ||--o{ Person  : from
+Quote ||--o{ Work  : from
+Person ||--o{ Work : author
+Person ||--o{ School : assoc
+Work ||--o{ School : assoc
+School ||--o{ Claim : espouses
+Argument ||--o{ Claim : prem
+Claim ||--o{ Argument : conc
+Situation ||--o{ Claim : backgroundAssumption
+Situation ||--o{ Problem : reflects
+Conflict ||--o{ Claim : conflict
+```
+

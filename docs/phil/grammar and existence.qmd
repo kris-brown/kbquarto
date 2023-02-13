@@ -1,0 +1,19 @@
+---
+title: Grammar and Existence
+tags: 
+ - work
+published: 1960
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/grammar and existence.yml
+---
+
+[Author](/docs/phil/Wilfrid Sellars.html)
+
+[-@sellars1960grammar]

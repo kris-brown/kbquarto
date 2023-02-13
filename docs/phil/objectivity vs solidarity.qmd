@@ -1,0 +1,11 @@
+---
+title: Objectivity vs solidarity
+tags:
+ - quote 
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> The question of whether truth or rationality has an intrinsic nature, of whether we ought to have a positive theory about either topic, is just the question of whether our self-description ought to be constructed around a relation to human nature or around a relation to a particular collection of human beings, whether we should desire objectivity or solidarity.
+
+— [Solidarity or Objectivity](/docs/phil/Solidarity or Objectivity.html)

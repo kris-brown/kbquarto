@@ -1,0 +1,19 @@
+---
+title: Hierarchy of belief
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/hierarchy of belief.yml
+---
+[Author](/docs/phil/C. I. Lewis.html)
+
+> the whole body of our conceptual interpretations form a sort of hierarchy or pyramid with the most comprehensive, such as those of logic, at the top, and the least general such as [‘all swans are birds’] etc, at the bottom; that with this complex system of interrelated concepts, we approach particular experiences and attempt to fit them, somewhere and somehow, into its preformed patterns. Persistent failure leads to readjustment. . . . The higher up a concept stands in our pyramid, the more reluctant we are to disturb it, because the more radical and far- reaching the results will be. . . . The decision that there are no such creatures as have been defined as ‘swans’ would be unimportant. The conclusion that there are no such things as Euclidean triangles, would be immensely disturbing. And if we should be forced to realize that nothing in experience possesses any stability— that our principle, ‘Nothing can both be and not be,’ was merely a verbalism, applying to nothing more than momentarily—that denouement would rock our world to its foundations.
+
+ [Mind and the World Order](/docs/phil/Mind and the World Order.html)

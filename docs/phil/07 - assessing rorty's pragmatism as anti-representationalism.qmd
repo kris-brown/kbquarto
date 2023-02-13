@@ -1,0 +1,43 @@
+---
+title: 07 - Assessing Rorty's Pragmatism as Anti-Representationalism
+aliases: [rorty07]
+tags:  
+- lecture
+- STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/07 - assessing rorty's pragmatism as anti-representationalism.yml
+---
+
+[Author](/docs/phil/Robert Brandom.html) [Prev](/docs/phil/06 - Rorty's Political Turn.html) [Next](/docs/phil/08 - Anti-Representationalism, Pragmatism, and Expressivism.html)
+
+Remark on [Kant oder Hegel](/docs/phil/Having a nature or a history.html)
+
+Remark on representation as [fetishism](/docs/phil/Fetishism.html#relation to representationalism).
+
+Rorty's argument:
+- Target: representationalism 
+	- More precisely: declarativist descriptivism
+	- Declarativism puts sentences like "the frog is on the log", "'red' refers to a color", "I believe in miracles" all in a box, as *fact-stating*, as representing ways the world can be
+	- There must, then be different kinds of facts. (empirical facts, facts about abstract objects, etc.)
+	- There is a uniform semantics for all these kinds of facts, where "frog is on the log" is a paradigm case.
+- Rorty and Price counter with global anti-representationalism: that semantic model is broken-backed, will not help us understand the use of any expressions.
+- Rorty wants to shift to social practices of reasoning (challenging claims) rather than seeing claims answer to a supposedly absolute notion of truth.
+- Conclusion: we should substitute pragmatics of consensus (with no higher tribunal) for any semantic appeal to a notion of representation.
+	- That notion of an absolute truth is what is fetishized.
+	- The genuine friction of claims in our practices is what gets projected into a nonhuman notion of reality which has authority over our practices.
+
+## Criticism
+Rorty encourages us to extend the lesson of the enlightenment from the practical realm to the theoretical realm.
+
+- We shouldn't let a non-human / non-rational authority dictate our practical reasoning (what we ought do). To be free, we must understand right/wrong as coming from ourselves. (for Kant: the commitments that are implicit in our practices of justifying our conduct to one another - he derived moral principles from commitments that are implicit in acting intentionally).
+
+Searle resisted this by saying that the practical and theoretical have different directions of fit. (see [Shopping list](/docs/phil/Shopping list.html) example).
+
+Rorty's POV: what makes the Enlightenment argument applicable to the person-to-world direction of fit is because it is a *normative* fit. Thus, by characterizing the world-to-person fit also as a normative one, his argument has power.

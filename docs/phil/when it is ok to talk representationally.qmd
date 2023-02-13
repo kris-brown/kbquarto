@@ -1,0 +1,15 @@
+
+---
+title: When it is ok to talk representationally
+tags:
+ - quote
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+
+> We can take the Sellars-Quine attitude toward knowledge while cheerfully "countenancing" raw feels, a priori concepts, innate ideas, sense-data, propositions, and anything else which a causal explanation of human behavior might find it helpful to postulate.  What we cannot do is to take knowledge of these "inner" or "abstract" entities as premises from which our knowledge of other entities is normally inferred, and without which the latter knowledge would be "ungrounded."
+>
+> The difference is between saying that to know a language is to be acquainted with the meanings of its terms, or that to see a table is to have a rectangular sense-impression, and explaining the authority of tokens of "All men are animals" or "That looks like a table" by virtue of the prior (internal, private, nonsocial) authority of a knowledge of meanings or of sense-impressions. Behaviorism in epistemology is a matter not of metaphysical parsimony, but of whether authority can attach to assertions by virtue of relations of "acquaintance" between persons and, for example, thoughts, impressions, universals, and propositions.
+
+ — [Philosophy and the Mirror of Nature](/docs/phil/Philosophy and the Mirror of Nature.html), Chapter 4

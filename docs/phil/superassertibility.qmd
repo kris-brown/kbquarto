@@ -1,0 +1,26 @@
+---
+title: Superassertibility
+tags: 
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/superassertibility.yml
+---
+
+Crispin Wright's pragmatist-friendly successor notion to "truth".
+
+Related to Peirce's [Truth as the limit of inquiry](/docs/phil/Truth as the limit of inquiry.html).
+
+# Definition 
+Something is superassertible when it is assertible[^bjust] and its assertibility is stable and robust under arbitrary increases of our information / evidence.
+
+[^bjust]: best-justified according to our current practices
+
+# Objection
+This is circular because we need a notion of truth in order to determine whether a putative piece of information is an "increase" (i.e. it's true).

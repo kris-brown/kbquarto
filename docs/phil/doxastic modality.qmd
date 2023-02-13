@@ -1,0 +1,18 @@
+---
+title: Doxastic modality
+tags: 
+ - concept
+ - logic
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/doxastic modality.yml
+---
+
+A type of [modality](/docs/phil/Modality.html) that concerns obligation and permission.

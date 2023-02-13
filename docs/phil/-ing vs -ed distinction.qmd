@@ -1,0 +1,63 @@
+---
+title: -ing vs -ed distinction
+tags: 
+  - distinction
+  - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/-ing vs -ed distinction.yml
+---
+
+Observed by [Sellars](/docs/phil/Wilfrid Sellars.html) to be responsible for a lot of philosophical confusion.
+
+Most interesting philosophical concepts come with a "-ing"/ "-ed"
+distinction that's crucial to understand the nature of. 
+
+## Description
+
+Do you mean the describing or the describable when you say "description"?
+
+We need to distinguish the fact and the content.
+
+
+## Justification 
+
+The [Agrippan trilemma](/docs/phil/Agrippan Trilemma.html) can be thought of as caused by conflating act of justifying vs the state of being justified.
+  
+## Experience
+
+Is an experience an act of act of experiencing vs what's experienced. Sellars thinks [Berkeley](/docs/phil/George Berkeley.html) was confused by this.
+
+## Representation
+
+'Representation' is the relation between two relata: the representings and the 
+representeds. Making this distinction helps avoid the [Cartesian](/docs/phil/Mind-body dualism.html) trap of thinking 
+of the fact of $X$ as being a representing (e.g. a thought about something)
+being an *[ontological](/docs/phil/Ontology.html)* fact (i.e. a statement about the true nature of $X$) 
+rather than a fact of how $X$ relates to other things (it could be 
+represented in one context and a representing in another). 
+
+# Perception
+
+# Judgement
+
+# Belief 
+
+# Desire
+
+# Intention
+
+# Action
+
+# Thinking
+Facts are true thinkables. There were facts before there were any thinkables. (confusing this leads to "there is nothing outside the text")
+
+
+## ???
+- You can't be inside the rules and outside talking about them at the same time.

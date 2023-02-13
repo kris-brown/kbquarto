@@ -1,0 +1,11 @@
+---
+title: Distinctions
+tags: 
+ - philosophy 
+ - distinction
+---
+
+We naturally discretize things in the world into different categories of things, 
+and these distinctions can feel good, like they 'cut reality at the 
+joints.' However, many times philosophy will also find that two things (possibly seemingly 
+opposites) are shown convincingly to being the *same* in some fundamental sense.

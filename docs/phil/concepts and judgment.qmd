@@ -1,0 +1,63 @@
+---
+title: Concepts and judgment
+tags: 
+ - switcharoo
+ - YELLOW
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/concepts and judgment.yml
+---
+
+# Overview 
+
+We normally think that the content of judgments are dictated by the content of the [concepts](/docs/phil/Concepts.html) used inside of them. This feels especially right for artificial languages:
+
+- Take "If it's a $P$, then it's a $Q$."
+    - Or, logically: $\forall x, P(x)\implies Q(x)$
+- The meaning of this statement seems to depend on what concepts $P$ and $Q$ we 
+  substitute in. E.g. with $P \mapsto {\rm red\ thing},\  Q \mapsto {\rm colored\ thing}$, 
+  it's a good a judgment, whereas $Q \mapsto {\rm rectangular\ thing}$ would no 
+  longer be a good judgment.
+
+However, [Kant](/docs/phil/Immanuel Kant.html) turned this around. In this view, judgments are prior (in the order of understanding) to concepts.
+
+# The prior tradition 
+
+Traditional logic up until Kant thought of 
+everything in terms of classification. There were three levels:
+
+1. Logic/semantics starts with concepts,
+    - These are classified as particular or general
+    - e.g. "red" (general), "colored" (general), "ball" (particular)
+2. ...then built up a notion of judgments,
+    - These are classified say when one judgment falls under another.
+    - e.g. "the ball is red", "red is subsumed by colored"
+3. ... then built up a doctrine of conquences of syllogisms.
+    - These tell you what sorts of inferences you can make.
+    - e.g. "If x is red, then x is colored".
+
+Kant flipped the order $1\rightarrow 2$ to $2 \rightarrow 1$ (think of concepts as functions of judgment). Sellars then extended this to flip $2\rightarrow 3$ to $3\rightarrow 2$ (think of judgments as functions of the inferences we make).
+
+# Sellars
+
+We normally think of logically-valid inferences 
+(e.g. $A \land B \implies B \lor C$) as something 
+we understand *prior* to particular inferences (e.g. "If it's red and 
+triangular, then it's triangular or heavy"). Sellars calls these particular 
+inferences [material_inferences](/docs/phil/Material inference vs logical inference.html) and 
+argues that it is only through understanding *them* that we could understand 
+logically-valid inferences.
+
+One argument for our initial intuition is that the logically-valid inferences 
+are *a priori*, whereas the particular inferences are *a posteriori*.[^1] 
+However, [What the Tortoise said to Achilles](/docs/phil/What the Tortoise said to Achilles.html)  articulates that, although the logically-valid inferences exist *a priori* as abstract mathematical/syntactical objects, without having any 
+practical experience of actually making inferential moves we don't have access 
+to them *qua* inferences.
+
+[^1]: The words *priori* and *posteriori* literally make the order clear.

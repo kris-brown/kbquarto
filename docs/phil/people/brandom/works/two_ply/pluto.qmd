@@ -1,6 +1,0 @@
----
-title: Theoretical vs obserable objects - Pluto
-categories: [quote]
----
-
-{{< include /docs/phil/people/brandom/works/two_ply/_pluto.md >}}

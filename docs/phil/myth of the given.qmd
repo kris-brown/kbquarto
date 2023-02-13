@@ -1,0 +1,21 @@
+---
+title: Myth of the Given
+tags: 
+ - argument
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/myth of the given.yml
+---
+
+[Author](/docs/phil/Wilfrid Sellars.html)
+
+A (semantic) holist argument against meaning-givenness, like Quines' [Myth of the Museum](/docs/phil/Myth of the Museum.html) against sense-givenness.
+
+It is common to think that knowledge begins with experience - that there are particular experiences (raw sense data) that are privileged as certain, leading to a desire to cache out all semantic interpretations of other thoughts in terms of these certain experiences (otherwise they are nonsense).

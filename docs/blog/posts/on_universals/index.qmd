@@ -7,10 +7,10 @@ draft: false
 ---
 
 One source of philosophical controversy is that of 
-[universals](/docs/phil/problems/universals.qmd).
+[universals](/docs/phil/universals.qmd).
 
 To me, this seems to be an instance of the 
-[tooth pain](/docs/phil/situations/toothpain.qmd) issue. 
+[tooth pain](/docs/phil/tooth pain.qmd) issue. 
 
 Here is an account: 
 

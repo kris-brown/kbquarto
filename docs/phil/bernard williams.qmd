@@ -1,0 +1,17 @@
+---
+title: Bernard Williams
+aliases: [Williams]
+tags:
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/bernard williams.yml
+---
+
+A British philosopher and representationalist.

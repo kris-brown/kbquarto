@@ -1,0 +1,16 @@
+---
+title: Logical empiricism
+tags:
+ - school
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/logical empiricism.yml
+---
+
+Ideology associated with the [Vienna Circle](/docs/phil/Vienna Circle.html).

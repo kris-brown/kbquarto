@@ -1,0 +1,19 @@
+---
+title: Truth as the limit of inquiry
+tags: 
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/truth as the limit of inquiry.yml
+---
+
+[Pierce](/docs/phil/Charles Sanders Pierce.html) 
+
+> "Inquiry properly carried on will reach some definite and fixed result or approximate indefinitely toward that limit ... The opinion which is fated to be ultimately agreed to by all who investigate, is what we mean by the truth"
+

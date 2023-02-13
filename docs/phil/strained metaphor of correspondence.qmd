@@ -1,0 +1,11 @@
+---
+title: Strained metaphor of correspondence
+tags:
+ - quote
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> The great fallacy of the tradition, the pragmatists tell us, is to think that the metaphors of vision, correspondence, mapping, picturing and representation which apply to small routine assertions will apply to large and debatable ones. This basic error begets the notion that where there are no objects to correspond to we have no hope of rationality, but only taste, passion, and will.
+
+ — [Pragmatism, Relativism, and Irrationalism](/docs/phil/Pragmatism, Relativism, and Irrationalism.html)

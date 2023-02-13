@@ -1,0 +1,16 @@
+---
+title: Ethics (Spinoza)
+tags:
+ - work
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/ethics (spinoza).yml
+---
+
+[Author](/docs/phil/Baruch Spinoza.html)

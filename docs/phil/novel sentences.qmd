@@ -1,0 +1,20 @@
+---
+title: Novel sentences
+tags: 
+ - example
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/novel sentences.yml
+---
+
+Attributed to Chomsky.
+
+We can sometimes underestimate the generativity of language and its radical novelty. Consider something as easy to understand as "For the picnic today, I hope you packed all the sandwiches we made last night and the baseball gear."
+
+Almost every sequence of words uttered by an adult native speaker is radically novel. Not just in the sense that that speaker has never produced or heard that sequence of words, but in the sense that *no one ever has*.

@@ -1,0 +1,11 @@
+---
+title: Neurath's boat
+tags:
+ - concept
+---
+ 
+> We are like sailors who on the open sea must reconstruct their ship but are never able to start afresh from the bottom. Where a beam is taken away a new one must at once be put there, and for this the rest of the ship is used as support. In this way, by using the old beams and driftwood the ship can be shaped entirely anew, but only by gradual reconstruction.
+
+-- [Otto Neurath](/docs/phil/Otto Neurath.html), Anti-Spengler
+
+Anti-foundationalist metaphor for knowledge.

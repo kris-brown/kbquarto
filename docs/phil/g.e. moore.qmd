@@ -1,0 +1,11 @@
+---
+title: G.E. Moore
+aliases: [Moore]
+tags: 
+ - person
+---
+
+G.E. Moore (1873-1958)
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/moore/)

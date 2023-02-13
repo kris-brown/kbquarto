@@ -1,0 +1,38 @@
+---
+title: Agrippan Trilemma
+aliases: [Münchhausen trilemma]
+tags: 
+ - regress
+ - YELLOW
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/agrippan trilemma.yml
+---
+
+A problem for [epistemology](/docs/phil/Epistemology.html), which, if unanswered, opens one to [epistemological skepticism](/docs/phil/Epistemological skepticism.html). It seems like there are only three ways of completing a proof:
+
+- The *circular* argument, in which the proof of some proposition presupposes the truth of that very proposition
+- The *regressive* argument, in which each proof requires a further proof, ad infinitum
+- The *dogmatic* / *foundationalist* argument, which rests on accepted precepts which are merely asserted rather than defended.
+
+These all tend to rub us the wrong way.
+
+# Addressing the trilemma
+
+## Changing the logic
+This is a problem for [classical logic](/docs/phil/Classical logic.html) in particular.
+
+It could be addressed by introducing [nonmonotonic logic](/docs/phil/Nonmonotonic logic.html):  e.g. default and challenge approach to justification where some claims (e.g. first person observations) come with a default justification (which is not based on the justification of other claims). Yet they must be defended when challenged.
+
+## Challenging the meaning-theory distinction
+
+The pervasive ideology of [analyticity](/docs/phil/Analytic and synthetic facts.html) leads us to think that the *meanings* of our commitments are determined prior to deciding which claims are justified. Rejecting this is to say we cannot be clear about the contents of our expressions prior to determining their inferential realtions. So we cannot be in the original predicament we thought we were in.
+
+# External resources
+- Also called [Münchhausen trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma).

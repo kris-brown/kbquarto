@@ -1,0 +1,22 @@
+---
+title: Declarativism
+tags: 
+ - school
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/declarativism.yml
+---
+
+All [declarative sentences](/docs/phil/Declarative sentences.html) should be put in a box, i.e. given a uniform [semantics](/docs/phil/Semantics.html). 
+
+Furthermore, this semantics should be that they should be thought of as "fact-stating", a paradigm example being "the frog is on the log".
+
+This can be argued for via the [Frege-Geach argument](/docs/phil/Frege-Geach argument.html). It gets you a cheap form of representationalism - but it's a platitudinous form of representation (anti-representationalists are not denying declarative sentences, which they accept can be asserted, etc. They challenge how we understand their content.). One can take a deflationary stance towards this notion of representation.
+
+Sellars' Metaphysicus is a declarativist *and* a representationalist about everything that can be put into a declarative sentence. (thus he is commmitted to the existence of negative / implication / modal / probabilistic / semantic / normative / abstract facts etc.)

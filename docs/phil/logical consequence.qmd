@@ -1,0 +1,10 @@
+---
+title: Logical consequence
+tags:
+- concept
+- logic
+---
+
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/logical-consequence/)

@@ -1,0 +1,24 @@
+---
+title: Foundationalism
+tags:
+ - school
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/foundationalism.yml
+---
+
+A strategy for preventing infinite regresses by having a trusted starting point (foundation) and building up from there.
+
+# In epistemology
+We take the sensory given to be our trusted starting point and understand all claims to knowledge as derivable from there. 
+
+This is what the core argument (Ch 4) of [Philosophy and the Mirror of Nature](/docs/phil/Philosophy and the Mirror of Nature.html) actually argues against. Rorty sees Carnap and [C. I. Lewis](/docs/phil/C. I. Lewis.html) as using Kant's two species of representations (sense impressions and meaning-relations) as serving as a foundation for their epistemologies.
+
+# In semantics
+- Frank Jackson and David Chalmers use two-dimensional modal logic for this.

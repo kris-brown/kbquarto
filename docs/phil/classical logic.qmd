@@ -1,0 +1,22 @@
+---
+title: Classical logic
+tags: 
+ - concept
+ - logic
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/classical logic.yml
+---
+
+
+In classical logic, the [law of the excluded middle](/docs/phil/Law of the excluded middle.html) obtains. When this is removed, one obtains [Intuitionistic logic](/docs/phil/Intuitionistic logic.html).
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/logic-classical/)

@@ -1,0 +1,18 @@
+---
+title: Language, Rules and Behavior
+tags: 
+ - work
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/language, rules and behavior.yml
+---
+
+[Author](/docs/phil/Wilfrid Sellars.html)
+
+[-@sellars1950language]

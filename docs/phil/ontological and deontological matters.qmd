@@ -1,0 +1,24 @@
+---
+title: Ontological and deontological matters
+tags: 
+ - switcharoo
+ - RED
+---
+
+Ordinarily we think of the [ontological](/docs/phil/Ontology.html) and the [deontological](/docs/phil/Deontology.html) as being very 
+different, easily distinguishable kinds of things. However, Sellars' 
+[quote](/docs/phil/Transposed language of norms.html)
+
+{{< include "Transposed language of norms.qmd" >}}
+
+expresses the idea that these are not so different and we can view ontological 
+ideas as deontological (which has the added benefit of not excavating a gap 
+between mind and world - it's no mystery how we can come to know how things 
+actually are if it is a matter of understanding things like 
+responsibility/social status).
+
+Examples of this: 
+
+- [representation as a normative relation](/docs/phil/Shopping list.html)
+- [intentionality as a normative relation](/docs/phil/A children's game.html)
+- more to come ...

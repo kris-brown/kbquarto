@@ -1,0 +1,28 @@
+---
+title: Representationalism
+tags:
+ - school
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/representationalism.yml
+---
+
+A theory of semantics, closely related to [descriptivism](/docs/phil/Descriptivism.html): to be cognitively contentful is to be [representing](/docs/phil/Representation.html) the world.
+ -   E.g. [Demonstratives](/docs/phil/Demonstratives.html), [indexicals](/docs/phil/Indexicals.html), [Proper names](/docs/phil/Proper names.html), [natural kind](/docs/phil/Natural kinds.html) terms can be thought of as representing without being descriptions, e.g. in [Naming and Necessity](/docs/phil/Naming and Necessity.html).
+
+After [representation](/docs/phil/Representation.html) was developed by Descartes and Kant as a successor notion to "resemblance" (as a theory of the relation between appearance and reality), representationalism came to dominate philosophy as a dogma of both rationalists and empiricists. 
+
+# Moving beyond representationalism
+
+Kant made an advance by introducing the categories: these were concepts whose role was not to describe but rather to make description possible.
+
+[Sellars](/docs/phil/Wilfrid Sellars.html) observed that Wittgenstein in the [](/docs/phil/Tractatus Logico-Philosophicus.html) made an advance by showing, for *logical* vocabulary, that we could make sense of it as not representing / picturing but as a way of combining other pictures.
+
+The Wittgenstein of the [Philosophical Investigations](/docs/phil/Philosophical Investigations.html) realized that lots of other vocabularies can also play roles that are not merely representational.

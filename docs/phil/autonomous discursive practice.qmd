@@ -1,0 +1,20 @@
+---
+title: Autonomous discursive practice
+description: "A language game you could play if you played no other"
+tags: 
+ - concept
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/autonomous discursive practice.yml
+---
+
+"A language game you could play if you played no other"
+
+TODO

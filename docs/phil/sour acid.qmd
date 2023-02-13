@@ -1,0 +1,25 @@
+---
+title: Sour acid
+tags: 
+ - example
+ - YELLOW
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/sour acid.yml
+---
+
+Historically we might have had at some point the following theory of acids: 
+"Anything that's sour is an acid. And anything that's an acid will turn litmus paper red." 
+
+A consequence of this theory is that we have observational access to acids. 
+
+Nevertheless, if we eventually find something that tastes sour that turns litmus paper blue, then it will have turned out there never existed any acids (according to that theory), *even though 
+we could observe them* (or had every reason to believe we could).
+
+This situation is one of many that aims to break down the [objective/subjective](/docs/phil/Objective and subjective facts.html) distinction, related to sorting things into "things that are real/observble/concrete" vs "things that are made-up/theoretical/mere ideas".

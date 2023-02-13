@@ -1,0 +1,25 @@
+---
+title: Frederich Nietzsche
+aliases: [Nietzsche]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/frederich nietzsche.yml
+---
+
+A German philosopher (1844-1900).
+
+![](/images/headshots/neitzsche.jpeg)
+
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/nietzsche/)
+
+

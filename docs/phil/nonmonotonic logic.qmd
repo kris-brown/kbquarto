@@ -1,0 +1,21 @@
+---
+title: Nonmonotonic logic
+tags: 
+ - concept 
+ - logic
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/nonmonotonic logic.yml
+---
+
+Monotonicity is a property of the entailment relation of a logic.
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/logic-nonmonotonic/)

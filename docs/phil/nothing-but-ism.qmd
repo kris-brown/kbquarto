@@ -1,0 +1,15 @@
+---
+title: Nothing-but-ism
+tags:
+ - concept
+---
+
+[Sellars](/docs/phil/Wilfrid Sellars.html)' term for the consequence of [descriptivism](/docs/phil/Descriptivism.html) (the tendency to assimlate all discourse to describing).
+
+Examples:
+- [Emotivism](/docs/phil/Emotivism.html)
+	- claims about what you ought to do are not saying anything about how the world is
+- [Behaviorism](/docs/phil/Behaviorism.html)
+	- what we should be doing is describing the behavior, not looking upstream towards the internal representations 
+- [Phenomenalism](/docs/phil/Against phenomenalism.html)
+	-  physical objects are nothing but logical constructions out of sensory experiences

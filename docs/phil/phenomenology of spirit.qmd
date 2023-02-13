@@ -1,0 +1,18 @@
+---
+title: Phenomenology of Spirit
+tags:
+ - work 
+author: Hegel
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/phenomenology of spirit.yml
+---
+[Author](/docs/phil/Georg Wilhelm Friedrich Hegel.html)
+
+[-@hegel2007phenomenology]

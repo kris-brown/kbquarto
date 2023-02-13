@@ -1,0 +1,11 @@
+---
+title: Knowledge as accurate representation
+tags:
+ - quote
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+> Wittgenstein, Heidegger, and Dewey are in agreement that the notion of knowledge as accurate representation, made possible by special mental processes, and intelligible through a general theory of representation, needs to be abandoned.
+
+— [Philosophy and the Mirror of Nature](/docs/phil/Philosophy and the Mirror of Nature.html), Introduction

@@ -1,0 +1,35 @@
+---
+title: Neokantianism
+aliases: [neokantian]
+tags:
+ - school
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/neokantianism.yml
+---
+
+# A strict sense
+
+The dominant philosophical movement in Germany from roughly 1870 until the First World War. ([SEP](https://plato.stanford.edu/entries/neo-kantianism))
+
+```{mermaid} 
+graph TD
+K[Kuno Fischer] --> F[Gottlob Frege]
+F --> C[Rudolf Carnap]
+R[Heinrich Rickert] --> B[Bruno Bauch]
+B --> C
+W[Wm Windelband]
+R --> H[Martin Heidegger]
+HC[Hermann Cohen] --> EC[Ernst Cassirer]
+N[Paul Natorp] --> EC
+```
+
+# A weaker sense
+
+Rorty uses the term neokantian to assimilate all philosophers who share Kant's attitude of the [Relation of philosophy to other disciplines](/docs/phil/Relation of philosophy to other disciplines.html).

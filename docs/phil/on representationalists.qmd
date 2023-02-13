@@ -1,0 +1,17 @@
+---
+title: On representationalists
+tags:
+ - quote
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+
+> Papineau and Lewis share the conviction that there are "objective," theory-independent and language-independent matter-of factual relationships, detectable by natural science, holding or failing to hold between individual bits of language and individual bits of nonlanguage. When these relations (e.g., "being caused by," "biologically supposed to represent") do hold they cause us to "accurately represent" some item which belongs within what Putnam calls "a certain domain of entities (the ones which are there regardless of what we do or say) such that all ways of using words referentially are just different ways of singling out one or more of those entities.'
+> 
+> ...
+>
+>The antirepresentationalism common to Putnam and Davidson insists, by contrast, that the notion of "theory-independent and language-independent matter-of-factual relationships" begs all the questions at issue. For this notion brings back the very representationalist picture from which we need to escape.
+
+
+— [Antirepresentationalism, Ethnocentrism, and Liberalism](/docs/phil/Antirepresentationalism, Ethnocentrism, and Liberalism.html)

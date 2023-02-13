@@ -1,0 +1,25 @@
+---
+title: On writing
+categories: [🔴]
+draft: true
+---
+
+When I write, there are lots of qualification I would like to make. All words 
+and combinations thereof have connotations and practical implications - some 
+fraction of which will accurately reflect what I wish to communicate and some 
+which will not. It seems like part of being a good writer is keeping that first 
+fraction high and second one low without having to add endless parentheticals, 
+qualifiers, and footnotes.
+
+One explanation for in-person discussion being much more productive and having 
+fewer miscommunications is that each false connotation can be immediately 
+pursued and explained. In a static text document, one wants to both include 
+all the qualifications yet knows this is too cumbersome / unreadable to 
+actually do. 
+
+I believe, technologically, there is a hope for nuanced communication (that 
+does not require in-person interaction). Sharing a writing piece that is heavily 
+interlinked with one's "digital garden" / "personal wiki" would allow readers to 
+pursue threads as far as their curiosity permits without cluttering the main 
+thrust of the writing. The process of constructing and sharing these is not yet 
+at the point where it is as easy as Microsoft Word. 

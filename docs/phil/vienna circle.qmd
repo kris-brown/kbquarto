@@ -1,0 +1,17 @@
+---
+title: Vienna Circle
+tags:
+- school
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/vienna circle.yml
+---
+
+An empiricist wing (Schlict) and a naturalist wing (Neurath), Carnap trying to hold them together.
+

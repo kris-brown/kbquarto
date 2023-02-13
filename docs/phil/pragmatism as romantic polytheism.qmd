@@ -1,0 +1,16 @@
+---
+title: Pragmatism as Romantic Polytheism
+tags:
+ - work 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/pragmatism as romantic polytheism.yml
+---
+
+[Author](/docs/phil/Richard Rorty.html)

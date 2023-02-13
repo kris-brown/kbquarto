@@ -1,0 +1,18 @@
+---
+title: Intuitionistic logic
+tags:
+ - logic
+ - stub
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/intuitionistic logic.yml
+---
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/intuitionism/#IntLog)

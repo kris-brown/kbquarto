@@ -1,0 +1,21 @@
+---
+title: Continental philosophy
+tags:
+ - concept 
+ - STUB 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/continental philosophy.yml
+---
+
+Presented in opposition to [Analytic philosophy](/docs/phil/Analytic philosophy.html). [^ro]
+
+Downstream of [Husserl](/docs/phil/Edmund Husserl.html).
+
+[^ro]: However, Rorty assimilates both as different forms of [neokantianism](/docs/phil/Neokantianism.html).

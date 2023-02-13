@@ -1,0 +1,20 @@
+---
+title: George Berkeley
+aliases: [Berkeley]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/george berkeley.yml
+---
+
+George Berkeley was an Irish philosopher. (1685-1753)
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/berkeley/)

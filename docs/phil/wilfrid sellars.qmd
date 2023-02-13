@@ -1,0 +1,23 @@
+---
+title: Wilfrid Sellars
+aliases: [Sellars]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/wilfrid sellars.yml
+---
+
+
+Born 1912 in Michigan, died in 1989.
+
+![](/images/headshots/sellars-w.jpeg)
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/sellars/)

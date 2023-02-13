@@ -1,0 +1,21 @@
+---
+title: Success semantics
+tags:
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/success semantics.yml
+---
+A pragmatist analysis of truth. 
+
+# Definition 
+"Truth belief" means a belief that will be successful when you base your actions on it. 
+
+# Criticism
+Brandom writes in "Unsuccessful Semantics" that this does not appreciate the holistic character of belief; all you can say is that if *all* of your beliefs are true, then you were more likely to have successful practical reasoning. One false belief can mess up the fact of many true beliefs. Here, ignorance is as bad as false beliefs.

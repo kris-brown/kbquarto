@@ -1,0 +1,18 @@
+---
+title: Alethic modality
+tags: 
+ - concept
+ - logic
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/alethic modality.yml
+---
+
+A type of [modality](/docs/phil/Modality.html) that concerns what is necessary and what is possible.

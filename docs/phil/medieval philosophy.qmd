@@ -1,0 +1,17 @@
+---
+title: Medieval philosophy
+aliases: [Scholastic]
+tags:
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/medieval philosophy.yml
+---
+
+An era of [philosophy](/docs/phil/Philosophy.html). Also called Scholastic philosophy.

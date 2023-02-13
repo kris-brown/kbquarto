@@ -1,0 +1,17 @@
+---
+title: Philosophy and the Mirror of Nature
+aliases: [PMN]
+tags: 
+ - work
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/philosophy and the mirror of nature.yml
+---
+
+[Author](/docs/phil/Richard Rorty.html)

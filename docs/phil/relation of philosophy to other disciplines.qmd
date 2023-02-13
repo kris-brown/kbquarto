@@ -1,0 +1,28 @@
+---
+title: Relation of philosophy to other disciplines
+tags:
+ - distinction
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/relation of philosophy to other disciplines.yml
+---
+
+Main question: 
+> is there a common structure to "understanding" such that philosophers can "understand understanding" and thereby obtain a special status?
+
+| **Answer to main question** | **Yes** | **No** |
+|:----:|:---:|:---:|
+| philosophy | With a capital P | Lower-case p | 
+| Philosophy is ___ the sciences  | Queen of ... | One of ...|
+| Ideology | Neokantianism | Neopragmatism | 
+| Kind of understanding | Ahistorical | Historical | 
+| [Kant oder Hegel](/docs/phil/Having a nature or a history.html) | Kant | Hegel|
+
+
+In [PMN](/docs/phil/Philosophy and the Mirror of Nature.html)'s introduction, Rorty sees Platonism was the original justification of Philosophy's special status. That became outdated, but soon after [representationalism](/docs/phil/Representationalism.html) became the justification (and still is). 

@@ -1,0 +1,28 @@
+---
+title: Law of the excluded middle
+tags: 
+ - concept
+ - logic
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/law of the excluded middle.yml
+---
+
+In propositional logic, the law of the excluded middle is formulated as an inference rule:
+
+
+=---=
+
+$A \lor \neg A$ 
+
+
+I.e., we can assume, for any proposition $A$, that either $A$ or its negation can be asserted. 
+
+This gets applied in the form of inferring $A$ after proving $\neg \neg A$ (i.e. we assume not-$A$, then derive a contradiction, and conclude that $A$ is assertable).

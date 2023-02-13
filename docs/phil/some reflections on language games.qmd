@@ -1,0 +1,23 @@
+---
+title: Some reflections on language games
+published: 1954
+tags: 
+ - work
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/some reflections on language games.yml
+---
+
+[Author](/docs/phil/Wilfrid Sellars.html)
+
+[-@sellars1954some]
+
+# Quotes 
+
+> A rule is always a rule for doing something.

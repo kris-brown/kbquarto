@@ -14,9 +14,9 @@ listing:
     - ../../../../backlinks/docs/blog/posts/minimize_ontology_talk/index.yml
 ---
 
-*This is essentially a rehash of various bits of [Rorty](/docs/phil/people/rorty) that were floating in my head, sort of put into my own words.*
+*This is essentially a rehash of various bits of [Rorty](/docs/phil/richard rorty.qmd) that were floating in my head, sort of put into my own words.*
 
-[Ontology](/docs/phil/definitions/ontology.qmd) (the theory of what really is, 
+[Ontology](/docs/phil/ontology.qmd) (the theory of what really is, 
 or the what is there 'objectively') 
 makes conflict between things we say possible.
 
@@ -35,7 +35,7 @@ thoroughgoing idealism.
 However, outside of the 'home language-game' of OED vocabulary, do we really 
 need it? Could it be causing *unnecessary* conflict and confusion when pulled outside of its 
 original motivating context, much like the 
-[tooth pain](/docs/phil/situations/toothpain.qmd) anecdote?
+[tooth pain](/docs/phil/tooth pain.qmd) anecdote?
 
 For whatever sociohistorical reasons, objectivity-talk is incredibly pervasive
 in almost all domains of discourse. It takes serious work to 
@@ -44,7 +44,7 @@ grapple with non-OED concepts without it.
 
 - For example: we're primed to think of *sentience* as some objective 
   phenomenon (because we're primed to be 
-  [descriptivists](/docs/phil/schools/descriptivism.qmd)), 
+  [descriptivists](/docs/phil/descriptivism.qmd)), 
   but this is entirely unnecessary. 
 - We can completely sidestep talk of the ontological nature of sentience and 
   get along perfectly fine.

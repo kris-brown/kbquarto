@@ -1,0 +1,104 @@
+---
+title: Making it Explicit
+tags: 
+ - work
+---
+[Author](/docs/phil/Robert Brandom.html)
+
+# Preface
+- The work will show a kind of understanding/explanatory power comes from talking about language in this new way (rather than to say that one is rationally *obliged* to talk this way).
+- Project: explain the *meanings* of linguistic expressions in terms of their *use*.
+	-  This would be trivial if our vocabulary for talking about use allowed "using the word 'not' to express negation" or "using the term 'Julius Caesar' to refer to Julius Caesar"
+	- This would be impossible if our vocabulary for talking about use was restricted to the vocabulary of physics.
+	- Brandom will use a *normative* vocabulary, understanding norms in terms of *commitments* and *entitlements*.
+## Chapter summaries
+1. Introduces / motivates normative pragmatics 
+2. Inferential theory of propositional contentfulness
+3. Part 1 of core theory: A model of the social practice of giving and asking for reasons. A social, linguistic account of *intentionality*.
+4. Part 2 of core theory: A social, linguistic account of *perception* and *action*.
+5. The expressive role of traditional representational semantic vocabulary (e.g. 'true' and 'refers').
+6. Indirect inferential role of singular terms/predicates. Subsitutional analysis which is crucial to understanding how inferentialism can go beyond sentences.
+7. Anaphora
+8. Representational dimension of conceptual content
+
+- Making something explicit is *saying* it: putting it into a form in which it can be given as a reason / have reasons demanded for it. 
+- Expression is the relation between what is *implicit* in what we do and what is *explicit* in what we say.
+- To express something is to make it explicit. 
+- Two tasks
+1. Explaining (making theoretially explicit) the implicit structure of linguistic practices in virtue of which they count as making anything explicit at all
+2. Working out a theory of the expressive role distinctive of *logical* vocabulary.
+	- E.g. conditionals make *implicit* inferential commitments *explicit*. Negation makes explicit the incompatibility of commitments.
+
+## Aspirations (why the book is long)
+- Eschew representational primitives (via inferentialism / expressivism)
+- show how content is related to use
+- achieve self-referential expressive completeness
+- present a unified vision of language and mind
+# Chapter 1: Toward a Normative Pragmatics
+## I. Introduction
+### 1. Saying 'We'
+What is 'we'? How should we demarcate "us" from "them"? This is tantamount to saying who or what we are. It is both discovered as well as decided. We might say there is no *right* answer to this, each criterion for demarcation just picks out a different kind of community. One criterion that doesn't feel arbitrary is "X is one of *us* if X, like us, X says 'we' (i.e. makes a distinction of *us* and *them*)". However, this just pushes the problem to specifing what one has to do to count as "saying 'we'".
+
+### 2. Sapience
+Demarcating 'we' as *reasonable* beings:
+- Our transactions with other things *mean* something to us
+- they have *conceptual content* for us
+- We *understand* them
+- We are bound by a *normative* force, a rational 'ought'.
+- We are placed in a space of reasons
+
+This would be taking *sapience* rather than *sentience* as the constellation of characteristics which distinguishes us.
+
+Sentience is what we share with non-verbal animals (being aware in the sense of being awake).
+
+*Reliable, differential responsiveness* is what we share with non-verbal animals and artifacts such as thermostats and land mines.
+
+Another characterization of *sapience* is focused on truth, rather than inference (like above):
+- We are believers, where believing is taking-to-be-true
+- We are agents, and acting is making-true
+- We have states such as belief/desire/intention which are contentful in the sense that the question can be raised under which circumstances what is believed/desired/intended would be *true*.
+- We *understand* content by grasping the conditions necessary and sufficient for its truth.
+
+Both characterizations of sapience try to explain *propositions*, which both have truth conditions and stand in inferential relations. These coordinate concepts compete with each other for which should be explained in terms of the other.
+
+### 3. Intentionality
+
+
+## II. From Intentional State to Normative Status
+
+### 1. Kant: Demarcation by Norms 
+
+### 2. From Cartesian Certainty to Kantian Necessity
+### 3. Frege: Justification vs Causation
+### 4. Wittgenstein on the Normative Significance of Intentional Content
+
+## III. From Norms Explicit in Rules to Norms Implicit in Practices
+### 1. Regulism: Nnorms as Explicit Rules or Principles
+## IV. From Normative Status to Normative Attitude
+## V. From Assessment to the Social Institution of Norms
+## VI. From Intentional Interpretation to Original Intentionality
+
+# Chapter 2: Toward an Inferential Semantics
+## I. Content and Representation
+## II. The Priority of the Propositional
+## III. Conceptual Classification and Inference
+## IV. Material Inference, Conceptual Content, and Expression
+## V. Circumstances and Consequences of Application
+## VI. Conclusion
+
+# Chapter 3: Linguistic Practice and Discursive Commitment
+
+# Chapter 4: Perception and Action: The Conferral of Empricial and Practical Conceptual Content
+
+# Chapter 5: The Expressive Role of Traditional Semantic Vocabulary: 'True' and 'Refers'
+
+# Chapter 6: Substitution: What Are Singular Terms, and Why Are There Any?
+
+# Chapter 7: Anaphora: The Structure of Token Repeatables
+
+# Chapter 8: Ascribing Propositional Attitudes: The Social Route from Reasoning to Representing
+
+# Chapter 9: Conclusion
+## I. Two Concepts of Concepts
+## II. Norms and Practices
+## III. We Have Met the Norms, and They Are Ours

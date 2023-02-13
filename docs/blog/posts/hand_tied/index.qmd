@@ -14,7 +14,7 @@ Here are four potentially-unrelated examples with a common structure:
 # 1. Constructive mathematics
 
 Many things in math can be proven without relying on the 
-[law of the excluded middle](/docs/phil/definitions/excluded.qmd), which says, 
+[law of the excluded middle](/docs/phil/Law of the excluded middle.html), which says, 
 for any claim $P$, you can assert that $P$ or not-$P$ is true. Using this 
 additional axiom can make things easier; however, proofs using it will not be
 *constructive*. For example: 
@@ -148,10 +148,10 @@ feel ridiculous to consider any alternative. However, there are issues:
   rather than questioning the  semantic model of descriptivism.
 - Descriptivism would make it seem like every statement we make crucially hinges on
   whether or not things 'actually exist'. Yet many everyday examples (e.g. 
-  [witches](/docs/phil/situations/witches.qmd),
-  [Pluto](/docs/phil/situations/pluto.qmd),
-  [beauty](/docs/phil/distinctions/made/sense_dependence_reference.qmd), and
-  [sour acid](/docs/phil/situations/souracid.qmd)) show that 
+  [witches](/docs/phil/referring to witches.qmd),
+  [Pluto](/docs/phil/pluto.qmd),
+  [beauty](/docs/phil/sense dependence vs reference.qmd), and
+  [sour acid](/docs/phil/sour acid.qmd)) show that 
   ordinary statements are not like this.
 
 The philosophical school of pragmatism offers an alternative target vocabulary 

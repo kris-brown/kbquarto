@@ -1,0 +1,19 @@
+---
+title: Critique of Pure Reason
+tags: 
+ - work
+author: Immanuel Kant
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/critique of pure reason.yml
+---
+
+[Author](/docs/phil/Immanuel Kant.html)
+
+[-@smith2011immanuel]

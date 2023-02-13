@@ -1,0 +1,23 @@
+---
+title: C. I. Lewis
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/c. i. lewis.yml
+---
+
+Clarence Irving Lewis (1883-1964). 
+
+Student of [William James](/docs/phil/William James.html). A key figure in the rise of [analytic philosophy](/docs/phil/Analytic philosophy.html) in the United States. A mentor to [Sellars](/docs/phil/Wilfrid Sellars.html) and [Quine](/docs/phil/W.O. Quine.html). 
+
+A self-proclaimed neokantian and conceptual pragmatist. He  is a paradigm pragmatist under Cheryl Misak's narrative of the history of pragmatism, yet is not a pragmatist at all under Rorty's redescription of pragmatism. 
+
+## External resources
+- [SEP](https://plato.stanford.edu/entries/lewis-ci/)

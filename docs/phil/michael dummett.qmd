@@ -1,0 +1,19 @@
+---
+title: Michael Dummett
+aliases: [Dummett]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/michael dummett.yml
+---
+
+Michael Dummett was an English philosopher of logic (1925-2011).
+
+![](/images/headshots/dummett.jpeg)

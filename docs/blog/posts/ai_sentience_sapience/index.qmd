@@ -1,0 +1,59 @@
+---
+title: AI, sentience, and sapience
+categories: [🔴, phil]
+draft: true
+---
+
+# Summary
+
+Thesis: AI discourse stands to benefit from making a distinction between 
+*sentience* and *sapience*, both of which are flavors of "intelligence". 
+
+Key points, if you accept that distinction as legitimate / enlightening:
+
+- People *think* they are having empirical disputes (e.g. are current/future AIs 
+  'intelligent'?), but these are actually hollow / merely confusion which follows 
+  from conflating sentience and sapience (AI is sentient but not sapient).
+- If our social practices were to sufficiently change, AI *could become* sapient 
+  and mankind *could become* merely sentient. This would be bad. Mankind 
+  appreciating the distinction would help prevent this from happening.
+
+::: {.callout-note appearance="simple" collapse="true"}
+
+## Caveat on materialism 
+
+Although sometimes in the 21st century we have very materialist impulses, I want 
+to claim it is possible for some truths to not be in the domain of natural 
+science. This doesn't have to invoke religion or anything mystical: 
+
+- what is the simplest way to continue the sequence 0, 2, 4, 6, 8, 10, ...?
+- is torturing helpless strangers morally wrong?
+- who has right-of-way in this intersection?
+- what influence did Elliot's _The Wasteland_ have on the poetic landscape?
+
+A materialist's impulses might recoil at this thought, forced to declare 
+the answers to these questions aren't really facts *because* science does not 
+have authority; they can argue there's no "fact" of the matter, at best we can 
+do is some sort of subjective feeling that happens to obtain agreement among the 
+right sort of people.
+
+:::
+
+# Sapience vs sentience
+
+This distinction is due to Wilfrid Sellars.
+
+**Sentience** is the kind of intelligence squirrels have. To sentient creatures, 
+we attribute having sensations and behaving in pattern-governed ways to survive 
+in an environment.
+
+**Sapience** is the kind of intelligence humans above a certain age have. To 
+sapient creatures, we attribute the use of *concepts*, the ability to make 
+claims, be committed to claims, be entitled to claims, and be held responsible 
+for claims.
+
+
+=====
+
+  
+

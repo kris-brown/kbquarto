@@ -1,0 +1,21 @@
+---
+title: Skepticism
+tags: 
+ - concept
+ - problem
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/skepticism.yml
+---
+
+Skepticism comes in many flavors.
+
+```query
+tag:skepticism
+```

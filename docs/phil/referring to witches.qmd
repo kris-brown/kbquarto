@@ -1,0 +1,30 @@
+---
+title: Referring to witches
+tags: 
+ - example
+ - YELLOW
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/referring to witches.yml
+---
+
+Jones says "The witch who lives in the house at the end of the street really scares me." We, not believing in the myth of witches, can have a couple of reactions to this:
+
+1. Jones referred to the woman who lives at the end of the street, and the fact he implicitly described her as a witch just betrays some false auxillary belief he has about witches.
+2. Jones *failed to refer* to the woman at the end of the street because she isn't a witch (since no witches exist).
+
+Even if you'd prefer option 1 or option 2, the other option likely seems pretty reasonable. 
+
+Identically we could have used the example of phlogiston:
+ - not existing
+ - referring to oxygen but having a lot of false baggage
+
+Causal theories of [reference](/docs/phil/Reference.html) and bottom-up semantic theories (which start with the primitive things that exist and their properties, then builds up the reason relations they stand in) require a sharp line between things that exist and don't exist, whereas pragmatically we see no such line exists.
+
+Takeaway: existence isn't the sort of thing for which there is a fact of the matter. Theories that contradict this are wrong. Insofar as we say things exist, it is answering to the top-down, wholistic considerations.

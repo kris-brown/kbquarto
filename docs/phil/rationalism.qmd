@@ -1,0 +1,20 @@
+---
+title: Rationalism
+tags:
+ - school
+ - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/rationalism.yml
+---
+
+Often contrasted with [empiricism](/docs/phil/Empiricism.html).
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/rationalism-empiricism/) (rationalism vs empiricism)

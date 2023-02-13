@@ -1,0 +1,25 @@
+---
+title: Shopping list
+tags: 
+ - example
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/shopping list.yml
+---
+
+
+From [-@anscombe2000intention]
+
+A man has arrived at the grocery store to go shopping, but realizes he's forgotten his shopping list. Unbenknownst to him, a spy is following him, tasked with writing a list of everything that is put into the grocery cart. There are now two lists of groceries that have dual relationships to what is put into the cart:
+
+| | The original shopping list | The spy's list |
+|:--:|:---:|:----:|
+| Relevant to determining correctness of an item being in the cart | Yes | No |
+| Status of shopping cart relevant to correctness of an item being on the list| No | Yes |
+| Authority structure | This has *authority* over what is put into the cart | The cart has *authority* over this |

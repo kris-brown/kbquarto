@@ -1,0 +1,14 @@
+---
+title: Rorty on truth as correspondence
+tags:
+ - quote
+---
+
+[Author](/docs/phil/Richard Rorty.html)
+
+
+> To say that the parts of properly analyzed true sentences are arranged in a way isomorphic to parts of the world paired with them sounds plausible if one thinks of a sentence like "Jupiter has moons." It sounds slightly less plausible for "The earth goes round the sun", less for "There is no such thing as natural motion", and not plausible at all for 'The universe is infinite." When we want to praise or blame assertions of the latter sort of sentence, we show how the decision to assert them fits into a whole complex of decisions about what terminology to use, what books to read, what projects to engage in, what life to live. In this respect they resemble such sentences as "Love is the only law" and "History is the story of class struggle." The whole vocabulary of isomorphism, picturing, and mapping is out of place here, as indeed is the notion of being true of objects. If we ask what objects these sentences claim to be true of, we get only unhelpful repetitions of the subject terms - "the universe", "the law", "history". Or, even less helpfully we get talk about "the facts," or "the way the world is.”
+
+ — [Pragmatism, Relativism, and Irrationalism](/docs/phil/Pragmatism, Relativism, and Irrationalism.html)
+
+- This is an argument against global representationalism, not global anti-representationalism. 

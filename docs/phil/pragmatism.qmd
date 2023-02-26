@@ -20,18 +20,18 @@ TODO
 # History
 
 American pragmatism
-- [Pierce](/docs/phil/Charles Sanders Pierce.html)
-- [James](/docs/phil/William James.html)
-- [Dewey](/docs/phil/John Dewey.html)
+- [Pierce](/docs/phil/people/Charles Sanders Pierce.html)
+- [James](/docs/phil/people/William James.html)
+- [Dewey](/docs/phil/people/John Dewey.html)
 
 "Cambridge" pragmatism
-- [Frank Ramsey](/docs/phil/Frank Ramsey.html)
-- The later [Wittgenstein](/docs/phil/Ludwig Wittgenstein.html)
+- [Frank Ramsey](/docs/phil/people/Frank Ramsey.html)
+- The later [Wittgenstein](/docs/phil/people/Ludwig Wittgenstein.html)
 
 Neo-pragmatism
-- [Rorty](/docs/phil/Richard Rorty.html)
-- [Brandom](/docs/phil/Robert Brandom.html)
-- [Price](/docs/phil/Huw Price.html)
+- [Rorty](/docs/phil/people/Richard Rorty.html)
+- [Brandom](/docs/phil/people/Robert Brandom.html)
+- [Price](/docs/phil/people/Huw Price.html)
 
 ## Graphical representation of influences
 
@@ -92,8 +92,10 @@ Dotted lines are influence, solid lines are advisors, diamonds are neo-kantians.
 What does it *mean* that "All $A$'s are necessarily $B$'s"? A pragmatist answer is that it is a license to infer statements like "$x$ is a $B$" from statements like "$x$ is an $A$".
 
 ## Truth 
-- [Pierce](/docs/phil/Charles Sanders Pierce.html): [Truth as the limit of inquiry](/docs/phil/Truth as the limit of inquiry.html)
-- 
+- [Pierce](/docs/phil/people/Charles Sanders Pierce.html): [Truth as the limit of inquiry](/docs/phil/Truth as the limit of inquiry.html)
+- James: Truth as what is good for belief[^bb]
+
+[^bb]: [Blackburn](/docs/phil/people/Simon Blackburn.html): false beliefs can be useful, e.g. it may be useful to believe you are the most popular person in class but that does not make it true. Conversely, many things we think of as true are useless.
 
 
 # External resources

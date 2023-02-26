@@ -30,7 +30,7 @@ In logic, we see expressions like $P \implies Q$ a lot.
 |F | F | T |
 
 - Its *meaning*, in brief, is an assertion that $Q$ being true can be asserted if $P$ is true.
-    - There is a gap between these two characterizations, expressed in Lewis Carroll's [parable](/docs/phil/What the Tortoise said to Achilles.html).
+    - There is a gap between these two characterizations, expressed in Lewis Carroll's [parable](/docs/phil/works/What the Tortoise said to Achilles.html).
 - A common example is: If $x$ is a bachelor, then $x$ is male.
 - The $\implies$ relation is 'truth functional' - it only depends on the scenarios in which $P$ and $Q$ are true and says nothing about $P$ and $Q$ being related to each other in some deeper way. The following examples illustrate this:
     - If $1+1=2$, then more than 10 people live on Earth. (this is the first row of the table)

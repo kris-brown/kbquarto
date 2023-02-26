@@ -1,0 +1,13 @@
+---
+title: Self-abasement
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> Dewey urged that we turn our backs on the very idea of Reality As It Is In Itself. Nietzsche saw this idea as an expression of the same weakness, the same masochistic desire to bow down before the non-human, as had permeated Christian "slave-morality". Dewey saw it as a survival of the ancient world's organization of society into artisans and priests.
+>...
+>For Nietzsche and Dewey, the idea that Reality has an intrinsic nature which common sense and science may never know - that our knowledge may be only of Appearance - is a relic of the idea that there is something non-human which has authority over us. The idea of a non-human authority and the quest for sublimity are both products of self-abasement.
+
+— [Pragmatism - A View](/docs/phil/works/Pragmatism - A View.html), Preface

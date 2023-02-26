@@ -1,0 +1,17 @@
+---
+title: One Cheer for Representationalism
+tags:
+ - work
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/one cheer for representationalism.yml
+---
+
+[Author](/docs/phil/people/Huw Price.html)
+

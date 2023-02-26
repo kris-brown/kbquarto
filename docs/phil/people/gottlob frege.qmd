@@ -1,0 +1,18 @@
+---
+title: Gottlob Frege
+aliases: [Frege]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/gottlob frege.yml
+---
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/frege)

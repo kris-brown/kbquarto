@@ -1,0 +1,29 @@
+---
+title: Charles Sanders Pierce
+aliases: [Pierce]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/charles sanders pierce.yml
+---
+
+Charles Sanders Pierce (1839-1914). Founder of American pragmatism.
+
+# Relation to Sellars, habits, and rules
+For Sellars, the word 'habit' denotes a mere regularity. For Pierce, habit is a 
+normative concept. 
+
+He observes that the Latin form in which Newton lies down in Principia is the 
+same form a notice board that says "Neckties will be worn in the office".
+
+Sellars would call this notion of normativity "ought-to-be".
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/peirce/)

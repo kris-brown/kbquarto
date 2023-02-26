@@ -13,7 +13,7 @@ listing:
     - ../../backlinks/interpretivism.yml
 ---
 
-A semantic theory associated with [Davidson](/docs/phil/Donald Davidson.html).
+A semantic theory associated with [Davidson](/docs/phil/people/Donald Davidson.html).
 
 What you believe / what your words mean (which have to be determined together) are whatever the best interpretation of your behavior would take them to be (that which best rationalizes your behavior).
 

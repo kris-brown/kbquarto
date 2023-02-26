@@ -17,9 +17,9 @@ A Marxist concept: mistaking the products of our own practices and practical att
 
 ## Example
 
-Brandom alleges that, during a period of hyperinflation, Billy Graham led a prayer for the interest rates to lower. This is fetishistic insofar as it treats our natural human practices as part of the natural world.
+Brandom alleges that, during a period of hyperinflation, Billy Graham led a prayer for the interest rates to lower. This is fetishistic insofar as it treats our human practices as part of the natural world.
 
-Another example is the debates that used to be held over whether gold was truly (in itself) more valuable than silver. They saw the exchange rates as attempts to get at this true ratio of value.
+Another example is the debates that used to be held over how much more valuable gold was truly than silver. This was seen as a fact about gold (like its density, just harder to measure). They saw the exchange rates as attempts to get at this true ratio of value.
 
 ## Relation to [representationalism](/docs/phil/Representationalism.html)
 

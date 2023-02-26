@@ -29,7 +29,7 @@ listing:
 
 - A distinction fundamental for both 'must' in the [alethic](/docs/phil/Alethic modality.html) and  [doxastic](/docs/phil/Doxastic modality.html) modal senses.
 
-- [Sellars](/docs/phil/Wilfrid Sellars.html): You can't understand either of these kinds of oughts without 
+- [Sellars](/docs/phil/people/Wilfrid Sellars.html): You can't understand either of these kinds of oughts without 
   understanding both. In particular, if you try to do everything with 
   ought-to-do's:
     - One would fall into a kind of Cartesianism: we'd need to think of 
@@ -41,7 +41,7 @@ listing:
       Regress of rules without ought-to-be's.
 
 - This is important because natural way to think of rules is exlusively in terms 
-  of Ought to Do (Sellars himself advocated this [earlier](/docs/phil/Some reflections on language games.html): "A rule is always a  rule for doing something").
+  of Ought to Do (Sellars himself advocated this [earlier](/docs/phil/works/Some reflections on language games.html): "A rule is always a  rule for doing something").
 
 - There is also an analogous distinction involving permission, rather than 
   obligation.

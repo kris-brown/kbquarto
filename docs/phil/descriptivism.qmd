@@ -50,7 +50,7 @@ Seven tenants, according to [-@soames2005reference]:
 7. The aim of philosophy is conceptual analysis
 
 # Wittgenstein
-- The [Tractatus Logico-Philosophicus](/docs/phil/Tractatus Logico-Philosophicus.html) was supremely descriptivist.
+- The [Tractatus Logico-Philosophicus](/docs/phil/works/Tractatus Logico-Philosophicus.html) was supremely descriptivist.
 - Yet it made a key advance by noting that logical expressions play a different kind of role 
     - Prior to the Tractatus, Russell would be looking into the world to try to 
       see what distinguishes positive from negative facts, when he should not have

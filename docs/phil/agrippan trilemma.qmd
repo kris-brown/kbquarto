@@ -32,7 +32,7 @@ It could be addressed by introducing [nonmonotonic logic](/docs/phil/Nonmonotoni
 
 ## Challenging the meaning-theory distinction
 
-The pervasive ideology of [analyticity](/docs/phil/Analytic and synthetic facts.html) leads us to think that the *meanings* of our commitments are determined prior to deciding which claims are justified. Rejecting this is to say we cannot be clear about the contents of our expressions prior to determining their inferential realtions. So we cannot be in the original predicament we thought we were in.
+The pervasive ideology of [analyticity](/docs/phil/interaction/Analytic and synthetic facts.html) leads us to think that the *meanings* of our commitments are determined prior to deciding which claims are justified. Rejecting this is to say we cannot be clear about the contents of our expressions prior to determining their inferential realtions. So we cannot be in the original predicament we thought we were in.
 
 # External resources
 - Also called [Münchhausen trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma).

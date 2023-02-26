@@ -1,0 +1,12 @@
+---
+title: Aim of PMN
+tags: 
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+
+> The aim of the book is to undermine the reader's confidence in "the mind" as something about which one should have a "philosophical" view, in "knowledge" as something about which there ought to be a " theory" and which has "foundations," and in "philosophy" as it has been conceived since Kant.
+
+— [Philosophy and the Mirror of Nature](/docs/phil/works/Philosophy and the Mirror of Nature.html),  Introduction

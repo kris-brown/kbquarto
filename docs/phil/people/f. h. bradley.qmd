@@ -1,0 +1,19 @@
+---
+title: F. H. Bradley
+tags:
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/f. h. bradley.yml
+---
+
+The most famous British Idealist. (1846-1924)
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/bradley/)

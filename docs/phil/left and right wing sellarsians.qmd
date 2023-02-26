@@ -13,12 +13,12 @@ listing:
     - ../../backlinks/left and right wing sellarsians.yml
 ---
 
-[Rorty](/docs/phil/Richard Rorty.html) characterized the followers of [Sellars](/docs/phil/Wilfrid Sellars.html) as being left or right wing depending on which passage was found to be more insightful/fundamental to Sellars' thought.
+[Rorty](/docs/phil/people/Richard Rorty.html) characterized the followers of [Sellars](/docs/phil/people/Wilfrid Sellars.html) as being left or right wing depending on which passage was found to be more insightful/fundamental to Sellars' thought.
 
 | Wing      | Left | Right |
 |:-----------:|:-----------:|:---:|
-| Key passage      | [Scienta mensura](/docs/phil/Scienta mensura.html)        | [Space of reasons](/docs/phil/Space of reasons.html) | 
-| Examples | [Ruth Millikan](/docs/phil/Ruth Millikan.html), Jay Rosenberg | [Richard Rorty](/docs/phil/Richard Rorty.html), [Robert Brandom](/docs/phil/Robert Brandom.html) [John MacDowell](/docs/phil/John MacDowell.html) |
+| Key passage      | [Scienta mensura](/docs/phil/quotes/Scienta mensura.html)        | [Space of reasons](/docs/phil/quotes/Space of reasons.html) | 
+| Examples | [Ruth Millikan](/docs/phil/people/Ruth Millikan.html), Jay Rosenberg | [Richard Rorty](/docs/phil/people/Richard Rorty.html), [Robert Brandom](/docs/phil/people/Robert Brandom.html) [John MacDowell](/docs/phil/people/John MacDowell.html) |
 
 Sellars saw both aspects of his philosophy as essential.
 

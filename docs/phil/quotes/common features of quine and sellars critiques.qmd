@@ -1,0 +1,12 @@
+
+---
+title: Common features of Quine and Sellars critiques
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> The simplest way to describe the common features of Quine's and Sellars's attacks on logical empiricism is to say that both raise behaviorist questions about the epistemic privilege which logical empiricism claims for certain assertions, qua reports of privileged representations.
+
+ — [Philosophy and the Mirror of Nature](/docs/phil/works/Philosophy and the Mirror of Nature.html), Chapter 4

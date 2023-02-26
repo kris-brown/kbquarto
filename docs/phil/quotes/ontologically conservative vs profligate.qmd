@@ -1,0 +1,9 @@
+---
+title: Consequences of no distinction between descriptive and nondescriptive
+tags:
+- quote
+---
+
+> I need a distinction between ontologically *conservative* and ontologically *profligate* ways of theorising about language. Any way of theorising about language has some ontological commitments, of course—at the very  least, presumably, commitments to speakers, to speech acts of some kind, and to various environmental factors (e.g., to explain why such speakers produce such speech acts on certain occasions but not others). An ontologically conservative theory commits us to no more than this. Whereas—again putting the matter in Carnapian terms—an ontologically profligate theory also picks up the *internal* ontological commitments of the linguistic frameworks *theorised about*.
+
+— [One Cheer for Representationalism](/docs/phil/works/One Cheer for Representationalism.html), 10

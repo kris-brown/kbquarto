@@ -16,7 +16,7 @@ listing:
 
 A [dualism](/docs/phil/Dualisms.html).
 
-[Descartes](/docs/phil/René Descartes.html) had invented [representation](/docs/phil/Representation.html) but came to think of things things in the world to be divided into representeds (things) and representings (ideas).
+[Descartes](/docs/phil/people/René Descartes.html) had invented [representation](/docs/phil/Representation.html) but came to think of things things in the world to be divided into representeds (things) and representings (ideas).
 
 # Complaint about Cartesian dualism
 
@@ -27,7 +27,7 @@ A [dualism](/docs/phil/Dualisms.html).
   - How is the mind affected by real stuff / how can the mind cause something?
 
 # Cartesian minds as socially constructed
-This is the thesis of *[Incorrigibility as the Mark of the Mental](/docs/phil/Incorrigibility as the mark of the mental.html)*. Cartesian minds
+This is the thesis of *[Incorrigibility as the Mark of the Mental](/docs/phil/works/Incorrigibility as the mark of the mental.html)*. Cartesian minds
 are something that we created because we started to treat each other a certain 
 way.
 

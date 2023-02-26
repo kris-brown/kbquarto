@@ -1,0 +1,40 @@
+---
+title: Pragmatism and platonism
+tags:
+ - distinction
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/pragmatism and platonism.yml
+---
+
+Rorty takes for granted a distinction of [Dewey](/docs/phil/people/John Dewey.html):
+
+| platonism[^lo]      | pragmatism |
+| ----------- | ----------- |
+| Principles      | Practices       |
+| Theoria   | Phronesis        |
+| Knowing that | Knowing how |
+| Ending the conversation | Continuing the conversation |
+
+- Platonists look for a principle or rule, something explicit or that could be 
+  made explicit, behind every implicit propriety of practice.
+
+- [Pragmatists](/docs/phil/Pragmatism.html) argue that explicit principles or theories float on a vast sea of 
+  implicit practical skills.
+
+What's at stake: the order of explanation / conceptual priority between *principles* and *practices*.
+
+For example, a cobbler can make good shoes. The platonist looks for what form is 
+behind his mastery, what principle / mental representation makes it possible 
+that the cobbler does that? The pragmatist treats the skill as prior to the 
+principle.
+
+[^lo]: Lower case because it's not just Plato implicated here. Kant, too.
+
+Rorty sees [representationalism](/docs/phil/Representationalism.html) as the distinctly modern form of platonism as described above.

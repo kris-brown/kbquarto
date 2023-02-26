@@ -1,0 +1,19 @@
+---
+title: Phenomenalism
+tags: 
+ - work
+published: 1963
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/phenomenalism.yml
+---
+
+[Author](/docs/phil/people/Wilfrid Sellars.html)
+
+[-@sellars1963phenomenalism]

@@ -5,7 +5,7 @@ draft: true
 ---
 
 I think of the last sentence of 
-[this](/docs/phil/transposed language of norms.qmd)
+[this](/docs/phil/quotes/transposed language of norms.qmd)
 in the following way: the $\square$ operator can be applied to
 statements to make them *modal* (which could be alethic, deontic, or many other
 things like "Jones thinks that ..."). 

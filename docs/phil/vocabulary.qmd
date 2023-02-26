@@ -32,19 +32,19 @@ In mature sciences, a lot of work is taken to allow for discourse to proceed as 
 
 But it would be a serious mistake to take this extreme, artificial case to  be the paradigm on the basis of which we understand the use of language in general. 
 
-*Sometimes* we want to prevent the vocabulary from changing, [but not always](/docs/phil/Criteria as regress stopping.html).
+*Sometimes* we want to prevent the vocabulary from changing, [but not always](/docs/phil/quotes/Criteria as regress stopping.html).
 
 Rorty calls this process [Redescription](/docs/phil/Redescription.html).
 
 # Quantifying over all vocabularies
 
-This is a central fallacy of [platonists](/docs/phil/Pragmatism and platonism.html): this is not a determinate or determinable domain. (discursive practice is fundamentally plastic, as Wittgenstein [describes](/docs/phil/Tooth pain.html), so *at best* you'll get a snapshot of the current moment).
+This is a central fallacy of [platonists](/docs/phil/interaction/Pragmatism and platonism.html): this is not a determinate or determinable domain. (discursive practice is fundamentally plastic, as Wittgenstein [describes](/docs/phil/Tooth pain.html), so *at best* you'll get a snapshot of the current moment).
 
-One doesn't try to do this unless they are trying to permanently [end some philosophical conversation](/docs/phil/Pragmatism not atemporal.html) (by finding the final vocabulary).
+One doesn't try to do this unless they are trying to permanently [end some philosophical conversation](/docs/phil/quotes/Pragmatism not atemporal.html) (by finding the final vocabulary).
 
 Because each vocabulary gives rise to characteristic sorts of facts (e.g. physical facts, culinary facts, theological facts...) we also cannot quantify over all facts.[^tr]
 
-[^tr]: Contrast with [Tractatus](/docs/phil/Tractatus Logico-Philosophicus.html) 1.11: "The world is determined by the facts, and by these being *all* the facts."
+[^tr]: Contrast with [Tractatus](/docs/phil/works/Tractatus Logico-Philosophicus.html) 1.11: "The world is determined by the facts, and by these being *all* the facts."
 
 Rorty does quantify over all vocabularies insofar as he is a [declarativist](/docs/phil/Declarativism.html) - all vocabularies have something that plays the role of declarative sentences and thus can be interpreted as purportively fact-stating.
 

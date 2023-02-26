@@ -150,7 +150,7 @@ feel ridiculous to consider any alternative. However, there are issues:
   whether or not things 'actually exist'. Yet many everyday examples (e.g. 
   [witches](/docs/phil/referring to witches.qmd),
   [Pluto](/docs/phil/pluto.qmd),
-  [beauty](/docs/phil/sense dependence vs reference.qmd), and
+  [beauty](/docs/phil/interaction/sense dependence vs reference.qmd), and
   [sour acid](/docs/phil/sour acid.qmd)) show that 
   ordinary statements are not like this.
 

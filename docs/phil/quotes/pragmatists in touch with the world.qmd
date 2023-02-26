@@ -1,0 +1,13 @@
+---
+title: Pragmatists in touch with the world
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> Hans Blumenberg has argued that the Renaissance was a period in which people turned from eternity to futurity. This turn is the one which, in my view, is fully accomplished, in the area of philosophy, only by pragmatism. The de-eternalization of human hope had to wait four hundred years to become philosophically explicit. The representationalist tradition in philosophy which was dominant in those four hundred years hoped that inquiry would put us in touch, if not with the eternal, at least with something which, in Bernard Williams' phrase, "is there anyway" - something non-perspectival, something which is apart from human needs and interests. Pragmatists do not think inquiry can put us more in touch with non-human reality than we have always been, for the only sense of "being in touch" they recognize is causal interaction (as opposed to accurate representation).
+
+— [Pragmatism as Anti-Authoritarianism](/docs/phil/works/Pragmatism as Anti-Authoritarianism.html)
+
+- Making the [Reasons vs causes](/docs/phil/interaction/Reasons vs causes.html) distinction: we're causally in touch with the world. The question is: what's the normative significance of those causal interactions - what constraint does that put on our normative practices?

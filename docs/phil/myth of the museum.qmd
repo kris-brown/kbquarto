@@ -19,7 +19,7 @@ listing:
 meanings and the words are labels. To switch languages is to change the 
 labels.
 
-Against the museum myth, [Quine](/docs/phil/W.O. Quine.html) argues here for the indeterminacy 
+Against the museum myth, [Quine](/docs/phil/people/W.O. Quine.html) argues here for the indeterminacy 
 of "meaning" and translation.
 
 A (semantic) holist argument against meaning-givenness, like Sellars' 

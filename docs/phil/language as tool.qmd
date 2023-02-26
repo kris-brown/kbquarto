@@ -13,12 +13,11 @@ listing:
     - ../../backlinks/language as tool.yml
 ---
 
-Ooften falsely attributed to [Wittgenstein](/docs/phil/Ludwig Wittgenstein.html).[^1]
+Often falsely attributed to [Wittgenstein](/docs/phil/people/Ludwig Wittgenstein.html).[^1]
 
+[Dewey](/docs/phil/people/John Dewey.html), conversely, *does* endorse "language is a tool" and then complicates that by saying "it's the tool of tools".
 
-[Dewey](/docs/phil/John Dewey.html), conversely, *does* endorse "language is a tool" and then complicates that by saying "it's the tool of tools".
-
-[Rorty](/docs/phil/Richard Rorty.html) approves of the tool metaphor by contrast to the representational metaphor but [warning](/docs/phil/Language as coping.html) us that it can be stretched too far because we understand tools as means to an end. It's essential that we can specify what the goal is independently of what the means of achieving it are. There is no such analogue for language.
+[Rorty](/docs/phil/people/Richard Rorty.html) approves of the tool metaphor by contrast to the representational metaphor but [warning](/docs/phil/quotes/Language as coping.html) us that it can be stretched too far because we understand tools as means to an end. It's essential that we can specify what the goal is independently of what the means of achieving it are. There is no such analogue for language.
 
 Language lets us make an [indefinite](/docs/phil/Novel sentences.html) number of claims and make an indefinite number of plans - if a tool for anything, it's a tool for coming up with new goals, but that's not a goal it could be a tool for doing because there isn't any other way to do that, and no other way to specify what that is without talking about language. What it's good for can't be understood using the model of tools because the goal can't be specified independently of the means.
 

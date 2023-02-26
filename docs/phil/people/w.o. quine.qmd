@@ -1,0 +1,22 @@
+---
+title: W.O. Quine
+aliases: [Quine]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/w.o. quine.yml
+---
+
+W.O. Quine was an American philosopher (1908–2000).
+
+![](/images/headshots/quine.jpeg)
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/quine/)

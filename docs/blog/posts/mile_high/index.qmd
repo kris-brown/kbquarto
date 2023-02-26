@@ -72,7 +72,7 @@ For example, the following configuration highlighted in red is called a *coprodu
 is saying that, for any dot (call it $X$), if you have arrows $A\xrightarrow{f} X$ 
 and $B \xrightarrow{g} X$ then there exists a unique arrow $A+B \xrightarrow{!} X$
 (for which the path $A \xrightarrow{\iota_1,\ !} X$ is the same as $f$ and 
-$B \xrightarrow{\iota_2,\ !} X$ is the same as $g$). 
+likewise for $g$). 
 
 \begin{tikzcd}
 	& \textcolor{rgb,255:red,214;green,92;blue,92}{A+B} \\
@@ -90,7 +90,9 @@ cashes out to when we instantiate this pattern in various categories. For
 example, it can correspond to adding numbers together, or taking the union of a 
 Venn diagram, or getting the most recent common ancestor from a geneology chart,
 or, in the case of graphs, obtaining the graph that places graphs $A$ and $B$ 
-side-by-side. With [Catlab.jl](/https://algebraicjulia.github.io/Catlab.jl/latest/),
+side-by-side.[^cat] 
+
+[^cat]: With [Catlab.jl](/https://algebraicjulia.github.io/Catlab.jl/latest/),
 one can write programs at this level of abstraction, which has many practical 
 advantages, such as being able to reuse the same code in radically different 
 contexts as well as not needing to change one's code even when the underlying data 
@@ -116,7 +118,8 @@ have had thrown away so much information, and concretize them on the ground leve
 The resolution to this riddle is that there wasn't actually
 information loss when we moved to the mile-high view.[^2]
 
-[^1]: In many ways it's more like plumbing than magic, as David Spivak puts it.
+[^1]: In many ways, it's more like plumbing than magic, as 
+      [David Spivak](http://www.dspivak.net/) puts it.
 [^2]: This is true "up to isomorphism". The moment we turn our set of objects 
       into a category by 
       *picking* what it means to be a morphism, we are choosing what information 
@@ -124,14 +127,14 @@ information loss when we moved to the mile-high view.[^2]
       indistinguishable by their morphisms, i.e. how they relate to other objects,
       will appear identical from the mile-high view.
 
-Let's consider a concrete example from graphs. Let's say we wanted to recover 
+Let's consider a concrete example from graphs. Let's say we wanted to locate 
 the following graph, $T$, from the mile-high view.
 
 ![](omni/term.png)
 
 It turns out that this graph has a very special quirk. We want to know "How 
 many graph homomorphisms 
-are there from $G$ into $T$?" for *any* other graph $G$.  It turns out, no 
+are there from some arbitrary graph $G$ into $T$?" It turns out, no 
 matter how many vertices and 
 edges $G$ has, and no matter how those edges are connected, there is exactly 
 **one** graph homomorphism $G \rightarrow T$, because all of the vertices are mapped onto 
@@ -173,6 +176,6 @@ a subset of which is visualized below. Can you find it?
 In category theory lingo, this is called a *universal property*. Likewise, the 
 *coproduct* pattern described by the diagram in the previous section was also a 
 universal property. Category theory 
-tries to talk about things (being $T$, being the "sum" of two other things) 
+tries to talk about things (e.g. being $T$, being the "sum" of two other things) 
 purely based on these properties, which is why it 
 can do powerful reasoning in a subject-matter-agnostic way.

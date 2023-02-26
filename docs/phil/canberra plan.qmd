@@ -1,0 +1,22 @@
+---
+title: Canberra plan
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/canberra plan.yml
+---
+
+Led by Frank Jackson and David Chalmers.
+Fusing David Lewis' analytic metaphysics with naturalism (focusing on placement problems).
+
+> Once we note that this language is not in the business of “describing reality”, says the expressivist, the placement problem can be seen to rest on a category mistake.
+
+— [Expressivism for Two Voices](/docs/phil/Expressivism for Two Voices.html), 3
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/naturalism/#CanPla)

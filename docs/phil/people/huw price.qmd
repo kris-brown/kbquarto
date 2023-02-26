@@ -1,0 +1,25 @@
+---
+title: Huw Price
+aliases: [Price]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/huw price.yml
+---
+
+Huw Price is an Australian philosopher, born 1953.
+
+![](/images/headshots/price.jpeg)
+
+On the subject of representation, he places himself conceptually in between [Brandom](/docs/phil/people/Robert Brandom.html) and [Rorty](/docs/phil/people/Richard Rorty.html).
+
+> In according this kind of centrality to assertion, I’m one step closer to the orthodoxy than the view—arguably Wittgenstein’s, and perhaps Rorty’s—that even this much representationalism is too much: hence my one cheer for representationalism. But I am one step further from the orthodoxy than the view that Brandom appears at least tempted to adopt, which aims to build a substantial notion of representational content from expressivist and pragmatist raw materials.
+
+— [One Cheer for Representationalism](/docs/phil/works/One Cheer for Representationalism.html), 18

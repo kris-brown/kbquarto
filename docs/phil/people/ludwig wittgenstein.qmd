@@ -1,0 +1,34 @@
+---
+title: Ludwig Wittgenstein
+aliases: [Wittgenstein]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/ludwig wittgenstein.yml
+---
+
+An Austrian philosopher (1889-1951).
+
+![](/images/headshots/wittgenstein.jpeg)
+
+
+
+# Quotes
+
+## Language has no downtown
+A view attributed to Wittgenstein by Brandom: "Language has no downtown." / 
+"Language is a motley"
+
+- It's all suburbs. There's no part of it such that everything else is
+arrayed around it as a suburb of it.
+- Sellars disagrees: thinks the downtown is giving and asking for reasons.
+# External resources
+- [SEP](https://plato.stanford.edu/entries/wittgenstein/)
+

@@ -1,0 +1,11 @@
+---
+title: Philosophy and science
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> The very idea of "philosophy" as something distinct from "science" would make little sense without the Cartesian claim that by turning inward we could find ineluctable truth, and the Kantian claim that this truth imposes limits on the possible results of empirical inquiry. The notion that there could be such a thing as "foundations of knowledge" (all knowledge - in every field, past, present, and future) or a "theory of representation" (all representation, in familiar vocabularies and those not yet dreamed of) depends on the assumption that there is some such *a priori* constraint.
+
+ — [Philosophy and the Mirror of Nature](/docs/phil/works/Philosophy and the Mirror of Nature.html), Introduction

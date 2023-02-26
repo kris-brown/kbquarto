@@ -1,0 +1,12 @@
+
+---
+title: Mirror creates paradoxes
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> As long as knowledge is conceived of as accurate representing--as the Mirror of Nature--Quine's and Sellars's holistic doctrines sound pointlessly paradoxical, because such accuracy requires a theory of privileged representations, ones which are automatically and intrinsically accurate. So the response to Sellars on givenness and Quine on analyticity is often that they have "gone too far"-that they have allowed holism to sweep them off their feet and away from common sense.
+
+ — [Philosophy and the Mirror of Nature](/docs/phil/works/Philosophy and the Mirror of Nature.html), Chapter 4

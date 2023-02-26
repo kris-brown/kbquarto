@@ -1,30 +1,57 @@
 ---
-title: Value of extreme examples
-draft: true
+title: Using extreme examples
+subtitle: Use with extreme care
+categories: [🟠,random]
+draft: false
 ---
 
-Sometimes extreme examples are not appropriate, e.g. when an 
-emotionally-triggering example is used where an ordinary one would suffice. [^1]
+### Scenario 
+A company makes a mini magnet toy for kids. Each package it sells has hundreds 
+of tiny ball magnets.
 
+> Alice: It is morally condemnable for the company to report 
+  injuries in terms of injuries *per magnet* (1 in 22 million) instead of 
+  1 injury per 100,000 sets.
+>
+> Bob: I don't see anything wrong with it. The same information is provided, no matter the unit.
 
-[^1]: Furthermore, when you take an opponent's argument to unintended extremes, it 
-can be easily miscontrued that you actually think the opponent holds the
-extreme view (that you fail to have the basic social skill of recognizing that 
-a lot of communication is *implicit*). 
+One strategy Alice can use in this disagreement is an *extreme example*. One way 
+of making sense of how an extreme example functions:  
 
-But if you can avoid that miscontrual, then an extreme example can efficiently 
-cut to the heart of matters by getting the opponent to be *more explicit*. For 
-example there is an argument as to whether it is unethical for a company that 
-makes a mini magnet toy (which has hundreds of tiny ball magnets) to report 
-its injuries in terms of injuries per magnet (1 in 22 million) instead of 
-1 injury per 100,000 sets.
+| General case | This particular case |
+|--------------|----------------------|
+| Bob claims an explicit position $\phi$. Some casual / loose reasoning is all that's needed to be entitled to this, under normal circumstances. | $\phi$="It's not morally wrong to report in terms of injuries per atom" |
+| Alice suspects he derives $\phi$ from some bad principle $P$, which is the most natural way of making Bob's loose justification more precise. | $P$="As long as it has the same literal informational content, it's equal from a moral standpoint." |
+| $P$ is bad because it would also license one to make an absurd claim, $\bot$. | $\bot$="It's ok to report in terms of injuries per atom."| 
+| Bob is not entitled to use $P$ (and needs a more explicit reason to be entitled to $\phi$).| Bob needs to clarify why what the company did isn't morally wrong. | 
 
-Arguing against someone who says the first statistic is not inherently wrong, 
-one could say "Is it wrong to report injuries per atom sold?" It would be 
-cleaner to phrase this as "Why is it the case that you draw the line between 
-injury per magnet and injury per atom?" to avoid a misconception[^1]. 
+I see this kind of move very frequently when reading comment sections of all 
+sorts (a guilty pleasure). Often it's executed poorly.
 
-The fact that the atoms are inseparable from each other might be an explanation.
-This could be pushed to be that the atoms all come at once together makes it 
-deceptive to split them up for the purposes of the injury denominator. This can
-inform the injury per set vs injury per magnet debate. 
+### Inappropriate usage: two pitfalls
+
+**Edginess**: Alice uses an emotionally-triggering $\bot$, despite there being 
+plenty of other absurd consequences of $P$ that would suffice.
+
+> Alice: So you'd be fine if they said "The chance of a child's injury is less 
+than 1/1000 of the chance of dying in a school shooting"?
+
+**Patronizing**: Alice doesn't acknowledge that $P$ is something she is 
+   *hypothesizing* Bob endorses. Now it seems like she thinks Bob *actually believes* 
+   $\bot$, rather than merely that he's not 
+   entitled to $\phi$.
+
+> Alice: If you think that, then you wouldn't mind if they reported it in terms of injuries per atom sold! 
+> 
+> Bob: \*Feels completely misunderstood / insulted, becomes hostile\*
+ 
+### Appropriate usage
+
+We need a modification to the second scenario above in order avoid that pitfall: 
+
+- Ask "Would it be morally condemnable for the company to report injuries per 
+  atom sold?" and let Bob draw the distinction himself. However, even this could 
+  be perceived as accusing him of believing $\bot$, if Alice and Bob don't know 
+  or trust each other.
+- More diplomatic is presuming Bob doesn't believe $\bot$ by asking "Why is it 
+  the case that you'd draw the line between injury per magnet and injury per atom?"

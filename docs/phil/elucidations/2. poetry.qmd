@@ -1,0 +1,71 @@
+---
+title: 2. Poetry
+tags: 
+ - podcast
+ - RED
+subtitle: Gabriel Lear
+published: August 3, 2009
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/2. poetry.yml
+---
+
+[Elucidations](/docs/phil/elucidations/Elucidations.html): [Prev](/docs/phil/elucidations/1. Desire.html) [Next](/docs/phil/elucidations/3. Nietzsche and Morality.html)
+
+# What do we mean by poetry
+- Clarification: "poetry" to [Plato](/docs/phil/people/Plato.html) is more similar to what we call theatre
+  (performative context).
+- Plato thought he innovated the distinction between style and content:
+  - Distinguishing the story from the way the poet tells the story
+    - E.g. style could vary between 3rd person, 1st person narration for the 
+      same story
+
+# Effect of poetry
+- The effect of being exposed to poetry: one tries to be many things, instead of 
+  one thing.
+  - Background: Plato + [Aristotle](/docs/phil/people/Aristotle.html) 
+    both believed a good human life is unified
+    - A single goal, so you could say what it was about
+      - (they happened to think the best goal was contemplation of eternal 
+        truths).
+      - We share this intuition, though now we also praise people for having a 
+        variety of interests.
+        - How can you be a mother and a working professional at once?
+        - We would rather try to make the two identities compatible, rather than 
+          try to argue that people should be comfortable/adept at having 
+          multiple identities.
+    - What is the distinction between unity and diversity:
+      - A single person does many things (shoemaker has to cut leather, sew, 
+        negotiate, ...) and these are all ways of expressing a single identity 
+        (illusory multiplicity).
+      - Plato objects to the multiple identities.
+  - Also note: Plato not opposed to all poetry, since he thinks it is valuable 
+    in early moral development as a form of play.
+    - Rather, we should reform poetry to prevent it from encouraging 
+      multiplicity.
+
+- Example
+  - First you are Homer narrating, then you are Achilles, then you are Helen, 
+    etc.
+  - We come to enjoy being many people by being exposed to this.
+
+- When you seek to be many things, you are no particular thing at all.
+  - The single identity of 'a poet' is not a real identity.
+
+# Can we relate this to the modern condition
+- We have lots of fleeting/meaningless pleasure that is not actually satisfying 
+  (we have to keep varying things to keep interested). Was Plato predicting the 
+  emptiness of contemporary society and shallowness of popular culture?
+- Plato's remedy is austere: the only goal capable of having the stability of 
+  unifying a life is pursuit of reason. (Not incompatible with modern 
+  conceptions of the good life, for theists or academic-minded people).
+- Plato offers valid criticism of entertainment and high culture, but he 
+  underestimates the value of certain kinds of play. He didn't see that we play 
+  not at things we want to become, but also things we're afraid of or want to 
+  learn about.

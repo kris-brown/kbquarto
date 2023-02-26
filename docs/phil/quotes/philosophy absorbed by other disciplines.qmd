@@ -1,0 +1,11 @@
+---
+title: Philosophy absorbed by other disciplines
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> Driven by the need to find something to be apodictic about, Russell discovered "logical form" and Husserl discovered "essences," the "purely formal" aspects of the world which remained when the non formal had been "bracketed." The discovery of these privileged representations began once again a quest for seriousness, purity, and rigor, a quest which lasted for some forty years. But, in the end, heretical followers of Husserl (Sartre and Heidegger) and heretical followers of Russell (Sellars and Quine) raised the same sorts of questions about the possibility of apodictic truth which Hegel had raised about Kant. Phenomenology gradually became transformed into what Husserl despairingly called "mere anthropology," and "analytic" epistemology (i.e., "philosophy of science") became increasingly historicist and decreasingly "logical" (as in Hanson, Kuhn, Harre, and Hesse). So, seventy years after HusserI's "Philosophy as Rigorous Science" and Russell's "Logic as the Essence of Philosophy," we are back with the same putative dangers which faced the authors of these manifestoes: if philosophy becomes too naturalistic, hard-nosed positive disciplines will nudge it aside; if it becomes too historicist, then intellectual history, literary criticism, and similar soft spots in "the humanities" will swallow it up.
+
+ — [Philosophy and the Mirror of Nature](/docs/phil/works/Philosophy and the Mirror of Nature.html), Chapter 4

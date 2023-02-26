@@ -1,0 +1,79 @@
+---
+title: Reconciling with Realism
+subtitle: \"Yes, there really is a chair in the room, but...\"
+categories: [🟠, phil]
+draft: false
+---
+
+It's bad to not be a realist, i.e. to deny truth and reality. It's also easy 
+to be misidentified as an irrealist when one denies Truth and Reality, 
+where the capital letters intend to convey certain *extra* collateral beliefs 
+the capital-R Realist has about the 
+nature of truth and reality, beliefs which are controversial.
+
+What would drive a Realist to point at a chair and frustratedly assert to me 
+that it exists, thinking 
+that this somehow should discomfort me? I believe this follows from a sort of
+confusion between *causation* and *explanation*.
+
+I agree that, in the world (of natural science), 
+the chair exists (independently of any sentient beings). However, just 
+like for [beauty](/docs/phil/interaction/sense dependence vs reference.qmd), 
+there is a *sense* dependence of "the chair's existence" on a community of 
+speakers: one can't understand what it *means* for the chair to exist without 
+understanding something about how a group of sapient beings communicate. This is 
+a matter of *explanation*. The pragmatist evades talk 
+about independent Truth or Reality, not because they are denied wholesale, but just because they aren't fit to do any explanatory work.
+
+Claim: "Does such-and-such exist?" is not a meaningful question on its own. [^1] 
+
+- "Do winged horses exist?" (no, not in the world of natural science)
+- "Do numbers exist?" (yes, abstractly)
+- "Does Sherlock Holmes exist?"  (yes, fictionally)
+- "What about Sherlock's materal great grandmother?" (yes, fictionally, but only in a broader 
+  sense than above; although she is not mentioned, she is implied)
+
+These questions can all straightforwardly be answered as long as we include a 
+qualifier: we must include (implicitly or explicitly) something related to human aims 
+or standards in order to make the 
+question intelligible. These all produce different 'kinds' of existence. But the 
+Realist might reject the above claim by asserting one 'kind' of existence is 
+more fundamental than all the 
+others, e.g. some sort of idealized natural science adjudicates what is Real. [^g1]
+
+[^g1]: Analogously, we say actions are "good for you" or 
+"good for the fox, bad for the rabbit", etc. Yet there is also a temptation
+to have a notion of "good" 
+simpliciter, i.e. the Good, unconditionally. I feel a special kind of 
+argument would be required to assimilate all the commonsense *good for*'s into a 
+divine Good simpliciter.
+
+So what special kind of argument might the Realist offer for an unqualified notion, 'Exists'? 
+You might feel it's required in order to show appropriate deference to natural science, 
+which uncontroversially is a successful enterprise. But
+[subject naturalism](/docs/phil/object naturalism and subjective naturalism.qmd) 
+shows how there is a way to be respectful to science that does not require us 
+to postulate 'Exists'.
+
+If the Realist wants me to join in on 'Exists'-talk, he should say why I 
+should care about it (what can he *do* with that 
+concept that I cannot?).[^x] I currently acknowledge *just one* special thing he can do with it: 
+performing a kind of rhetorical slight-of-hand. 
+Here is how it works: when everyone is being extra careful, we can appreciate the difference 
+between us positing something exists and the kind of Existence that only idealized, 
+godlike scientists could certify. However, in real dialogue, this extra 
+hypothesis (that it only exists in this far-fetched limit-of-inquiry 
+sense) gets lost in the cracks, giving the speaker more authority than would 
+otherwise be granted. [^g2]
+
+[^g2]: Likewise, I think a good person can get through life without a notion of the 
+Good. In a moral disagreement, such a person must resort to reasoning about the 
+messy tradeoffs of types of good. One appeals to the Good when one wants to take 
+advantage of its fundamental ambguity / underspecification, sidestepping 
+talk of "for what?".
+
+[^1]: Made by Robert Brandom in a lecture on Wilfrid Sellars (09/10/14)
+
+[^x]: Also I'd want to know how the Realist makes sense of puzzles 
+      like [witches](/docs/phil/referring to witches.qmd),
+      [Pluto](/docs/phil/pluto.qmd), and [sour acid](/docs/phil/sour acid.qmd).

@@ -1,0 +1,27 @@
+---
+title: Expressions as explanations
+tags: 
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/expressions as explanations.yml
+---
+
+[Author](/docs/phil/people/Wilfrid Sellars.html)
+
+> To make firsthand use of modal expressions / subjunctive conditionals, is to
+be about the business of explaining a state of affairs or justifying an
+assertion. 
+
+—  [Counterfactuals, Dispositions, and the Causal Modalities](/docs/phil/works/Counterfactuals, Dispositions, and the Causal Modalities.html) §80
+
+
+Keep in mind the "argument types" of explanation and justification.
+- We *explain* an (actual) state of affairs. 
+- We *justify* an assertion (non-actual, in the space of reasons).

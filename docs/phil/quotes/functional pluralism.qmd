@@ -1,0 +1,9 @@
+---
+title: Functional pluralism
+tags:
+ - quote
+---
+
+> The second hopeful sign for Deweyan optimists, in my view, is the persistence, within the borders of representationalism, of a series of breakaway movements—each contending that the representationalist framework claims no proper dominion over some *local* region of its apparent territory, and offering an alternative, ‘expressivist’, account of the region in question. While most of these breakaway movements are (perhaps hopelessly) local in their ambitions, I think that the threat they pose collectively is substantial (and underrated). I’ll call it the threat of *functional pluralism*: a challenge to the homogeneity of the representationalist empire. Interpreted in this optimistic light, these breakaway views do locally what Wittgenstein did globally. They challenge the assumption that language has a single core function, viz., to ‘represent how things are’.
+
+— [One Cheer for Representationalism](/docs/phil/works/One Cheer for Representationalism.html), 2

@@ -1,0 +1,21 @@
+---
+title: Wittgenstein on Rules and Private Language
+aliases: [Kripkenstein]
+tags: 
+ - work
+author: Saul Kripke
+published: 1982
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/wittgenstein on rules and private language.yml
+---
+
+[Author](/docs/phil/people/Saul Kripke.html)
+
+[-@kripke1982wittgenstein]

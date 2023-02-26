@@ -1,0 +1,78 @@
+---
+title: Open systems, open-system-mindedness
+categories: [🔴, math, phil]
+draft: true
+---
+
+There are many instances of "closed system" modeling that can be generalized 
+to "open system" modeling. 
+
+E.g. chemical reaction networks, open electrical circuits, Hamiltonian mechanics 
+vs Port hamiltonian systems, open Markov processes.
+
+This, in general, is strictly more difficult. However, there is a longer term payoff: you 
+can model subsystems and compose them into larger ones. From 
+[Owen Lynch](https://owenlynch.org/)'s thesis:
+
+> When we explicitly model the environment to create a closed
+system, we lose the ability to compose the model that we have made with other
+models of the environment. This is the key feature of open systems: open
+systems are most naturally discussed in a compositional framework where
+one can “glue” two open systems together along a part of their boundary.
+
+
+There is exactly one scenario where there is no payoff to thinking in terms of 
+open systems: you have a *complete* 
+model, without ever considering extending or modifying it. 
+
+This is analogous to a certain view of truth, call it closed truth or Truth. It takes 
+there to be an objective world which is the authority to the propertiety of all 
+judgments. The pragmatist does not think this is a useful idea - it can't 
+do any explanatory work. The pragmatist gets by without appealing to Truth. There 
+are different accounts of how to make sense of truth (Peirce's limit of inquiry, 
+James' good in the way of belief, Brandom's social interaction characterization, 
+Price's truth as convenient friction), although Rorty himself advocated that 
+it's an irredeemable concept; we'd be better off by changing the subject 
+(e.g. to justification).
+
+This is related to Rorty's characterization 
+of [pragmatism vs traditonal philosophy](/docs/phil/interaction/pragmatism and platonism.qmd): 
+the latter seeks knowledge to end the conversation, the former seeks to continue it.
+
+
+Non-monotonic logic as an open generalization of classical logic. This can be 
+seen in the case of databases and the "[closed-world](https://plato.stanford.edu/entries/logic-nonmonotonic/#ClosWorlAssu)" 
+assumption. Non-monotonic reasoning is used when we do not want to assume that 
+the database we are querying is complete.
+
+There is an infinitely-mutual recursion between open systems and closed system
+thinking, the same way there is an open and closed system way of talking about 
+truth. 
+
+1. 
+ - For any open system, the closed-system-minded person might say "well there must be some closed system
+that subsystem is in!". The open-system-minded person need not deny this. But 
+they don't think it is relevant or interesting.  
+ - Likewise, any closed system can be thought of as an open system with an empty boundary. 
+
+2. 
+ - In the case of Truth, the closed-system-minded person might say "The speakers who 
+  lead to 'truth' as a social phenomenon, don't they Really exist? Isn't it True that 
+  there are speakers engaging in such-and-such language game?". The open-minded-person 
+  need not deny this. But they don't hink it's relevant or interesting.
+ - Likewise, any notion of Truth will be articulated in some conceptual machinery, 
+   which has its semantics inextricably rooted in social practice.
+
+Neither side is *technically wrong*. One side is a germane to practicioners with 
+finite and falliable reasoning. Drawing credibility from a closed model that 
+unexplicitly assumes it is total is one way of gaining argumentative power without 
+having to do the real work.
+
+
+# ideas from owen/david 2/24
+David's Mereology paper: open system has a class of behaviors that is not causal. Willems thinks of systems as "time domain, space domain, system specifies subset of paths in spacetime domain". Think of that as causal if you can solve the initial value condition.
+
+Open systems: I know some constrainst about my future behavior, but don't know my future behavior.
+
+1st law of thermo: equality
+2nd law of thermo; inequality (it doesn't specify behavior, it just constrains)

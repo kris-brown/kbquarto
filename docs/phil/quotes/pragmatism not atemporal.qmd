@@ -1,0 +1,20 @@
+---
+title: Pragmatism not atemporal
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/pragmatism not atemporal.yml
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> Pragmatists follow Hegel in saying that "philosophy is its time grasped in thought." Anti-pragmatists follow Plato in striving for an escape from conversation to something atemporal which lies in the background of all possible conversations.
+
+ — [Pragmatism, Relativism, and Irrationalism](/docs/phil/works/Pragmatism, Relativism, and Irrationalism.html)

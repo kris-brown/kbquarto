@@ -22,4 +22,4 @@ A consequence of this theory is that we have observational access to acids.
 Nevertheless, if we eventually find something that tastes sour that turns litmus paper blue, then it will have turned out there never existed any acids (according to that theory), *even though 
 we could observe them* (or had every reason to believe we could).
 
-This situation is one of many that aims to break down the [objective/subjective](/docs/phil/Objective and subjective facts.html) distinction, related to sorting things into "things that are real/observble/concrete" vs "things that are made-up/theoretical/mere ideas".
+This situation is one of many that aims to break down the [objective/subjective](/docs/phil/Objective and subjective facts.html) distinction, related to sorting things into "things that are real/observable/concrete" vs "things that are made-up/theoretical/mere ideas".

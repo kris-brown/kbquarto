@@ -32,4 +32,4 @@ N[Paul Natorp] --> EC
 
 # A weaker sense
 
-Rorty uses the term neokantian to assimilate all philosophers who share Kant's attitude of the [Relation of philosophy to other disciplines](/docs/phil/Relation of philosophy to other disciplines.html).
+Rorty uses the term neokantian to assimilate all philosophers who share Kant's attitude of the [Relation of philosophy to other disciplines](/docs/phil/interaction/Relation of philosophy to other disciplines.html).

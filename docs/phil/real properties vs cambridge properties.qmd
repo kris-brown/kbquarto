@@ -13,7 +13,7 @@ listing:
     - ../../backlinks/real properties vs cambridge properties.yml
 ---
 
-A distinction coined by Geach and employed by realists like [David Lewis](/docs/phil/David Lewis.html).
+A distinction coined by Geach and employed by realists like [David Lewis](/docs/phil/people/David Lewis.html).
 
 If one is committed to there being an ontologically-privileged vocabulary (i.e. the world really comes in terms of objects and properties, and there is something like Nature's own vocabulary which lists the real objects and real properties), then it is important to contrast this with made-up properties dreamt up by philophers in Cambridge.
 

@@ -1,0 +1,92 @@
+---
+title: 13. Judgment aggregation
+tags: 
+ - podcast
+ - RED
+subtitle: Fabrizio Cariani
+published: July 9, 2010
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/13. judgment aggregation.yml
+---
+
+[Elucidations](/docs/phil/elucidations/Elucidations.html): [Prev](/docs/phil/elucidations/12. Contextualism.html) [Next](/docs/phil/elucidations/14. Skepticism.html)
+
+# What is it?
+- A formal theory characterizing various ways to combine individual beliefs into 
+  collective beliefs
+- What could it mean for a group to have beliefs over and above the beliefs of 
+  the individuals?
+- We ascribe beliefs in order to interpret actions/decisions based on reasons
+    - Groups act and make decisions based on reasons, so it seems reasonable to 
+      think that we can ascribe beliefs to groups
+- The group beliefs are uniquely determined by the individuals' beliefs, but it 
+  may not be identical to any of the individuals.
+    - Example: condo asssociation where 50% believe $A$ and 50% not $A$. Maybe 
+      it's reasonable to ascribe an indeterminate belief towards $A$, but none 
+      of the individuals is indeterminate.
+
+# Importance
+This is important because we want to know how we should revise our beliefs due 
+to a group testimony.
+
+# Proposal - rule by majority
+What if we say the 'group believes' what the majority of the group believes?
+- Problem: majorities are not consistent over multiple beliefs IF the beliefs 
+  are logically connected.
+    - 51% of people believe $P$, 51% believe $Q$, 1% believe $P\land Q$.
+    - Under this proposal, the majority has inconsistent beliefs (and therefore 
+      believes everything)
+- Real example:
+    - German politicians voted on the the three propositions:
+      - Should Berlin or Bohn be the capital?
+      - Should the parliament be in Berlin or Bohn?
+      - Should the capital be where parliament is?
+
+# Alternatives
+
+- Supermajority:
+    - If you construct threshold carefully enough, you can guarantee consistency
+      - With $P\land Q$ example, you need 2/3.
+- Determine ahead of time, determine what are most important (logically 
+  independent) propositions, use inference to determine the rest of 
+  propositions.
+- Research in the field isn't really about finding specific alternatives:
+    - Actual goal: formalize the desiderata and find out which sets of 
+      constraints are compatible with each other.
+
+
+# Independence constraint
+
+- Mathematically provable that we can't satisfy a bunch of desiderata 
+  simultaneously.
+- However, one particular constraint both causes a lot of problems and really 
+  isn't that justified: the independence constraint
+- The collective belief on a particular proposition is uniquely determined by 
+  opinions of the members of the group on that belief alone.
+  - Our intuitive sense of collective belief is sensitive to the reasons for 
+    belief.
+    - Example:
+      - Two panels: all believe that government and parliament should be in same 
+        city, also all believe it should be in Berlin. Other is split on which 
+        city things should be on, but all believe it should be in same city.
+      - Independence would say that both panels agree 'equally' on whether 
+        government+parliament should be in same city.
+      - Intuitively we know that the second group has undermining/inconsistent 
+        reasons for their agreed-upon belief, so their aggregate belief should 
+        be strictly weaker than first panel.
+  - Independence is usually involved in the unsatisfiable subsets of 
+    constraints.
+
+# Conclusion
+- In practice, we recognize different judgment aggregation strategies are 
+  appropriate in different scenarios
+  - But this isn't a satisfying resolution in itself; we need to better 
+    understand what makes certain desiderata appropriate for a given situation.
+    

@@ -15,7 +15,7 @@ listing:
 
 Redescription is what produces new [vocabularies](/docs/phil/Vocabulary.html).
 
-The process that produces redescriptions is *conversation*. [Conversation](/docs/phil/Pragmatism not atemporal.html) is about redescribing our vocabulary as much as using it. This is the same conversation that [platonists](/docs/phil/Pragmatism and platonism.html) try to end and pragmatists try to continue.
+The process that produces redescriptions is *conversation*. [Conversation](/docs/phil/quotes/Pragmatism not atemporal.html) is about redescribing our vocabulary as much as using it. This is the same conversation that [platonists](/docs/phil/interaction/Pragmatism and platonism.html) try to end and pragmatists try to continue.
 
 # Examples
 

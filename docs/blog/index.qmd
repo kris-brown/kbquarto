@@ -16,21 +16,27 @@ comments: false
 ---
 
 The purpose of things written here is mostly to separate the things written in 
-[Notes](/docs/notes.qmd) (which are written from a somewhat neutral / 
-encyclopedic style) 
+[Notes](/docs/notes.qmd) (which are written from a somewhat neutral perspective) 
 from stuff that is more opinionated. The primary types of things I expect to 
 write are:
 
+- simple and ordinary thoughts / opinions (I want 
+  practice being able to express these lucidly)
 - connecting the dots between various things written in the Notes 
 - expository material about content in the Notes and in 
   [Research](/docs/research.qmd)
-- opinions / random thoughts / personal updates 
 
-There are a few draft posts pending, but in the meantime here are two 
-research-related posts I made to the 
+Here are two posts I made to the 
 [AlgebraicJulia blog](https://www.algebraicjulia.org/blog/):
 
 - [Equality vs equivalence: computing isomorphism classes of C-sets](https://www.algebraicjulia.org/blog/post/2022/01/cset-automorphisms/)
 - [The chase: data repair and logical reasoning](https://www.algebraicjulia.org/blog/post/2022/06/chase/)
 
-{{< include ../_wip.md >}}
+There are many drafts pending:
+
+- AI (and the difference between sentience and sapience)
+- Inferentialism and category theory
+- Open systems, open-system-mindedness
+- On *Achilles and the Tortoise*
+- Making sense of an objective vocabulary
+- What is Catlab?

@@ -1,0 +1,20 @@
+---
+title: Elucidations
+tags: 
+ - podcast
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/elucidations.yml
+---
+
+[Matt Teichman](https://home.uchicago.edu/~teichman/about.html) hosts a great podcast, [Elucidations](https://elucidations.vercel.app/), which features ~30 min interviews with philosophy professors about their work.
+
+```query
+tag:elucidations
+```

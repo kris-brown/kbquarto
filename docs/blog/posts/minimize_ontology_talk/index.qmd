@@ -14,7 +14,7 @@ listing:
     - ../../../../backlinks/docs/blog/posts/minimize_ontology_talk/index.yml
 ---
 
-*This is essentially a rehash of various bits of [Rorty](/docs/phil/richard rorty.qmd) that were floating in my head, sort of put into my own words.*
+*This is essentially a rehash of various bits of [Rorty](/docs/phil/people/richard rorty.qmd) that were floating in my head, sort of put into my own words.*
 
 [Ontology](/docs/phil/ontology.qmd) (the theory of what really is, 
 or the what is there 'objectively') 

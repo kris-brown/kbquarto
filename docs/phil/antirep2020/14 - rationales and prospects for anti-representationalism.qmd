@@ -1,0 +1,18 @@
+---
+title: 14 - Rationales and Prospects for Anti-Representationalism
+aliases: [rorty14]
+tags:  
+- lecture
+- STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/14 - rationales and prospects for anti-representationalism.yml
+---
+
+[Author](/docs/phil/people/Robert Brandom.html) [Prev](/docs/phil/antirep2020/13 - Global or Local Expressivism? The Current State of Play.html)

@@ -32,4 +32,4 @@ What's philosophically interesting about this?
     - This is related to distinction of pattern-governed vs rule-obeying 
       behavior [-@sellars1954some]. Ruth Milliken, Sellars' student, devotes her 
       career to this, developing the field of [teleosemantics](/docs/phil/Teleosemantics.html)and writing about 
-      it in [Language, Thought, and Other Biological Categories](/docs/phil/Language, Thought, and Other Biological Categories.html).
+      it in [Language, Thought, and Other Biological Categories](/docs/phil/works/Language, Thought, and Other Biological Categories.html).

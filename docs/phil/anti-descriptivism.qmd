@@ -12,10 +12,10 @@ Opposition to [descriptivism](/docs/phil/Descriptivism.html).
 
 Relevant figures:
 
-- [Saul Kripke](/docs/phil/Saul Kripke.html)
-- [Hilary Putnam](/docs/phil/Hilary Putnam.html)
-- [David Kaplan](/docs/phil/David Kaplan.html)
-- [Wilfrid Sellars](/docs/phil/Wilfrid Sellars.html)
+- [Saul Kripke](/docs/phil/people/Saul Kripke.html)
+- [Hilary Putnam](/docs/phil/people/Hilary Putnam.html)
+- [David Kaplan](/docs/phil/people/David Kaplan.html)
+- [Wilfrid Sellars](/docs/phil/people/Wilfrid Sellars.html)
 
 Topics:
 

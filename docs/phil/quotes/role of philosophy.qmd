@@ -1,0 +1,17 @@
+---
+title: Role of philosophy
+tags: 
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> 1.  Philosophy as a discipline...sees itself as the attempt to underwrite or debunk claims to knowledge made by science, morality, art, or religion.  
+> 2. It purports to do this on the basis of its special understanding of the nature of knowledge and of mind.  
+> 3. Philosophy can be foundational in respect to the rest of culture because culture is the assemblage of claims to knowledge, and philosophy adjudicates such claims.
+> 4. It can do so because it understands the foundations of knowledge, and it finds these foundations in a study of man-as-knower, of the "mental processes" or the "activity of representation" which make knowledge possible. 
+> 5. To know is to represent accurately what is outside the mind; so to understand the possibility and nature of knowledge is to understand the way in which the mind is able to construct such representations.
+> 6.  Philosophy's central concern is to be a general theory of representation,
+> 7.  A theory which will divide culture up into the areas which represent reality well, those which represent it less well, and those which do not represent it at all (despite their pretense of doing so).
+
+— [Philosophy and the Mirror of Nature](/docs/phil/works/Philosophy and the Mirror of Nature.html),  Introduction

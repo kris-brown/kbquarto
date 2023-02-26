@@ -1,0 +1,27 @@
+---
+title: Grenzbegriff
+tags:
+ - quote 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/grenzbegriff.yml
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> In the final sentence of his book, Putnam says that, "The very fact that we speak of our different conceptions as different conceptions of rationality posits a Grenzbegriff, a limited-concept of ideal truth." But what is such a posit supposed to do, except to say that from God's point of view the human race is heading in the right direction?...
+>
+> To say that we think we're heading in the right direction is just to say, with Kuhn, that we can, by hindsight, tell the story of the past as a story of progress. To say that we still have a long way to go, that our present views should not be cast in bronze, is too platitudinous to require support by positing limit-concepts. So it is hard to see what difference is made by the difference between saying "there is only the dialogue" and saying "there is also that to which the dialogue converges."
+> 
+> Positing *Grenzbegriffe* seems merely a way of telling ourselves that a nonexistent God would, if he did exist, be pleased with us. If we could ever be moved solely by the desire for solidarity, setting aside the desire for objectivity altogether, then we should think of human progress as making it possible for human beings to do more interesting things and be more interesting people, not as heading toward a place that has somehow been prepared for humanity in advance. Our self-image would employ images of making rather than finding, the images used by the Romantics to praise poets rather than the images used by the Greeks to praise mathematicians.
+
+— [Solidarity or Objectivity](/docs/phil/works/Solidarity or Objectivity.html)
+
+# Related 
+[Truth as the limit of inquiry](/docs/phil/Truth as the limit of inquiry.html)

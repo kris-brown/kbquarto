@@ -1,0 +1,26 @@
+---
+title: Labels vs describing
+tags: 
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/labels vs describing.yml
+---
+
+[Author](/docs/phil/people/Wilfrid Sellars.html)
+
+> It's only because the expressions in terms of which we describe 
+objects, locate those objects in a space of implications that they describe it 
+all rather than merely label. 
+
+—  [Counterfactuals, Dispositions, and the Causal Modalities](/docs/phil/works/Counterfactuals, Dispositions, and the Causal Modalities.html) §108
+
+- Describing is what science is the measure of all things about.
+- You can't do everything with just classification. It's not a rich enough 
+  concept to get you to descriptions.

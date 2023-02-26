@@ -3,6 +3,7 @@ title: Regulism, regularism
 categories: phil
 draft: true
 ---
+
 I also see prescriptivism and descriptivism (in linguistics) in Sellars' 
 distinction in [Some Reflections on Language Games](/docs/phil/Some reflections on language games.html) 
 between [regulism vs regularism](/docs/phil/02 - inference and meaning and language games (2009).html#some-reflections-on-language-games).

@@ -1,0 +1,41 @@
+---
+title: E-Representation and I-Representation
+tags: 
+- concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/e-representation and i-representation.yml
+---
+A distinction made by [Huw Price](/docs/phil/people/Huw Price.html).
+
+> e-Representation: On the one hand, we have the environment-tracking paradigm of representation, dependent on such notions as covariation and ‘indication relations’ (Field 1994) – think of examples such as the position of the needle in the fuel gauge and the level of fuel in the tank, the barometer reading and air pressure and so on. In these cases, the crucial idea is that some feature of the representing system either does, or is (in some sense) ‘intended to’, vary in parallel with some feature of the represented system. (Usually, but perhaps not always, the covariation in question has a causal basis.) In biological cases, for example, this notion gives priority to the idea that the function of a representation is to covary with some (typically) external environmental condition: it puts the system–world link on the front foot.
+> 
+> i-Representation: On the other hand, we have a notion that gives priority to the internal functional role of the representation: something counts as a representation in virtue of its position or role in some cognitive or inferential architecture. Here it is an internal role of some kind – perhaps causal–functional, perhaps logico-inferential, perhaps computational – that takes the lead. 
+
+— [Two Expressivist Programmes, Two Bifurcations](/docs/phil/Two Expressivist Programmes, Two Bifurcations.html), 36
+
+
+
+> If we consider the notion of a representation (type or token), as it is used in cognitive science and contemporary philosophy of language and mind, I think we can usefully distinguish two nodes, around which the various uses tend to cluster. One node gives priority to system–world relations. It stresses the idea that the job of a representation is to covary with something else – typically, some external factor, or environmental condition. The other node gives priority to the internal role of a representation, in a network of some kind. A token counts as a representation, in this sense, in virtue of its position, or role, in some sort of functional or inferential architecture – in virtue of its links, within a network, to other items of the same general kind. I develop this distinction at greater length in Price (2008b), calling the two notions e-representation and i-representation, respectively.
+
+— [Expressivism for Two Voices](/docs/phil/Expressivism for Two Voices.html), 15
+
+> Although all declarative claims are representational in an internal sense – a sense to be characterised in Brandom’s inferentialist terms – they are not all representational in the external sense. In other words, there is a distinction to be drawn, within this class of genuine i- representations, between those that are e-representations and those that are not. The latter part of this claim makes some sense of the intuitions underlying the Bifurcation Thesis
+
+— [Expressivism for Two Voices](/docs/phil/Expressivism for Two Voices.html), 16
+
+# Relation to bifurcation thesis
+
+> The two notions have their origins in two distinct notions of representation. The former belongs in a particular (normative, inferentialist) version of the systemic-functional notion, which characterises representations in terms of their roles in networks of various kinds. The latter belongs with notions of representation as environmental covariance. My new [bifurcation thesis](/docs/phil/Bifurcation Thesis.html) claims that these are not two competing accounts of a single species of representation but two quite different beasts; and that it is this fact, not the old bifurcation thesis, that is the key distinction that expressivists need to make their project run smoothly.
+
+— [Two Expressivist Programmes, Two Bifurcations](/docs/phil/Two Expressivist Programmes, Two Bifurcations.html), 38
+
+> So long as we restrict ourselves to the vocabulary associated with the i-representational level, in other words, we should not expect to be able to formulate any remnant of the old bifurcation thesis.
+
+— [Two Expressivist Programmes, Two Bifurcations](/docs/phil/Two Expressivist Programmes, Two Bifurcations.html), 39

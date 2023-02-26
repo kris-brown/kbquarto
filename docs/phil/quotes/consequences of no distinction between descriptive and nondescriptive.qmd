@@ -1,0 +1,9 @@
+---
+title: Consequences of no distinction between descriptive and nondescriptive
+tags:
+- quote
+---
+
+> Blackburn has even canvassed sympathetically the idea that there is no distinction between the descriptive and the nondescriptive. There are two ways to read the implications of this suggestion for representationalism: either it amounts to a global rejection of representationalism, a way of saying *globally* what expressivists and noncognitivists usually say *locally*. Or it saves representationalism, but at the cost of stripping it of all theoretical content—of deflating the notion so much that it no longer plays any role in our theorising about the relationship of language and thought to the world. But it is hard to see how either reading differs significantly from Rorty’s rejection of representationalism.
+
+— [One Cheer for Representationalism](/docs/phil/works/One Cheer for Representationalism.html), 5

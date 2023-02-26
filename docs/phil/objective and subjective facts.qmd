@@ -14,7 +14,7 @@ listing:
     - ../../backlinks/objective and subjective facts.yml
 ---
 
-{{< include "Pragmatism as denying some distinctions.qmd" >}}
+{{< include "/docs/phil/quotes/pragmatism as denying some distinctions.qmd" >}}
 
 These are all just statements in vocabularies. Without privileging a "*nature*'s own vocabulary."
 
@@ -26,7 +26,7 @@ In neither case do you need to worry about what makes such-and-such statement in
 ==This is a very category-theoretic insight: that it is sufficient to look at the interactions to recover what before was taken as an ontological difference==
 
 # Antibifurcationism
-Anti-bifurcationism was coined by [Huw Price](/docs/phil/Huw Price.html) to reject the following view.
+Anti-bifurcationism was coined by [Huw Price](/docs/phil/people/Huw Price.html) to reject the following view.
 
 Richard Kraut writes:
 

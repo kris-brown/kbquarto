@@ -1,0 +1,19 @@
+---
+title: Beautiful and sublime
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> The sublime is unrepresentable, undescribable, ineffable...The beautiful harmonizes finite things with other finite things. The sublime escapes finitude,and therefore both unity and plurality. 
+> ...
+> Plato's Idea of the Good is of something sublimely admirable. The Christian Idea of Sin is of something sublimely evil. The romance of Platonism, and of the Beatific Vision, is of something unspeakably precious--something which even Homer or Dante can never hope to capture. The romance of Radical Evil is the romance of something unspeakably depraved, something utterly different from mere failure to make the right choice. It is the deliberate willingness to turn away from God. 
+> ...
+> Not all religions require sublimity, but orthodox Christian theology—the religious discourse which has dominated the West—has always brushed aside the finitely beautiful and the finitely ugly, the finitely benevolent and the finitely vicious, in favor of the infinite distance between us and the non-human being whom we vainly attempt to imitate. This theology borrowed its imagery from Greek philosophy's attempt to abstract from finite human purposes. Carpenters and painters, politicians and merchants, calculate finite means to finite ends. Philosophy, the Greeks said, must transcend such ends. 
+> ...
+> The epistemological, subjectivist, twist which Descartes gave philosophy produced a new version of the Sublime. This was the infinite, abyssal, unbridgeable gap between our pragmatic minds or jerrybuilt languages and Reality As It Is In Itself.
+> ...
+> The philosophical views sketched in these lectures offer a way of thinking about the human situation which abjures both eternity and sublimity, and is finitistic through and through.
+
+— [Pragmatism - A View](/docs/phil/works/Pragmatism - A View.html), Preface

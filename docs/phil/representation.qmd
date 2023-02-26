@@ -39,12 +39,12 @@ Premodern theories understood relation between appearance and reality in terms o
 
 # Pioneered by Descartes 
 
-[Descartes](/docs/phil/René Descartes.html) came up with the more abstract meta-concept (which Kant would dub representation, or *Vorstellung*) as a new way of thinking of the relation between appearance and reality.
+[Descartes](/docs/phil/people/René Descartes.html) came up with the more abstract meta-concept (which Kant would dub representation, or *Vorstellung*) as a new way of thinking of the relation between appearance and reality.
 
-[Spinoza](/docs/phil/Baruch Spinoza.html) saw Descartes' philosophy as being understood in terms of his innovations of relating algebra to geometry. How could strings of algebraic symbols be useful / veridical appearances of 
+[Spinoza](/docs/phil/people/Baruch Spinoza.html) saw Descartes' philosophy as being understood in terms of his innovations of relating algebra to geometry. How could strings of algebraic symbols be useful / veridical appearances of 
 geometrical reality? 
 
-- "[The order and connection of things is the same as the order and connection of ideas](/docs/phil/Order and connection of ideas.html)" 
+- "[The order and connection of things is the same as the order and connection of ideas](/docs/phil/quotes/Order and connection of ideas.html)" 
     - A *global* homomorphism from the whole system of algebraic symbols and 
       the whole system of geometric figures.
     - The properties of what is representing or represented are irrelevant. 
@@ -64,7 +64,7 @@ geometrical reality?
 
 [^dd]: Descartes did not make this distinction - his ontology simply had representings and representeds without finer structure. Empiricists tried to reduce thoughts to impressions and rationalists vice-versa.
 
-[^whole]: Rationalist [Leibniz](/docs/phil/Gottfried Wilhelm Leibniz.html) would have us understand the content of the map (*as* a representation) to be the inferences that someone who treats it as a map could make about terrain facts (e.g. a river) from map-facts (wavy-blue line).
+[^whole]: Rationalist [Leibniz](/docs/phil/people/Gottfried Wilhelm Leibniz.html) would have us understand the content of the map (*as* a representation) to be the inferences that someone who treats it as a map could make about terrain facts (e.g. a river) from map-facts (wavy-blue line).
 
 [^nb]: Empiricists start with narrow postulate about what representing is and exclude a lot of genuinely contentful thought due to not meeting this standard (e.g. ethics, modality)
 

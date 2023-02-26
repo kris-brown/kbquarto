@@ -15,7 +15,7 @@ listing:
 ---
 
 
-From [Philosophical Investigations](/docs/phil/Philosophical Investigations.html#quotes):
+From [Philosophical Investigations](/docs/phil/works/Philosophical Investigations.html#quotes):
 
 A mother lets me watch her kids and says to me: "Show the children a game." When she returns, she sees me teaching them to gamble with dice. She angrily exclaims, "I didn't mean that sort of game!"
 

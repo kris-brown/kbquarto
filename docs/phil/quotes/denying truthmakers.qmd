@@ -1,0 +1,13 @@
+---
+title: Denying truthmakers
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+
+
+> The later Wittgenstein, Heidegger, and Dewey, for example, would all be as dubious about the notion of "truth-makers" — nonlinguistic items which "render" statements determinately true or false — as they are about that of "representation." For representationalists, "making true" and "representing" are reciprocal relations: the nonlinguistic item which makes S true is the one represented by S. But antirepresentationalists see both notions as equally unfortunate and dispensable — not just in regard to statement of some disputed class, but in regard to all statements.
+
+— [Antirepresentationalism, Ethnocentrism, and Liberalism](/docs/phil/works/Antirepresentationalism, Ethnocentrism, and Liberalism.html)

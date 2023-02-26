@@ -17,6 +17,7 @@ listing:
 See Geach's article: Ascriptivism and [The Frege-Geach problem](/docs/phil/The Frege-Geach problem.html).
 
 What are the limits of ascribing to a speech act a different role than describing?
+
 -  By reintroducing the archaic word "macarize", we can claim that declarations that "John is happy" are not descriptions, after all, but rather just macarizing.
 - What if saying that the frog is on the log isn't describing the frog but rather is performing a froggy speech act?
 

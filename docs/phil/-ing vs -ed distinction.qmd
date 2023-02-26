@@ -14,7 +14,7 @@ listing:
     - ../../backlinks/-ing vs -ed distinction.yml
 ---
 
-Observed by [Sellars](/docs/phil/Wilfrid Sellars.html) to be responsible for a lot of philosophical confusion.
+Observed by [Sellars](/docs/phil/people/Wilfrid Sellars.html) to be responsible for a lot of philosophical confusion.
 
 Most interesting philosophical concepts come with a "-ing"/ "-ed"
 distinction that's crucial to understand the nature of. 
@@ -32,7 +32,7 @@ The [Agrippan trilemma](/docs/phil/Agrippan Trilemma.html) can be thought of as 
   
 ## Experience
 
-Is an experience an act of act of experiencing vs what's experienced. Sellars thinks [Berkeley](/docs/phil/George Berkeley.html) was confused by this.
+Is an experience an act of act of experiencing vs what's experienced. Sellars thinks [Berkeley](/docs/phil/people/George Berkeley.html) was confused by this.
 
 ## Representation
 

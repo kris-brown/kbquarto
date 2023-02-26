@@ -1,0 +1,16 @@
+---
+title: The Myth of the Subjective
+tags:
+ - work
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/the myth of the subjective.yml
+---
+
+[Author](/docs/phil/people/Donald Davidson.html)

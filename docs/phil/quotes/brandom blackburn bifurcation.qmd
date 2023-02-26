@@ -1,0 +1,9 @@
+---
+title: Brandom Blackburn Bifurcation
+tags:
+- quote
+---
+
+> The second apparent conflict between HEX and BEX turned on the fact that the latter seems to provide no place for a Bifurcation Thesis – no place for the distinction between *loose* and *strict* notions of assertion, as I put it earlier; or between genuinely *descriptive* claims and other conceptually articulated statements (such as those of the moral and modal vocabularies, in both Sellars’ and Blackburn’s view). BEX lowers the bar for what it takes to be a genuine assertion; making the core notion of assertion one which is compatible, on the face of it, with HEX’s views about the functions of the various vocabularies to which it accords the expressivist treatment.
+
+— [Expressivism for Two Voices](/docs/phil/Expressivism for Two Voices.html), 13

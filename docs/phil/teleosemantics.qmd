@@ -14,7 +14,7 @@ listing:
     - ../../backlinks/teleosemantics.yml
 ---
 
-Developed by [Ruth Millikan](/docs/phil/Ruth Millikan.html).
+Developed by [Ruth Millikan](/docs/phil/people/Ruth Millikan.html).
 
 A simple example: imagine that beavers slap their tail when there's danger, and 
 beavers flee when they hear another beaver slap its tail.

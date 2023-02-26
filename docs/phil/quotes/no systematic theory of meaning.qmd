@@ -1,0 +1,12 @@
+---
+title: No systematic theory of meaning
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+
+> The trouble with the later Wittgenstein, Dummett says, is that he cannot "supply us with a *foundation* for future work in the philosophy of language or in philosophy in general." Wittgenstein gave us no "systematic theory of meaning," and hence nothing on which to build. Indeed, he thought such a theory impossible, since (in Dummett's words) he rejected his earlier view that "the meanings of our sentences are given by the conditions that render them determinately true or false" and substituted the view that "meaning is to be explained in terms of what is taken as *justifying* an utterance."' This latter view is typical of antirepresentationalist philosophers, for their concern is to eliminate what they regard as representationalism's pseudo- problems, rather than to build systems or to solve problems
+
+— [Antirepresentationalism, Ethnocentrism, and Liberalism](/docs/phil/works/Antirepresentationalism, Ethnocentrism, and Liberalism.html)

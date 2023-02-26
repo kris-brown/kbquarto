@@ -15,7 +15,7 @@ listing:
     - ../../backlinks/is-ought problem.yml
 ---
 
-The is-ought problem. [David Hume](/docs/phil/David Hume.html). 
+The is-ought problem. [David Hume](/docs/phil/people/David Hume.html). 
 
-The infeasibility of reducing "ought talk" to "is talk" is the same problem [(according to Sellars)](/docs/phil/On community.html)
+The infeasibility of reducing "ought talk" to "is talk" is the same problem [(according to Sellars)](/docs/phil/quotes/On community.html)
 as reducing "the personal" (e.g. believing) to something at the individual rather than community (network of rights and duties) level.

@@ -1,0 +1,31 @@
+---
+title: Exemplification
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/exemplification.yml
+---
+
+[Author](/docs/phil/people/Wilfrid Sellars.html)
+
+> Exemplification is a ‘quasi-semantical’ relation, and it (and universals[^1]) are 
+  “in the world” only in that broad sense in which the ‘world’ includes 
+  linguistic norms and roles viewed (thus in translating) from the standpoint 
+  of a fellow participant.
+
+— [Naming and Saying](/docs/phil/works/Naming and Saying.html)
+
+[^1]: e.g. redness, lionhood
+
+
+- This plays off [Carnap](/docs/phil/people/Rudolf Carnap.html)'s notion of  'quasi-syntactical'.
+- There's the narrow view of 'the world', that's the world that science is the 
+  measure of all things. And the broader view of the world that has things like rules.
+

@@ -1,0 +1,13 @@
+---
+title: Quasirealism
+tags: 
+ - concept
+---
+
+> Quasirealism is thus intended as a “local” program, applicable to a selected range of vocabularies, and assumes some version of what Rorty termed the [Bifurcation Thesis](/docs/phil/Bifurcation Thesis.html) 
+
+— [Expressivism for Two Voices](/docs/phil/Expressivism for Two Voices.html), 5
+
+> A quasi-realist of a more conventional stripe, who does want to hold onto the bifurcation thesis, is committed to a kind of two-tier view of the landscape, with respect to a whole range of notions that we associate with the business of making claims and assertions. In effect, he must think that **there are both loose and strict answers to questions such as: what is it to be a belief, an assertion, a statement, a judgement, a proposition (even a fact )? **The loose answer is supposed to tell us what descriptive and quasi-descriptive uses of language have in common, the strict answer what separates the real cases from the merely quasi-cases.
+
+— [Two Expressivist Programmes, Two Bifurcations](/docs/phil/Two Expressivist Programmes, Two Bifurcations.html), 30

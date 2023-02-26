@@ -1,0 +1,12 @@
+---
+title: Epistemological behaviorism
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> Explaining rationality and epistemic authority by reference to what society lets us say, rather than the latter by the former, is the essence of what I shall call "epistemological behaviorism," an attitude common to Dewey and Wittgenstein.
+
+ — [Philosophy and the Mirror of Nature](/docs/phil/works/Philosophy and the Mirror of Nature.html), Chapter 4
+- This is a very Sellarsian way of phrasing "pragmatism", which he soon starts referring to it as.

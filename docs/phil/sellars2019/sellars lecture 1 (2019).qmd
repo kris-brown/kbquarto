@@ -1,0 +1,146 @@
+---
+title: Sellars Lecture 1 (2019)
+tags: 
+  - lecture
+  - YELLOW
+---
+
+[Author](/docs/phil/people/Robert Brandom.html) 
+
+Sellars is a *great* philosopher. This is what that means to Brandom:
+
+1. the work being transformative 
+    - when you understand it, you then view many other central problems in 
+      philosophy differently) 
+    - deep as in radical, going to the roots
+    - Not necessary influential (e.g. as Quine was) 
+2. the work being rich / inexhaustible
+    - every time you go back to it you find something new
+
+# Quotes on describing, justifying, explaining
+
+Sellars is taking the notions of "describing", "justifying", "explaining" as 
+they are in practice rather than inventing an artifical formal meaning / 
+invoking technical jargon.
+
+- [Scienta mensura](/docs/phil/quotes/Scienta mensura.html)
+- [Space of reasons](/docs/phil/quotes/Space of reasons.html)
+- [Labels vs describing](/docs/phil/quotes/Labels vs describing.html)
+- [Describing and explaining](/docs/phil/quotes/Describing and explaining.html)
+- [Expressions as explanations](/docs/phil/quotes/Expressions as explanations.html)
+- [Nondescriptive concepts](/docs/phil/quotes/Nondescriptive concepts.html)
+
+In an autobiographical work, Sellars noted that, already when he was in Oxford 
+as a grad student, he knew he wanted a functional theory of concepts 
+(especially alethic/normative modalities), which would make their role in 
+reasoning, rather than their supposed origin and experience their primary
+feature. Sellars takes modal expressions to be inference licenses.
+
+- [Judgment in the order of explanation](/docs/phil/quotes/Judgment in the order of explanation.html)
+- [Subjunctive conditionals as essential](/docs/phil/quotes/Subjunctive conditionals as essential.html)
+- [Describing without modality](/docs/phil/quotes/Describing without modality.html)
+- [Transposed language of norms](/docs/phil/quotes/Transposed language of norms.html)
+- [Man as rational animal](/docs/phil/quotes/Man as rational animal.html)
+- [Rules are lived](/docs/phil/quotes/Rules are lived.html)
+- [Against phenomenalism](/docs/phil/quotes/Against phenomenalism.html)
+- [Transition to conceptual thinking](/docs/phil/quotes/Transition to conceptual thinking.html)
+- [On community](/docs/phil/quotes/On community.html)
+- [Exemplification](/docs/phil/quotes/Exemplification.html)
+
+# Overview
+Sellars' goal: to usher philosophy from its Humean phase to its Kantian phase. 
+He thought Kant had not been understood; it was not until the end of his life 
+that Kant was brought back into mainstream respectability in the Anglophone 
+tradition. This changed in the late 60's (due to Strawson/Rawls). 
+
+Four of his ideas mattered a lot to Kant.
+
+## 1. Kant's normative turn
+Normative understanding of understanding / discursive practice. Discursive for 
+Kant *means* pertaining to concept usage (i.e. distinct from mere utterances / 
+noises).
+
+  - Kant saw that what distinguishes judgment (cognitive side) and intentionality (on practical side)
+    from habitual/learned responses from ordinary creatures:
+    - They are things the agents/knowers are *responsible for*.
+    - They are exercises of the authority of the agents/knowers (the authority 
+      to make ourselves responsible).
+
+This is something Kant shares with later Wittgenstein (e.g. [a children's game](/docs/phil/A children's game.html)).
+
+Difference between "us" and "it" is not ontological but rather *de*ontological.
+
+The minimum unit of awareness/experiences is the *judgment* (the minimum unit 
+you can take responsibility for),[not the concept](/docs/phil/interaction/Concepts and judgment.html). 
+
+## 2. Rousseau's criterion of freedom into a definition of the normative
+
+- [Rousseau](/docs/phil/people/Jean-Jacques Rousseau.html) said 
+  "Obedience to a law that one has laid oneself is freedom."
+- Kant turned this around to distinguish *constraint by norms* from 
+  *constraint by power*.
+- Discussed in [Some Reflections on Language Games](/docs/phil/works/Some reflections on language games.html).
+
+## 3. Non-descriptive concepts
+
+In addition to concepts whose principle expressive job is to describe/explain 
+empirical goings-on, there are concepts whose principle expressive job it is 
+to make explicit the framework that makes description possible.
+
+- These are known *a priori* framework-explicating concepts 
+  (pure concepts of the understanding).
+- This is Kant's response to [David Hume](/docs/phil/people/David Hume.html), 
+  for how we can understand the modal force 
+  of laws in virtue of their non-modal description.
+    - The answer is in the description framework itself.
+    - The fact that there are necessarily relations that concepts have among 
+      another makes description possible (a concept being contentful at all 
+      requires it to have some necessary relations to other concepts).
+
+What Sellars means by 'ushering philosophy from its Humean phase to its Kantian 
+phase' is putting categories front and center.
+  
+- Trying to *describe* the modal structure of the world or describe the 
+  space of possible worlds is to try to assimilate modal language into 
+  [descriptivism](/docs/phil/Descriptivism.html), rather than seeing 
+  them as playing a different expressive role
+- Sellars saw Kant as putting this other option on the table.
+
+## [Noumena and phenomena](/docs/phil/interaction/Noumena and phenomena.html) 
+
+{{< include "/docs/phil/interaction/noumena and phenomena.qmd" >}}
+
+## Some historical context
+
+Freiburg / Marburg schools of neo-Kantianism.
+
+See [SEP](/https://plato.stanford.edu/entries/neo-kantianism/)
+
+Sellars figured out that Carnap was actually a neo-Kantian even though Carnap 
+did not see himself this way. Carnap opened Sellars' eyes to "the new way of 
+words".
+
+American pragmatism also saw Kantian ideas updated in an empiricist mode.
+
+Quine got empiricism from CI Lewis, not his Kantianism. Sellars got 
+Kantianism from CI Lewis.
+
+Early Heidegger (of *Being and Time*) had strong neo-Kantian themes, in Brandom's 
+analysis, but it was pointed out to Brandom by Brun Christianen that those 
+elements were precisely the ones that Heidegger inherited from his teacher 
+Ricard, that he had not freed himself from. (late Heidegger looked back and 
+repudiated this work as a "merely anthropological work".)
+
+Moral of this historical aside: insidious neo-Kantianism - you can't be sure 
+whether you've been infected or not.
+
+## Development of Sellars thought
+
+Roywood Sellars was Sellars' father, a successful philosopher.
+
+Undergrad philosophy in Michigan working with his father. MA working on 
+Hussurl's phenomenology (you can see his father's critical realism showing 
+strongly in that thesis). He was a wrestler and a fencer. Failed to write a Kant 
+dissertation at Oxford, came to Harvard to work with Quine.
+
+Sellars had spent 10 years in academia without publishing anything. 

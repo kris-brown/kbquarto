@@ -1,0 +1,9 @@
+---
+title: Intersection of E and I representations
+tags:
+- quote
+---
+
+> The second question is whether there is room in this picture for the idea that some subset of [representations](/docs/phil/E-Representation and I-Representation.html) in the i-representational sense are also representations in the e-representational, ‘environment-tracking’ sense...I think it is open to a quasi-realist to say this, and this is the core of my irenic proposal.
+
+— [Two Expressivist Programmes, Two Bifurcations](/docs/phil/Two Expressivist Programmes, Two Bifurcations.html), 39

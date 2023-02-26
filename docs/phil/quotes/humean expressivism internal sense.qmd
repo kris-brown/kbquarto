@@ -1,0 +1,10 @@
+---
+title: Humean expressivism internal sense
+tags:
+- quote
+---
+
+> HEX wants to allow that as users of moral language, we may talk of the existence of values and moral facts, in what Carnap would call an internal sense. What is important, as Blackburn stresses in the passage above, is to deny that there is any other sense in which these issues make sense.
+> ... HEX thus *sidesteps* metaphysical issues, by rejecting a certain conception of linguistic role of the vocabularies with which it is concerned – the view that their role is to *represent* some aspect of external reality, as we might put it.
+
+— [Expressivism for Two Voices](/docs/phil/Expressivism for Two Voices.html), 4

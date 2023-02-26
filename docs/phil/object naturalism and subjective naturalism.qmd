@@ -14,8 +14,38 @@ listing:
     - ../../backlinks/object naturalism and subjective naturalism.yml
 ---
 
-A distinction about [naturalism](/docs/phil/Naturalism.html) made by [Huw Price](/docs/phil/Huw Price.html).
+A distinction about [naturalism](/docs/phil/Naturalism.html) made by [Huw Price](/docs/phil/people/Huw Price.html). It is a meta-philosophical idea about the relationship between philosophy and science: one can be naturalist about the *subjects* doing the talking, without necessarily being a naturalist towards what is being talked about.
+
+# Examples 
+## Natural numbers
+
+Object naturalists are puzzled by what numbers actually *are* / locating them in the world of natural science. Wittgenstein asks us what do we have to *do* to be using the natural numbers. His thought was the subject naturalist one: if we can get clear about how children learn to count, we should not worry about the metaphysics or ontology of numbers. 
+
+## Abstract objects
+
+E.g. "Things" like numbers, triangularity, propositions. Nominalists have an ontology that says abstracta don't exist. Others debate argue they do, but in general philosophers use the terms ‘concrete’ and (especially) ‘abstract’ without thinking very much about what they mean. [Frege](/docs/phil/people/Gottlob Frege.html), however, tells us exactly what they mean by giving the first non-psychological account of what you're *doing* when you abstract.[^aa] This is a subject-naturalist account of our *use* of abstract singular terms. 
+
+[^aa]: Historically, it has been thought of as a kind of "anti-attention".
+
+He describes abstraction as a way of introducing new [sortal](/docs/phil/Predicates.html) terms (and so singular terms), based on the use of old ones, via equivalence relations.  Abstraction treats an equivalence relation as if it were identity—but of a new kind of thing.  For example, we introduce 'directions of lines', on the basis of a vocabulary of lines that includes the relational predicate “parallel to.”  
+
+Thus, "is abstract to" is a relative notion between vocabularies, and the adjective "abstract" describes *how* we come to know of something rather than the thing itself. This has philosophical payoff: we no longer have the ontological problem of abstract objects. If "abstract object" means anything, it is idea of objects which could *only* be introduced via abstraction. It's not obvious from the fact that I *can* introduce a term, like direction, from the use of others that this is the *only* way to introduce vocabulary talking about directions (e.g. demonstratively, descriptively). For example, consider the example of [Pluto](/docs/phil/Pluto.html).
+
+# Key figures
+- [David Hume](/docs/phil/people/David Hume.html)
+	- describes what we're *doing* when we say things "must be"
+- [Ludwig Wittgenstein](/docs/phil/people/Ludwig Wittgenstein.html)
+	- Dissolves issues with problematic language by suggesting we look to the use, rather than to the meaning.
+- The American [pragmatists](/docs/phil/Pragmatism.html)
 
 # Priority thesis
 
-Huw argues that object naturalists must accept subject naturalists, but not vice-versa. 
+The questions of the subject naturalist are conceptually prior to those of the object naturalist. The object naturalist allows as a possible answer "this discourse doesn't refer" to location problems (e.g. astrological discourse "The moon is in a bad house for you today"). From their perspective, that means there is something defective about the discourse. But the fact that they accept as a possibility that we do things with language other than describe means that they do must accept that, prior to finding the truthmakers, we must ask how does this way of talking work?
+
+Therefore asking object naturalist question (instead of the subject naturalist question) must be justified in every specific case.
+
+### Another argument for the priority thesis:
+
+The object naturalist has to say something about the reference relation between our vocabulary for talking about the world and the world itself. But the object naturalist has to locate the reference relation itself: i.e. solve the location problem for semantic vocabulary.[^lad]
+
+[^lad]: Otherwise you're in the embarrassing position Wittgenstein is at the end of the [Tractatus](/docs/phil/works/Tractatus Logico-Philosophicus.html).

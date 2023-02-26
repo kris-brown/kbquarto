@@ -1,0 +1,11 @@
+---
+title: Realist vs pragmatist intuitions
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> This upshot of the confrontation between the pragmatist and the intuitive realist about the status of intuitions can be described either as a conflict of intuitions about the importance of intuitions, or as a preference for one vocabulary over another. The realist will favour the first description, and the pragmatist, the second. It does not matter which description one uses, as long as it is clear that the issue is one about whether philosophy should try to find natural starting-points which are distinct from cultural traditions. This is, once again, the issue of whether philosophy should be [Philosophy](/docs/phil/interaction/Relation of philosophy to other disciplines.html).
+
+— [Consequences of Pragmatism](/docs/phil/works/Consequences of Pragmatism.html), Introduction

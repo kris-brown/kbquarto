@@ -14,6 +14,6 @@ listing:
     - ../../backlinks/duhem-quine thesis.yml
 ---
 
-Named after Pierre Duhem and [Quine](/docs/phil/W.O. Quine.html):
+Named after Pierre Duhem and [Quine](/docs/phil/people/W.O. Quine.html):
 
 It is impossible to test a scientific hypothesis in isolation, because an empirical test of the hypothesis requires one or more background assumptions.

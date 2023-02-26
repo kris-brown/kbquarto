@@ -1,0 +1,13 @@
+---
+title: Idealism and textualism
+tags:
+ - quote 
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+ 
+> I have been saying, first, that idealism and textualism have in common an opposition to the claim of science to be a paradigm of human activity, and, second, that they differ in that one is a philosophical doctrine and the other an expression of suspicion about philosophy.  
+>
+> I can put these two points together by saying that whereas nineteenth-century idealism wanted to substitute one sort of science (philosophy) for another (natural science) as the center of culture, twentieth-century textualism wants to place literature in the center and to treat both science and philosophy as, at best, literary genres.
+
+— [Nineteenth Century Idealism and Twentieth Century Textualism](/docs/phil/works/Nineteenth Century Idealism and Twentieth Century Textualism.html)

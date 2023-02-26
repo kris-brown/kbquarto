@@ -1,0 +1,18 @@
+---
+title: Brain states and experience
+tags: 
+  - distinction
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/brain states and experience.yml
+---
+
+{{< include "/docs/phil/ed witherspoon argument.qmd" >}}
+
+This argument is used by [Ed Witherspoon](/docs/phil/elucidations/14. Skepticism.html) to deny the [brain in a vat](/docs/phil/elucidations/14. Skepticism.html) skeptical thought experiment.

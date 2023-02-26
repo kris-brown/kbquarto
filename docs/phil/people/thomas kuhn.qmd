@@ -1,0 +1,20 @@
+---
+title: Thomas Kuhn
+aliases: [Kuhn]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/thomas kuhn.yml
+---
+
+Thomas Samuel Kuhn was a philosopher of science. (1922–1996)
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/thomas-kuhn/)

@@ -1,0 +1,23 @@
+---
+title: Language as coping
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/language as coping.yml
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+
+> This Davidsonian way of looking at language lets us avoid hypostatising Language in the way in which the Cartesian epistemological tradition, and particularly the idealist tradition which built upon Kant, hypostatised Thought. For it lets us see language not as a *tertium quid* between Subject and Object, nor as a medium in which we try to form pictures of reality, but as part of the behaviour of human beings. On this view, the activity of uttering sentences is one of the things people do in order to [cope](/docs/phil/Coping.html) with their environment. The Deweyan notion of language as tool rather than picture is right as far as it goes. But we must be careful *not* to phrase this analogy so as to suggest that one can separate the tool, Language, from its users and inquire as to its "adequacy" to achieve our purposes. The latter suggestion presupposes that there is some way of breaking out of language in order to compare it with something else.
+
+— [Consequences of Pragmatism](/docs/phil/works/Consequences of Pragmatism.html), Introduction
+
+- Rorty is cautioning us about the "[Language as tool](/docs/phil/Language as tool.html)" analogy.

@@ -1,0 +1,71 @@
+---
+title: 17. Mechanism and causation
+tags: 
+ - podcast
+ - RED
+subtitle: Brandon Fogel
+published: November 8, 2010
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/17. mechanism and causation.yml
+---
+
+[Elucidations](/docs/phil/elucidations/Elucidations.html): [Prev](/docs/phil/elucidations/16. Justice.html) [Next](/docs/phil/elucidations/18. Language and power.html) 
+
+# Action at a distance
+- Action at a distance
+  - E.g. Gravity/EM, something in one place can affect something far away 
+    without anything passing in between
+
+## Example
+  -  Trying to explain how a magic trick (making a match levitate) works.
+    1. The magician has the power to make things levitate with their mind
+      - This would be disturbing because it can't be generalized / doesn't fit 
+        into a universal scientific model
+    2. The magician has magnets in the walls and controls them with a small 
+       computer
+      - Would alleviate the disturbance.
+    3. The magician can send out 'levitator particles' from the eyes. There's a 
+       'levitator particle' detector which is triggered, shows they have energy 
+       and can do work.
+      - Would also alleviate the concern, the particles would become the new 
+        normal, a feature of the world.
+  - Action at a distance would be like having no such explanation (though there 
+    is regularity/predictability).
+
+# Consequence of action at a distance
+- Fear: if we allow action at a distance, then anything is permitted anywhere
+  - Billiard ball motion could be determined by huge (far away) bodies of motion 
+    rather than anything local.
+- in 17th century, "mechanistic philosophy" (e.g. Boyle)
+  - All explanations should be given by just matter and motion
+  - Magnets thought to emit something similar to levitator particles
+- in 19th century, get the development of a field.
+  - Newton's gravity is action at a distance is already well-established
+    - action at a distance now tolerated widely
+  - Faraday/Maxwell are able to reform E&M that doesn't require action at a 
+    distance, have nothing to say about gravity.
+  - Einstein then gets rid of it for gravity
+  
+# Quantum mechanics reintroduced action at a distance
+- Einstein has methodological complaint. Science is impossible if objects aren't 
+  independent of each other.
+- Leibniz Principle of Sufficient Reason: for everything that happens, there is 
+  a reason why it (in particular) happened.
+- Paramenides: nothing comes from nothing (apple comes from the tree, apple's 
+  redness came from the seed (DNA))
+    - Change is impossible follows from this
+    - In some sense, something coming from nothing would violate the principle 
+      of sufficient reason.
+
+# Prior
+- Many arguments for and against.
+- Philosophically, one must have a framework to do science.
+- P.S.R. is really hard to do without.
+- There were never historically people who lamented loss of action at a distance when an equally predictive theory becomes available.

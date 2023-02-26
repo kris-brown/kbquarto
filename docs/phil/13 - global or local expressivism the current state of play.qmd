@@ -1,9 +1,0 @@
----
-title: 13 - Global or Local Expressivism? The Current State of Play
-aliases: [rorty13]
-tags:  
-- lecture
-- STUB
----
-
-[Author](/docs/phil/Robert Brandom.html) [Prev](/docs/phil/12 - Price's Pragmatist Philosophy of Language.html) [Next](/docs/phil/14 - Rationales and Prospects for Anti-Representationalism.html)

@@ -32,7 +32,7 @@ descriptive concepts, then you'd have an argument to the effect that the
 capacity to use modal concepts what modal concepts make explicit is implicit 
 already in the use even of ordinary empirical, descriptive, non modal concepts.
 
-It's explicit in [Sellars](/docs/phil/Wilfrid Sellars.html), all but explicit in [Kant](/docs/phil/Immanuel Kant.html). Some consequences:
+It's explicit in [Sellars](/docs/phil/people/Wilfrid Sellars.html), all but explicit in [Kant](/docs/phil/people/Immanuel Kant.html). Some consequences:
 
 - [modal](/docs/phil/Modality.html) vocabulary is not something that you can casually add to [ordinary descriptive vocabulary](/docs/phil/Ordinary descriptive vocabulary.html), like culinary vocabulary. Rather, the distinctive 
   expressive job of modal vocabulary is to articulate the inferential 

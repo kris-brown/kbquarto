@@ -1,0 +1,20 @@
+---
+title: Reasons vs causes
+tags:
+ - distinction
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/reasons vs causes.yml
+---
+
+A distinction closely related to [Sense dependence vs reference](/docs/phil/interaction/Sense dependence vs reference.html).
+
+Causes are in the realm of the world of science, which is related to but distinct from the [space of reasons](/docs/phil/quotes/Space of reasons.html). 
+
+Conflating these two leads to [empiricism](/docs/phil/Empiricism.html), where the meaning of our ideas must be reduced to sense impressions (because, causally, our conceptual activity depends on them). Kant phrases this as "giving a mere physiology of the understanding".

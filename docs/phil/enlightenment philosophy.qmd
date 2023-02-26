@@ -1,6 +1,6 @@
 ---
 title: Enlightenment philosophy
----
+
 listing:
   id: backlinks
   type: table
@@ -9,3 +9,6 @@ listing:
   template: "../../ejs/custom.ejs"
   contents:
     - ../../backlinks/enlightenment philosophy.yml
+---
+
+Social contract theories say you are only genuinely bound by commitments you have a reason to undertake.

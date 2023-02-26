@@ -1,0 +1,13 @@
+---
+title: Return to Pierce
+tags:
+ - quote 
+---
+[[Cheryl Misak|Author]
+
+> It is no surprise to find Rorty saying that his own narratives about pragmatism “tend to center around James’s version . . . of the pragmatic theory of truth”. For one way of thinking of Rorty’s position is as follows: if we need to think p, then we ought to believe p. There is nothing to say about truth and warrant over and above that. Given that norms are human norms, there is nothing but play and irony left to adjudicate between them. There is no place for the check of experience. All is chosen, if not by individuals, then by communities. By redescribing history and circumstances from our own point of view, we can say “thus I willed it” and we can make ourselves authors of our own stories.  
+>
+> But we must return, I submit, to the more moderate view first articulated by Peirce and Wright. We need to take seriously that which we need to believe while avoiding two mistakes. We must not make the mistake of taking what we need to believe so seriously as to think that it is necessarily true (the mistake of Kant and, I would argue, Habermas) or true in some plainer sense (the mistake of James). The future of pragmatism, I submit, lies in this modest stance, in which there are norms and standards, which come from within our practices of inquiry, reason- giving, and justification. They are not given to us by a direct connection with the world- as it is independently of inquirers. They are not given to us by God. And they are not given to us by the requirements of necessity. They are human standards, held in check by the force of experience. 
+
+
+— [American Pragmatism and Indispensability Arguments](/docs/phil/works/American Pragmatism and Indispensability Arguments.html)

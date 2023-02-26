@@ -1,0 +1,16 @@
+---
+title: American Pragmatism and Indispensability Arguments
+tags:
+ - work 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/american pragmatism and indispensability arguments.yml
+---
+
+[Author](/docs/phil/people/Cheryl Misak.html)

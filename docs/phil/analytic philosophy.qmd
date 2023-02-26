@@ -26,9 +26,9 @@ Often the task of analytic philosophy is to take statements in some potentially-
     that thing makes the speaker feel bad.
 
 # Origins
-From its own perspective, analytic philosophy was founded by Russell and Moore. It was rebelling against idealism, which culimated in [Hegel](/docs/phil/Georg Wilhelm Friedrich Hegel.html) and [F. H. Bradley](/docs/phil/F. H. Bradley.html). ([Kant](/docs/phil/Immanuel Kant.html) was also thrown out of the anglophone canon, which moved from Leibniz -> J.S. Mill -> Frege, skipping the German idealists).
+From its own perspective, analytic philosophy was founded by Russell and Moore. It was rebelling against idealism, which culimated in [Hegel](/docs/phil/people/Georg Wilhelm Friedrich Hegel.html) and [F. H. Bradley](/docs/phil/people/F. H. Bradley.html). ([Kant](/docs/phil/people/Immanuel Kant.html) was also thrown out of the anglophone canon, which moved from Leibniz -> J.S. Mill -> Frege, skipping the German idealists).
 
-However, Rorty claims in [Philosophy and the Mirror of Nature](/docs/phil/Philosophy and the Mirror of Nature.html) that analytic philosophy is a [neokantian](/docs/phil/Neokantianism.html) enterprise because it attempts to situate formal logic and philosophy of language as "first philosophy", as having a fundamental and ahistorical understanding of concepts / knowledge, such that it becomes the [queen of the sciences](/docs/phil/Relation of philosophy to other disciplines.html).
+However, Rorty claims in [Philosophy and the Mirror of Nature](/docs/phil/works/Philosophy and the Mirror of Nature.html) that analytic philosophy is a [neokantian](/docs/phil/Neokantianism.html) enterprise because it attempts to situate formal logic and philosophy of language as "first philosophy", as having a fundamental and ahistorical understanding of concepts / knowledge, such that it becomes the [queen of the sciences](/docs/phil/interaction/Relation of philosophy to other disciplines.html).
 
 Furthermore, analytic philosophy is methodologically Kantian due to its emphasis on understanding *language semantically* and the having *knowledge epistemologically* correspond to the two species of representation that Kant identified: 1.) sense experience and 2.) logically-elaborated, meaning-analytic reason-relations. 
 

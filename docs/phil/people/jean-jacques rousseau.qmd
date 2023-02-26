@@ -1,0 +1,22 @@
+---
+title: Jean-Jacques Rousseau
+aliases: [Rousseau]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/jean-jacques rousseau.yml
+---
+
+# Quotes 
+
+"Obedience to a law that one has laid oneself is freedom."
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/rousseau/)

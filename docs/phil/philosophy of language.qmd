@@ -8,11 +8,11 @@ A subdiscipline of [philosophy](/docs/phil/Philosophy.html).
 
 # Two traditions
 - Logistical tradition
-	- Runs from [Frege](/docs/phil/Gottlob Frege.html)/[Russell](/docs/phil/Bertrand Russell.html), through the [Tractatus](/docs/phil/Tractatus Logico-Philosophicus.html), [Carnap](/docs/phil/Rudolf Carnap.html), [Tarski](/docs/phil/Alfred Tarski.html), [Quine](/docs/phil/W.O. Quine.html), [David Lewis](/docs/phil/David Lewis.html)
+	- Runs from [Frege](/docs/phil/people/Gottlob Frege.html)/[Russell](/docs/phil/people/Bertrand Russell.html), through the [Tractatus](/docs/phil/works/Tractatus Logico-Philosophicus.html), [Carnap](/docs/phil/people/Rudolf Carnap.html), [Tarski](/docs/phil/people/Alfred Tarski.html), [Quine](/docs/phil/people/W.O. Quine.html), [David Lewis](/docs/phil/people/David Lewis.html)
 	- Operative paradigm: formal calculi suitable for proofs about artificial symbolic languages
 		- tarskian model theory as a paradigm of semantics
 		- more powerful successor: possible worlds semantics
 - Anthropological tradition
 	- Focuses on natural languages over artificial ones
 	- Thinks of languages as a social practice characteristic of biological creatures like us
-	- [Dewey](/docs/phil/John Dewey.html), early [Heidegger](/docs/phil/Martin Heidegger.html), late Wittgenstein, [Rorty](/docs/phil/Richard Rorty.html).
+	- [Dewey](/docs/phil/people/John Dewey.html), early [Heidegger](/docs/phil/people/Martin Heidegger.html), late Wittgenstein, [Rorty](/docs/phil/people/Richard Rorty.html).

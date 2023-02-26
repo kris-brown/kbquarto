@@ -35,11 +35,11 @@ listing:
 
 
 # Goal 
-- Sellars' view: [Goal of philosophy](/docs/phil/Goal of philosophy.html)
+- Sellars' view: [Goal of philosophy](/docs/phil/quotes/Goal of philosophy.html)
 	- He describes the major problem of his time as reconciling the "clash" between "the 'manifest' image of man-in-the-world" and "the scientific image".
 
 # Relation to other disciplines
 
 Philosophy "with a capital P" is the "queen of the sciences". All scientific knowledge is representational or concerned with knowledge, so if philosophy has a special insight into representation or knowledge, then the other disciplines must answer to it. 
 
-This style and status of philosophy is challenged by [Rorty](/docs/phil/Richard Rorty.html).
+This style and status of philosophy is challenged by [Rorty](/docs/phil/people/Richard Rorty.html).

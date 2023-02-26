@@ -1,0 +1,21 @@
+---
+title: Plato
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/plato.yml
+---
+
+Plato was an ancient Greek philosopher (428 BC - 348 BC).
+
+![](/images/headshots/plato.jpeg)
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/plato/)

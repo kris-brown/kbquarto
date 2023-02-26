@@ -1,0 +1,16 @@
+---
+title: Bifurcation Thesis
+tags: 
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/bifurcation thesis.yml
+---
+
+The view that there is a well-grounded distinction between descriptive and nondescriptive declarative utterances.

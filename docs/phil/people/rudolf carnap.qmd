@@ -1,0 +1,23 @@
+---
+title: Rudolf Carnap
+aliases: [Carnap]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/rudolf carnap.yml
+---
+
+Rudolf Carnap was a German philosopher, 1891-1970. He was a [logical empiricist](/docs/phil/Logical empiricism.html).
+
+![](/images/headshots/carnap.jpeg)
+
+- Called an atomist about representation by Brandom.
+# External resources
+- [SEP](https://plato.stanford.edu/entries/carnap/)

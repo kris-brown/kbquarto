@@ -1,0 +1,78 @@
+---
+title: 15. Religious toleration
+tags: 
+ - podcast
+ - RED
+subtitle: Brain Leiter
+published: September 8, 2010
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/15. religious toleration.yml
+---
+
+[Elucidations](/docs/phil/elucidations/Elucidations.html): [Prev](/docs/phil/elucidations/14. Skepticism.html) [Next](/docs/phil/elucidations/16. Justice.html)
+
+# Why tolerate religion?
+- Why protect religious conscience, over and above other forms of moral 
+  conscience?
+  - Historically, lots of religious intolerance have led to atrocities.
+- What's distinctive of religious belief (not merely theistic religions)? Two 
+  characteristics:
+  1. There are certain beliefs that are insulated from ordinary standards of 
+     reasons and evidence.
+    - This is trying to cache out "faith"
+  2. There are certain obligations that are demanded of a believer.
+    - This is why religion comes in conflict with the law, so the need for 
+      practices
+  - Potential counterexamples:
+    - Not let in enough: Christian apologists willing to argue/defend 
+      Christiantity based on normal standards of evidence.
+      - It's true there exist intellectualist traditions within religious 
+        thought.
+      - 1. Most believers want their beliefs insulated
+      - 2. These are beliefs that are post-hoc rationalizations
+      - Could say these are not religious hypotheses, although they deployed to 
+        support religion.
+    - Let in too much:  secular people have opinions about the meaning of life 
+      that are not subject to reason/evidence. E.g. John Lennon thinks we should 
+      give peace a chance, I'm commanded to not go to war.
+      - Whether you think moral views are insulated from reasons/evidence 
+        depends on deeper metaphysical views.
+        - Naturalistic moral realist: morality is just like science, so it is 
+          answerable to reasons and evidence
+        - Noncognitivist: moral beliefs are actually expressing emotions, so not 
+          applicable to rule 1.
+- Neither of the distinctive characteristics are related to the standard 
+  arguments for tolerating religion.
+  - Utilitarian and Rawlsian arguments justify protecting liberty of conscience 
+    but would not single out religion.
+
+# More than mere toleration
+- Nussbaum - doesn't religion deserve more than toleration, e.g. respect:
+  - Mere toleration: you disapprove but you have to put up with them.
+  - Respect is ambiguous:
+    - 1. recognition respect: "you ought to respect his feelings"
+      - respect for people in virtue of them being people
+    - 2. appraisal respect: "I respect her intellect"
+      - admiration
+  - People conflate 1 (which is uncontroversially owed to strangers), but 
+    bait-and-switch with meaning 2.
+    - Nussbaum's example: Roger Williams founded Rhode Island and discovered the 
+      Native Americans were more similar than he expected.
+      - This still doesn't justify appraisal respect.
+
+# Practical import of the argument
+- Extend the practice of appealing for an exemption from a law to all matters of 
+  conscience.
+- Worrisome that courts will now have to judge whether matters truly are of 
+  conscience.
+    - It's easier to figure out if 1.) someone is a member of a religion, 2.) 
+      if a religion demands a certain behavior rather than to figure out if a 
+      person is being genuine.
+- Maybe pragmatic reasons for status quo, but not moral reasons.

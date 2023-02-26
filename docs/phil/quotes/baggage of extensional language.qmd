@@ -1,0 +1,11 @@
+---
+title: Baggage of extensional language
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> Quine is led into these difficulties, I think, by an attempt to preserve the view which he, like Sellars, inherits from Carnap and ultimately from Wittgenstein's Tractatus: the view that the world can be "completely described" in an extensional language. It is intensionality rather than intentionality which is the real bugbear, for only the non- truthfunctional character of intentional discourse makes its presumed subject more disreputable than, say, irreducibly biochemical talk of mitochondria.
+
+ — [Philosophy and the Mirror of Nature](/docs/phil/works/Philosophy and the Mirror of Nature.html), Chapter 4

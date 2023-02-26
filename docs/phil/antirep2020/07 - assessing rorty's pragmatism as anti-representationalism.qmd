@@ -1,0 +1,157 @@
+---
+title: 07 - Assessing Rorty's Pragmatism as Anti-Representationalism
+aliases: [rorty07]
+tags:  
+- lecture
+- STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/07 - assessing rorty's pragmatism as anti-representationalism.yml
+---
+
+[Author](/docs/phil/people/Robert Brandom.html) [Prev](/docs/phil/antirep2020/06 - Rorty's Political Turn.html) [Next](/docs/phil/antirep2020/08 - Anti-Representationalism, Pragmatism, and Expressivism.html)
+
+Remark on [Kant oder Hegel](/docs/phil/interaction/Having a nature or a history.html)
+
+Remark on representation as [fetishism](/docs/phil/Fetishism.html#relation to representationalism).
+
+Rorty's argument:
+- Target: representationalism 
+	- More precisely: declarativist descriptivism
+	- Declarativism puts sentences like "the frog is on the log", "'red' refers to a color", "I believe in miracles" all in a box, as *fact-stating*, as representing ways the world can be
+	- There must, then be different kinds of facts. (empirical facts, facts about abstract objects, etc.)
+	- There is a uniform semantics for all these kinds of facts, where "frog is on the log" is a paradigm case.
+- Rorty and Price counter with global anti-representationalism: that semantic model is broken-backed, will not help us understand the use of any expressions.
+- Rorty wants to shift to social practices of reasoning (challenging claims) rather than seeing claims answer to a supposedly absolute notion of truth.
+- Conclusion: we should substitute pragmatics of consensus (with no higher tribunal) for any semantic appeal to a notion of representation.
+	- That notion of an absolute truth is what is fetishized.
+	- The genuine friction of claims in our practices is what gets projected into a nonhuman notion of reality which has authority over our practices.
+
+## Criticism
+Rorty encourages us to extend the lesson of the enlightenment from the practical realm to the theoretical realm.
+
+- We shouldn't let a non-human / non-rational authority dictate our practical reasoning (what we ought do). To be free, we must understand right/wrong as coming from ourselves. (for Kant: the commitments that are implicit in our practices of justifying our conduct to one another - he derived moral principles from commitments that are implicit in acting intentionally).
+
+Searle resisted this by saying that the practical and theoretical have different directions of fit. (see [Shopping list](/docs/phil/Shopping list.html) example).
+
+Rorty's POV: what makes the Enlightenment argument applicable to the person-to-world direction of fit is because it is a *normative* fit[^k] - because he believes in social pragmatism about norms. Thus, by characterizing the world-to-person fit also as a normative one, his argument has power. 
+
+Consequence of social pragmatism about norms: we cannot be *responsible* to anything nonhuman.[^nh] (this is an Enlightenment point which could equally be interpreted in the theoretical realm or the practical, Rorty argues).
+
+[^k]: Representation being normative is a Kantian idea: what is represented provides a standard of success/correctness of the representing (as a representing of it)
+
+[^nh]: "Human" meaning being a thing that talks, that plays in the game of giving and asking for reasons.
+
+The Enlightenment rejected non-rational authority: authority which does not give reasons / cannot be challenged. No rationally-binding authority is "just there". (*Power* can be like that, but not authority, which must have the possibility of critique).
+
+# A Social Route from Reasoning to Representing
+
+Brandom thinks, for the normative status of "being a self", Rorty's argument is right. This is the status Hegel says is instituted by attitudes of reciprocal recognition. However, there are derivative normative status (conferred by social practices, parasitic on the primary normative status of being a normative self). E.g. omens/oracles: a community gives a bunch of black birds the normative significance of being a bad omen. Even though the birds cannot talk.
+
+We are led by these considerations to a problem in social engineering.  We must ask whether there is a structure or configuration of practices that deserves to count as granting to things specifically representational authority over our thought and talk. Can we describe practices in which communities confer authority over the correctness of their claimings on what they thereby count as talking about (representing, describing)? Can we make sense of such authority being *objective*, in the sense of attitude-transcendent?
+
+## Ordinary language
+In ordinary language we distinguish between:
+
+-  what is said or thought, and  
+- what it is said or thought of or about.
+
+Assessment of what people are talking and thinking about, rather than what they are saying about it, is a feature of the essentially social context of communication.
+
+### Social perspectival account of knowledge
+
+For it to be knowledge that a scorekeeper takes another to have, that scorekeeper must adopt three sorts of practical attitude:
+
+1. The scorekeeper must attribute an inferentially articulated, hence propositionally contentful *commitment*. This corresponds to the **belief** **condition** on knowledge.  
+2. The scorekeeper must attribute a sort of inferential entitlement to that commitment. This corresponds to the **justification** **condition** on knowledge.  
+3. The scorekeeper must *undertake* the same commitment attributed to the candidate knower. This corresponds to the **truth condition** on knowledge.[^pec]
+
+[^pec]: It's peculiar that grammatically we think of truth as a property that you attribute to what they say, when it's actually a stance you are taking to it. [Other pragmatist efforts](/docs/phil/Superassertibility.html) to reconstruct truth from justification did not take this social-perspectival difference into account.
+
+The primary explicitly representational locution of natural languages is *de re ascriptions of propositional attitudes*.[^ro]
+
+[^ro]: Rorty sometimes makes it seem like the Enlightenment invented, not only the technical notion of representation, but the idea that we are talking *about* things at all. But that clearly predates the Enlightenment.
+
+Ascriptions *de dicto* attribute belief in a *dictum* or saying, while ascriptions *de re* attribute belief about some *res* or thing.
+
+An example with tense, there are two readings of: "The President of the United States will be a woman by the year 2024."
+
+- *De dicto*: first you settle on the dictum, "The president will be a woman", and then you follow it in time to check the thing and see if it's true. 
+- *De res*: first you settle on the thing, "The president", and then follow it through time, and see if the dictum is true.
+
+Ambiguous: "Henry Adams believed the popularizer of the lightning rod did not popularize the lightning rod."
+
+- *De Dicto*: Henry Adams believed **that** the popularizer of the lightning rod did not popularize the lightning rod.
+- *De Re*: Henry Adams believed **of** the popularizer of the lightning rod **that** he did not popularize the lightning rod.
+	- We are taking on a *commitment* of who popularized the lightening rod (e.g. Ben Franklin) when we view the sentence this way.
+
+It is *de re* propositional attitude ascribing locutions that we use in everyday life to express what we are talking and thinking *of* or *about*.
+
+In asserting an ascriptional claim of the form "$S$ believes that $\phi(t)$", one is doing two things:
+
+- one is *attributing* a doxastic commitment, $\phi(t)$
+- one is *undertaking* another, namely the ascription.
+
+The distinction between *de dicto* and *de re* should not be understood to distinguish two kinds of *belief* or belief-contents, but two kinds of ascription—in particular two different *styles* in which the *content* of the commitment ascribed can be specified.
+
+Prosecutor: The defense attorney believes a pathological liar is a trustworthy witness.
+Defense attorney: Not so. What I believe is that the man who just testified is a trustworthy witness.
+Prosecutor: Exactly, and I have presented evidence that ought to convince anyone that the man who just testified is a pathological liar.
+De Re: The defense attorney claims **of** a pathological liar that he is a trustworthy witness.
+
+**The expressive function of de re ascriptions of propositional attitude is to make explicit which aspects of what is said express commitments that are being attributed and which express commitments that are undertaken.**
+
+- What is made explicit by *de re* specifications of the contents of the beliefs of others is an essential element of communication.
+
+- De Dicto: He believes malaria can be prevented by drinking the liquor distilled from the bark of that kind of tree.
+- De Re: He believes of quinine that malaria can be prevented by drinking it
+	- It's *our* commitment that the bark of the tree contains quinine. That it's quinine matters for *our* inferences.
+
+- It is **true** that Benjamin Franklin invented bifocals.
+- De Re: It is true, of the popularizer of the lightning rod, that he invented bifocals.
+
+If you want to know whether this sentence is true, you have to look at Ben Franklin. This is saying where the authority for assessments of truth is. (This is from my perspective, but that's the pragmatist point: normative responsibility is from a perspective).
+
+The *representational* dimension of propositional contents reflects the social structure of their inferential articulation in the game of giving and asking for reasons.
+
+Because we have different collateral beliefs[^ex], keeping track of this is what we have to do with de re specifications. Pragmatists shouldn't be hostile to the idea of representation (though they should be skeptical of how much semantic juice can be squeezed out of the concept).
+
+[^ex]: E.g. us vs the shaman, the defense attorney vs the prosecutor.
+
+Price will make a distinction between I-representations (internal to a practice) and E-representations (those external to it, stand above it). He says what Brandom is talking about here is called "I-representation". Price is a global anti-representationlist about E-representation. 
+
+# Hegel’s version of social pragmatism about the normative
+
+Things that can talk, concepts, stories, etc. have histories. 
+
+What we are in ourselves (the Kantian thing-in-itself talk) is one thing, but what we are *for* ourselves is more important (think of this as a black-box notion). We are essentially self-conscious creatures: what we are in ourselves depends on what we are for ourselves. Such creatures are subject to a distinct type of self-creative change. (this doesn't mean they become what they think they are, but you can't understand what the human being *is* without understanding what they are for themselves - their self story is an essential part of who they are).
+
+What we are in ourselves is our normative status. What we are for ourselves is our normative attitudes.
+
+The form of this retrospective understanding of historical beings as having histories rather than natures is Hegelian recollection. (turning the past into a history).
+
+The Basic Kantian Normative Status: To *respect the dignity* of others as free beings in this normative sense is to attribute to them the authority to commit themselves, to make themselves responsible by taking themselves to be responsible.
+
+Hegel agrees but thinks normative status are the product of normative attitudes. His radical idea is that that attitude of respect or recognition by others is as constitutive of the status as the subject’s own commitment-instituting attitudes are. Kant just took it as a fact I can make myself responsible all on my own.
+
+I don't have the authority to commitment to commit myself independent of others having the authority to hold me accountable for what I commit myself to.  All normative statuses are a product of *reciprocal recognition*. Otherwise, as Wittgenstein puts it in his [Private language argument](/docs/phil/Private language argument.html):
+
+> One would like to say: whatever is going to seem right to me is right. And that only means that here we can’t talk about ‘right’.
+
+Consider the status of being a good chess player. The question is what am I committing myself to by saying "I want to be a good chess player". First, who do *I* identify as a good chess player? They are going to determine whether or not I have succeeded. (I could make it easy on myself, e.g. anyone who can play a legal game. But if I recognize only grandmasters as good, then it's up to them for "I am a good chess player" to not be merely an *attitude* but to be a *status*.) The meaning of my words is not *entirely* up to me. This is the model for which we should understand being a normative subject at all.
+
+They way our attitudes institute norms that can genuinely bind us is by telling a retrospective story about a sequence of our attitudes that is progressive. E.g. legal concepts in Anglo-American case law. There isn't an explicit governing statute. All there is is precedent. All that I can use to justify my decision as a judge is decisions previous judges have made. Whether my decision was correct or not is decided by judges to come, whether or not they recognize my ruling. They have the authority to judge whether my decision fits into their historical narrative. This is reciprocal recognition spread over time. This is "judge-made law" but that doesn't mean it is arbitrary/irrational.
+
+This how we understand what we're talking about: it sets a normative standard that we're obliged to. It's what emerges as the governing norm (of the correctness of my claims). It gets its authority by telling one of these retrospective narratives.
+
+>Hegel understands the social fine-structure of normativity as *communities* synthesized by *reciprocal recognition*. He understands the historical fine-structure of normativity as traditions retrospectively synthesized by *recollection*. Along both dimensions norms precipitate out of, are instituted by, attitudes. That is the attitude-dependence of normative statuses that is the principal discovery of modernity.
+
+Alienation is losing our grip on the intelligibility of norms as genuinely binding on us, as a result of overcoming fetishism and understanding them as instituted by our attitudes. Alienation in this sense is what Rorty’s pragmatism both endorses in theory and adopts in practice. Rorty deliberately chooses the Romantic and Hegelian term “irony” for the sort of private detachment from the commitments that govern our public life that he recommends and esteems. To have authority or be responsible just _is_ to be practically taken or treated _as_ authoritative or held responsible by the community.[^tw]  There is not and cannot intelligibly be anything _else_ that is authoritative over our practices and practical attitudes.  That is what Rorty means by anti-authoritarianism.
+
+[^tw]:  The serious thought “The truth is whatever your community will let you get away with.”

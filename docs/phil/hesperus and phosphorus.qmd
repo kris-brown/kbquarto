@@ -17,8 +17,8 @@ listing:
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Frege%27s_puzzles)
 
-These are puzzles posed by [Frege](/docs/phil/Gottlob Frege.html). They are addressed
-by making a [distinction between sense and reference](/docs/phil/Sense vs reference.html).
+These are puzzles posed by [Frege](/docs/phil/people/Gottlob Frege.html). They are addressed
+by making a [distinction between sense and reference](/docs/phil/interaction/Sense vs reference.html).
 
 # First puzzle 
 
@@ -30,7 +30,7 @@ namely, Venus. Consider the two sentences:
 2. Hesperus is Phosphorus.
 
 The first is just a matter of *a priori* logic, whereas the second is a nontrivial empirical truth. However, given the existing 
-[semantics](/docs/phil/Semantics.html) (attributed to [Mill](/docs/phil/John Stuart Mill.html)), names have no meaning beyond their reference, meaning the second sentence *means* "Venus is Venus".
+[semantics](/docs/phil/Semantics.html) (attributed to [Mill](/docs/phil/people/John Stuart Mill.html)), names have no meaning beyond their reference, meaning the second sentence *means* "Venus is Venus".
 
 # Second puzzle 
 

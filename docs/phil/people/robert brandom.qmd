@@ -1,0 +1,54 @@
+---
+title: Robert Brandom
+aliases: [Brandom]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/robert brandom.yml
+---
+
+An American philosopher, born in 1950. 
+
+![Brandom](/images/headshots/brandom.jpg)
+
+## Links 
+[Academic website](www.pitt.edu/~rbrandom)
+
+## Lectures
+- Antirepresentationalism (2020)
+- Wilfrid Sellars (2009) (2019)
+
+## Slogans
+### Concepts
+> It's not about our grip on concepts[^1]; it's about the concept's grip on us.
+
+[^1]: this characterizes the pre-Kantian tradition
+
+### On Kant and Hegel
+> One cannot open the door enough for Kant to get through while being able to 
+slam it shut before Hegel gets through. (Hegel was too interesting of a reader
+of Kant)
+
+### Sapience
+> It's not what's between your ears, it's what's between you and your peers.
+
+## Relation to Rorty and MacDowell
+During Rorty's antiauthoritarianism lectures, Brandom, Rorty, and MacDowell came to an understanding of their relative positions. All agreed on a diagnosis of a gap between mind and world, separating subjects and objects, excavated by twin bads "representation" and "experience". Rorty thought both were irredeemable and put a fence 200 yards back from the chasm. Brandom saw "representation" as salvagable and can be reconstructed pragmatically (though "experience" not so much), so the fence was only 100 yards back. MacDowell is careful to use both experience and representation in a way that doesn't fall into the abyss: he has no fence but, like a mountain goat, surefootedly walks the edge. Rorty and Brandom felt this is a special skill of MacDowell's: kids, don't try this at home.
+
+## Jokes
+### On Gil Harmon
+My teacher [Gil Harmon](https://en.wikipedia.org/wiki/Gilbert_Harman) 
+said you should never really read anything that was 
+written more than five years ago because, if it was important, people would 
+have written about it. My classmates thought at the time that Gil was the 
+*non plus ultra* of an ahistorical philosopher, but came to realize they were 
+wrong. He was steeped in the history of philosophy - everything he did came out 
+of his understanding of it ... it's just that he thought it started with 
+[Quine](/docs/phil/people/W.O. Quine.html). 

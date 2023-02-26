@@ -14,7 +14,7 @@ listing:
     - ../../backlinks/myth of the given.yml
 ---
 
-[Author](/docs/phil/Wilfrid Sellars.html)
+[Author](/docs/phil/people/Wilfrid Sellars.html)
 
 A (semantic) holist argument against meaning-givenness, like Quines' [Myth of the Museum](/docs/phil/Myth of the Museum.html) against sense-givenness.
 

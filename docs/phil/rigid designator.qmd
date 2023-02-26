@@ -5,7 +5,7 @@ tags:
  - STUB
 ---
 
-[Saul Kripke](/docs/phil/Saul Kripke.html)'s theory of the meaning of names (from [Naming and Necessity](/docs/phil/Naming and Necessity.html)) 
+[Saul Kripke](/docs/phil/people/Saul Kripke.html)'s theory of the meaning of names (from [Naming and Necessity](/docs/phil/works/Naming and Necessity.html)) 
 that is alternative to [descriptivism](/docs/phil/Descriptivism.html):
 
 A name refers to the *same* object in all possible worlds in which that object exists, and the name never refers to anything else. 

@@ -1,0 +1,12 @@
+---
+title: Rorty on James on truth
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> James' point, however, was that there is nothing to be said: truth is not the sort of thing which has an essence. More specifically, his point was that it is no use being told that truth is "correspondence to reality." Given a language and a view of what the world is like, one can, to be sure, pair off bits of the language with bits of what one takes the to be in such a way that the sentences one believes true have internal structures isomorphic to relations between things the world. When we rap out routine undeliberated reports like "This is water", "That's red", "That's ugly", "That's moral", our short categorical sentences can easily be thought as pictures, or as symbols which fit together to make a map. Such reports do indeed pair little bits of language with little bits of the world. Once one gets to negative universal hypotheticals, and the like, such pairing will become messy and ad hoc, but perhaps it can be done. James' point was that carrying this exercise will not enlighten us about why truths are good to believe, or offer any clues as to why or whether our present view of the world is, roughly, the one we should hold. Yet nobody would have asked for a "theory" of truth if they had not wanted answers to these latter questions. Those who want truth to have an essence want knowledge, or rationality, inquiry, or the relation between thought and its object, to have an essence. Further, they want to be able to use their knowledge of such essences to criticize views they take to be false, and point the direction of progress toward the discovery of more truths. James' thinks these hopes are vain.
+
+ — [Pragmatism, Relativism, and Irrationalism](/docs/phil/works/Pragmatism, Relativism, and Irrationalism.html)
+ 

@@ -1,0 +1,11 @@
+---
+title: Opposition to content and correspondence
+tags:
+- quote
+---
+
+> The view I’m challenging can be thought of as a loosely articulated combination of two fundamental assumptions about language and thought. The first assumption (call it the content assumption) is that language is a medium for encoding and passing around sentence-sized packets of factual information – the contents of beliefs and assertions. The second assumption (the correspondence assumption) is that these packets of information are all ‘about’ some aspect of the external world, in much the same way.
+> ...
+> My proposal rests on pulling the two assumptions apart, on regarding them as having quite different theoretical allegiances, the content assumption with i-representation and the correspondence assumption with e-representation.
+
+— [Two Expressivist Programmes, Two Bifurcations](/docs/phil/Two Expressivist Programmes, Two Bifurcations.html), 40

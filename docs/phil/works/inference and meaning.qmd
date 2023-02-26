@@ -1,0 +1,18 @@
+---
+title: Inference and Meaning
+tags: 
+ - work
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/inference and meaning.yml
+---
+
+[Author](/docs/phil/people/Wilfrid Sellars.html)
+
+[-@sellars1953inference]

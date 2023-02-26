@@ -1,0 +1,13 @@
+---
+title: A difference between Blackburn and Brandom
+tags:
+- quote
+---
+
+> Where Blackburn’s expressivist sees a variety of superficially assertoric language games, differently related to various functions and psychological states, Brandom seems to require a single practice of making commitments, offering entitlements, giving and asking for reasons
+> ...
+> It is easy to see how this doctrine seems to conflict with Brandom’s inferentialist account of what an assertion is. If to be an assertion is nothing more or less than to be a certain kind of move in the game of giving and asking for reasons – and if we agree with Blackburn and Sellars that even nondescriptive claims can properly partake in the realm of reason – then it follows, contrary to HEX’s intentions, that moral and modal assertion are strict, fullblooded, cardcarrying assertions, in the only sense the inferentialist allows to matter. BEX thus seems in tension with one of the fundamental assumptions of HEX
+> ...
+> Both forms of expressivism are better for making the effort to find a compromise. Concerning the first point, I shall argue that Brandom’s view about the centrality of assertion is entirely compatible with an underlying pluralism, of the sort that HEX requires; and that Brandom, too, is actually committed to such a pluralism. Concerning the second, I shall offer HEX two options, either of which preserves what is most distinctive about HEX (namely, its Positive Thesis); and one of which preserves a form of the Bifurcation Thesis, too. Concerning the third, I shall argue that Brandom’s comparative tolerance of metaphysics is actually superficial, and that BEX benefits significantly from the clarification of its goals that flows from recognizing that it, too, is engaged in the vocabulary focussed explanatory project which HEX has embraced more explicitly.
+
+— [Expressivism for Two Voices](/docs/phil/Expressivism for Two Voices.html), 8-11

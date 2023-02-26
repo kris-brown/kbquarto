@@ -1,0 +1,21 @@
+---
+title: Pragmatism as denying some distinctions
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/pragmatism as denying some distinctions.yml
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> So a second characterization of pragmatism might go like this: there is no epistemological difference between truth about what ought to be and truth about what is, nor any metaphysical difference between facts and values, nor any methodological difference between morality and science.
+
+
+ — [Pragmatism, Relativism, and Irrationalism](/docs/phil/works/Pragmatism, Relativism, and Irrationalism.html)

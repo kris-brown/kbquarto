@@ -1,0 +1,37 @@
+---
+title: Pragmatism and Nietzsche
+tags:
+ - quote 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/pragmatism and nietzsche.yml
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+
+> I think that pragmatism's attack on the various structure-content distinctions that buttress the realist's notion of objectivity can best be seen as an attempt to let us think of truth Nietzschean way.
+>
+> ...
+>
+> That is why I think we need to say, despite Putnam, that "there is only the dialogue," only us, and to throw out the last residues of the notion of "trans-cultural rationality."
+>
+> But this should not lead us to repudiate, as Nietzsche sometimes did, the elements in our movable host which embody the ideas of Socratic conversation, Christian fellowship, and Enlightenment science.
+>
+> Nietzsche ran together his diagnosis of philosophical realism[^re] as an expression of fear and resentment with his own resentful idiosyncratic idealizations of silence, solitude, and violence. PostNietzschean thinkers like Adorno and Heidegger and Foucault have run together Nietzsche's criticisms of the metaphysical tradition on the one hand with his criticisms of bourgeois civility, of Christian love, and of the nineteenth century's hope that science would make the world a better place to live, on the other.
+> 
+> I do not think there is any interesting connection between these two sets of criticisms. Pragmatism seems to me, as I have said, a philosophy of solidarity rather than of despair.
+>
+> From this point of view, Socrates's turn away from the gods, Christianity's turn from an Omnipotent Creator to the man who suffered on the Cross, and the Baconian turn from science as contemplation of eternal truth to science as instrument of social progress, can be seen as so many preparations for the act of social faith that is suggested by a Nietzschean view of [truth](/docs/phil/Truth.html).
+
+— [Solidarity or Objectivity](/docs/phil/works/Solidarity or Objectivity.html)
+
+- Rorty is separating what he finds to be the good strand of Nietzsche from the bad.
+
+[^re]: He means [representationalism](/docs/phil/Representationalism.html) here

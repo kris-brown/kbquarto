@@ -1,0 +1,11 @@
+---
+title: Theoria and phronesis
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> Traditional, Platonic, epistemologically-centered philosophy is the search for such procedures. It is the search for a way in which one can avoid the need for conversation and deliberation and simply tick off the way things are....by confronting an object and responding to it as programmed. This urge to substitute *theoria* for *phronesis*...
+
+ — [Pragmatism, Relativism, and Irrationalism](/docs/phil/works/Pragmatism, Relativism, and Irrationalism.html)

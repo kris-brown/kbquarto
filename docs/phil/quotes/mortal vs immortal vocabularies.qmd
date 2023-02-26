@@ -1,0 +1,14 @@
+---
+title: Mortal vs immortal vocabularies
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> The opposition between mortal vocabularies and immortal propositions is reflected in the opposition between the inconclusive comparison and contrast of vocabularies (with everybody trying to *aufheben*[^1] everyone else's way of putting everything) characteristic of the literary culture, and rigorous argumentation-the procedure characteristic of mathematics, what Kuhn calls "normal" science, and the law (at least in the lower courts).
+
+— [Consequences of Pragmatism](/docs/phil/works/Consequences of Pragmatism.html), Introduction
+
+
+[^1]: abolish

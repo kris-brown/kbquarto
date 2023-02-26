@@ -1,0 +1,45 @@
+---
+title: David Hume
+aliases: [Hume]
+tags: 
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/david hume.yml
+---
+
+A Scottish philosopher (1711-1776).
+
+![](/images/headshots/hume.jpeg)
+
+
+# Hume's predicament
+Even our best understanding of actual observable empirical facts doesn't yield 
+an understanding of [rules](/docs/phil/Rules.html) relating or otherwise governing them.
+
+We can get the facts, but not these non-logical, non-relations of ideas (inferential relations among them).
+
+This as an epistemological point: how do we know such statements can be justified? But it's also a semantic point: given what you can *mean*, on Hume's account of impressions and ideas, there's nothing you could mean other than constant conjunction, when talking about a non-logical relation among these things.
+
+The facts don't settle which of the things that actually happened *had to happen*, nor which of the things that didn't happen *were still possible*, i.e. not ruled out by laws concerning what did happen.
+
+So, Hume (and [Quine](/docs/phil/people/W.O. Quine.html)) took it that epistemologically (but mostly semantically) fastidious philosophers faced a stark choice, either:
+
+- show how to explain what's expressed by [modal](/docs/phil/Modality.html) vocabulary in non-modal terms
+- learn to live without it: Show how you can do what you need to do without talk 
+about laws and possibility and necessity and so on.
+
+Hume saw that there was nothing that you could be labeling (or in his sense, 
+describing) by these statements of laws. This is why Hume woke [Immanuel Kant](/docs/phil/people/Immanuel Kant.html) from his dogmatic slumbers.
+
+This stems from a kind of [semantic nominalism](/docs/phil/Semantic nominalism.html) that drew sharp lines around what you couldn't describe. Hume understood saying/thinking something *as* describing something. It falls out of this that saying how things might have been (or how things had to be) isn't describing 
+anything. These are the consequences of a theory of description (in the narrow sense) and a descriptivist theory of language. Kant looks at Newton's physics and determines that these conclusions are wrong, so there must be some non-descriptive thing we can do.
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/hume/)

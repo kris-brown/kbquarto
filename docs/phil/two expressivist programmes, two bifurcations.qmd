@@ -1,0 +1,16 @@
+---
+title: Two Expressivist Programmes, Two Bifurcations
+tags: 
+ - work
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/two expressivist programmes, two bifurcations.yml
+---
+
+[Author](/docs/phil/people/Huw Price.html)

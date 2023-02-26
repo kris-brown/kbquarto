@@ -1,0 +1,10 @@
+---
+title: Peirce on genuine belief
+tags:
+ - quote 
+---
+[[Cheryl Misak|Author]
+
+> Peirce’s point is that a genuine belief—one that is aimed at truth—is such that it resigns in the face of recalcitrant experience or in the knowledge that it was put into place by a method that did not take experience seriously.
+
+— [American Pragmatism and Indispensability Arguments](/docs/phil/works/American Pragmatism and Indispensability Arguments.html)

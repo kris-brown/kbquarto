@@ -1,0 +1,17 @@
+---
+title: Sense vs reference
+tags:  
+  - distinction
+  - STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/sense vs reference.yml
+---
+
+The distinction between sense and reference is attributed to [Frege](/docs/phil/people/Gottlob Frege.html).

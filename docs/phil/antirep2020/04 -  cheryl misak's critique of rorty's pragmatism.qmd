@@ -1,0 +1,119 @@
+---
+title: 04 - Cheryl Misak's Critique of Rorty's Pragmatism
+aliases: [rorty04]
+tags:  
+- lecture
+- STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/04 -  cheryl misak's critique of rorty's pragmatism.yml
+---
+
+[Author](/docs/phil/people/Robert Brandom.html) [Prev](/docs/phil/antirep2020/03 - Rorty Finds His Pragmatist Voice.html) [Next](/docs/phil/antirep2020/05 - Rorty's Literary Turn.html)
+
+# [Cheryl Misak](/docs/phil/people/Cheryl Misak.html)'s reconstruction of the pragmatist tradition
+
+Kuklick's “Who Owns Pragmatism?” discusses three contesting subdisciplines:
+-   Historians of philosophy, in Philosophy departments,
+-   Americanists, in American Studies departments[^jb]
+-   Intellectual historians, in History departments.
+
+[^jb]: Pragmatism is as interesting to them as jazz or baseball is.
+
+ Field vs discipline: the former is unified by the objects addressed, the latter by the methods used to address them.
+Kuklick describes Misak as the jewel in the crown of the scholars of American philosophy.[^cp]
+
+
+[^cp]: Thinking of her book *Cambridge Pragmatism: From Peirce and James to Ramsey and Wittgenstein* (2016).
+
+Misak had three transformative ideas:
+ 1. Distinguishing two substantially different strands of American Pragmatism
+ 2. Adding Cambridge Pragmatism (principally Ramsey and Wittgenstein)
+ 3. Seeing analytic philosophy of '50s (Quine, Goodman, Sellars) as the result of synthesizing Vienna Circle empiricism+naturalism with pragmatist ideas from C. I. Lewis.
+
+She also is unrelentingly critical of Rorty.
+
+## Recasting the history of American Pragmatism
+
+
+Prior to Misak, the [Eclipse view of pragmatism](/docs/phil/quotes/Eclipse view of pragmatism.html) was dominant. She thinks most of that story is wrong.
+- Chauncy Wright provided the original intellectual impetus (the [Socrates](/docs/phil/Socrates.html) to Peirce's [Plato](/docs/phil/people/Plato.html)).
+- Pierce -> C.I. Lewis very distinct from James -> Dewey -> Rorty.
+	- One way to view this distinction is the affinity for formal logic. However, Rorty was logically competent despite [not liking it](/docs/phil/people/Richard Rorty.html#Remark (in conversation)).
+	- Another is the interest in art/literature alongside natural science, which had a special role in the Pierce strain.
+	- Misak views Pierce's strain as progressive, while the other is regressive.
+- Rorty only succeeded in giving pragmatism a bad name.
+
+Brandom suggests the two branches could be thought of as "tough minded" and "tender minded". (James' terminology). Ramberg makes the distinction of "problem solving"/perennial philosophers (employing the current vocabulary) in contrast with "problem dissolving" / semantic historicist philosophers (redescribing the current vocabulary). The two can also be seen as reflecting the conflict between Enlightenment and Romantic traditions.
+
+None of Misak's analytic philosopher pragmatists were willing to call themselves pragmatists, which Brandom argues is a point in favor of the Eclipse narrative. 
+
+# Classical American Pragmatism, Natural Science, and a Second Enlightenment
+## A second Enlightenment
+A negative view of classical American pragmatism:
+ - Theoretically derivative, politically inconsequential
+ - Echoed British Utilitarianism - tried to apply its "crass shopkeeper's sensibility which sees everything in terms of profit / loss / 'What's in it for me?'" to the *theoretical* now, instead of the practical. 
+ - Rationality appeared as *instrumental intelligence* - capacity to get one wants - that's why truth is what works.
+ - As bad as utilitarianism is, at least it eventually developed into rational choice theory / game theory, of use to the social sciences. Not much of lasting value has come from the pragmatist tradition.
+
+Alternate viewpoint, pragmatism as the second Enlightenment:
+- reason was the sovereign force in human life
+- this reason should be understood in the context of the late 19th century (Darwinian / statistical thermo), which had very science from the Newtonian science of the first Enlightenment.
+- Newtonian explanations required to show why what *actually* happened *had to* happen that way.
+- By contrast, Darwinian/statistical explanations can show why what actually happened was *probable*.
+
+## Two models of Nature and Science
+
+Pierce saw a structure common to evolution and learning. Even the laws of physics emerged as "habits" from selection processes emerging from chaos. 
+
+Pierce doesn't worry about epistemic fallibilism (maybe we have the laws wrong) - after all the laws may change themselves (ontological fallibilism / mutabilism). Nature is fluid, stochastic, and its regularities were themselves contingent.
+
+Newtonian science was a matter of *theories*, but by the middle of the 19th century through technology (the practical arm of science), science had practical successes that justified its theoretical insight. Technology *embodies* understanding. So pragmatists saught to situate knowing *that* (some claim is true) in the larger field of knowing *how* (to do something). From *anatomy* to *physiology* (from *structure* to *function*).
+
+Like the first Englightenment, pragmatists were both naturalist (ontologically) and empiricist (epistemologically). The old empiricism thought the unit of experience was self-contained events/epsiodes. *Erlebnis* in contrast to experience as Hegel thought it, *Erfahrung*. For pragmatists, the Test-Operate-Test-Exit cycle[^tote] is the unit. Experience is not the *input* to learning - it *is* the process of learning. Experience in the sense of "Job requires 3 years experience". 
+
+What are the upshots? The first Enlightenment opened a chasm between mind and world, whereas pragmatists see the same structure of order coming out of chaos (by selected habits) everywhere along the continuum of being: molecular configurations, temporarily stable forms of organic matter, temporarily adaptive habits of creatures, untutored common sense of knowers, to the abstract knowledge of natural science. The empiricism and naturalism here fit together far better than in the neokantian tradition.
+
+For the first time, the rational practices embodying the paradigmatic sort of reason exercised by scientists understanding natural processes become visible as continuous with, and intelligible in just the same terms as, the physical processes paradigmatic of what is understood. 
+
+## Pragmatism and romanticism
+
+The above ideas echo themes of romantic criticisms of the first enlightenment: rejection of passive / spectator theories of knowledge, abstract principle hollow unless rooted in concrete practice, universality rejected as a hallmark of understanding.
+
+However, pragmatism did not recoil from reason like Romanticism did; it's just that their version of reason is flexible and adaptable rather than the mastery of universal principles. Romanticism had almost no direct influence, rather pragmatists thought they were making friendly amendments to existing ideas.
+
+
+[^tote]: Perception, action, and then further perception of the results of the action.
+
+# Rortyan critique of objectivity
+
+Crucial is Kant's [Reasons vs causes](/docs/phil/interaction/Reasons vs causes.html) distinction. Rorty does not deny we are causally in touch with the world. [Vocabularies](/docs/phil/Vocabulary.html) are part of the normative order. A certain conception of objectivity requires us to say that the world determines what is the best vocabulary for us. Rorty's opponents are committed to ontologically/metaphysically privileged vocabularies (e.g. Nature's own vocabulary).
+
+Representationalist say that some vocabularies are better due to the relations they stand in to the world that they're about. Rorty would claim we cannot understand this privileging without vocabularies of social practice (the space of reasons, the normative order).
+
+A Kantian problematic: Kant invites us to ask which features of our vocabulary are as they are because of how the world is vs how we are? This underlies Carnapian pragmatism.[^k]
+- No one thinks the world is responsible for us describing it in English/German.
+- But it can seem like the utility of simpler theories over complex theories as reflecting a feature of the world.
+- Or is the utility of mathematical vocabularies reflecting a feature of the world?
+- Or is our grammar reflecting the reality that the world truly has objects and relations among them?
+
+Rorty is suspicious about the above question. He is not saying that *nothing* should be attributed to the world we are talking about - he's rejecting the demand to apportion the responsibility at all.[^beg] He thinks it makes us ask *bad* questions (e.g. the metaphysical examples above).
+
+[^k]: Kant's solution to the problematic is much more nuanced and complex than Carnap's.
+
+[^beg]: It's already downstream of representationalism - but it's begging the question to use it to argue for representationalism.
+
+The intuition for nature's own vocabulary: there must be a distinction between [Real properties vs Cambridge properties](/docs/phil/Real properties vs Cambridge properties.html). It is Rorty's skepticism of this distinction that Misak is referring to when claiming Rorty denies objectivity.
+
+Responsibility is a **normative** notion. Social pragmatism about normativity is going to think that these facts the neokantian interrogates about apportioning responsibility to us or to what we are talking about, cannot be objective. They must be social. Perhaps not a matter of utility for us, but dependent on *something* about our activity.
+
+Likewise representation itself is a normative matter, thus adjudications of the responsibility of representations are going to be vocabulary-relative (thus we *can* speak of a Kantian bifurcation of responsibility, but the boundary is itself socially determined. The boundary between objective and subjective is itself subjective. This is different from denying anything is objective!).
+
+
+

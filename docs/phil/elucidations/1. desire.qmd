@@ -1,0 +1,100 @@
+---
+title: 1. Desire
+tags: 
+ - podcast
+ - YELLOW
+subtitle: Agnes Collard
+published: July 6, 2009
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/1. desire.yml
+---
+
+[Elucidations](/docs/phil/elucidations/Elucidations.html): [Next](/docs/phil/elucidations/2. Poetry.html)
+
+We want a theory of desire that can answer questions like: given a scenario 
+and a desire, was that desire satisfied?
+
+Notably, we are *not* asking whether a person with that desire was happy or 
+not afterwards.
+
+# Conventional wisdom
+Conventionally, desire corresponds to a desired state of the world, and 
+satisfaction is whether or not that state is obtained.
+
+A challenging scenario for this view: a man is rushing to catch a important 
+train to NYC and boards at the last 
+second, only to realize afterward that the train is heading to the wrong 
+destination. Was his desire satisfied?
+
+- **No** - eliminitivist
+  - We reject that the than man desired to get on the train to a wrong 
+    destination, because his 'true' desire involved to see the doctor in 
+    NYC, which is inconsistent with being on the wrong train.
+  - Problem:
+    - The doctor was going to tell him if his disease was curable, so what 
+      his 'true' desire is the cure, not the train to NYC. [^1]
+    - I.e. the naive eliminitivist accidentally eliminates all desires other 
+      than the desire for 'the good'.
+- **Yes** - separatist
+  - Introduce another desire to make sense of why the man is upset despite 
+    the desire being satisfied. The 'catch-this-train' desire was satisfied, 
+    but 'get to NYC' that was not satisfied.
+  - Problems
+    - This account makes the desires seem separate/atomic, but why do they 
+      seem so intimately connected to each other?
+    - If he learned just before that it was going to the wrong destination, 
+      his desire to catch the (that) train would instantly vanish.
+    - Also this makes desires in principle unconnected from what is good for us.
+
+[^1]: This can be done ad infinitum: his true desire is not the cure but rather 
+      good health, or happiness, and so on, until you reach a terminal desire
+      ("the Good").
+
+# Challenging the conventional wisdom: Desire = Object + Aim
+  When you want anything, you want more than one thing, so it's complicated to 
+  answer "did you get what you want".
+
+  - The man wanted to catch the train *and* wanted to get to NYC; those are both 
+    aspects of his *single* desire.
+
+  There is a specific side and a general side to a desire
+    - Object of desire: ("catching this train")
+    - Aim: what makes the object appealing.
+
+# Relation between desire and belief
+  Conventional wisdom holds they are both representable merely as states of 
+the world, although they have an complementary relationship:
+
+- We want to update our belief state to match the world, 
+- we want to update the world to match our belief state.
+
+This picture is incomplete. Example: feel hungry, desire food.
+
+- It can't be an accident that a bunch of seemingly related desires pop up 
+  (want a sandwich downstairs, want pasta from next door, ...)
+- It doesn't make sense that we desire things in a way that is not 
+  possible (want sandwich from Paris, from the moon)
+- Things make more sense when we break down the structure of a desire:
+  - Object: sandwich from deli downstairs, sandwich
+  - Aim: satisfy the hunger
+
+# Summary slogan: "Satisfaction as a compromise"
+
+These thoughts might inspire positive change in fields like economics, where 
+people's desires are taken to be "given in advance". 
+Their framework involves setting up a system that optimizes utility, given 
+  desires (as the fixed input data), but rather the desires are adaptive to the world / how things are achieved.
+
+Parents try don't satisfy children's desires because they don't have the 
+right desires. The desires are formed on the reflection of prior experience 
+(knowing what to want, how to achieve it).
+
+The story of the formation of the desire is required towards understanding 
+    what it means to satisfy it.

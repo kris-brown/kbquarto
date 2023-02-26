@@ -1,0 +1,27 @@
+---
+title: Hegel literary genre
+tags:
+ - quote 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/hegel literary genre.yml
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> Hegel left Kant's ideal of philosophy-as-science a shambles, but he did...create a new literary genre, a genre which exhibited the relativity of significance to choice of vocabulary, the bewildering variety of vocabularies from which we can choose, and the intrinsic instability of each.
+>...
+> Hegel's romantic description of how thought works is appropriate for post-Hegelian politics and literature and almost entirely inappropriate for science. One can respond to this difference by saying "So much the worse for Hegel," or by saying "So much the worse for science."  
+> 
+> The choice between those responses is a choice between Snow's "two cultures" (and between "analytic" and "Continental" philosophy, which are, so to speak, the public relations agencies for those two cultures).
+
+
+— [Nineteenth Century Idealism and Twentieth Century Textualism](/docs/phil/works/Nineteenth Century Idealism and Twentieth Century Textualism.html)
+
+- This is idiosyncratic: normally Hegel is thought of as synthesizing the Enlightenment and romanticism.

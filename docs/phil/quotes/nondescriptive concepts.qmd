@@ -1,0 +1,30 @@
+---
+title: Nondescriptive concepts
+tags: 
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/nondescriptive concepts.yml
+---
+
+[Author](/docs/phil/people/Wilfrid Sellars.html)
+
+> Once the tautology 'the world is described by descriptive concepts' is freed
+from the idea that the business of all non-logical[^1] concepts is to describe, the
+way is clear to an ungrudging recognition that many expressions which
+empiricists have relegated to second-class citizenship in discourse are not
+inferior, they're just different. 
+
+ —  [Counterfactuals, Dispositions, and the Causal Modalities](/docs/phil/works/Counterfactuals, Dispositions, and the Causal Modalities.html)  §79
+
+- *Descriptive* concepts are not the only kinds of concepts. There is a temptation of [empiricists](/docs/phil/Empiricism.html)  in assimilating all expressions to descriptive expressions (such that anything not intelligible as
+  descriptive is defective).
+- The negation of this is called  *[descriptivism](/docs/phil/Descriptivism.html)*.
+
+[^1]: Sellars assumes everyone has already accepted the [Tractarian](/docs/phil/quotes/Logic not representational.html) lesson that logical expressions do not describe.

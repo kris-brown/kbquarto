@@ -3,7 +3,7 @@ title: Making it Explicit
 tags: 
  - work
 ---
-[Author](/docs/phil/Robert Brandom.html)
+[Author](/docs/phil/people/Robert Brandom.html)
 
 # Preface
 - The work will show a kind of understanding/explanatory power comes from talking about language in this new way (rather than to say that one is rationally *obliged* to talk this way).

@@ -1,0 +1,21 @@
+---
+title: Private language argument
+tags: 
+ - concept
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../ejs/custom.ejs"
+  contents:
+    - ../../backlinks/private language argument.yml
+---
+
+> One would like to say: whatever is going to seem right to me is right. And that only means that here we can’t talk about ‘right’.
+
+
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/private-language)

@@ -4,7 +4,7 @@ tags:
  - concept
 ---
 
-[Sellars](/docs/phil/Wilfrid Sellars.html) interchangably calls descriptive discourse "fact-stating" discourse.
+[Sellars](/docs/phil/people/Wilfrid Sellars.html) interchangably calls descriptive discourse "fact-stating" discourse.
 
 This might be an important or central vocabulary for sentient beings, but it is a mistake to accept the ideology of *all* uses of language to be description (i.e. [Descriptivism](/docs/phil/Descriptivism.html)), dismissing others as defective / only to be understood as parasitic on the descriptive use.
 

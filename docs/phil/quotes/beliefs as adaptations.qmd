@@ -1,0 +1,24 @@
+---
+title: Beliefs as adaptations
+tags:
+ - quote
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/beliefs as adaptations.yml
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+
+> But for Davidson...  reflection on what a belief is is not "the analysis of representation." Rather, it is reflection on how a language-using organism interacts with what is going on in its neighborhood.
+Like Dewey, Davidson takes off from Darwin rather than from Descartes: from beliefs as  adaptations to the environment rather than as quasi-pictures.
+>
+>Such a theory is, instead, an account of how the marks and noises made by certain organisms hang together in a coherent pattern, one which can be fitted into our overall account of the interaction between these organisms and their environment.
+
+— [Antirepresentationalism, Ethnocentrism, and Liberalism](/docs/phil/works/Antirepresentationalism, Ethnocentrism, and Liberalism.html)

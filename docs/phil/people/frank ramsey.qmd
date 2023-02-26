@@ -1,0 +1,17 @@
+---
+title: Frank Ramsey
+tags:
+ - person
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/frank ramsey.yml
+---
+
+# External resources
+- [SEP](https://plato.stanford.edu/entries/ramsey/)

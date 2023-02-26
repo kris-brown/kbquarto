@@ -1,0 +1,21 @@
+---
+title: The Centrality of Sellars' Two-Ply Account of Observation
+aliases: [twoply]
+tags: 
+ - work
+author: Robert Brandom
+published: 2002
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/the centrality of sellars' two-ply account of observation.yml
+---
+
+[Author](/docs/phil/people/Robert Brandom.html)
+
+[-@brandom2002centrality]

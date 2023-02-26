@@ -1,0 +1,16 @@
+---
+title: Nineteenth Century Idealism and Twentieth Century Textualism
+tags:
+ - work
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/nineteenth century idealism and twentieth century textualism.yml
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)

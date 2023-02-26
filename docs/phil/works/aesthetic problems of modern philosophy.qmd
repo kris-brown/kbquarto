@@ -1,0 +1,18 @@
+---
+title: Aesthetic Problems of Modern Philosophy
+tags: 
+ - work
+published: 1965
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/aesthetic problems of modern philosophy.yml
+---
+
+[Author](/docs/phil/people/Stanley Cavell.html)
+

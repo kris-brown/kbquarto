@@ -1,0 +1,12 @@
+
+---
+title: Conceptualization as a matter of classification or of justification
+tags:
+ - quote
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> Shall we take conceptualization as a matter of classification or of justification? Sellars can say that he will give up the term concept to those who wish to endow record-changers or their protoplasmic counterparts with concepts, as long as he can have some other term to indicate what we have when we can place classifications in relation to other classifications in the way language-users do when they argue about what class a given item should fall in. Once again, Sellars falls back on saying that justification is a matter of social practice, and that everything which is not a matter of social practice is no help in understanding the justification of human knowledge, no matter how helpful it may be in understanding its acquisition.
+
+ — [Philosophy and the Mirror of Nature](/docs/phil/works/Philosophy and the Mirror of Nature.html), Chapter 4

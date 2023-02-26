@@ -15,11 +15,11 @@ listing:
 ---
 
 This is related to the problem of: suppose you follow a [rule](/docs/phil/Rules.html). You use a representation of that rule to train the next generation to follow the rule. How do we know that the same rule is being passed on? Isn't it like a game of telephone, given the ambiguity of following rules (gerrymandering problem - you have a rule in your head and punish me for lifting the glass of water, but I interpret this as punishment for lifting my arm or one of a million other
-possible explanations). [Brandom](/docs/phil/Robert Brandom.html)'s response:
+possible explanations). [Brandom](/docs/phil/people/Robert Brandom.html)'s response:
 
 Well, maybe so and maybe it a given rule isn't as stable as we think. I mean,
 it's only if it had enough coherence and enough stability, that we're here.
-(Anthropomorphic principle). And when [Wittgenstein](/docs/phil/Ludwig Wittgenstein.html) harps on this, you know, unless
+(Anthropomorphic principle). And when [Wittgenstein](/docs/phil/people/Ludwig Wittgenstein.html) harps on this, you know, unless
 as a matter of fact, we tended to go on the same way when trained the same way,
 to a remarkable extent, we wouldn't get a language game off the ground.
 

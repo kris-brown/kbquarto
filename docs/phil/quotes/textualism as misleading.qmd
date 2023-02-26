@@ -1,0 +1,30 @@
+---
+title: Textualism as misleading
+tags:
+ - quote 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/textualism as misleading.yml
+---
+
+[Author](/docs/phil/people/Richard Rorty.html)
+
+> Occasionally a great physicist or a great critic comes along and gives us a new vocabulary which enables us to do a lot of new and marvelous things. Then we may exclaim that we have now found out the true nature of matter, or poetry, or whatever. But Hegel's ghost, embodied in Kuhn's romantic philosophy of science or Bloom's philosophy of romantic poetry, reminds us that vocabularies are as mortal as men. The pragmatist reminds us that a new and useful vocabulary is just that, not a sudden unmediated vision of things or texts as they are.
+> 
+> As usual with pithy little formulae, the Derridean claim that "There is nothing outside the text" is right about what it implicitly denies and wrong about what it explicitly asserts. The only force of saying that texts do not refer to non-texts is just the old pragmatist chestnut that any specification of a referent is going to be in some vocabulary. Thus one is really comparing to descriptions of a thing rather than a description with the thing-in-itself.
+> 
+> This chestnut, in turn, is just an expanded form of Kant's slogan that "Intuitions without concepts are blind," which, in turn, was just a sophisticated restatement of Berkeley's ingenuous remark that "nothing can be like an idea except an idea."
+>
+> These are all merely misleading ways of saying that we shall not see reality plain, unmasked, naked to our gaze.
+>
+> Textualism has nothing to add to this claim except a new misleading image—the image of the world as consisting of everything written in all the vocabularies used so far.
+> ...
+> Textualism adds nothing save an extra metaphor to the romanticism of Hegel and the pragmatism of James and Nietzsche...
+
+— [Nineteenth Century Idealism and Twentieth Century Textualism](/docs/phil/works/Nineteenth Century Idealism and Twentieth Century Textualism.html)

@@ -1,0 +1,212 @@
+---
+title: 08 - Anti-Representationalism, Pragmatism, and Expressivism
+aliases: [rorty08]
+tags:  
+- lecture
+- STUB
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/08 - anti-representationalism, pragmatism, and expressivism.yml
+---
+
+[Author](/docs/phil/people/Robert Brandom.html) [Prev](/docs/phil/antirep2020/07 - Assessing Rorty's Pragmatism as Anti-Representationalism.html) [Next](/docs/phil/antirep2020/09 - Huw Price on Representationalism, Rorty, and Expressivism.html)
+
+To understand [subject naturalism](/docs/phil/Object naturalism and subjective naturalism.html), we first need to understand object-naturalism (normally just called "[naturalism](/docs/phil/Naturalism.html)").
+
+# Placement problems
+
+Frank Jackson's "location problem". The first two chapters of Oxford Locke lectures ("From Metaphysics to Ethics") are an authorative statement of this. Brandom says these lectures capture what happened to logical positivism / empiricism: a version of that for the late 20th century. Related to the [Canberra plan](/docs/phil/Canberra plan.html).
+
+What does the best natural science of our time tells us about the world. In some sense, it tells us everything. If we have a problematic vocabulary, we need to understand how it relates to what our best science tells us is out there (what does it refer to in the natural world?). 3 M's for potentially problematic vocabularies: morals, modals, mathematics. What kinds of things are "necessity"/"norms"/"numbers"? Also problematic could be intensional vocabulary (beliefs/desires), semantic vocabulary (e.g. relation of reference).
+
+David Armstrong thinks: to understand these types of talk, you have to know what are the truthmakers in that domain of discourse. Either we certify these types of talk by finding the truthmakers, or we dismiss them as not serious discourse. 
+
+E.g. for ethics, being a noncognitivist/expressivist could be a way dimissing it, but one might make it respectable by saying that, in the world, we all feel a feeling of revulsion to torturing helpless strangers which is what makes it true that it's wrong.
+
+# Subject naturalism
+A meta-philosophical idea about the relationship between philosophy and science. Let's be naturalist about the subjects doing the talking, not necessarily the things they are about.
+
+Huw identifies this with Hume, who he says gave a subject naturalist account of modality and morality (describing what we're *doing* when we say things "must be"). Brandom identifies this with the later Wittgenstein. Brandom also identifies this with the Heidegger of *Being and Time* (but that the later Heidegger rejected subject naturalism, calling the earlier work "merely anthropological").
+
+Modality not hard for *naturalists* to make sense of (natural laws are modal).
+
+## Natural numbers - a paradigm of subject naturalism
+
+Object naturalists are puzzled by what numbers actually *are* / locating them in the world of natural science.
+
+Wittgenstein asks us what do we have to *do* to be using the natural numbers. His thought was subject naturalism: if we can get clear about counting, subject naturalism says we should not worry about the metaphysics or ontology of numbers. 
+
+Philosophically we should worry about singular term usage of a distinctive kind, rather than ontology or metaphysics. If you think there's a metaphysical problem to be solved about numbers, then you might just have a bad semantic model (name-bearer relationship for singular terms).
+
+## Philosophy of math 
+Paul Benacerraf summary of 20th century phil of mathematics:
+
+- Ontological/semantic problem: what's the nature of mathematical truth? 
+- Epistemological problem: how is it we can know about these things? (e.g. how is it that proof can yield knowledge of these objects)
+
+He concluded that solutions divided in to those which were satisfying for one problem but not the other (e.g. platonism vs intuitionism).  He argues for this on the grounds that an adequate account of truth in mathematics implies the existence of abstract mathematical objects, but that such objects are epistemologically inaccessible because they are causally inert and beyond the reach of sense perception. On the other hand, an adequate epistemology of mathematics, say one that ties truth-conditions to proof in some way, precludes understanding how and why the truth-conditions have any bearing on truth.
+
+This can be resolved with recognizing abstraction as a way of coming to know something, rather than an ontological property of an object.
+
+## Abstract objects
+
+"Things" like numbers, triangularity, propositions.
+
+Nominalists have an ontology that says abstracta don't exist. 
+
+
+Philosophers use the terms ‘concrete’ and (especially) ‘abstract’ without thinking very much about what they mean. Frege tells us exactly what they mean.  Strictly, abstraction is a way of introducing new sortal terms (and so singular terms), based on the use of old ones, via equivalence relations.  
+
+**Characterizing predicates**:
+
+- come with criteria of application and consequences 
+- example: red
+
+**Sortal predictates**:
+
+- additionally with criteria of application and identity/individuation
+- The question “Is this the same K as that?” makes sense for sortals (kind terms) K.
+- example: dog
+
+Frege has the first non-psychological account of what you're doing when you abstract. This is a subject-naturalist account of our use of abstract singular terms. The alternative at the time was a kind of "anti-atttention".
+
+Abstraction is a process that introduces new sortals based on old ones, which inherit their criteria of application and individuation as transforms of the criteria of application and individuation from the old vocabulary.
+
+We introduce directions of lines, on the basis of a vocabulary of lines that includes the relational predicate “parallel to.” This method works only because that relational predicate expresses an equivalence relation: it is reflexive, symmetric, and transitive, like identity.  
+
+Abstraction treats an equivalence relation as if it were identity—but of a new kind of thing. This can be done hierarchically, thus "is abstract to" is a relative notion between vocabularies.
+
+Philosophical payoff: we no longer have the ontological problem of abstract objects. The idea of abstract objects are those objects which could *only* be introduced via abstraction. It's not obvious from the fact that I *can* introduce a term, like direction, from the use of others that this is the *only* way to introduce vocabulary talking about directions (e.g. demonstratively, descriptively).
+
+We can introduce numbers not just by counting but by the equivalence relation of bijection.
+
+==Brandom writes: To get further in mathematics, need more kinds of abstraction. Not just are the other kinds of numbers not introduced just by abstraction by equinumerosity, but broader notions of abstraction have to be considered: more ways of introducing new singular terms, predicates, functions, and so on, on the basis of old ones.  But math should be thought of as doing this: mereology does, set theory does, and the sense in which category theory is foundational might well be that it is conceptually foundational in generalizing the introduction of new terms, sortals, functions (..., but it is a way of filling in the ellipsis) on the basis of old ones.  I would dearly love to be able to explain category theory up to the Yoneda Lemma in these terms of generalizing abstraction, with abstraction thought of in terms of regimenting general ways of introducing new expressions on the basis of old ones.==
+
+Ways we may be misled by grammar:
+
+- Assuming the job of your declarative sentences is to describe
+- Assuming that the job of singular terms is to pick out objects
+
+Wittgensteinian/subject naturalist advice: if you can understand the use perfectly well but, when you apply a representationalist model you end up with ontological/epistemological problems, draw the conclusion that you need to fix your semantics: the representationalist semantic model is the problem. Wittgenstein says he can show you how "pain talk" works plainly, so the problems of [pain](https://plato.stanford.edu/entries/pain/) should not weigh heavily on your mind.
+
+Subject naturalism distinction is a redescription of the intellectual territory in a way that makes it possible to make clear sense of the transition from early to late Wittgenstein (and a transformative way to see what the pragmatist is doing).
+
+Making sense of semantic vocabulary: Early Wittgenstein said the picturing relation itself is a paradigm case for something that cannot be pictured, cannot in principle be said. This was distressing to the Vienna Circle. (Ramsey: "if you can't say it you can't whistle it either" invoking *showing* is not a help there). It wasn't until Tarski published theory of truth was Carnap relieved that semantic vocabulary could, in fact, be respectable.
+
+## Priority thesis
+The questions of the subject naturalist are conceptually prior to those of the object naturalist. The object naturalist allows as a possible answer "this discourse doesn't refer" to location problems (e.g. astrological discourse "The moon is in a bad house for you today"). From their perspective, that means there is something defective about the discourse. But the fact that they accept as a possibility that we do things with language other than describe means that they do must accept that, prior to finding the truthmakers, we must ask how does this way of talking work?
+
+Therefore asking object naturalist question (instead of the subject naturalist question) must be justified in every specific case.
+
+### Another argument for the priority thesis:
+
+The object naturalist has to say something about the reference relation between our vocabulary for talking about the world and the world itself. But the object naturalist has to locate the reference relation itself: i.e. solve the location problem for semantic vocabulary.[^lad]
+
+[^lad]: Otherwise you're in the embarrassing position Wittgenstein is at the end of the [Tractatus](/docs/phil/works/Tractatus Logico-Philosophicus.html).
+
+## Quinean challenge 
+
+The "vocabulary" vocabulary motivated for rorty by Quine's argument that you can't make a language-theory distinction.  
+
+This is not the conclusion quine drew: Quine established the holistic character of total theories (what Rorty called vocabularies) and took that to show that you couldn't scientifically study these things: meaning is not a fit topic for scientific study; we should only study reference (which is atomic, not holistic) / we should only use *extensional* notions in our semantics (i.e. in terms that only depend on reference). This is about truth, not understanding.
+
+Two ironies:
+
+1.  Davidson follow him in this regard, in pushing purely extensional semantic treatments of all expressions. That is what the result of his turning Tarski’s theory of truth on its head comes to. He does this even for propositional attitudes (his “paratactic” theory of them). But methodologically, DD is the great holist and articulator of the “space of reasons.” This is the great tension in Davidson (compare to Quine’s, which is between empiricism and naturalism, with the crunch coming over modal claims and laws of nature).
+    
+2.  Precisely on the topic of modality, extensionalism is incompatible with the [Kant-Sellars thesis](/docs/phil/Kant-Sellars thesis.html) about modality. *The result is that the extensional move is unsustainable once we take modality seriously*. Lewis thinks a Kripkean extensional semantics for modality (PW semantics) can solve this problem. But it is conceptually broken-backed, since it presupposes a notion of extensional property (modally-insulated properties) that it uses to define possible worlds.
+
+In the present context, the point is that retreating to the “purely extensional” won’t work. It goes wrong in two related ways.
+1.  Eventually, at some point, one will need to ask about the senses—give an object- naturalism account of them, too.
+    
+2.  And the purely extensional account won’t work for the reasons of (2) above.
+
+Here we can ask a **sense/reference question**: is it what we are referring to (talking about) or what we say about it that must be specifiable in naturalistic vocabulary (locatable/placeable in physicalistically specifiable world)?
+
+Seems one wants to say: just **referents**.  
+But then where are **the facts**? Are they referred to by sentences? Or expressed by them? They do not seem to be vocabulary independent (extension rather than intensions, which are “description-relative”).
+
+In any case, surely we must at some point get the senses into the naturalistic world- picture too. (Jackson talks about the “dispositions of language-users” as part of the story that will need to be told. He has in mind, though he doesn’t says so, those dispositions specified in the vocabulary of the natural sciences. For dispositions to, say, “use expressions correctly,” or “use the tilde to express negation” are not going to do for him.)  
+And that means that meanings, senses, claimables must get into even an object-naturalist story, even if they come in late in it.
+
+But that means that anyone (an object naturalist) who worries about location/placement problems will have to worry about such problems for specifically semantic facts (vocabularies).
+
+To adopt an error theory about them, to say that semantic terms don’t really refer, entails skepticism about the notion of “truth makers” or “facts.”
+
+This is in fact the conclusion Price wants to get to, after observing that semantic deflationism (not quite skepticism, but is from the point of view of object-naturalists) had been thought to strengthen the object-naturalist case by underwriting declarativism, which puts every vocabulary in the same box, which one can then, in a second step, label “description” or “representation” to yield semantic descriptivism or representationalism.
+
+### Commentary on dispositions
+Naturalist philosophers (who would shy away from talking about the properties of use of expressions or norm-talk) sometimes think once they start talking about "dispoitions" that they are speaking in a naturalistically-acceptable vocabulary. But what vocabulary are you allowed to specify the dispositions in? "He's disposed in circumstances $C$ to respond with $R$". Everything turns on what vocabulary you can specify $C$ and $R$ in. One could talk of "the disposition to use '$\neg$' to mean negation" or "the disposition to respond correctly to red things by saying 'red'". This won't be naturalistically acceptable to a naturalist, even though it's in dispositional terms. 
+
+So it's a distraction to be worrying about whether someone is using dispositional terms or not; what matters is whether one is being a naturalist in their pragmatic metavocabulary.
+
+
+# Dividing through by the naturalism
+
+Huw looks at two uses of naturalistic vocabulary: one on the side of objects represented, and another on the side of the practices that can be understood as representing/describing them (but at the cost of metaphysical puzzlement about the extravagant ranges of facts and kinds of objects one must envisage)
+
+That can be understood in more pragmatic terms, not shoe-horned in Procrustean ways into the representational model. (This is what HP means by “expressivism”—or at any rate, how he wants to adopt and co-opt the vocabulary of metaethical expressivism, as generalized by Blackburn to the “3 ‘M’s”.).
+
+> "Characterizing discursive practice in resolutely non-normative terms is hopeless: what is lost is the meaning."
+
+But Brandom wants to say that we need not use *naturalistic* vocabulary for this dissolutive purpose. We can use a language of norms implicit in social practices in order to specify the discursive practices we will give nonrepresentational accounts of. This is both “dividing through by the naturalism” in subject naturalism and object naturalism, and reuniting Price’s line of thought with pragmatism of the Rortyan sort. This is where I am going (what I have been looking for) in synthesizing the two parts of the course: Rortyan pragmatism as antirepresentationalism and Price’s subject-naturalistic global expressivism as antirepresentationalism
+
+The key is this way of:  
+
+1. understanding the role of naturalistic vocabulary in specifying subject naturalism vs. object naturalism,
+2. Understanding how to “divide through” by the choice of naturalistic vocabulary for this purpose.  
+3. Substitute a *pragmatist* vocabulary—in a sense that goes beyond just the pragmatism that is implicit in the good, indeed decisive, “subject naturalism” thought to the pragmatism of **social pragmatism about normativity** and the insight into the **normative character of discursive practice** (that meaning is a normative concept, that the pragmatics in terms of which we understand semantics is normative, and so is the semantics, whether we understand it representationally—representation as a normative concept—or in a deflationary pragmatist way (*truth* and *reference* as normative concepts, or to be understood in terms of norms governing their use).
+
+Naturalism that includes the products of our social interactions is a different, wider notion of naturalism. MacDowell calls this second nature (rather than bald naturalism).
+
+We used to think of philosophers as translating statements from the problematic vocabulary to the preferred vocabulary. But an important distinction to make is whether it's enough to describe what the speakers are *doing* in the preferred vocabulary vs describe what they're talking *about* in the preferred vocabulary. This preferred vocabulary for *doings* need not be the same as the preferred vocabulary for *contents*.
+
+# Semantic deflationism
+Huw calls it  "Semantic minimalism".[^now]  Semantic deflationism gave Huw a grip on placement problems.
+
+Historical background: Ramsey and Quine call it disquotationalism. This becomes Strawson's "redundancy theory". Horwich called it minimalism, which is where Huw got the name.
+
+[^now]: However, that is *now* used for the view that denies truth conditions (Travis' radical contextualism) or assigning minimal, invariant truth conditions and relegating everything else to “pragmatics”.
+
+Q: Why is semantic vocabulary of special significance in assessing the relationship between object and subject naturalism?
+
+A: The rarest and most precious thing in philosophy is when you can find a way to do some detailed, close to the ground work on a topic, where there are independent criteria of adequacy on an account, and leverage your results into an argument concerning some large and important philosophical topic.
+
+Examples of the above: Kantians like Korsgaard and Habermas using detailed arguments from the philosophy of action and the philosophy of language (respectively) to draw significant conclusions in moral and political theory.
+
+## Prosentential theory of truth
+Pronouns have a lazy use: "Leibniz was smart and *he* was cool"
+But they also have quantificational uses: "Anyone who votes for X deserves what *he* gets."
+
+This is true also of pro-sentences. "Everything the policeman said is true" is a quantificational use (Quine's example). For Brandom, "is true" is a prosentence-forming operator. Also "refers" for him is a pronoun-forming operator. See Brandom's *Reference Explained Away*.
+
+If you say "is true" is not a predicate any more than "it" is a thing/kind of thing (i.e. you no longer misconstrue the grammar of 'true'), that precludes you from certain kinds of explanationatory uses of 'true' (you can't make sense of sentence meanings via truth conditions, i.e. truth-conditional semantics - you need a notion of content ... see the explanatory priority of material implications over logical implication). When you understand the expressive role of locutions like "true" and "refers" you see why they're not suitable to do explanatory role in semantics. However, they play a crucial expresive role, you can say things you cannot say any other way. 
+
+
+Some people argued for *object* naturalism by appealing to semantic deflationism.[^yt] Huw argues that semantic deflationism counts the other way.
+1. It is itself an exercise in subject naturalism. Instead of saying what the truthmaking relation of truth claim is in natural terms, it explains  how we use this expression. (if you use nonsemantic vocabulary, you can extend that to add notions like 'truth' and 'reference')
+2. It blocks a move that says "these claims you're making in the problematic discourse, they're truth evaluable, so it makes sense to ask what the truthmakers are". Quine talks about semantic ascent ("snow is white" => "'snow is white' is true") and how it adds nothing semantically to what was there already. One can also say semantic descent works the same way.
+
+[^yt]: e.g. [Simon Blackburn](/docs/phil/people/Simon Blackburn.html) using it to argue against Rorty https://www.youtube.com/watch?v=KekgLOAejwM
+
+Brandom thinks the argument is good against saying that S.D. => O.N., but not that S.D. => S.N. Price and Brandom agree that semantic deflationism does not make the representationalist move cheap, easy, or trivial.
+
+Deflationism can be used to argue for declarativism: the commitment to use a uniform semantic model for all declarative sentences (it is a way all declaratives can be put in one bucket).  What Huw realizes is that this does not entail descriptivism (representationalism): the commitment to that semantic model being that of fact-stating, describing (or more generally, representing) how things actually, objectively are. Brandom's issue with Huw is whether he has not rushed from that insight (declarativism, a consequence of semantic deflationism, does not entail descriptivism) to conclude that (properly) rejecting descriptivism as *always* the semantic model to use means rejecting the idea that that it is ever an appropriate semantic model to use.
+
+Brandom thinks that inferentialist semantic alternative to representationalism is much more important than semantic minimalism in making pragmatism-as-subject-naturalism work. 
+
+But Brandom's Kantian-Sellarsian pragmatic metalinguistic version of local expressivism remains at odds with his *global* antirepresentationalism. Huw does not want to reintroduce representational locutions in respectable pragmatist terms so as to have a bifurcation of descriptive and nondescriptive vocabularies. That is because he wants to be nondescriptivist about crucial parts of physics—which is descriptive-representational on just about anybody’s way of dividing up vocabularies.
+
+
+This is pointing out that if you think that reference-representation is an objective relation that one can study scientifically-objectively-naturalistically, because one is not a semantic deflationist and is an object naturalist, about semantic vocabulary as about all others, and one sees (correctly) that one cannot, as an object naturalist, have an *error theory* about semantic vocabulary (that is, take it not to represent anything, and so to be in principle defective discourse, to be discarded or explained away), because doing so undercuts one’s object naturalism (which depends on reference-representation relations referring to or representing something) then you are committed to there being a relation that ‘refers’ (‘represents’) stands in to relations of reference and representation that is the *same* relation that ‘Fido’ stands in to Fido (Fodor’s ‘horses’ to horses).
+
+This is a complex, self-referential claim. But Price sees (correctly) that it is absolutely essential to object-naturalism, that is, to applying the descriptive- representational semantic model *universally*. And his claim is *not* that this idea is unintelligible. Rather, he follows Putnam (in his stuff on “internal” and “external” realism) in claiming not that there is no such relation, but that there are, at least in principle, too *many*. The demand for a relation that stands to ‘refers’ as Fido stands to ‘Fido’ is not only i) too weak to pick out a unique relation of reference-representation, but ii) too weak sufficiently to constrain relations so as to pick out only relations that are plausibly or colorably *reference or representation* relations. Recall that there are infinite number of respects of similarity between the relations between names and what they are names of and relations between ‘refers’ and *absolutely anything*. Here Putnam imagines someone holding up an uninterpreted sign labeled ‘refers’, to mediate between words and things, and when asked to interpret it, holds up another sign labeled ‘causes’ (“in the right way”).
+
+# Finale
+Goal of course: synthesize Rorty’s pragmatism with Price’s global expressivism by seeing the key insight into Wittgensteinian pragmatism as subject naturalism without a scientistic restriction on the dissolving metavocabulary in which one specifies (and demystifies) discursive practice.

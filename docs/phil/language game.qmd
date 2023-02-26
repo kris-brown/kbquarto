@@ -13,9 +13,9 @@ listing:
     - ../../backlinks/language game.yml
 ---
 
-A [Wittgensteinian](/docs/phil/Ludwig Wittgenstein.html) term for a way of talking. 
+A [Wittgensteinian](/docs/phil/people/Ludwig Wittgenstein.html) term for a way of talking. 
 
-See this [quote](/docs/phil/Language game terminology.html).
+See this [quote](/docs/phil/quotes/Language game terminology.html).
 
 # Related concepts
 - [vocabulary](/docs/phil/Vocabulary.html).

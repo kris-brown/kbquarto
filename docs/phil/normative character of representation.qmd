@@ -21,6 +21,6 @@ What is represented has an *authority* over what is representing.
 
 See the [Shopping list](/docs/phil/Shopping list.html) example.
 
-An idea introduced by [Kant](/docs/phil/Immanuel Kant.html) and explicitly developed by [Hegel](/docs/phil/Georg Wilhelm Friedrich Hegel.html). 
+An idea introduced by [Kant](/docs/phil/people/Immanuel Kant.html) and explicitly developed by [Hegel](/docs/phil/people/Georg Wilhelm Friedrich Hegel.html). 
 
-Applied by [Rorty](/docs/phil/Richard Rorty.html) to argue for [pragmatism](/docs/phil/Pragmatism.html).
+Applied by [Rorty](/docs/phil/people/Richard Rorty.html) to argue for [pragmatism](/docs/phil/Pragmatism.html).

@@ -19,21 +19,21 @@ Two broad conceptions
 1. Truth as "correspondence with reality"
 2. Truth as "what is best in the way of belief"
 
-The former is a modern, representationalist rendering of [Aristotle](/docs/phil/Aristotle.html)'s "saying of what is, that it is, and of what is not, that it is not". The latter is associated with [James](/docs/phil/William James.html) and Rorty sees no conflict between the two (because the former is a [platitude](/docs/phil/Truth not interesting.html)). 
+The former is a modern, representationalist rendering of [Aristotle](/docs/phil/people/Aristotle.html)'s "saying of what is, that it is, and of what is not, that it is not". The latter is associated with [James](/docs/phil/people/William James.html) and Rorty sees no conflict between the two (because the former is a [platitude](/docs/phil/quotes/Truth not interesting.html)). 
 
-Pragmatists see philosophy's lack of success in convincingly finding a non-platitudinous way of making sense of the first conception, and thus we should move on and [change the subject](/docs/phil/Changing the subject.html). They deny truth has an [essence](/docs/phil/Pragmatism as anti-essentialism.html).[^ec]
+Pragmatists see philosophy's lack of success in convincingly finding a non-platitudinous way of making sense of the first conception, and thus we should move on and [change the subject](/docs/phil/quotes/Changing the subject.html). They deny truth has an [essence](/docs/phil/quotes/Pragmatism as anti-essentialism.html).[^ec]
 
 [^ec]: This is why Rorty says calling something true is paying it an empty compliment.
 
 With [Declarativism](/docs/phil/Declarativism.html) about truth,[^dec] the latter has consequences that statements in all vocabularies are true *in the very same sense* as OED statements can be. They are *no less true* than true scientific claims.
 
-[^dec]: I.e. there are not different [kinds of truth](/docs/phil/Pragmatism denying different kinds of truths.html)
+[^dec]: I.e. there are not different [kinds of truth](/docs/phil/quotes/Pragmatism denying different kinds of truths.html)
 
 # Truth vs assertability
 
 Rather than truth being a property of statements, it is better to think of the pragmatics of calling something truth as *you* taking a normative stance towards it - you are *doing* something (endorsing) that is not describing. This is [expressivism](/docs/phil/Expressivism.html) about truth. This is giving an expressivst reading to "best" in the second conception of truth.
 
-However, we have an intuition that one *means* something different by saying that "$\phi$ is true" and "I endorse $\phi$". One is justified in asserting the first statement iff one is justified in asserting the second. Rorty encourages us to [get over this intuition](/docs/phil/Bad realist intuitions.html), but Brandom believes it can be salvaged while still adhering to pragmatist scruples.
+However, we have an intuition that one *means* something different by saying that "$\phi$ is true" and "I endorse $\phi$". One is justified in asserting the first statement iff one is justified in asserting the second. Rorty encourages us to [get over this intuition](/docs/phil/quotes/Bad realist intuitions.html), but Brandom believes it can be salvaged while still adhering to pragmatist scruples.
 
 - "Jones believes $\phi$"
 	-  Pragmatically, we are attributing commitment: "Jones is committed to $\phi$, e.g. can be asked for justification $\phi$ and use it as a premise of other claims."

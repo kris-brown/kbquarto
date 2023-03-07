@@ -10,48 +10,56 @@ published: 1958
 [Author](/docs/phil/people/Stanley Cavell.html)
 
 
-- Main question: does what we ordinarily say/mean have a direct+deep control 
-  over what we can philosophically say/mean?
-- Goal: respond to objections to the methodology of 'ordinary language 
-  philosophy' (by Mates)
-- Distinguish 3 kinds of statements about ordinary language
-  - 1. Statements which produce instances of what is said in a language
+Cavell defends "ordinary language philosophy", which holds that what we ordinarily say/mean can have a direct+deep control over what we can philosophically say/mean.
+  
+Mates' has reversations about the entire methodology of ordinary language philosophy.
+
+Cavell distinguishes three kinds of statements about ordinary language:
+
+1. Statements which produce instances of what is said in a language
     - "We do say ... but we don't say ..."
     - "We ask whether ... but we don't ask whether ..."
-  - 2. Like above, but with explications
+2. Like above, but with explications
     - "When we say ..., we imply/suggest/say ..."
     - "We don't say ... unless we mean ..."
-  - 3. Generalizations, tested by reference to the first two types
-- Working example: disagreement between Austin and Ryle
-  - 1. Austin: "We say 'The gift was made voluntarily' " (type 1)
-  - 2. Ryle: "It makes sense... to ask whether a boy was responsible for 
+3. Generalizations, tested by reference to the first two types
+
+ Working example: disagreement between [John Langshaw Austin](/docs/phil/people/John Langshaw Austin.html) and [Gilbert Ryle](/docs/phil/people/Gilbert Ryle.html)
+  - Austin: "We say: 'The gift was made voluntarily.' " (type 1)
+  - Ryle: "It makes sense... to ask whether a boy was responsible for 
     breaking a window, but not whether he was responsible for finishing his 
-    homework in  good time" (type 1)
-  - 3. Ryle: "'voluntary'/'involuntary' are applied as adjectives to actions 
-    which ought not be done" (type 3)
-    - Praise of Ryle's generalization:
-      - Philosophical use of "voluntary" is distinct/disconnected from "volition"
-      - People think confusedly as if everything is either appropriately 
-        described as voluntary or involuntary
-    - Criticism of Ryle's generalization:
-      - Saying there must be something morally fishy about the action that is 
-        described as voluntary is not general enough.
-    - However, the fact Ryle's attempt to generalize has errors does not 
-      invalidate his methodology (that he can make type 1 and type 2 statements 
-      about ordinary language).
-- Philosophical problem that arises from type 2 statements
+    homework in good time." (type 1)
+  - Ryle: "In their most ordinary employment, 'voluntary'/'involuntary' are applied as adjectives to actions which ought not be done" (type 3)
+
+We have here Ryle's generalization and Austin's counter-example, which Mates brings up to suggest the methods of natural language philosophy are bad (i.e. that Ryle did not have *evidence* for the generalization). Cavell claims this only shows that Ryle was too quick to accept a generalization.[^gen] 
+
+[^gen]:  Cavell praises Ryle's insight, but says Ryle went too far by saying there must be something *morally* fishy for an action to be describable as 'voluntary'. Leaving it just at "fishy" seems like a good generalization to Cavell. Fishy captures cases where "making the gift is in some way unusual (instead of the usual Christmas bottle, you give the neighborhood policeman a check for $1000), or extraordinary (you leave your heirs penniless and bequeath your house to your cat), or untoward (you give your rocking horse to your new friend, but the next morning you cry to have it back)."
+
+Mates claims Type 1 statements cannot be made by philosophers without evidence (e.g. polls). However, these philosophers are native English speakers: such speakers do not *in general* need evidence for what is said in English (they are the source of such evidence: a natural language is that which native speakers of that language speak). 
+
+Mates worries Type 1 statements, without polls as evidence, require some reliance of memory, which Cavell denies: "a normal person may forget and remember certain words in his native language, but (assuming he has used it continuously) he does not remember the *language*."
+
+Ryle: "we raise questions of responsibility only when someone is charged with an offence". (Type 2 statement)
+
+# Relation between what we explicitly say and what we mean
+
+Philosophical problem that arises from type 2 statements:
   - "We say A where B is the case ... we misuse A when B is not the case" - is 
-    there a logical relation between A and B?
+    there a *logical* relation between A and B?
   - Logical statements hold between statements, not between a statement and the 
     world.
-  - So call the meaning of A its semantics and the pratical conditions of its 
-    utterance its pragmatics
-    - "Voluntary" does not mean "fishy"
-    - Mates' formula for computing pragmatic value of an expression: "He 
-      wouldn't say that unless he ..."
-  - But surely there must be something logical, since something about B must 
-    follow from the utterance of A!
-  - The speaker "MUST MEAN" something is fishy if they call it voluntarily (the 
-    must is more critical here than the 'mean')
-  - Mates' formula does not seem to give insight into the necessity here.
--
+  - So call the meaning of A its *semantics* and the pratical conditions of its 
+    utterance its *pragmatics*.
+
+"Voluntary" does not *mean* "fishy". But if someone says that I dress this way voluntarily, they must mean that I dress peculiarly.[^muss] Options are:
+
+[^muss]: Mates' formula for computing pragmatic value of an expression: "He wouldn't say that unless he ...", but this does not seem to give insight into the necessity of the 'must' here.
+
+1. Deny there is any rational (logical, grammatical) constraint over the "pragmatic implications" of what we say. Or a step further: deny there *are* any *implications*: the relation in question is not deductive, so it's not possible to be wrong / mean something other than what I say unless I flatly contradict myself.
+2. (a) Since all necessity is logical, "pragmatic implications" are (quasi-)logical implications. Possibly add (b): Since "pragmatic implications" cannot be construed in terms of deductive (or inductive) logic, there must be some other kind of logic. Or (c) Some necessity is not logical.
+
+Cavell frames Mates as taking option 1, while ordinary language philosophers adhere to some form of option 2. He acknowledges this is a fundamental sort of forking point that is hard to argue over from some common ground. Cavell wants to deny under most circumstances the relevance of a semantics / pragmatics distinction.
+
+Learning what the pragmatic implications are is a part of learning the language, no less a part than learning its syntax. Therefore we are responsible for the implications of what we say as much as we are for explicit factual claims.
+
+Cavell takes issue with Mates saying "Perhaps it is true that ordinarily I wouldn't say 'I know it' unless I felt great confidence in what I was asserting." because this implies that the correct use of the word "know" is up to *me* as upposed to something determined by a language community (consider the child who asserts they know something which they are not in a position to know - we tell the child "you don't really *know*, you just *believe*").

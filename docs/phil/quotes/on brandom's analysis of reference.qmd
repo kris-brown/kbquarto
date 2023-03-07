@@ -1,3 +1,8 @@
+---
+title: On Brandom's analysis of reference
+tags:
+ - quote
+---
 
 > What Brandom actually does is not to “construe referential relations” (as having such and such a nature, for example), or to “make sense of reference” (itself ), but rather to offer us an account of the use of referential *vocabulary*: he tells us about the use of the *term* “refers”, not about the reference *relation* – about *ascriptions* of reference, not about reference itself.
 

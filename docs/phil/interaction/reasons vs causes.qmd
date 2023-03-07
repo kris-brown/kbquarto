@@ -18,3 +18,5 @@ A distinction closely related to [Sense dependence vs reference](/docs/phil/inte
 Causes are in the realm of the world of science, which is related to but distinct from the [space of reasons](/docs/phil/quotes/Space of reasons.html). 
 
 Conflating these two leads to [empiricism](/docs/phil/Empiricism.html), where the meaning of our ideas must be reduced to sense impressions (because, causally, our conceptual activity depends on them). Kant phrases this as "giving a mere physiology of the understanding".
+
+The order of causation and the order of explanation diverge in the case of the [Bee Waggle](/docs/phil/Bee Waggle.html). One wants to be able to explain the motions of the bee by invoking the dance pattern which the motions are an instance of.

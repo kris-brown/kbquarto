@@ -1,0 +1,19 @@
+---
+title: Gilbert Ryle
+tags: 
+- person 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/gilbert ryle.yml
+---
+
+An ordinary language philosopher from England.  (1900-1976)
+
+# External links 
+- [SEP](https://plato.stanford.edu/entries/ryle/)

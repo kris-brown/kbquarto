@@ -14,5 +14,5 @@ listing:
     - ../../backlinks/naturalism.yml
 ---
 
-Advanced by Huw Price's distinction of [Object naturalism and subjective naturalism](/docs/phil/Object naturalism and subjective naturalism.html).
+Advanced by Huw Price's distinction of [Object naturalism and subject naturalism](/docs/phil/Object naturalism and subject naturalism.html).
 

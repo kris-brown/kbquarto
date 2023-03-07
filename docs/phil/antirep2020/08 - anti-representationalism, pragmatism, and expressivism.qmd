@@ -17,7 +17,7 @@ listing:
 
 [Author](/docs/phil/people/Robert Brandom.html) [Prev](/docs/phil/antirep2020/07 - Assessing Rorty's Pragmatism as Anti-Representationalism.html) [Next](/docs/phil/antirep2020/09 - Huw Price on Representationalism, Rorty, and Expressivism.html)
 
-To understand [subject naturalism](/docs/phil/Object naturalism and subjective naturalism.html), we first need to understand object-naturalism (normally just called "[naturalism](/docs/phil/Naturalism.html)").
+To understand [subject naturalism](/docs/phil/Object naturalism and subject naturalism.html), we first need to understand object-naturalism (normally just called "[naturalism](/docs/phil/Naturalism.html)").
 
 # Placement problems
 

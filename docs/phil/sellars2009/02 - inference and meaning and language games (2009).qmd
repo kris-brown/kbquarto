@@ -116,7 +116,7 @@ logic: materially good inferences.
   material proprieties of reasoning. You can still give/ask for reasons and mean 
   that $p$, but what the logic does is give you meta-linguistic control to talk 
   about what is a good inference and say that $p \vdash q$ is a good 
-  inference.[^1]
+  inference.[^inf]
 - Example: $A\vdash B$ where $A$ is "she asked me to hand her the dish towel" 
   and $B$ is "I shall hand her the dish towel". Traditional analytic philosophy 
   will call this an infamy, since it does not explicitly state how her request 
@@ -152,7 +152,7 @@ logic: materially good inferences.
   Their relation is characterized by the say/convey distinction.
 
 
-[^1]: However, Sellars doesn't extrapolate from this that logic is an *optional* 
+[^inf]: However, Sellars doesn't extrapolate from this that logic is an *optional* 
 superstructure in our lives - we need to be able to think and talk about the 
 goodness of inferences.
 

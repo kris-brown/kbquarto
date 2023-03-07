@@ -16,3 +16,17 @@ listing:
 ---
 
 [Author](/docs/phil/people/Robert Brandom.html) [Prev](/docs/phil/antirep2020/08 - Anti-Representationalism, Pragmatism, and Expressivism.html) [Next](/docs/phil/antirep2020/10 - Simon Blackburn on Expressivism and Pragmatism.html)
+
+## Generalizing [subject naturalism](/docs/phil/Object naturalism and subject naturalism.html) 
+
+The pragmatic metavocabulary one uses for this purpose need not be naturalistic. One might looks to use a *normative* metavocabulary, which specifies (not necessarily “describes”) how it is proper or correct to use expressions.
+
+This would be a **one**-sorted normative vocabulary, using evaluations of correct/incorrect, justified/unjustified, or proper/improper. That is what assertibility theories, as in [Dewey](/docs/phil/people/John Dewey.html), [Sellars](/docs/phil/people/Wilfrid Sellars.html), or [Dummett](/docs/phil/people/Michael Dummett.html) do.
+
+Or one might use the **two**-sorted normative vocabulary of commitment and entitlement (to commitments), or of responsibility and authority. [Brandom](/docs/phil/people/Robert Brandom.html) argues in [Making it Explicit](/docs/phil/Making it Explicit.html) that such a two-sorted normative pragmatic metavocabulary is much more expressively powerful than the one-sorted variety. [^st]
+
+[^st]: In A Spirit of Trust Brandom reads Hegel as deploying such a two-sorted normative pragmatic metavocabulary, using the terms “independence” and “dependence” for authority and responsibility. 
+
+In all these cases, one can follow what Brandom takes to be the [Rortyan](/docs/phil/people/Richard Rorty.html) social pragmatist approach to normativity, which understands normative statuses (such as commitment and entitlement, responsibility and authority) as social statuses. One is then using a pragmatic metavocabulary to specify the implicitly normative social practices that confer semantic content on expressions and performances that play suitable functional roles in those practices.
+
+(23 min in)

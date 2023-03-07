@@ -6,25 +6,38 @@ date: 10/24/2022
 draft: false
 ---
 
-Many arguments are about how we ought to use language. This is more substantive 
-than might seem at first: what language we use has a huge impact on our thoughts
+# Context 
+I was in a situation where someone was using the word 'Truth' in a particular 
+sense (call it ${\rm Truth}^*$) that seemed bad to me because, when combined with 
+other things one typically says about 'Truth', it caused big problems. I eventually 
+learned this person had thought hard about ${\rm Truth}^*$ and was 
+amazingly adept at avoiding the pitfalls I'd been worried about. Nevertheless,
+I wanted to argue that there are 
+very few people who (even if given special training) could use ${\rm Truth}^*$ 
+in this way that avoided these pitfalls, and for that reason I didn't find it an 
+appealing thing to call 'Truth'. This post aims to clarify that sentiment.
+
+# Pros and cons of new concepts
+Many arguments are about how we ought to use language.[^ex] This is more substantive 
+than the wordplay it might seem like at first: what language we use has a huge impact on our thoughts
 and dispositions.
 
 | Change in our vocabulary | Potential positive effect | Potential negative effect | 
-|---|---|---|
+|--------------------------|---------------------------|---------------------------|
 | A new general programming language | Despite the fact that any program can theoretically be written in any language, a new language can make some style of programming much more easy and natural. | Certain ways of shooting yourself in the foot are also potentially enabled via a new language. | 
 | Having the *word* "externality" in your vocabulary | This can be a powerful tool towards genuinely having less naively individualistic political/social beliefs. | This concept could also be used in the service of eroding any personal freedom (even inalienable ones) by considering its indirect effects. | 
 | Having the expression "sunk-cost fallacy" | You become more enabled to drop something, despite having invested some time/effort into it. | You more easily can justify being flakey, noncommittal, a quitter, etc. | 
 | Having a concept of I.Q. | One might be able make some new, predictive correlations in the social sciences. | One is also tempted by the name to use it as a standard of 'intelligence' (as the word is used in ordinary contexts). |
 | Gaining knowledge of formal logic, which has symbolic expressions like "$\forall x, \exists y, P(x,y)$" (for all ${x{\rm's}}$ there exists a $y$ such that $x$ and $y$ are related in some way, $P$) | One very precisely pick out certain arrangements of sets (called *models*). For example, we might say $P$ represents "parent" and that $x$ and $y$ are quantified over people, such that the expression rigorously says "Everyone has a parent". | Just like with intelligence, the naming of the symbols evokes some sort of connection to everyday language (e.g."for all", "exists"), and it's easy to be tempted into thinking our everyday talk must be translatable into logic or else it is meaningless. |
 
+# Acknowledging the existence of power users
 The positive and negative effects of a new vocabulary are **not** uniform among 
 everyone. Some people may be 'power users' of the vocabulary, reaping all the 
 benefits of the new concept without incurring any of the costs, and vice-versa. 
 
 The effects are also not uniform among circumstances.
-In the context of the philosophy seminar room where people tend to take extra 
-caution about the consequences of what they say, but the the same people 
+In the context of the philosophy seminar room, people tend to take extra 
+caution about the consequences of what they say. The same people 
 could then fall into traps when deploying the same concepts at home.
 
 When we argue about how to shape our language in 
@@ -32,3 +45,8 @@ order to get some benefit, it's often left unstated about for which language
 speakers we are talking about (and under which circumstances). I think sometimes 
 this is relevant to the argument at hand, and the argument can be defused once 
 this is made explicit. 
+
+[^ex]: Is "reverse racism" a coherent concept? What is the boundary between an 
+       "insurrection" and a "protest"? Many topics 
+       adjacent to sex and gender. The notion of fetal personhood.
+       [Positive and negative](https://plato.stanford.edu/entries/liberty-positive-negative/) senses of 'freedom'.

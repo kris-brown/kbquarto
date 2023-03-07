@@ -1,3 +1,8 @@
+---
+title: Humean expressivism
+tags:
+- concept
+---
 
 **The Negative Thesis**. This tells us what the vocabulary in question is not doing: e.g., that it is not descriptive, not belief expressing, not fact stating, not truth evaluable, or not cognitive.  
 

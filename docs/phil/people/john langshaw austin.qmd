@@ -1,0 +1,19 @@
+---
+title: John Langshaw Austin
+tags:
+ - person 
+
+listing:
+  id: backlinks
+  type: table
+  page-size: 100000
+  filter-ui: true
+  template: "../../../ejs/custom.ejs"
+  contents:
+    - ../../../backlinks/john langshaw austin.yml
+---
+
+An English philosopher (1911–1960).
+
+# External links
+- [SEP](https://plato.stanford.edu/entries/austin-jl/)
